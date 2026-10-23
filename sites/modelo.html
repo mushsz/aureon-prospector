@@ -1,0 +1,616 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Leads · Sites</title>
+<script>try{document.documentElement.dataset.tema=localStorage.getItem("leads-tema")||(matchMedia("(prefers-color-scheme: light)").matches?"claro":"escuro")}catch(e){document.documentElement.dataset.tema="escuro"}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<style>
+:root{color-scheme:dark;--bg:#0E0E0D;--surface:#171715;--surface2:#1F1E1B;--line:#2B2925;--line2:#3A3731;--text:#F3F0E9;--muted:#A19C92;--soft:#7A756C;--accent:#C9A45C;--accent-text:#D8B56E;--on-accent:#15130E;--hot:#EF8C60;--hot-bg:rgba(239,140,96,.13);--warm:#D8B56E;--warm-bg:rgba(201,164,92,.14);--cold:#8D96A1;--cold-bg:rgba(141,150,161,.13);--ok:#74C47C;--ok-bg:rgba(116,196,124,.13);--sombra:none}
+:root[data-tema=claro]{color-scheme:light;--bg:#F4F4F1;--surface:#FFFFFF;--surface2:#EFEEEA;--line:#E2DFD8;--line2:#CDC9C0;--text:#1C1B18;--muted:#5F5B53;--soft:#8A857B;--accent:#C9A45C;--accent-text:#80601C;--on-accent:#1C1B18;--hot:#B04B19;--hot-bg:rgba(176,75,25,.09);--warm:#80601C;--warm-bg:rgba(201,164,92,.17);--cold:#55606C;--cold-bg:rgba(85,96,108,.09);--ok:#2A7A43;--ok-bg:rgba(42,122,67,.1);--sombra:0 1px 2px rgba(28,27,24,.06)}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 "DM Sans",system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+a{color:var(--accent-text)}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:8px}
+.num{font-variant-numeric:tabular-nums}
+[hidden]{display:none!important}
+
+/* barra do topo: troca de lista e tema */
+.topo-app{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line)}
+@supports (backdrop-filter:blur(1px)){.topo-app{background:color-mix(in srgb,var(--bg) 86%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}}
+.topo-app .in{max-width:960px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:10px}
+.logo{font-size:12px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent-text);white-space:nowrap;margin-right:auto}
+.trocar{display:flex;background:var(--surface2);border:1px solid var(--line);border-radius:999px;padding:3px}
+.trocar a{padding:7px 16px;border-radius:999px;text-decoration:none;color:var(--muted);font-weight:600;font-size:14px;white-space:nowrap;text-align:center}
+.trocar a:hover:not([aria-current]){color:var(--text)}
+.trocar a[aria-current=page]{background:var(--accent);color:var(--on-accent)}
+.tema{flex:none;width:40px;height:40px;border-radius:50%;border:1px solid var(--line);background:var(--surface);display:grid;place-items:center;cursor:pointer}
+.tema svg{width:18px;height:18px}
+.tema .lua,[data-tema=claro] .tema .sol{display:none}
+[data-tema=claro] .tema .lua{display:block}
+
+main{max-width:960px;margin:0 auto;padding:22px 16px 72px}
+.titulo h1{font-size:clamp(22px,4vw,28px);font-weight:700;letter-spacing:-.015em;line-height:1.15;margin:0}
+.titulo p{margin:4px 0 0;color:var(--muted);font-size:14px}
+
+/* quem assina */
+.assina{margin:16px 0;background:var(--warm-bg);border:1px solid var(--accent);border-radius:14px;padding:14px}
+.assina p{margin:0 0 10px;font-size:14px;font-weight:500}
+.assina form{display:grid;grid-template-columns:1fr 1fr auto;gap:8px;align-items:end}
+.assina label{display:grid;gap:4px;font-size:12px;color:var(--muted)}
+.assinado{display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-size:14px;color:var(--muted);margin:12px 0 16px}
+.assinado b{color:var(--text);font-weight:600}
+.campo{width:100%;min-height:42px;background:var(--surface);border:1px solid var(--line2);border-radius:10px;padding:9px 12px}
+textarea.campo{min-height:180px;resize:vertical;line-height:1.5;background:var(--bg)}
+.link{background:none;border:0;padding:4px;color:var(--accent-text);font-weight:600;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+
+/* números do topo */
+.numeros{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:0 0 16px}
+.numeros div{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 12px;box-shadow:var(--sombra)}
+.numeros b{display:block;font-size:20px;font-weight:700;line-height:1.15}
+.numeros span{font-size:12px;color:var(--muted)}
+
+/* abas */
+.abas{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;background:var(--surface2);border:1px solid var(--line);border-radius:12px;padding:4px;margin:0 0 14px}
+.abas button{border:0;background:none;border-radius:9px;padding:9px 8px;font-weight:600;font-size:14px;color:var(--muted);cursor:pointer;white-space:nowrap}
+.abas button[aria-selected=true]{background:var(--surface);color:var(--text);box-shadow:var(--sombra)}
+.abas .q{color:var(--soft);font-weight:500;margin-left:6px}
+.intro{color:var(--muted);font-size:14px;margin:0 0 14px;max-width:72ch}
+
+/* ferramentas: vistas, atalhos e filtros */
+.ferramentas{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:0 0 12px}
+.vista{display:flex;gap:3px;background:var(--surface2);border:1px solid var(--line);border-radius:11px;padding:3px}
+.vista button{border:0;background:none;border-radius:8px;padding:7px 12px;font-weight:600;font-size:14px;color:var(--muted);cursor:pointer;white-space:nowrap}
+.vista button[aria-pressed=true]{background:var(--surface);color:var(--text);box-shadow:var(--sombra)}
+.chip-f{border:1px solid var(--line2);background:var(--surface);border-radius:999px;padding:7px 12px;font-size:14px;font-weight:500;cursor:pointer;white-space:nowrap}
+.chip-f[aria-pressed=true]{border-color:var(--accent);color:var(--accent-text);background:var(--warm-bg)}
+.filtrar{margin-left:auto}
+.filtrar .n{display:inline-grid;place-items:center;min-width:20px;height:20px;border-radius:999px;background:var(--accent);color:var(--on-accent);font-size:12px;margin-left:6px;padding:0 6px}
+.painel-f{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px;margin:0 0 12px;box-shadow:var(--sombra)}
+.painel-f label{display:grid;gap:4px;font-size:12px;color:var(--muted)}
+.painel-f .fim{display:flex;gap:8px;align-items:end;flex-wrap:wrap}
+.contagem{font-size:13px;color:var(--muted);margin:0 0 10px}
+
+/* cartões */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px;box-shadow:var(--sombra);scroll-margin-top:84px;transition:opacity .2s,border-color .2s}
+.card+.card{margin-top:10px}
+.card.feito{opacity:.6}
+.card.feito .c-nome{text-decoration:line-through;text-decoration-thickness:2px;text-decoration-color:var(--soft)}
+.card.ok{border-color:var(--ok)}
+.card.destaque{border-color:var(--accent);box-shadow:0 0 0 3px var(--warm-bg)}
+.c-topo{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.c-nome{margin:0;font-size:16px;font-weight:600;line-height:1.3;overflow-wrap:anywhere}
+.selo{flex:none;font-size:12px;font-weight:700;padding:4px 9px;border-radius:999px;white-space:nowrap}
+.selo.quente{color:var(--hot);background:var(--hot-bg)}
+.selo.morno{color:var(--warm);background:var(--warm-bg)}
+.selo.frio{color:var(--cold);background:var(--cold-bg)}
+.c-info{margin:3px 0 10px;color:var(--muted);font-size:13px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 12px}
+.tag{font-size:12px;line-height:1.35;padding:3px 8px;border-radius:6px;background:var(--surface2);color:var(--text)}
+.tag.forte{background:var(--warm-bg);color:var(--accent-text);font-weight:600}
+.c-acoes{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.b{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:40px;padding:0 14px;border-radius:10px;border:1px solid var(--line2);background:var(--surface);font-weight:600;font-size:14px;color:var(--text);text-decoration:none;cursor:pointer;white-space:nowrap}
+.b:hover{border-color:var(--soft)}
+.b.prim{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.b.prim:hover{filter:brightness(1.06)}
+.b[aria-disabled=true]{opacity:.45;pointer-events:none}
+.b svg{width:17px;height:17px;flex:none}
+.marcas{display:flex;gap:6px;margin-left:auto}
+.marca-b{min-height:38px;padding:0 12px;border-radius:999px;border:1px dashed var(--line2);background:none;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer;white-space:nowrap}
+.marca-b[aria-pressed=true]{border-style:solid;border-color:var(--ok);color:var(--ok);background:var(--ok-bg)}
+.marca-b[aria-pressed=true]::before{content:"✓ "}
+details.mais{margin-top:12px;border-top:1px solid var(--line)}
+details.mais summary{cursor:pointer;color:var(--muted);font-size:13px;font-weight:600;padding:10px 0 2px;list-style:none;display:flex;align-items:center;gap:8px;width:max-content}
+details.mais summary::-webkit-details-marker{display:none}
+details.mais summary::before{content:"";width:6px;height:6px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(-45deg);transition:transform .15s}
+details.mais[open] summary::before{transform:rotate(45deg)}
+details.mais summary:hover{color:var(--text)}
+.det{display:grid;gap:12px;margin-top:10px;font-size:14px}
+.det p{margin:0}
+.det .rot{display:block;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--soft);margin-bottom:4px}
+.det ul{margin:0;padding-left:18px}
+.links{display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+.mostrar{display:flex;justify-content:center;margin-top:14px}
+.vazio{text-align:center;color:var(--muted);padding:40px 12px;border:1px dashed var(--line2);border-radius:14px}
+.sobre{margin-top:28px;color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:6px}
+.sobre summary{cursor:pointer;font-weight:600;padding:10px 0}
+.sobre p{margin:0 0 10px;max-width:80ch}
+
+@media (max-width:640px){
+  .topo-app .in{padding:8px 12px;gap:8px}
+  .logo{display:none}
+  .trocar{flex:1}
+  .trocar a{flex:1;padding:8px 10px}
+  main{padding:16px 12px 64px}
+  .assina form{grid-template-columns:1fr}
+  .numeros{grid-template-columns:repeat(2,1fr)}
+  .vista{flex:1 1 100%}
+  .vista button{flex:1;padding:8px 6px}
+  .filtrar{margin-left:0}
+  .c-acoes .b.prim{flex:1 1 100%;min-height:46px}
+  .marcas{margin-left:0;width:100%}
+  .marca-b{flex:1;min-height:42px}
+  .abas .longo{display:none}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+
+/* o veredito: por que compraria × o que pesa contra */
+.veredito{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.veredito div{padding:10px 12px}
+.veredito div+div{border-left:1px solid var(--line);background:var(--surface2)}
+.veredito ul{list-style:none;padding:0;font-size:13px}
+.veredito li{padding:2px 0 2px 16px;position:relative}
+.veredito li::before{position:absolute;left:0;font-weight:700}
+.veredito .sim li::before{content:"+";color:var(--ok)}
+.veredito .nao li::before{content:"–";color:var(--hot)}
+.veredito .nada{color:var(--muted);font-size:13px;margin:0}
+.situacao{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;font-size:13px;margin:-4px 0 10px;color:var(--muted)}
+.situacao b{color:var(--accent-text);font-weight:600}
+.clientes q{display:block;color:var(--muted);font-style:italic;font-size:13px;margin-top:4px}
+.tag.novo{background:var(--ok-bg);color:var(--ok);font-weight:700}
+@media (max-width:640px){.veredito{grid-template-columns:1fr}.veredito div+div{border-left:0;border-top:1px solid var(--line)}}
+</style></head><body>
+<header class="topo-app"><div class="in">
+  <span class="logo">Aureon · Leads</span>
+  <nav class="trocar" aria-label="Trocar de lista"><a href="/" data-lista="equip">Equipamentos</a><a href="/" data-lista="sites" aria-current="page">Sites</a></nav>
+  <button class="tema" id="tema" type="button"><svg class="sol" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><svg class="lua" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></svg></button>
+</div></header>
+<main>
+  <div class="titulo"><h1>Quem compraria um site</h1><p id="sub"></p><p id="sync"></p></div>
+  <section id="assina" aria-label="Quem assina as mensagens"></section>
+  <div class="numeros" id="numeros"></div>
+  <section id="painel"></section>
+  <details class="sobre"><summary>Como esta lista funciona</summary>
+    <p>Empresas do Google Maps, em Porto Alegre e região, sem site no ar ou com o site quebrado. Quem tem site funcionando fica de fora; o site de cada um foi aberto duas vezes antes de contar como quebrado. Dentistas não entram: são o público da Aureon.</p>
+    <p><b>Chance de comprar:</b> site quebrado ou do Google desativado +25, site grátis +20, rede social no lugar do site +15, avaliações até +20, dono que responde avaliações +15, serviço de valor alto +10, celular +10, 20 fotos ou mais +5, nota 4,7 ou mais +5, avaliação recente +5. Pesam contra: menos de 10 avaliações −10, nada novo há mais de um ano −15, ficha não reivindicada −10, nota abaixo de 3,8 −10, rede ou franquia −30. Quente: 70 ou mais. Morno: 50 ou mais.</p>
+    <p>As marcações são compartilhadas: quem usa este mesmo link vê o que você marca como enviado, riscado, em até 30 segundos. O Lote do dia mostra 20 leads que você ainda não tinha visto e, riscados, os que já foram enviados hoje; o que apareceu em um dia não volta no seguinte (continua em Todos). Mande poucas mensagens por dia, uma por vez.</p>
+  </details>
+</main>
+<script>
+const D = {{DADOS}};
+const PREFIXO = "sites-";
+/* um link só: o endereço é sempre "/". O cookie lista_equip diz ao servidor qual lista entregar; a escolha também fica
+   no navegador (o Safari apaga cookie de página em 7 dias). ?lista=equip ou ?lista=sites vêm dos endereços antigos. */
+const MINHA = PREFIXO === "hosp-" ? "equip" : "sites";
+const definirLista = lista => {
+  document.cookie = `lista_equip=${lista === "equip" ? "1" : ""}; path=/; max-age=${lista === "equip" ? 31536000 : 0}; samesite=lax`;
+  try { localStorage.setItem("leads-lista", lista); } catch (e) {}
+};
+(function escolherLista() {
+  const pedida = (location.search.match(/[?&]lista=(equip|sites)\b/) || [])[1];
+  let guardada = null, tentou = false;
+  try { guardada = localStorage.getItem("leads-lista"); tentou = sessionStorage.getItem("leads-tentou") === "1"; } catch (e) {}
+  const quer = pedida || guardada || MINHA;
+  if (pedida) definirLista(pedida);
+  if (quer !== MINHA && !tentou) {
+    // esta página não é a que a pessoa quer: pede a outra ao servidor e não faz mais nada aqui (nem grava marcas)
+    try { sessionStorage.setItem("leads-tentou", "1"); } catch (e) {}
+    definirLista(quer);
+    location.replace("/" + location.hash);
+    throw new Error("abrindo a outra lista");
+  }
+  if (location.search) history.replaceState(null, "", "/" + location.hash);
+})();
+/* ---------- base comum às duas listas (equipamentos e sites) ---------- */
+const guardar = (k, v) => { try { v == null ? localStorage.removeItem(PREFIXO + k) : localStorage.setItem(PREFIXO + k, v); } catch (e) {} };
+const lerG = k => { try { return localStorage.getItem(PREFIXO + k); } catch (e) { return null; } };
+/* ---------- marcas compartilhadas ----------
+   Enviado, Respondeu, o dia em que o lead apareceu no lote e as marcas das licitações ficam na Netlify (/api/marcas):
+   quem divide a lista vê as mesmas marcas. O navegador guarda uma cópia, para abrir rápido e para não perder nada sem conexão. */
+const LISTA = PREFIXO.slice(0, -1), API = "/api/marcas";
+const TIPOS_MARCA = ["enviado", "respondeu", "participar", "proposta", "contato", "cadastro", "visto"];
+const M = {};                                  // "tipo:id" -> "1" (no "visto", o dia: AAAA-MM-DD)
+let fila = [];                                 // o que ainda não chegou na Netlify
+let sincronizado = false, semConexao = false, jaSincronizou = !!lerG("sincronizou");   // em memória: com o localStorage bloqueado, o gravado não vale
+const hojeISO = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; };
+let diaRender = hojeISO();
+(function lerCopiaLocal() {
+  try {
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (!k || !k.startsWith(PREFIXO)) continue;
+      const m = k.slice(PREFIXO.length).match(/^(\w+):(.+)$/);
+      if (m && TIPOS_MARCA.includes(m[1])) M[m[1] + ":" + m[2]] = localStorage.getItem(k);
+    }
+    fila = JSON.parse(localStorage.getItem(PREFIXO + "fila") || "[]");
+  } catch (e) {}
+})();
+const marcado = (tipo, id) => !!M[`${tipo}:${id}`];
+const diaVisto = id => M[`visto:${id}`] || null;
+const salvarFila = () => guardar("fila", fila.length ? JSON.stringify(fila) : null);
+function marcar(tipo, id, sim, dia) {
+  const k = `${tipo}:${id}`, valor = tipo === "visto" ? dia : "1";
+  if (sim) M[k] = valor; else delete M[k];
+  guardar(k, sim ? valor : null);
+  fila.push(tipo === "visto" ? { op: "set", tipo, id, dia } : { op: sim ? "set" : "del", tipo, id });
+  salvarFila(); enviarFila();
+}
+const limiteTempo = ms => (typeof AbortSignal !== "undefined" && AbortSignal.timeout) ? AbortSignal.timeout(ms) : undefined;
+// uma conversa com a Netlify por vez, para uma resposta atrasada não desfazer uma marca recém-feita
+let corrente = Promise.resolve();
+const serial = fn => { const p = corrente.then(fn, fn); corrente = p.catch(() => {}); return p; };
+async function enviarAgora() {
+  while (fila.length) {
+    const parte = fila.slice(0, 50);
+    try {
+      const r = await fetch(API, { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ lista: LISTA, ops: parte }), signal: limiteTempo(10000) });
+      if (!r.ok && r.status !== 400) throw new Error(r.status);   // 400: nenhuma operação do pacote vale; descartar para não travar a fila
+    } catch (e) { semConexao = true; return; }
+    fila = fila.slice(parte.length); salvarFila();
+  }
+}
+const enviarFila = () => serial(enviarAgora).then(statusMarcas);
+async function sincronizarAgora() {
+  await enviarAgora();
+  let servidor;
+  try {
+    const r = await fetch(`${API}?lista=${LISTA}`, { cache: "no-store", signal: limiteTempo(10000) });
+    if (!r.ok) throw new Error(r.status);
+    servidor = (await r.json()).marcas || {};
+  } catch (e) { semConexao = true; statusMarcas(); return false; }
+  semConexao = false;
+  if (!jaSincronizou) {
+    // primeira vez deste navegador: o que ele já tinha marcado sobe para a Netlify
+    for (const [k, v] of Object.entries(M)) {
+      if (k in servidor) continue;
+      const i = k.indexOf(":"), tipo = k.slice(0, i), id = k.slice(i + 1);
+      fila.push(tipo === "visto" ? { op: "set", tipo, id, dia: v } : { op: "set", tipo, id });
+    }
+    jaSincronizou = true; guardar("sincronizou", "1"); salvarFila();
+  }
+  const visao = { ...servidor };
+  for (const o of fila) { const k = `${o.tipo}:${o.id}`; if (o.op === "set") visao[k] = o.tipo === "visto" ? o.dia : "1"; else delete visao[k]; }
+  let mudou = false;
+  for (const k of Object.keys(M)) if (!(k in visao)) { delete M[k]; guardar(k, null); mudou = true; }
+  for (const [k, v] of Object.entries(visao)) if (M[k] !== v) { M[k] = v; guardar(k, v); mudou = true; }
+  sincronizado = true;
+  await enviarAgora();
+  statusMarcas();
+  return mudou;
+}
+const sincronizar = () => serial(sincronizarAgora);
+function statusMarcas() {
+  const e = document.getElementById("sync");
+  if (!e) return;
+  e.textContent = !sincronizado && !semConexao ? "Sincronizando as marcas…"
+    : semConexao ? `Sem conexão com as marcas compartilhadas${fila.length ? ` (${fila.length} por enviar)` : ""}: elas ficam neste aparelho e sobem quando a conexão voltar.`
+    : "Marcas compartilhadas: o que você marca como enviado aparece riscado para quem usa este mesmo link.";
+}
+function repintar() {
+  document.querySelectorAll(".marca-b").forEach(b => b.pintar && b.pintar());
+  document.querySelectorAll(".card").forEach(c => c._pintar && c._pintar());
+  contar();
+}
+async function atualizarMarcas() {
+  const mudou = await sincronizar();
+  if (diaRender !== hojeISO()) { diaRender = hojeISO(); render(); }   // virou o dia com a aba aberta: o lote de hoje é outro
+  else if (mudou) repintar();
+}
+setInterval(() => { if (!document.hidden) atualizarMarcas(); }, 30000);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) atualizarMarcas(); });
+
+/* Lote do dia: os LOTE leads de maior chance que ninguém marcou como enviado e que não apareceram em um dia anterior.
+   Os achados pela busca recente (selo "novo") vêm antes dos antigos. O que aparece aqui fica marcado como visto hoje,
+   então amanhã não volta. O lote de hoje não muda ao recarregar a página. */
+const livreHoje = l => !marcado("enviado", l.id) && (!diaVisto(l.id) || diaVisto(l.id) === hojeISO());
+const restantes = lista => lista.filter(livreHoje).length;
+let loteInfo = { pendentes: 0, feitos: 0 };
+function loteDoDia(candidatos, gravar = true) {
+  const dia = candidatos.filter(livreHoje).sort((a, b) => novo(b) - novo(a) || b.pontos - a.pontos).slice(0, LOTE);
+  // antes da primeira conversa com a Netlify o lote é só uma prévia, e com filtro a pessoa só está olhando: não grava nada
+  if (gravar && (sincronizado || semConexao)) for (const l of dia) if (!diaVisto(l.id)) marcar("visto", l.id, true, hojeISO());
+  // o que já foi enviado do lote de hoje continua na lista, riscado, para quem divide a lista ver para onde já foi mensagem
+  const feitos = candidatos.filter(l => marcado("enviado", l.id) && diaVisto(l.id) === hojeISO()).sort((a, b) => b.pontos - a.pontos);
+  loteInfo = { pendentes: dia.length, feitos: feitos.length };
+  return [...dia, ...feitos];
+}
+const textoLote = (sufixo, restam) => `Lote de hoje: ${loteInfo.pendentes} ${sufixo}` + (loteInfo.feitos ? ` · ${loteInfo.feitos} já enviados hoje (riscados)` : "") + ` · ${textoRestam(restam)}`;
+const textoRestam = r => `restam ${r} na fila` + (r <= 50 ? " (a busca traz mais sozinha quando o PC estiver ligado)" : "");
+
+/* os botões "Equipamentos | Sites" guardam qual lista abrir e recarregam o mesmo endereço ("/") */
+document.querySelectorAll(".trocar a").forEach(a => a.addEventListener("click", ev => {
+  ev.preventDefault();
+  if (a.getAttribute("aria-current") === "page") return;
+  try { sessionStorage.removeItem("leads-tentou"); } catch (e) {}
+  definirLista(a.dataset.lista);
+  location.assign("/");
+}));
+const dataBR = d => d.toLocaleDateString("pt-BR", { day: "2-digit", month: "short" }).replace(".", "");
+const horaBR = d => d.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" });
+const virgula = n => String(n).replace(".", ",");
+const POR_PAGINA = 30;
+
+function el(tag, props, ...filhos) {
+  // o Google mistura ícones (caracteres de uso privado, que aparecem como □) no endereço
+  if (props && typeof props.textContent === "string") props = { ...props, textContent: props.textContent.replace(/[-]\s*/g, "") };
+  const n = Object.assign(document.createElement(tag), props);
+  n.append(...filhos.flat().filter(f => f != null && f !== false && f !== ""));
+  return n;
+}
+const ICONES = {
+  zap: '<path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.8 11.9 11.9 0 0 0 4.6 4c1.7.7 2.4.8 3.2.7.5-.1 1.5-.6 1.8-1.2.2-.6.2-1.1.1-1.2l-.4-.2Z"/>',
+  tel: '<path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2Z"/>',
+  copiar: '<g fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h8"/></g>',
+  mail: '<g fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></g>',
+  baixar: '<path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 4v11m0 0-4-4m4 4 4-4M5 20h14"/>',
+  filtro: '<path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M4 6h16M7 12h10M10 18h4"/>',
+  abrir: '<path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/>',
+};
+function icone(nome) {
+  const s = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+  s.setAttribute("viewBox", "0 0 24 24"); s.setAttribute("aria-hidden", "true"); s.innerHTML = ICONES[nome];
+  return s;
+}
+
+/* tema: o botão alterna e a escolha vale para as duas listas */
+const botaoTema = document.getElementById("tema");
+function rotuloTema() { botaoTema.setAttribute("aria-label", document.documentElement.dataset.tema === "claro" ? "Usar tema escuro" : "Usar tema claro"); }
+botaoTema.addEventListener("click", () => {
+  const novo = document.documentElement.dataset.tema === "claro" ? "escuro" : "claro";
+  document.documentElement.dataset.tema = novo;
+  try { localStorage.setItem("leads-tema", novo); } catch (e) {}
+  rotuloTema();
+});
+rotuloTema();
+
+/* quem assina: um formulário enquanto falta, uma linha depois de salvo */
+const eu = () => lerG("eu") || "", empresa = () => lerG("empresa") || "";
+const assinou = () => !!(eu() && empresa());
+let editandoAssinatura = false;
+function assinatura(exemploNome, exemploEmpresa) {
+  const caixa = document.getElementById("assina");
+  if (assinou() && !editandoAssinatura) {
+    const alterar = el("button", { type: "button", className: "link", textContent: "Alterar" });
+    alterar.addEventListener("click", () => { editandoAssinatura = true; assinatura(exemploNome, exemploEmpresa); caixa.querySelector("input").focus(); });
+    caixa.className = "assinado";
+    caixa.replaceChildren(el("span", {}, "Mensagens assinadas por ", el("b", { textContent: eu() }), ", da ", el("b", { textContent: empresa() }), "."), alterar);
+    return;
+  }
+  const iNome = el("input", { className: "campo", value: eu(), placeholder: exemploNome, autocomplete: "name", required: true });
+  const iEmpresa = el("input", { className: "campo", value: empresa(), placeholder: exemploEmpresa, autocomplete: "organization", required: true });
+  const form = el("form", {}, el("label", {}, "Seu nome", iNome), el("label", {}, "Empresa", iEmpresa),
+    el("button", { type: "submit", className: "b prim", textContent: "Salvar" }));
+  form.addEventListener("submit", e => {
+    e.preventDefault();
+    if (!iNome.value.trim() || !iEmpresa.value.trim()) return;
+    guardar("eu", iNome.value.trim()); guardar("empresa", iEmpresa.value.trim());
+    editandoAssinatura = false; assinatura(exemploNome, exemploEmpresa); render();
+  });
+  caixa.className = "assina";
+  caixa.replaceChildren(el("p", { textContent: "Antes de começar: quem assina as mensagens? Seu nome e a empresa entram em todas elas." }), form);
+}
+
+/* botões que se repetem nos cartões */
+function botaoZap(digitos, texto, celular) {
+  const a = el("a", { className: "b" + (celular ? " prim" : ""), target: "_blank", rel: "noopener", href: "https://wa.me/55" + digitos },
+    icone("zap"), celular ? "Mandar no WhatsApp" : "Tentar no WhatsApp");
+  a.addEventListener("click", e => {
+    if (a.getAttribute("aria-disabled") === "true") return e.preventDefault();
+    a.href = "https://wa.me/55" + digitos + "?text=" + encodeURIComponent(texto.value);
+  });
+  if (!assinou() || !digitos) { a.setAttribute("aria-disabled", "true"); a.title = "Preencha quem assina, lá em cima"; }
+  return a;
+}
+function botaoCopiar(texto) {
+  const b = el("button", { type: "button", className: "b" }, icone("copiar"), "Copiar");
+  b.addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(texto.value); } catch (e) { texto.select(); document.execCommand("copy"); }
+    b.lastChild.textContent = "Copiado";
+  });
+  return b;
+}
+const botaoLigar = digitos => digitos ? el("a", { className: "b", href: "tel:+55" + digitos, ariaLabel: "Ligar" }, icone("tel"), "Ligar") : null;
+function marcaBotao(rotulo, tipo, id, aoMudar) {
+  const b = el("button", { type: "button", className: "marca-b", textContent: rotulo });
+  const pintar = () => b.setAttribute("aria-pressed", marcado(tipo, id));
+  b.addEventListener("click", () => { marcar(tipo, id, !marcado(tipo, id)); pintar(); aoMudar && aoMudar(); });
+  b.pintar = pintar;
+  pintar();
+  return b;
+}
+// "SOLE MIO ENERGIA SOLAR" vira "Sole Mio Energia Solar"; nome com minúsculas fica como está
+const semCaixaAlta = n => n !== n.toUpperCase() || !/\s/.test(n) ? n
+  : n.toLowerCase().replace(/(^|[\s(/-])\S/g, c => c.toUpperCase()).replace(/\s(De|Da|Do|Das|Dos|E|Em)\s/g, m => m.toLowerCase());
+function cartao({ id, nome, selo, info, tags, acoes, marcas, resumo, detalhes }) {
+  return el("article", { className: "card", id: id ? "c-" + id : "" },
+    el("div", { className: "c-topo" }, el("h3", { className: "c-nome", textContent: semCaixaAlta(nome) }), selo ? el("span", { className: "selo " + selo[0], textContent: selo[1] }) : null),
+    el("p", { className: "c-info", textContent: info.filter(Boolean).join(" · ") }),
+    tags && tags.length ? el("div", { className: "tags" }, tags) : null,
+    el("div", { className: "c-acoes" }, acoes, marcas && marcas.length ? el("span", { className: "marcas" }, marcas) : null),
+    detalhes ? el("details", { className: "mais" }, el("summary", { textContent: resumo }), el("div", { className: "det" }, detalhes)) : null);
+}
+
+/* filtros: vistas, atalhos, painel e planilha */
+function vista(opcoes, atual, aoEscolher) {
+  return el("div", { className: "vista", role: "group" }, opcoes.map(([v, r]) => {
+    const b = el("button", { type: "button", textContent: r }); b.setAttribute("aria-pressed", v === atual);
+    b.addEventListener("click", () => aoEscolher(v)); return b;
+  }));
+}
+function chipFiltro(rotulo, ligado, aoMudar) {
+  const b = el("button", { type: "button", className: "chip-f", textContent: rotulo }); b.setAttribute("aria-pressed", ligado);
+  b.addEventListener("click", () => aoMudar(!ligado)); return b;
+}
+function seletor(rotulo, todos, valores, atual, aoMudar) {
+  const s = el("select", { className: "campo" }, el("option", { value: "", textContent: todos }), valores.map(([v, r]) => el("option", { value: v, textContent: r })));
+  s.value = atual; s.addEventListener("change", () => aoMudar(s.value));
+  return el("label", {}, rotulo, s);
+}
+let painelAberto = false, limite = POR_PAGINA;
+function botaoFiltros(ativos) {
+  const b = el("button", { type: "button", className: "chip-f filtrar" }, icone("filtro"), " Filtros", ativos ? el("span", { className: "n num", textContent: ativos }) : null);
+  b.querySelector("svg").style.cssText = "width:15px;height:15px;vertical-align:-2px";
+  b.setAttribute("aria-expanded", painelAberto);
+  b.addEventListener("click", () => { painelAberto = !painelAberto; render(); });
+  return b;
+}
+function baixarCsv(nome, linhas) {
+  if (!linhas.length) return;
+  const cab = Object.keys(linhas[0]), cel = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const csv = "﻿" + [cab.join(";"), ...linhas.map(l => cab.map(k => cel(l[k])).join(";"))].join("\r\n");
+  const a = el("a", { href: URL.createObjectURL(new Blob([csv], { type: "text/csv;charset=utf-8" })), download: `${nome}-${new Date().toISOString().slice(0, 10)}.csv` });
+  document.body.append(a); a.click(); a.remove();
+}
+const botaoCsv = (nome, linhas) => {
+  const b = el("button", { type: "button", className: "b" }, icone("baixar"), "Baixar planilha");
+  b.addEventListener("click", () => baixarCsv(nome, linhas()));
+  return b;
+};
+function lista(itens, fazer, vazio) {
+  if (!itens.length) return [el("p", { className: "vazio", textContent: vazio })];
+  const mostrados = itens.slice(0, limite).map(fazer);
+  if (itens.length <= limite) return mostrados;
+  const mais = el("button", { type: "button", className: "b", textContent: `Mostrar mais ${Math.min(POR_PAGINA, itens.length - limite)} de ${itens.length - limite}` });
+  mais.addEventListener("click", () => { limite += POR_PAGINA; render(); });
+  return [...mostrados, el("div", { className: "mostrar" }, mais)];
+}
+function numeros(pares) {
+  document.getElementById("numeros").replaceChildren(...pares.map(([v, r]) => el("div", {}, el("b", { className: "num", textContent: v }), el("span", { textContent: r }))));
+}
+// mudar filtro volta para o começo da lista
+const mudou = fn => (...a) => { fn(...a); limite = POR_PAGINA; render(); };
+
+/* nomes: 'Clínica Veterinária 24H – Vida Vet' vira 'Vida Vet' quando uma parte é só o ramo */
+function nomeCurto(nome, generico) {
+  const partes = nome.replace(/\s*\(.*?\)/g, "").split(/\s*\|\s*|\s+[-–]\s+/).map(p => p.trim()).filter(Boolean);
+  let n = partes.find(p => !generico.test(p)) || partes[0] || nome;
+  if (n === n.toUpperCase() && n.includes(" ")) n = n.toLowerCase().replace(/(^|\s)\S/g, c => c.toUpperCase()).replace(/\s(De|Da|Do|Das|Dos|E)\s/g, m => m.toLowerCase());
+  return n;
+}
+
+const LOTE = 20;
+const ATUALIZADO = new Date(D.atualizado);
+let agora = new Date();
+// novo: apareceu nos últimos 3 dias (a rodada diária acha leads todo dia)
+const diasDesde = d => d ? Math.round((new Date(agora.toDateString()) - new Date(d + "T00:00:00")) / 864e5) : Infinity;
+const novo = x => diasDesde(x.visto_em) <= 2, novoHoje = x => diasDesde(x.visto_em) === 0;
+const tagNovo = x => novo(x) ? el("span", { className: "tag novo", textContent: novoHoje(x) ? "novo hoje" : "novo" }) : null;
+const GENERICO = /^(escrit[oó]rio de |cl[ií]nica de |servi[cç]os? de |empresa de )?(advocacia|advogad[oa]s?|contabilidade|est[eé]tica|fisioterapia|psicologia|arquitetura|dedetiza[cç][aã]o|energia solar|buffet infantil)( [a-zà-ú ]+)?( em [^,]+)?$/i;
+const opcoes = campo => [...new Set(D.leads.map(l => l[campo]).filter(Boolean))].sort().map(v => [v, `${v} (${D.leads.filter(l => l[campo] === v).length})`]);
+
+/* ---------- mensagem ---------- */
+const ARTIGO_REDE = { Instagram: "o Instagram", Facebook: "o Facebook", WhatsApp: "o WhatsApp", Linktree: "um Linktree",
+  "link na bio": "um link na bio", TikTok: "o TikTok", YouTube: "o YouTube", Doctoralia: "a Doctoralia",
+  BoaConsulta: "a BoaConsulta", Booksy: "o Booksy", Trinks: "o Trinks" };
+// Só entra na mensagem palavra de elogio: o tópico pode ser o ramo ("advogados") ou o nome de alguém da equipe
+const ELOGIO = /^(atendimento|aten[cç][aã]o|confian[cç]a|compet[eê]ncia|competente|profissional(ismo)?|eficien(te|cia)|[eé]tica|honest(o|a|idade)|rapidez|agilidade|dedica[cç][aã]o|qualidade|pontualidade|limpeza|carinho|cuidado|educa[cç][aã]o|simpatia|resultados?|transpar[eê]ncia|seguran[cç]a|organiza[cç][aã]o|capricho|acabamento|prazos?|sucesso|clareza|paci[eê]ncia|respeito|empatia|acolhimento|humaniza[cç][aã]o|conhecimento|experi[eê]ncia|excel[eê]ncia|pre[cç]o justo|bom pre[cç]o|custo.benef[ií]cio|seriedade|comprometimento|responsabilidade|cordialidade|disponibilidade|solu[cç][aã]o|solu[cç][oõ]es|êxito|exito|bom gosto|criatividade|qualifica[cç][aã]o|higiene)$/i;
+function mensagem(l) {
+  let nome = nomeCurto(l.nome, GENERICO);
+  // quem atende pelo próprio nome: "Dra. Ana", "Arquiteta Cintia Nunes", "Sandro Zanini Arquiteto"
+  const PROFISSAO = "arquitet[oa]|advogad[oa]|psic[oó]log[oa]|fisioterapeuta|contador[a]?";
+  const titulo = nome.match(/^(Dra?)\.?\s+([A-ZÀ-Ú][a-zà-ú]+)/);
+  const prof = nome.match(new RegExp(`^(?:${PROFISSAO})\\s+([A-ZÀ-Ú][a-zà-ú]+)`, "i"))
+    || nome.match(new RegExp(`^([A-ZÀ-Ú][a-zà-ú]+)(?:\\s+[A-ZÀ-Ú][a-zà-ú]+){1,2}\\s+(?:${PROFISSAO})$`, "i"))
+    // psicóloga costuma pôr só o próprio nome na ficha: "Aline Santos"
+    || (l.segmento === "psicologia" && nome.match(/^([A-ZÀ-Ú][a-zà-ú]+)(?:\s+(?:de|da|do|dos|das|[A-ZÀ-Ú][a-zà-ú]+)){1,3}$/));
+  const pessoa = titulo || prof;
+  // "Daniel Flores Saccol advogados & associados" e "Fabiana Mazzotti Arquitetura" viram "escritório Daniel Flores Saccol"
+  const semRamo = nome.replace(/\s+(advogad\w*|associad\w*|advocacia|arquitetura|contabilidade|cont[aá]bil|consultoria)(\s.*)?$/i, "");
+  const escritorio = !pessoa && semRamo !== nome && /^[A-ZÀ-Ú][a-zà-ú]+(\s+(de|da|do|dos|das|e|[A-ZÀ-Ú][a-zà-ú]+)){0,4}$/.test(semRamo)
+    && ["advocacia", "contabilidade", "arquitetura e interiores"].includes(l.segmento);
+  if (escritorio) nome = `escritório ${semRamo}`;
+  const artigo = escritorio || /^(escrit[oó]rio|est[uú]dio|studio|espa[cç]o|centro|instituto|grupo|buffet|ateli[eê]|consult[oó]rio|lava|sal[aã]o)/i.test(nome) ? "do" : "da";
+  const abertura = titulo ? `Oi, ${titulo[1]}. ${titulo[2]}, tudo bem?` : prof ? `Oi, ${prof[1]}, tudo bem?` : `Oi, tudo bem? É ${artigo} ${nome}?`;
+  const siteDe = pessoa ? "o seu site" : "o site de vocês";
+  const fichaDe = pessoa ? "a sua ficha" : "a ficha de vocês", fichaNa = pessoa ? "na sua ficha" : "na ficha de vocês";
+  let obs;
+  if (l.situacao === "site quebrado") {
+    const como = /certificado/.test(l.site_quebrado) ? "o navegador avisa que ele não é seguro, porque o certificado venceu. Muita gente fecha a página nessa hora"
+      : /parado/.test(l.site_quebrado) ? "aparece uma página de domínio parado, no lugar do site" : "ele não carregou";
+    obs = `Fui abrir ${siteDe} (${l.rotulo_link}) e ${como}.`;
+  } else if (l.situacao === "site do Google desativado") {
+    obs = `O link de site que aparece ${fichaNa} do Google é de um site grátis que o próprio Google desativou em 2024: quem clica não encontra nada.`;
+  } else if (l.situacao === "site grátis") {
+    obs = `Vi que ${siteDe} está num endereço grátis (${l.rotulo_link}), sem domínio próprio.`;
+  } else if (l.situacao === "só rede social") {
+    obs = `Vi que, no lugar do site, ${fichaDe} no Google leva para ${ARTIGO_REDE[l.rotulo_link] || "uma rede social"}.`;
+  } else {
+    obs = `Vi que ${fichaDe} no Google não tem site.`;
+  }
+  const topico = (l.topicos || []).find(([t, n]) => n >= 3 && ELOGIO.test(t));
+  const elogio = l.nota >= 4.5 && l.avaliacoes >= 20
+    ? `E ${pessoa ? "você tem" : "vocês têm"} nota ${virgula(l.nota)} em ${l.avaliacoes} avaliações` + (topico ? `, com "${topico[0]}" entre as palavras que mais aparecem nelas.` : ".") + " "
+    : "";
+  return [abertura, obs + " " + elogio + `Quem procura ${l.busca} em ${l.cidade} costuma olhar o site antes de chamar.`,
+    `Meu nome é ${eu() || "[seu nome]"}, sou da ${empresa() || "[empresa]"}. Fazemos sites para ${l.plural}. Posso te mandar um exemplo de como ficaria ${pessoa ? "o seu" : "o de vocês"}?`,
+    "Se não for o momento, me avisa que não mando mais."].join("\n\n");
+}
+
+/* ---------- lista ---------- */
+const f = { vista: "lote", segmento: "", situacao: "", cidade: "", envio: "" };
+const enviado = id => marcado("enviado", id), respondeu = id => marcado("respondeu", id);
+function cartaoLead(l) {
+  const texto = el("textarea", { className: "campo", value: mensagem(l), ariaLabel: "Mensagem para " + l.nome });
+  let card;
+  const pintar = () => { card.classList.toggle("feito", enviado(l.id) && !respondeu(l.id)); card.classList.toggle("ok", respondeu(l.id)); };
+  const bEnv = marcaBotao("Enviado", "enviado", l.id, () => { pintar(); contar(); });
+  const bResp = marcaBotao("Respondeu", "respondeu", l.id, () => {
+    if (respondeu(l.id) && !enviado(l.id)) { marcar("enviado", l.id, true); bEnv.pintar(); }
+    pintar(); contar();
+  });
+  const lista = (itens, vazio) => itens.length ? el("ul", {}, itens.map(t => el("li", { textContent: t }))) : el("p", { className: "nada", textContent: vazio });
+  const topicos = (l.topicos || []).slice(0, 6);
+  card = cartao({
+    id: l.id, nome: l.nome, selo: [l.temperatura, `${l.temperatura[0].toUpperCase() + l.temperatura.slice(1)} · ${l.pontos}`],
+    info: [l.segmento, l.cidade, l.nota ? `★ ${virgula(l.nota)} (${l.avaliacoes})` : null, l.tipo_telefone],
+    tags: [tagNovo(l), el("span", { className: "tag forte", textContent: l.situacao }), ...l.a_favor.slice(0, 2).map(t => el("span", { className: "tag", textContent: t.split(":")[0] })),
+      l.atencao.length ? el("span", { className: "tag", textContent: `${l.atencao.length} ${l.atencao.length > 1 ? "pontos" : "ponto"} de atenção` }) : null],
+    acoes: [botaoZap(l.digitos, texto, l.tipo_telefone === "celular"), botaoCopiar(texto), botaoLigar(l.digitos)],
+    marcas: [bEnv, bResp],
+    resumo: "Por que compraria, mensagem e detalhes",
+    detalhes: [
+      el("p", { className: "situacao" }, el("b", { textContent: l.situacao }), l.situacao_texto.replace(/^[^:]+: /, ""),
+        l.site ? el("a", { href: l.site, target: "_blank", rel: "noopener nofollow", textContent: l.site.replace(/^https?:\/\/(www\.)?/, "").replace(/\?.*$/, "").slice(0, 50) }) : null),
+      el("div", { className: "veredito" },
+        el("div", { className: "sim" }, el("span", { className: "rot", textContent: "Por que compraria" }), lista(l.a_favor, "Nenhum sinal forte.")),
+        el("div", { className: "nao" }, el("span", { className: "rot", textContent: "O que pesa contra" }), lista(l.atencao, "Nada que chame atenção."))),
+      topicos.length || (l.destaques || []).length ? el("div", { className: "clientes" }, el("span", { className: "rot", textContent: "O que os clientes dizem" }),
+        topicos.length ? el("div", { className: "tags", style: "margin:0" }, topicos.map(([t, n]) => el("span", { className: "tag", textContent: `${t} ${n}` }))) : null,
+        (l.destaques || []).slice(0, 2).map(q => el("q", { textContent: q }))) : null,
+      texto,
+      el("p", { className: "c-info", style: "margin:0", textContent: [l.categoria, l.telefone, [l.bairro, l.cidade].filter(Boolean).join(", "), l.fotos ? `${l.fotos} fotos` : null,
+        l.responde ? "responde avaliações" : null, l.ultima_avaliacao ? `avaliação de ${l.ultima_avaliacao}` : null].filter(Boolean).join(" · ") }),
+      el("div", { className: "links" }, el("a", { href: l.maps, target: "_blank", rel: "noopener", textContent: "Ver no Google Maps" }))] });
+  card._pintar = pintar;
+  pintar();
+  return card;
+}
+
+function contar() {
+  const env = D.leads.filter(l => enviado(l.id)).length, resp = D.leads.filter(l => respondeu(l.id)).length;
+  numeros([[D.leads.filter(l => l.temperatura === "quente").length, "quentes"], [D.leads.filter(novoHoje).length, "novas hoje"],
+    [env, "mensagens enviadas"], [resp + (env ? ` · ${Math.round(100 * resp / env)}%` : ""), "responderam"]]);
+}
+function render() {
+  agora = new Date();
+  const combina = l => ["segmento", "situacao", "cidade"].every(c => !f[c] || l[c] === f[c])
+    && (!f.envio || (f.envio === "pendente" ? !enviado(l.id) : f.envio === "enviado" ? enviado(l.id) && !respondeu(l.id) : respondeu(l.id)));
+  const ls = f.vista === "lote" ? loteDoDia(D.leads.filter(combina), !["segmento", "situacao", "cidade", "envio"].some(c => f[c]))
+    : f.vista === "novos" ? D.leads.filter(l => novo(l) && combina(l)).sort((a, b) => b.pontos - a.pontos)
+    : D.leads.filter(l => combina(l) && (f.vista === "todos" || l.temperatura === "quente"));
+  const ativos = ["segmento", "situacao", "cidade", "envio"].filter(c => f[c]).length;
+  document.getElementById("painel").replaceChildren(...[
+    el("div", { className: "ferramentas" }, vista([["lote", "Lote do dia"], ["novos", "Novos"], ["quente", "Quentes"], ["todos", "Todos"]], f.vista, mudou(v => f.vista = v)), botaoFiltros(ativos)),
+    painelAberto ? el("div", { className: "painel-f" },
+      seletor("Segmento", "Todos", opcoes("segmento"), f.segmento, mudou(v => f.segmento = v)),
+      seletor("Situação do site", "Todas", opcoes("situacao"), f.situacao, mudou(v => f.situacao = v)),
+      seletor("Cidade", "Todas", opcoes("cidade"), f.cidade, mudou(v => f.cidade = v)),
+      seletor("Envio", "Todos", [["pendente", "Ainda não enviados"], ["enviado", "Enviados, sem resposta"], ["respondeu", "Responderam"]], f.envio, mudou(v => f.envio = v)),
+      el("div", { className: "fim" }, botaoCsv("leads-sites", () => ls.map(l => ({ temperatura: l.temperatura, pontos: l.pontos, nome: l.nome, segmento: l.segmento,
+        situacao: l.situacao, link_atual: l.site || "", telefone: l.telefone, tipo_telefone: l.tipo_telefone, nota: l.nota || "", avaliacoes: l.avaliacoes,
+        cidade: l.cidade, bairro: l.bairro, a_favor: l.a_favor.join("; "), atencao: l.atencao.join("; "), maps: l.maps, mensagem: mensagem(l) }))))) : null,
+    el("p", { className: "contagem num", textContent: f.vista === "lote" ? textoLote("com mais chance de comprar, que você ainda não tinha visto", restantes(D.leads))
+      : f.vista === "novos" ? `${ls.length} ${ls.length === 1 ? "empresa encontrada" : "empresas encontradas"} nos últimos 3 dias` : `${ls.length} ${ls.length === 1 ? "empresa" : "empresas"}` }),
+    ...lista(ls, cartaoLead, f.vista === "lote" ? "Não sobrou lead novo com esses filtros: todos já foram vistos ou enviados. Veja em Todos, ou espere a próxima busca."
+      : f.vista === "novos" ? "Nenhuma empresa nova nos últimos 3 dias. A busca roda todo dia às 7h." : "Nenhuma empresa com esses filtros.")].filter(Boolean));
+  contar();
+}
+document.getElementById("sub").textContent = `Porto Alegre e região · atualizado em ${dataBR(ATUALIZADO)}, ${horaBR(ATUALIZADO)}`;
+assinatura("Ex.: Rafael", "Ex.: Studio Rafael Web");
+statusMarcas();
+render();
+// a primeira conversa com a Netlify traz as marcas de quem divide a lista: o lote é refeito com elas
+sincronizar().then(() => render());
+</script></body></html>

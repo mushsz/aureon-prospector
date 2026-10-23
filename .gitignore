@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+.chrome-coleta/
+rodada.log
+rodada.trava
+**/saida/
+.netlify/

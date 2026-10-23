@@ -1,0 +1,377 @@
+# Teste de coleta do Google Maps fora do PC (GitHub Actions). Só roda quando você clica em "Run workflow".
+# Não usa chaves nem segredos. Dois testes separados: um com o Chrome (o mesmo método da coleta do PC) e um com o scraper kit.
+name: Teste de coleta do Google Maps na nuvem
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  chrome:
+    name: Chrome (método atual)
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Escrever o script de teste
+        run: |
+          cat > teste_maps.py <<'PYEOF'
+          """Teste de coleta do Google Maps fora do PC: faz a mesma leitura da coleta do dia (lista + ficha), com um Chrome de verdade
+          (janela virtual no GitHub Actions) e diz se o Google respondeu ou pediu verificação de robô.
+
+          Poucas buscas, com pausas de gente. Se o Google pedir verificação, para na hora: não tenta contornar.
+          Uso: python teste_maps.py [--buscas 6] [--fichas 4]
+          Escreve relatorio-chrome.json e, no GitHub Actions, o resumo em $GITHUB_STEP_SUMMARY.
+          """
+
+          import argparse
+          import base64
+          import json
+          import os
+          import platform
+          import random
+          import shutil
+          import socket
+          import struct
+          import subprocess
+          import sys
+          import tempfile
+          import time
+          import urllib.parse
+          import urllib.request
+          from pathlib import Path
+
+          PORTA = 9333
+          BUSCAS = ["escritório de advocacia Centro Histórico Porto Alegre RS", "clínica de estética Moinhos de Vento Porto Alegre RS",
+                    "psicólogo Cidade Baixa Porto Alegre RS", "fisioterapia Centro Histórico Porto Alegre RS",
+                    "arquiteto Menino Deus Porto Alegre RS", "dedetizadora Canoas RS"]
+
+          # Lê a lista de resultados (a mesma da coleta de sites), mais o que ajuda a entender quando não vem nada
+          LISTA_JS = r"""(async () => {
+            const S = ms => new Promise(r => setTimeout(r, ms)), B = () => document.body ? document.body.innerText : "";
+            for (let i = 0; i < 40 && !document.querySelector('[role=feed] [role=article]') && !/não encontrou|tráfego incomum|unusual traffic/i.test(B()); i++) await S(400);
+            await S(700);
+            const info = {url: location.href.slice(0, 160), titulo: document.title, texto: B().replace(/\s+/g, ' ').slice(0, 240), temFeed: !!document.querySelector('[role=feed]')};
+            if (/tráfego incomum|unusual traffic|não sou um robô|recaptcha/i.test(B()) || location.pathname.startsWith('/sorry')) return {...info, bloqueio: true, itens: []};
+            if (/consent\.google|before you continue|antes de continuar/i.test(location.href + ' ' + B().slice(0, 400))) return {...info, consentimento: true, itens: []};
+            const feed = document.querySelector('[role=feed]');
+            for (let i = 0; feed && i < 5; i++) {
+              const antes = feed.querySelectorAll('[role=article]').length;
+              feed.scrollTop = feed.scrollHeight;
+              await S(1500 + Math.random() * 800);
+              if (feed.querySelectorAll('[role=article]').length === antes) break;
+            }
+            const itens = [...document.querySelectorAll('[role=feed] [role=article]')].flatMap(a => {
+              const t = a.innerText, l = a.querySelector('a.hfpxzc');
+              if (!l || /Patrocinado/.test(t)) return [];
+              const id = (l.href.match(/!1s(0x\w+:0x\w+)/) || [])[1];
+              if (!id) return [];
+              const m = (a.querySelector('[role=img][aria-label*=estrela]')?.getAttribute('aria-label') || '').match(/([\d,]+) estrelas?(?: ([\d.]+))?/);
+              return [{id, nome: l.getAttribute('aria-label'), link: l.href.split('?')[0],
+                nota: m ? +m[1].replace(',', '.') : null, avaliacoes: m && m[2] ? +m[2].replace(/\./g, '') : 0,
+                telefone: (t.match(/\(\d{2}\) \d{4,5}-\d{4}/) || [])[0] || '',
+                site: a.querySelector('a[data-value=Website]')?.href || ''}];
+            });
+            return {...info, bloqueio: false, itens};
+          })()"""
+
+          # Lê a ficha: avaliações, tópicos citados, fotos, se o dono reivindicou (a mesma da coleta de sites)
+          FICHA_JS = r"""(async () => {
+            const S = ms => new Promise(r => setTimeout(r, ms));
+            for (let i = 0; i < 30 && !document.querySelector('[role="main"] h1'); i++) await S(400);
+            await S(900);
+            const corpo = document.body ? document.body.innerText : "";
+            if (/tráfego incomum|unusual traffic|não sou um robô|recaptcha/i.test(corpo) || location.pathname.startsWith("/sorry")) return { bloqueio: true };
+            const m = document.querySelector('[role="main"]');
+            if (!m) return {};
+            const t = m.innerText;
+            const nota = (t.match(/\n(\d,\d)\n\(([\d.]+)\)/) || []);
+            const reviews = [...m.querySelectorAll("[data-review-id]")].filter(e => !e.parentElement.closest("[data-review-id]"));
+            return {
+              nome: m.querySelector("h1")?.innerText.trim() || "",
+              nota: nota[1] ? +nota[1].replace(",", ".") : null,
+              avaliacoes: nota[2] ? +nota[2].replace(/\./g, "") : 0,
+              telefone: (m.querySelector('[data-item-id^="phone"]')?.getAttribute("aria-label") || "").trim(),
+              site: m.querySelector('a[data-item-id="authority"]')?.href || "",
+              fotos: +((t.match(/([\d.]+) fotos?/) || [0, 0])[1] + "").replace(/\./g, ""),
+              topicos: [...m.querySelectorAll('button[aria-label*="mencionado em"]')].length,
+              reviews: reviews.length,
+              respostas: reviews.filter(e => /Resposta do proprietário/.test(e.innerText)).length,
+              reivindicada: !/Reivindicar esta empresa|Você é o proprietário/i.test(t),
+            };
+          })()"""
+
+
+          def achar_chrome():
+              if os.environ.get("CHROME"):
+                  return os.environ["CHROME"]
+              for nome in ("google-chrome", "google-chrome-stable", "chromium", "chromium-browser"):
+                  if shutil.which(nome):
+                      return shutil.which(nome)
+              for p in (r"C:\Program Files\Google\Chrome\Application\chrome.exe", r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+                        os.path.expandvars(r"%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe")):
+                  if Path(p).exists():
+                      return p
+              sys.exit("Não achei o Chrome (ponha o caminho na variável CHROME).")
+
+
+          class Chrome:
+              """Abre um Chrome com perfil temporário e conversa com ele pelo protocolo de depuração (WebSocket), só com a biblioteca padrão."""
+
+              def __init__(self):
+                  self.exe = achar_chrome()
+                  self.perfil = tempfile.mkdtemp(prefix="chrome-teste-")
+                  extra = ["--no-sandbox", "--disable-dev-shm-usage"] if sys.platform.startswith("linux") else []
+                  self.processo = subprocess.Popen([
+                      self.exe, f"--remote-debugging-port={PORTA}", f"--user-data-dir={self.perfil}", "--no-first-run",
+                      "--no-default-browser-check", "--lang=pt-BR", "--window-size=1280,900", *extra,
+                      "--disable-background-timer-throttling", "--disable-renderer-backgrounding",
+                      "--disable-backgrounding-occluded-windows", "about:blank"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                  for _ in range(100):
+                      try:
+                          with urllib.request.urlopen(f"http://127.0.0.1:{PORTA}/json", timeout=2) as r:
+                              alvo = next(t for t in json.load(r) if t["type"] == "page")
+                          break
+                      except (OSError, StopIteration):
+                          time.sleep(0.3)
+                  else:
+                      self.processo.terminate()
+                      raise ConnectionError("o Chrome abriu, mas não respondeu")
+                  u = urllib.parse.urlparse(alvo["webSocketDebuggerUrl"])
+                  self.sock = socket.create_connection((u.hostname, u.port), timeout=90)
+                  chave = base64.b64encode(os.urandom(16)).decode()
+                  self.sock.sendall((f"GET {u.path} HTTP/1.1\r\nHost: {u.hostname}:{u.port}\r\nUpgrade: websocket\r\n"
+                                     f"Connection: Upgrade\r\nSec-WebSocket-Key: {chave}\r\nSec-WebSocket-Version: 13\r\n\r\n").encode())
+                  resposta = b""
+                  while b"\r\n\r\n" not in resposta:
+                      resposta += self.sock.recv(4096)
+                  _, self.buf = resposta.split(b"\r\n\r\n", 1)
+                  self.seq = 0
+
+              def _ler(self, n):
+                  while len(self.buf) < n:
+                      dados = self.sock.recv(65536)
+                      if not dados:
+                          raise ConnectionError("o Chrome fechou")
+                      self.buf += dados
+                  parte, self.buf = self.buf[:n], self.buf[n:]
+                  return parte
+
+              def _enviar(self, texto):
+                  dados = texto.encode()
+                  n = len(dados)
+                  cab = bytearray([0x81])
+                  if n < 126:
+                      cab.append(0x80 | n)
+                  elif n < 65536:
+                      cab += bytes([0x80 | 126]) + struct.pack(">H", n)
+                  else:
+                      cab += bytes([0x80 | 127]) + struct.pack(">Q", n)
+                  mascara = os.urandom(4)
+                  self.sock.sendall(bytes(cab) + mascara + bytes(b ^ mascara[i % 4] for i, b in enumerate(dados)))
+
+              def _receber(self):
+                  partes = []
+                  while True:
+                      b1, b2 = self._ler(2)
+                      n = b2 & 0x7F
+                      if n == 126:
+                          n = struct.unpack(">H", self._ler(2))[0]
+                      elif n == 127:
+                          n = struct.unpack(">Q", self._ler(8))[0]
+                      dados = self._ler(n)
+                      op = b1 & 0x0F
+                      if op == 0x8:
+                          raise ConnectionError("o Chrome fechou")
+                      if op >= 0x8:
+                          continue
+                      partes.append(dados)
+                      if b1 & 0x80:
+                          return b"".join(partes).decode()
+
+              def comando(self, metodo, **params):
+                  self.seq += 1
+                  self._enviar(json.dumps({"id": self.seq, "method": metodo, "params": params}))
+                  while True:
+                      msg = json.loads(self._receber())
+                      if msg.get("id") == self.seq:
+                          if "error" in msg:
+                              raise RuntimeError(msg["error"].get("message"))
+                          return msg.get("result", {})
+
+              def ler(self, url, js):
+                  self.comando("Page.navigate", url=url)
+                  time.sleep(1.5)
+                  for _ in range(4):
+                      try:
+                          r = self.comando("Runtime.evaluate", expression=js, awaitPromise=True, returnByValue=True)
+                      except RuntimeError:  # a página ainda estava trocando
+                          time.sleep(1)
+                          continue
+                      if "exceptionDetails" not in r:
+                          return r["result"].get("value") or {}
+                      time.sleep(1)
+                  return {}
+
+              def versao(self):
+                  try:
+                      return self.comando("Browser.getVersion").get("product", "")
+                  except (RuntimeError, OSError):
+                      return ""
+
+              def fechar(self):
+                  try:
+                      self.comando("Browser.close")
+                  except (OSError, RuntimeError, ConnectionError):
+                      self.processo.terminate()
+                  time.sleep(1)
+                  shutil.rmtree(self.perfil, ignore_errors=True)
+
+
+          def url_busca(q):
+              return f"https://www.google.com/maps/search/{urllib.parse.quote_plus(q)}?hl=pt-BR"
+
+
+          def veredito(r):
+              b = r["buscas"]
+              if any(x.get("bloqueio") for x in b):
+                  return "BLOQUEADO: o Google pediu verificação de robô e eu parei na hora, sem tentar contornar."
+              if any(x.get("consentimento") for x in b):
+                  return "TELA DE CONSENTIMENTO: o Google mostrou uma tela de cookies/consentimento no lugar do mapa."
+              com = [x for x in b if x["itens"] >= 5]
+              if not com:
+                  return "SEM RESULTADO: o Maps abriu, mas as buscas não trouxeram lista (veja o texto da página abaixo)."
+              sem_aval = sum(1 for x in com if x["com_avaliacoes"] == 0)
+              if sem_aval > len(com) / 2:
+                  return "VERSÃO REDUZIDA: a lista veio sem o número de avaliações (o Google serve uma versão mais pobre para este navegador)."
+              fichas_ok = [f for f in r["fichas"] if f.get("avaliacoes") and (f.get("topicos") or f.get("reviews"))]
+              if len(com) >= max(1, len(b) - 1) and fichas_ok:
+                  return "FUNCIONA: o Google respondeu com lista e fichas completas, como no PC."
+              return "PARCIAL: respondeu, mas parte das buscas ou das fichas veio incompleta."
+
+
+          def resumo_md(r):
+              linhas = ["## Teste de coleta do Google Maps", "", f"**Resultado: {r['veredito']}**", "",
+                        f"- Sistema: {r['sistema']} · {r['chrome']}", f"- IP de saída: {r['ip'].get('ip', '?')} · {r['ip'].get('org', '?')} · {r['ip'].get('country', '?')}", "",
+                        "| Busca | Resultados | Com telefone | Com nº de avaliações | Obs. |", "|---|---|---|---|---|"]
+              for x in r["buscas"]:
+                  obs = "BLOQUEIO" if x.get("bloqueio") else "consentimento" if x.get("consentimento") else (x["texto"][:90] if not x["itens"] else "")
+                  linhas.append(f"| {x['busca'].replace('|', '/')} | {x['itens']} | {x['com_telefone']} | {x['com_avaliacoes']} | {obs} |")
+              if r["fichas"]:
+                  linhas += ["", "| Ficha | Avaliações | Tópicos | Avaliações lidas | Fotos | Reivindicada |", "|---|---|---|---|---|---|"]
+                  for f in r["fichas"]:
+                      linhas.append(f"| {f.get('nome', '?')[:40].replace('|', '/')} | {f.get('avaliacoes', 0)} | {f.get('topicos', 0)} | {f.get('reviews', 0)} | {f.get('fotos', 0)} | {f.get('reivindicada')} |")
+              return "\n".join(linhas) + "\n"
+
+
+          def main():
+              sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+              ap = argparse.ArgumentParser()
+              ap.add_argument("--buscas", type=int, default=len(BUSCAS))
+              ap.add_argument("--fichas", type=int, default=4)
+              args = ap.parse_args()
+
+              try:
+                  with urllib.request.urlopen("https://ipinfo.io/json", timeout=10) as r:
+                      ip = {k: v for k, v in json.load(r).items() if k in ("ip", "org", "country")}
+              except (OSError, ValueError):
+                  ip = {}
+              chrome = Chrome()
+              rel = {"quando": time.strftime("%Y-%m-%d %H:%M:%S"), "sistema": platform.platform(), "chrome": chrome.versao(), "ip": ip, "buscas": [], "fichas": []}
+              bloqueado = False
+              try:
+                  for n, q in enumerate(BUSCAS[:args.buscas], 1):
+                      t0 = time.time()
+                      lista = chrome.ler(url_busca(q), LISTA_JS)
+                      itens = lista.get("itens", [])
+                      x = {"busca": q, "itens": len(itens), "com_telefone": sum(1 for i in itens if i["telefone"]), "com_avaliacoes": sum(1 for i in itens if i["avaliacoes"]),
+                           "bloqueio": bool(lista.get("bloqueio")), "consentimento": bool(lista.get("consentimento")),
+                           "url": lista.get("url", ""), "titulo": lista.get("titulo", ""), "texto": lista.get("texto", ""), "segundos": round(time.time() - t0)}
+                      rel["buscas"].append(x)
+                      print(f"[{n}/{min(args.buscas, len(BUSCAS))}] {q}: {x['itens']} resultados, {x['com_telefone']} com telefone, {x['com_avaliacoes']} com avaliações"
+                            + (" · BLOQUEIO" if x["bloqueio"] else "") + (" · CONSENTIMENTO" if x["consentimento"] else ""), flush=True)
+                      if x["bloqueio"] or x["consentimento"]:
+                          bloqueado = True
+                          break
+                      # as primeiras fichas dos que têm telefone e pelo menos 5 avaliações
+                      if len(rel["fichas"]) < args.fichas:
+                          for it in [i for i in itens if i["telefone"] and i["avaliacoes"] >= 5][:2]:
+                              if len(rel["fichas"]) >= args.fichas:
+                                  break
+                              f = chrome.ler(it["link"] + "?hl=pt-BR", FICHA_JS)
+                              rel["fichas"].append(f)
+                              print(f"   ficha {f.get('nome', '?')}: {f.get('avaliacoes', 0)} avaliações, {f.get('topicos', 0)} tópicos, {f.get('reviews', 0)} lidas, {f.get('fotos', 0)} fotos", flush=True)
+                              if f.get("bloqueio"):
+                                  rel["buscas"][-1]["bloqueio"] = bloqueado = True
+                                  break
+                              time.sleep(random.uniform(2, 4))
+                      if bloqueado:
+                          break
+                      time.sleep(random.uniform(8, 15))
+              finally:
+                  chrome.fechar()
+              rel["veredito"] = veredito(rel)
+              Path("relatorio-chrome.json").write_text(json.dumps(rel, ensure_ascii=False, indent=1), encoding="utf-8")
+              md = resumo_md(rel)
+              print("\n" + md)
+              if os.environ.get("GITHUB_STEP_SUMMARY"):
+                  with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as fh:
+                      fh.write(md)
+
+
+          if __name__ == "__main__":
+              main()
+          PYEOF
+      - name: Rodar com Chrome de verdade em janela virtual
+        run: |
+          google-chrome --version
+          command -v xvfb-run >/dev/null || sudo apt-get install -y xvfb
+          xvfb-run -a --server-args="-screen 0 1280x900x24" python3 teste_maps.py
+      - name: Guardar o relatório
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio-chrome
+          path: relatorio-chrome.json
+          if-no-files-found: ignore
+
+  kit:
+    name: Scraper kit (gosom, Docker)
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    continue-on-error: true
+    steps:
+      - name: Rodar o kit em 3 buscas
+        run: |
+          printf '%s\n' "escritório de advocacia Centro Histórico Porto Alegre RS" "clínica de estética Moinhos de Vento Porto Alegre RS" "psicólogo Cidade Baixa Porto Alegre RS" > queries.txt
+          mkdir -p out
+          docker run --rm -v gmaps-playwright-cache:/opt -v "$PWD/queries.txt:/queries.txt:ro" -v "$PWD/out:/out" gosom/google-maps-scraper \
+            -input /queries.txt -results /out/kit.csv -depth 1 -lang pt-BR -exit-on-inactivity 3m || echo "o kit terminou com erro"
+      - name: Resumo do kit
+        if: always()
+        run: |
+          python3 - <<'PYEOF'
+          import csv, os
+          linhas = []
+          try:
+              with open("out/kit.csv", encoding="utf-8", newline="") as fh:
+                  linhas = list(csv.DictReader(fh))
+          except OSError:
+              pass
+          com = lambda campo: sum(1 for l in linhas if (l.get(campo) or "").strip() not in ("", "0"))
+          md = ["## Scraper kit (gosom)", "",
+                f"**Resultado: {'FUNCIONA' if len(linhas) >= 5 else 'SEM RESULTADO OU BLOQUEADO'}** ({len(linhas)} empresas em 3 buscas)", "",
+                f"- com telefone: {com('phone')}", f"- com número de avaliações: {com('review_count')}", f"- com site: {com('website')}", ""]
+          md += [f"- {(l.get('title') or '?')[:60]} · {l.get('review_count')} avaliações · {l.get('phone')}" for l in linhas[:5]]
+          print("\n".join(md))
+          if os.environ.get("GITHUB_STEP_SUMMARY"):
+              open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8").write("\n".join(md) + "\n")
+          PYEOF
+      - name: Guardar o resultado do kit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultado-kit
+          path: out/kit.csv
+          if-no-files-found: ignore

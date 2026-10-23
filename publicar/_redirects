@@ -1,0 +1,9 @@
+# Um link só. O endereço é sempre "/": quem escolheu Equipamentos (cookie lista_equip) vê a lista de equipamentos,
+# os demais veem a de sites. Os endereços antigos (/sites/, /hospitalar/) voltam para "/" e a página já sabe, pelo
+# ?lista=, qual lista abrir. O "!" faz a regra valer mesmo se algum arquivo antigo reaparecer em publicar/.
+/sites          /?lista=sites  301!
+/sites/*        /?lista=sites  301!
+/hospitalar     /?lista=equip  301!
+/hospitalar/*   /?lista=equip  301!
+/               /p/equipamentos.html  200!  Cookie=lista_equip
+/               /p/sites.html         200!

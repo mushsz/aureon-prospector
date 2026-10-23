@@ -1,0 +1,8 @@
+{
+  "name": "aureon-leads",
+  "private": true,
+  "description": "Só serve para a função das marcas compartilhadas (netlify/functions/marcas.mjs). A rodada diária roda npm install se faltar.",
+  "dependencies": {
+    "@netlify/blobs": "^10.7.0"
+  }
+}

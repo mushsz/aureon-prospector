@@ -1,0 +1,7 @@
+# A Netlify publica o que está em publicar/ e a função das marcas compartilhadas, a cada gravação neste repositório.
+# Não há comando de build: as páginas já chegam prontas (a rodada na nuvem as gera).
+[build]
+  publish = "publicar"
+
+[functions]
+  directory = "netlify/functions"

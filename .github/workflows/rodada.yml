@@ -1,0 +1,79 @@
+# Rodada de leads na nuvem: busca licitações e empresas, gera as duas listas e grava no repositório.
+# A Netlify (ligada a este repositório) publica o site sozinha a cada gravação. O computador não precisa estar ligado.
+#
+# 07:00 (Brasília): rodada completa.
+# 10:30, 14:30 e 18:30: vigia. Conta quantos leads ainda faltam ver em cada lista (as marcas vêm do site) e só busca mais
+# se alguma estiver com 50 ou menos. Se nenhuma estiver acabando, termina em um minuto.
+name: Rodada de leads
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+    - cron: "30 13,17,21 * * *"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "diaria = rodada completa; vigia = só busca se alguma lista estiver acabando"
+        type: choice
+        options: [diaria, vigia]
+        default: diaria
+
+# uma rodada por vez: a seguinte espera a atual terminar
+concurrency:
+  group: rodada-de-leads
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  TZ: America/Sao_Paulo
+  PYTHONUTF8: "1"
+
+jobs:
+  rodada:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Janela virtual para o Chrome
+        run: command -v xvfb-run >/dev/null || sudo apt-get install -y xvfb
+
+      - name: Rodar
+        env:
+          MODO: ${{ github.event_name == 'workflow_dispatch' && inputs.modo || (github.event.schedule == '0 10 * * *' && 'diaria' || 'vigia') }}
+        run: |
+          google-chrome --version
+          if [ "$MODO" = "vigia" ]; then EXTRA="--so-se-precisar"; else EXTRA=""; fi
+          echo "modo: $MODO"
+          xvfb-run -a --server-args="-screen 0 1280x900x24" python3 rodada_diaria.py --sem-publicar $EXTRA
+
+      - name: Guardar o registro da rodada
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rodada-log
+          path: rodada.log
+          retention-days: 14
+          if-no-files-found: ignore
+
+      - name: Gravar dados e páginas no repositório
+        if: always()
+        run: |
+          # o fim do registro vai junto, para dar para ler o resultado da rodada sem abrir o GitHub
+          { echo "Execução: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID ($GITHUB_EVENT_NAME)"; tail -n 120 rodada.log 2>/dev/null || echo "sem registro"; } > ultima-rodada.log
+          git config user.name "leads-nuvem"
+          git config user.email "leads-nuvem@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "Leads: rodada de $(date '+%d/%m %H:%M')"
+            git pull --rebase origin "${{ github.ref_name }}" || true
+            git push origin "HEAD:${{ github.ref_name }}"
+          fi
