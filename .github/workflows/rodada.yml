@@ -10,6 +10,9 @@ on:
   schedule:
     - cron: "0 10 * * *"
     - cron: "30 13,17,21 * * *"
+  # mexer no arquivo .disparar dispara uma rodada completa (dá para começar uma rodada por git push, sem abrir o GitHub)
+  push:
+    paths: [".disparar"]
   workflow_dispatch:
     inputs:
       modo:
@@ -46,7 +49,7 @@ jobs:
 
       - name: Rodar
         env:
-          MODO: ${{ github.event_name == 'workflow_dispatch' && inputs.modo || (github.event.schedule == '0 10 * * *' && 'diaria' || 'vigia') }}
+          MODO: ${{ github.event_name == 'workflow_dispatch' && inputs.modo || (github.event_name == 'push' && 'diaria') || (github.event.schedule == '0 10 * * *' && 'diaria') || 'vigia' }}
         run: |
           google-chrome --version
           if [ "$MODO" = "vigia" ]; then EXTRA="--so-se-precisar"; else EXTRA=""; fi
