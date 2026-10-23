@@ -52,16 +52,17 @@ LISTA_JS = r"""(async () => {
     const id = (l.href.match(/!1s(0x\w+:0x\w+)/) || [])[1];
     if (!id) return [];
     const m = (a.querySelector('[role=img][aria-label*=estrela]')?.getAttribute('aria-label') || '').match(/([\d,]+) estrelas?(?: ([\d.]+))?/);
-    const c = (t.split('\n').find(x => x.includes(' · ') && !/\(\d\d\)|^(Aberto|Fechado|Abre|Fecha)/.test(x)) || '').split(' · ').map(x => x.trim()).filter(Boolean);
+    const c = (t.split('\n').find(x => x.includes(' · ') && !/\(\d\d\)|\+55|^(Aberto|Fechado|Abre|Fecha)/.test(x)) || '').split(' · ').map(x => x.trim()).filter(Boolean);
     return [{id, nome: l.getAttribute('aria-label'), link: l.href.split('?')[0],
       nota: m ? +m[1].replace(',', '.') : null, avaliacoes: m && m[2] ? +m[2].replace(/\./g, '') : 0,
       categoria: c[0] || '', endereco: c.slice(1).join(' '),
-      telefone: (t.match(/\(\d{2}\) \d{4,5}-\d{4}/) || [])[0] || '',
+      telefone: (t.match(/(?:\+55\s?)?\(?\d{2}\)?[\s-]?\d{4,5}-?\d{4}/) || [])[0] || '',
       site: a.querySelector('a[data-value=Website]')?.href || '',
       h24: /Aberto 24 horas|24 horas/i.test(t),
       fechado: /Fechado permanentemente|Fechado temporariamente/.test(t)}];
   });
-  return {bloqueio: false, itens};
+  const amostra = (document.querySelector('[role=feed] [role=article]')?.innerText || '').replace(/\s+/g, ' ').slice(0, 220);
+  return {bloqueio: false, itens, amostra};
 })()"""
 
 FICHA_JS = co.FICHA_JS.replace(
@@ -74,6 +75,9 @@ def pesquisar(chrome, termo, segmento, bairro, cidade, conhecidos):
     if lista.get("bloqueio"):
         raise co.Bloqueio
     novos = []
+    itens = lista.get("itens", [])
+    lista["motivos"] = {"sem telefone": sum(not i["telefone"] for i in itens), "fechados": sum(i["fechado"] for i in itens),
+                        "já conhecidos": sum(i["id"] in conhecidos for i in itens)}
     for item in lista.get("itens", []):
         if item["id"] in conhecidos or item["fechado"] or not item["telefone"]:
             continue
@@ -113,6 +117,8 @@ def main():
             feitas_arq.write_text(json.dumps(feitas, ensure_ascii=False), encoding="utf-8")
             onde = f"{bairro}, {cidade}" if bairro else cidade
             print(f"[{n}/{len(pendentes)}] {termo} · {onde}: {len(lista.get('itens', []))} resultados, {len(novos)} novos", flush=True)
+            if not novos and lista.get("itens"):
+                print(f"   nenhum lead novo. Descartados: {lista.get('motivos')}. Cartão de exemplo: {lista.get('amostra')!r}", flush=True)
             time.sleep(random.uniform(4, 8))
     except co.Bloqueio:
         print("\nO Google pediu verificação de robô. Parei aqui, sem tentar contornar.")

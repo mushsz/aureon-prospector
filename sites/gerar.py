@@ -65,6 +65,8 @@ def meses_atras(quando):
 
 def telefone(bruto):
     d = re.sub(r"\D", "", bruto or "").lstrip("0")
+    if len(d) in (12, 13) and d.startswith("55"):
+        d = d[2:]   # +55 51 99999-9999
     if len(d) == 8:
         d = "51" + d
     if len(d) not in (10, 11):

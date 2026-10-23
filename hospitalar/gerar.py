@@ -45,6 +45,8 @@ def telefone(bruto, ddd="51"):
     """'(51) 91648678' → ('51991648678', 'celular'). Número de 8 dígitos sem DDD ganha o 51 da região."""
     d = re.sub(r"\D", "", re.split(r"ramal|/", bruto or "", flags=re.I)[0])
     d = d.lstrip("0")
+    if len(d) in (12, 13) and d.startswith("55"):
+        d = d[2:]   # +55 51 99999-9999
     if len(d) == 8:
         d = ddd + d
     if len(d) == 10 and d[2] in "6789":  # celular antigo, sem o 9 da frente

@@ -148,7 +148,8 @@ class Chrome:
             exe, f"--remote-debugging-port={PORTA}", f"--user-data-dir={PERFIL_CHROME}", "--no-first-run",
             "--no-default-browser-check", "--lang=pt-BR", "--window-size=1280,900", *linux,
             "--disable-background-timer-throttling", "--disable-renderer-backgrounding",
-            "--disable-backgrounding-occluded-windows", "about:blank"])
+            "--disable-backgrounding-occluded-windows", "about:blank"],
+            **({"stdout": subprocess.DEVNULL, "stderr": subprocess.DEVNULL} if sys.platform.startswith("linux") else {}))
         for _ in range(100):
             try:
                 with urllib.request.urlopen(f"http://127.0.0.1:{PORTA}/json", timeout=2) as r:
