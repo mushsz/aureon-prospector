@@ -1,0 +1,121 @@
+Execução: https://github.com/mushsz/aureon-prospector/actions/runs/39985370709 (push)
+23/10 13:27:12     [3082:3082:1023/132712.008113:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:12     [3082:3082:1023/132712.009667:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:12     [3082:3105:1023/132712.009775:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:12     [3082:3082:1023/132712.036307:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:12     [3082:3082:1023/132712.036653:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:12     [3082:3105:1023/132712.037459:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:12     [3082:3082:1023/132712.040418:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:12     [3082:3082:1023/132712.049022:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:12     [3082:3105:1023/132712.049412:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:12     [3082:3082:1023/132712.049514:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+23/10 13:27:12     [3082:3082:1023/132712.066248:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:12     [3082:3105:1023/132712.066448:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:12     [3189:3208:1023/132712.067149:ERROR:gpu/ipc/client/command_buffer_proxy_impl.cc:277] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+23/10 13:27:12     Created TensorFlow Lite XNNPACK delegate for CPU.
+23/10 13:27:12     [3082:3082:1023/132712.087426:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:12     [3120:3120:1023/132712.950664:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:12     [3120:3120:1023/132712.952244:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:12     [3120:3120:1023/132712.952946:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:12     [3120:3120:1023/132712.953517:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:16     Created TensorFlow Lite XNNPACK delegate for CPU.
+23/10 13:27:16     [3082:3107:1023/132716.447892:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+23/10 13:27:23     [1/15] fisioterapia · Cidade Baixa, Porto Alegre: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:27:23     [3082:3105:1023/132723.936131:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:23     [3082:3105:1023/132723.936178:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:23     [3082:3082:1023/132723.936181:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:23     [3082:3105:1023/132723.936201:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:23     [3082:3082:1023/132723.936203:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:23     [3082:3105:1023/132723.936211:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:23     [3082:3082:1023/132723.936212:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:23     [3082:3082:1023/132723.936224:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:24     [3082:3105:1023/132724.063163:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:24     [3082:3082:1023/132724.063191:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:24     [3082:3105:1023/132724.063219:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+23/10 13:27:24     [3082:3082:1023/132724.063230:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:
+23/10 13:27:28     [3120:3120:1023/132728.899184:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:28     [3120:3120:1023/132728.900115:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:28     [3120:3120:1023/132728.900718:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:28     [3120:3120:1023/132728.901251:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:39     [2/15] psicólogo · Cidade Baixa, Porto Alegre: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:27:42     [3082:3107:1023/132742.777251:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+23/10 13:27:47     [3120:3120:1023/132747.929432:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:47     [3120:3120:1023/132747.930348:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:47     [3120:3120:1023/132747.930974:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:47     [3120:3120:1023/132747.931548:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:27:59     [3/15] arquiteto · Cidade Baixa, Porto Alegre: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:28:05     [3120:3120:1023/132805.875830:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:05     [3120:3120:1023/132805.876833:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:05     [3120:3120:1023/132805.877386:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:05     [3120:3120:1023/132805.877977:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:11     [4/15] estética automotiva · Cidade Baixa, Porto Alegre: 9 resultados, 0 com site no ar, 0 leads
+23/10 13:28:16     [3120:3120:1023/132816.174868:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:16     [3120:3120:1023/132816.176060:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:16     [3120:3120:1023/132816.176605:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:16     [3120:3120:1023/132816.177185:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:27     [5/15] móveis planejados · Cachoeirinha: 32 resultados, 0 com site no ar, 0 leads
+23/10 13:28:32     [3120:3120:1023/132832.107838:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:32     [3120:3120:1023/132832.108684:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:32     [3120:3120:1023/132832.109261:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:32     [3120:3120:1023/132832.109796:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:34     [3082:3107:1023/132834.173439:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+23/10 13:28:44     [6/15] energia solar · Cachoeirinha: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:28:49     [3120:3120:1023/132849.541285:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:49     [3120:3120:1023/132849.542056:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:49     [3120:3120:1023/132849.542640:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:49     [3120:3120:1023/132849.543194:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:55     [7/15] dedetizadora · Cachoeirinha: 12 resultados, 0 com site no ar, 0 leads
+23/10 13:28:59     [3120:3120:1023/132859.876446:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:59     [3120:3120:1023/132859.877333:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:59     [3120:3120:1023/132859.878022:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:28:59     [3120:3120:1023/132859.878567:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:10     [8/15] escritório de advocacia · Bom Fim, Porto Alegre: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:29:18     [3120:3120:1023/132918.580814:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:18     [3120:3120:1023/132918.581777:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:18     [3120:3120:1023/132918.582371:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:18     [3120:3120:1023/132918.582953:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:21     [9/15] escritório de contabilidade · Bom Fim, Porto Alegre: 4 resultados, 0 com site no ar, 0 leads
+23/10 13:29:28     [3120:3120:1023/132928.463733:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:28     [3120:3120:1023/132928.464910:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:28     [3120:3120:1023/132928.465470:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:28     [3120:3120:1023/132928.466064:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:32     [10/15] clínica de estética · Bom Fim, Porto Alegre: 8 resultados, 0 com site no ar, 0 leads
+23/10 13:29:38     [3120:3120:1023/132938.264749:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:38     [3120:3120:1023/132938.265599:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:38     [3120:3120:1023/132938.266227:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:38     [3120:3120:1023/132938.266743:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:49     [11/15] fisioterapia · Bom Fim, Porto Alegre: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:29:57     [3120:3120:1023/132957.861649:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:57     [3120:3120:1023/132957.862441:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:57     [3120:3120:1023/132957.863034:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:29:57     [3120:3120:1023/132957.863641:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:09     [12/15] psicólogo · Bom Fim, Porto Alegre: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:30:17     [3120:3120:1023/133017.978981:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:17     [3120:3120:1023/133017.979879:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:17     [3120:3120:1023/133017.980479:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:17     [3120:3120:1023/133017.981032:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:25     [3082:3107:1023/133025.553109:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+23/10 13:30:28     [13/15] arquiteto · Bom Fim, Porto Alegre: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:30:36     [3120:3120:1023/133036.892483:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:36     [3120:3120:1023/133036.893354:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:36     [3120:3120:1023/133036.894113:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:36     [3120:3120:1023/133036.894718:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:42     [14/15] estética automotiva · Bom Fim, Porto Alegre: 11 resultados, 0 com site no ar, 0 leads
+23/10 13:30:50     [3120:3120:1023/133050.097372:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:50     [3120:3120:1023/133050.098181:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:50     [3120:3120:1023/133050.098766:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:30:50     [3120:3120:1023/133050.099327:ERROR:gpu/command_buffer/service/context_group.cc:140] ContextResult::kFatalFailure: WebGL1 blocklisted
+23/10 13:31:00     [15/15] móveis planejados · Alvorada: 40 resultados, 0 com site no ar, 0 leads
+23/10 13:31:07     ok em 3.9 min
+23/10 13:31:07  == Página de equipamentos
+23/10 13:31:08     73 compras abertas · 651 empresas (167 quentes, 394 celulares) · 50 hospitais
+23/10 13:31:08     /home/runner/work/aureon-prospector/aureon-prospector/hospitalar/saida/leads-hospitalar-2026-10-23.html
+23/10 13:31:08     /home/runner/work/aureon-prospector/aureon-prospector/publicar/p/equipamentos.html
+23/10 13:31:08     ok em 0.0 min
+23/10 13:31:08  == Página de sites
+23/10 13:31:08     409 leads (39 quentes, 342 celulares)
+23/10 13:31:08     /home/runner/work/aureon-prospector/aureon-prospector/sites/saida/leads-sites-2026-10-23.html
+23/10 13:31:08     /home/runner/work/aureon-prospector/aureon-prospector/publicar/p/sites.html
+23/10 13:31:08     ok em 0.0 min
+23/10 13:31:08  Sem publicar (--sem-publicar).
+23/10 13:31:08  Rodada diária terminou
