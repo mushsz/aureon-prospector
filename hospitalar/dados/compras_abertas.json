@@ -3901,37 +3901,6 @@
   "exclusiva_me": false
  },
  {
-  "id": "13183513000127-1-000189/2026",
-  "orgao": "FUNDACAO DE SAUDE SAPUCAIA DO SUL",
-  "unidade": "FUNDAÇÃO DE SAÚDE SAPUCAIA DO SUL",
-  "cidade": "Sapucaia do Sul",
-  "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO PARA A FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-14T08:00:00",
-  "encerramento": "2026-10-30T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/13183513000127/2026/189",
-  "link_sistema": "https://pregaobanrisul.com.br/editais/0168_2026/358077",
-  "total_itens": 8,
-  "itens_da_linha": [
-   {
-    "descricao": "364\tSERINGA DESCARTAVEL 10 ML BICO TIPO SLIP /",
-    "quantidade": 360000.0,
-    "unidade": "un",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
   "id": "15126437000305-1-004274/2026",
   "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
   "unidade": "HOSPITAL UNIV. DR. MIGUEL RIET CORREA JUNIOR",
@@ -8267,6 +8236,37 @@
   "exclusiva_me": false
  },
  {
+  "id": "13183513000127-1-000189/2026",
+  "orgao": "FUNDACAO DE SAUDE SAPUCAIA DO SUL",
+  "unidade": "FUNDAÇÃO DE SAÚDE SAPUCAIA DO SUL",
+  "cidade": "Sapucaia do Sul",
+  "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO PARA A FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-14T08:00:00",
+  "encerramento": "2026-11-05T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/13183513000127/2026/189",
+  "link_sistema": "https://pregaobanrisul.com.br/editais/0168_2026/358077",
+  "total_itens": 8,
+  "itens_da_linha": [
+   {
+    "descricao": "364\tSERINGA DESCARTAVEL 10 ML BICO TIPO SLIP /",
+    "quantidade": 360000.0,
+    "unidade": "un",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
   "id": "88830609000139-1-000580/2026",
   "orgao": "MUNICIPIO DE CAXIAS DO SUL",
   "unidade": "MRS-PREFEITURA MUNICIPAL DE CAXIAS DO SUL",
@@ -9185,6 +9185,279 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 11,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001012/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar (CATETERES, FIOS E DIVERSOS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o HOSPITAL GERAL DE BONSUCESSO DO RIO DE JANEIRO, filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-23T12:00:00",
+  "encerramento": "2026-11-09T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1012",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102874",
+  "total_itens": 66,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 16318\nEspecificação: CAPA ESTERIL DESC.P/CAMERA DE VIDEOLAPAROSCOPIA-TAM.12,5cmX2,5mt (EMBALAGEM DUPLA) - \nUnidade: UNIDADE",
+    "quantidade": 19200.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 35486\nEspecificação: CATETER INTRAVENOSO PERIFERICO 24G NEO MEDIDAS 0,7 X 14mm C/DISPOSITIVO DE SEGURANCA - \nUnidade: UNIDADE",
+    "quantidade": 3600.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 27368\nEspecificação: CATETER INTRAVENOSO RADIOPACO PERIFERICO N.18, PRONTO USO DESCARTAVEL, C/SISTEMA DE SEGURANCA QUE ATENDA A NR.32 - \nUnidade: UNIDADE",
+    "quantidade": 60000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 27366\nEspecificação: CATETER INTRAVENOSO RADIOPACO PERIFERICO N.24, PRONTO USO DESCARTAVEL, C/SISTEMA DE SEGURANCA QUE ATENDA A NR.32 - \nUnidade: UNIDADE",
+    "quantidade": 67200.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 40571\nEspecificação: CATETER P/ TERAPIA RENAL, LONGA PERMANENCIA, DUPLO LUMEN, DE SILICONE RADIOPACO, COMPRIMENTO -  28, C/ KIT C/ FIO GUIA, INTRODUTOR E DILATADOR, CONECTOR LUER LOCK E CLAMP EM TODAS VIAS, ABA P/ SUTURA, DIAMETRO -  12,5,C/ANEL DE FIXACAO SUBCUTANEA - \nUnidade: UNIDADE",
+    "quantidade": 96.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 18965\nEspecificação: CATETER VENOSO CENTRAL DUPLO LUMEN 13 - 20cm 5F - KIT - contendo fio guia, agulha p/punção e dilatador. Cateter p/infusão parenteral/NPT, pela técnica de Seldinger\nUnidade: KIT",
+    "quantidade": 480.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 33171\nEspecificação: FIO CIRURGICO 0(ZERO) COMPOSTO DE POLIGLATINA 910, RECOBERTO C/POLIGLATINA 370 MAIS ESTERATO DE CALCIO C/70cm DE COMP. E AGULHA 4cm E ½ CIRCULO - \nUnidade: UNIDADE",
+    "quantidade": 6240.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 41220\nEspecificação: FIO CIRURGICO DE NYLON MONOFILAMENTAR 3-0 C/ AG. CILINDRICA DE 30MM (VARIACAO DE +/-0,1MM) E 3/8 DE CIRCULO, C/ 75 CM COMPRIMENTO APROX., ESTERIL, EMBALAGEM INDIVIDUAL - fornecedor devera apresentar relatório de ensaio segundo a ABNT NBR 13904/2003 e o CBPF\nUnidade: UNIDADE",
+    "quantidade": 21000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 41356\nEspecificação: FIO CIRURGICO DE POLIESTER TRANCADO N. 2, COR VERDE, C/ AG. CORTANTE DE 40MM (VARIACAO DE +/-0,1MM) E ½ DE CIRCULO, C/ 75 CM COMPRIMENTO APROX., ESTERIL, EMBALAGEM INDIVIDUAL - fornecedor devera apresentar relatório de ensaio segundo a ABNT NBR 13904/2003 e o CBPF\nUnidade: UNIDADE",
+    "quantidade": 180.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 41389\nEspecificação: FIO CIRURGICO DE POLIGLACTINA 2-0, RECOBERTO DE POLIGALTINA 370 E ESTEARATO DE CALCIO, C/ AG. CILINDRICA DE 37MM (VARIACAO DE +/-0,1MM) E 5/8 DE CIRCULO, C/ 70 CM COMPRIMENTO APROX., ESTERIL, EMBALAGEM INDIVIDUAL UROLOGIA - \nUnidade: UNIDADE",
+    "quantidade": 3840.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 40817\nEspecificação: FIO CIRURGICO DE POLIGLACTINA N. 5-0, C/ AG.CILINDRICA DE 1,5 CM (VARIACAO DE +/- 0,1MM) E ½ DE CIRCULO, C/ 70 - 75 cm COMPRIMENTO, ESTERIL, EMBALAGEM INDIVIDUAL - fornecedor devera apresentar relatório de ensaio segundo a ABNT NBR 13904/2003 e o CBPF\nUnidade: UNIDADE",
+    "quantidade": 156.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 41083\nEspecificação: FIO CIRURGICO POLIGLACTINA 3-0, C/ AG.CILINDRICA DE 2,6 CM (VARIACAO DE +/- 0,1MM) E ½ DE CIRCULO, C/ 70 - 75 CM COMPRIMENTO, ESTERIL, EMBALAGEM INDIVIDUAL - \nUnidade: UNIDADE",
+    "quantidade": 240.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 40819\nEspecificação: FIO CIRURGICO POLIGLICOLICO 0, C/ AG.CILINDRICA DE 3,7CM (VARIACAO DE +/- 0,1MM) E 5/8 DE CIRCULO, C/ 70 - 75cm COMPRIMENTO, ESTERIL, EMBALAGEM INDIVIDUAL - UROLOGIA - fornecedor devera apresentar relatório de ensaio segundo a ABNT NBR 13904/2003 e o CBPF\nUnidade: UNIDADE",
+    "quantidade": 1200.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 14547\nEspecificação: LUVA CIRURGICA, ESTERIL, EM LATEX, HIPOALERGENICA, SEM TALCO(S/PO), TAMANHO 8,5 - C/CA - \nUnidade: PAR",
+    "quantidade": 9840.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 31990\nEspecificação: LUVA CIRURGICA, ESTERIL, EM LATEX, HIPOALERGENICA, SEM TALCO(S/PO), TAMANHO 6,5 - C/CA - \nUnidade: PAR",
+    "quantidade": 5160.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 8985\nEspecificação: PLACA ADESIVA DESCARTAVEL TAMANHO APROXIMADO 10X21cm BIPARTIDA P/ELETROCAUTERIO (TIPO 1180/3M) - \nUnidade: UNIDADE",
+    "quantidade": 8400.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 7\nEspecificação: SERINGA HIPODERMICA DESCARTAVEL DE 5ML LUER SLIP, EM POLIPROPILENO INERTE, APIROGENICA, ATOXICA, C/ EMBOLO S/ LATEX, ESTERIL, EMBALAGEM INDIVIDUAL - \nUnidade: UNIDADE",
+    "quantidade": 144000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 295\nEspecificação: SONDA FOLEY 2 VIAS DE 14FR EM LATEX SILICONADO, BALAO C/ CAPACIDADE DE ATE 30ML, PONTA DISTAL ATRAUMATICA E FECHADA, C/ FUROS LATERIAIS P/ DRENAGEM, ESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL - \nUnidade: UNIDADE",
+    "quantidade": 3960.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 291\nEspecificação: SONDA FOLEY 2 VIAS DE 16FR EM LATEX SILICONADO, BALAO C/ CAPACIDADE DE ATE 30ML, PONTA DISTAL ATRAUMATICA E FECHADA, C/ FUROS LATERIAIS P/ DRENAGEM, ESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL - \nUnidade: UNIDADE",
+    "quantidade": 2640.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 769\nEspecificação: SONDA FOLEY 2 VIAS DE 20FR EM LATEX SILICONADO, BALAO C/ CAPACIDADE DE ATE 30ML, PONTA DISTAL ATRAUMATICA E FECHADA, C/ FUROS LATERIAIS P/ DRENAGEM, ESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL - \nUnidade: UNIDADE",
+    "quantidade": 1560.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 41186\nEspecificação: SONDA FOLEY 3 VIAS DE 16FR EM LATEX SILICONADO, BALAO C/ CAPACIDADE DE 30ML , PONTA DISTAL ATRAUMATICA E FECHADA, C/ FUROS LATERIAIS P/ DRENAGEM, ESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL - \nUnidade: UNIDADE",
+    "quantidade": 288.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 898\nEspecificação: SONDA FOLEY 3 VIAS DE 22FR EM LATEX SILICONADO, BALAO C/ CAPACIDADE DE 30ML, PONTA DISTAL ATRAUMATICA E FECHADA, C/ FUROS LATERIAIS P/ DRENAGEM, ESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL - \nUnidade: UNIDADE",
+    "quantidade": 720.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 39407\nEspecificação: SONDA NASOGASTRICA LONGA N.04, COMPRIMENTO ENTRE 100 - 120CM, TUBO MALEAVEL EM PVC TRANSPARENTE E ATOXICO, C/ PONTA ARREDONDADA E ATRAUMATICA, ORIFICIOS LATERAIS DESENCONTRADOS, CONECTOR C/ TAMPA, ESTERIL, DESCARTAVEL - \nUnidade: UNIDADE",
+    "quantidade": 1200.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 10,
   "exclusiva_me": false
  },
  {
@@ -10264,6 +10537,92 @@
   "exclusiva_me": false
  },
  {
+  "id": "87482535000124-1-001923/2026",
+  "orgao": "MUNICIPIO DE DOM PEDRITO",
+  "unidade": "Prefeitura Municipal de Dom Pedrito",
+  "cidade": "Dom Pedrito",
+  "objeto": "[Portal de Compras Públicas] - Materiais médicos veterinários para Casa de Passagem do Bem- Estar Animal",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-23T15:00:00",
+  "encerramento": "2026-11-10T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87482535000124/2026/1923",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Dom-Pedrito-1520/RPE-148-2026-2026-520809",
+  "total_itens": 41,
+  "itens_da_linha": [
+   {
+    "descricao": "Fio poliglactina 910 n 2-0 violeta -absorvivel - agulhado - esteril",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 4 - felina (tipo tom cat) - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 4 - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 06 - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 08 - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 10 - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": true
+ },
+ {
   "id": "92787118000120-1-000996/2026",
   "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
   "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
@@ -10367,6 +10726,152 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001015/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Gêneros Alimentícios (NUTRIÇÃO ENTERAL) pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-23T12:00:00",
+  "encerramento": "2026-11-10T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1015",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102969",
+  "total_itens": 9,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 36324\nEspecificação: FORMULA PARA NUTRICAO ENTERAL, SISTEMA FECHADO DE ADMINISTRACAO, POLIMERICA, 1,4 A 1,5 kcal/ml, PROTEINA MINIMO 18% DO VET, ESPECIFICA PARA PACIENTES COM NECESSIDADE DE CONTROLE GLICEMICO, ISENTA DE SACAROSE, LACTOSE E GLUTEN. EMBALAGEM COM 1000 ml - Sódio máximo 150mg/100ml. Vitaminas e minerais conforme necessidades básicas (exceto sódio). Forma líquida, estéril,",
+    "quantidade": 1200000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001017/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente pregão tem por objeto Órteses e Próteses e Materiais Especiais (placas, parafusos, hastes e outros), sob forma de consignação, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Regional de Pronto Socorro (HRPS) de Pelotas, descritas no Anexo I neste Edital, conforme condições estabelecidas na Portaria GM/MS 2.036, de 04.11.2002.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-23T12:00:00",
+  "encerramento": "2026-11-10T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1017",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102993",
+  "total_itens": 21,
+  "itens_da_linha": [
+   {
+    "descricao": "Item: 1\nCódigo GHC: 93392460\nEspecificação: HASTE INTRAMEDULAR, UMERAL EM ACO INOXIDAVEL,CROMO\nCOBALTO,VARIOS TAM.,CIMENTADA OU DE FIXACAO BIOLOGICA,C/COLO VALGO OU VARO,\nC/02 ALETAS LATERAIS E 01 MEDIAL,C/FUROS P/FIXACAO E SUTURA DE PARTES MOLES - Com\n08 tamanhos e com testes\nANEXO: 1\nUnidade: UNIDADE",
+    "quantidade": 12.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Item: 1\nCódigo GHC: 93398387\nEspecificação: MINI PARAFUSO DE AUTO COMPRESSAO -\nANEXO: 7\nUnidade: UNIDADE",
+    "quantidade": 48.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001013/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar (LÂMINAS DE SHAVER E DIVERSOS EM COMODATO), com comodato de equipamentos, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-23T12:00:00",
+  "encerramento": "2026-11-11T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1013",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102935",
+  "total_itens": 10,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 463\nEspecificação: FITA REAGENTE P/GLICEMIA CAPILAR P/ADULTO E P/NEONATO (LEITURA APARELHO) - \nANEXO: LOTE 1\nUnidade: UNIDADE",
+    "quantidade": 1037904.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001014/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente pregão tem por objeto Órteses e Próteses e Materiais Especiais (agulha, cateter, fio guia, introdutor e outros), com comodato de equipamentos nos lotes: 6, 7 e 8, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., descritas no Anexo I neste Edital, conforme condições estabelecidas na Portaria GM/MS 2.036, de 04.11.2002.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-23T12:00:00",
+  "encerramento": "2026-11-12T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1014",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102949",
+  "total_itens": 30,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 32369\nEspecificação: CATETER DE TERMODILUICAO RADIOPACO 7Fr, 110cm, MARCADO DE 10 EM 10cm, C/04 VIAS DE CORES ESPECIFICAS E SERINGA DE 3ml - \nUnidade: UNIDADE",
+    "quantidade": 36.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 37324\nEspecificação: MICRO CATETER PERIFERICO DE POLIURETANO E POLIETILENO, REVESTIMENTO INTERNO DE PTFE, COBERTURA HIDROFILICA, PONTA ARREDONDADA, DIAMETRO DE 2,4FR, 2,7FR E 2,8FR E COMPRIMENTOS DE 130 A 150CM COM SISTEMA COAXIAL. - \nUnidade: UNIDADE",
+    "quantidade": 156.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 0,
   "exclusiva_me": false
  },
  {
