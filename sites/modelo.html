@@ -166,6 +166,7 @@ details.mais summary:hover{color:var(--text)}
     <p>Empresas do Google Maps, em Porto Alegre e região, sem site no ar ou com o site quebrado. Quem tem site funcionando fica de fora; o site de cada um foi aberto duas vezes antes de contar como quebrado. Dentistas não entram: são o público da Aureon.</p>
     <p><b>Chance de comprar:</b> site quebrado ou do Google desativado +25, site grátis +20, rede social no lugar do site +15, avaliações até +20, dono que responde avaliações +15, serviço de valor alto +10, celular +10, 20 fotos ou mais +5, nota 4,7 ou mais +5, avaliação recente +5. Pesam contra: menos de 10 avaliações −10, nada novo há mais de um ano −15, ficha não reivindicada −10, nota abaixo de 3,8 −10, rede ou franquia −30. Quente: 70 ou mais. Morno: 50 ou mais.</p>
     <p>As marcações são compartilhadas: quem usa este mesmo link vê o que você marca como enviado, riscado, em até 30 segundos. O Lote do dia mostra 20 leads que você ainda não tinha visto e, riscados, os que já foram enviados hoje; o que apareceu em um dia não volta no seguinte (continua em Todos). Mande poucas mensagens por dia, uma por vez.</p>
+    <p>A mensagem vem em duas partes. Mande só a primeira: ela observa algo da empresa e faz uma pergunta, sem oferta. A segunda, em "Se responder", é só para quem respondeu. Quem não responde não recebe mais nada: é isso que evita bloqueio e banimento do número.</p>
   </details>
 </main>
 <script>
@@ -393,8 +394,8 @@ function botaoZap(digitos, texto, celular) {
   if (!assinou() || !digitos) { a.setAttribute("aria-disabled", "true"); a.title = "Preencha quem assina, lá em cima"; }
   return a;
 }
-function botaoCopiar(texto) {
-  const b = el("button", { type: "button", className: "b" }, icone("copiar"), "Copiar");
+function botaoCopiar(texto, rotulo = "Copiar") {
+  const b = el("button", { type: "button", className: "b" }, icone("copiar"), rotulo);
   b.addEventListener("click", async () => {
     try { await navigator.clipboard.writeText(texto.value); } catch (e) { texto.select(); document.execCommand("copy"); }
     b.lastChild.textContent = "Copiado";
@@ -491,6 +492,13 @@ const GENERICO = /^(escrit[oó]rio de |cl[ií]nica de |servi[cç]os? de |empresa
 const opcoes = campo => [...new Set(D.leads.map(l => l[campo]).filter(Boolean))].sort().map(v => [v, `${v} (${D.leads.filter(l => l[campo] === v).length})`]);
 
 /* ---------- mensagem ---------- */
+// Cada frase tem jeitos diferentes de dizer a mesma coisa, para as mensagens não saírem todas iguais.
+// O jeito sai do id do lead: é sempre o mesmo para aquele lead, em qualquer navegador.
+function sorteio(id, chave, opcoes) {
+  let h = 2166136261;
+  for (const c of id + chave) h = Math.imul(h ^ c.charCodeAt(0), 16777619);
+  return opcoes[(h >>> 0) % opcoes.length];
+}
 const ARTIGO_REDE = { Instagram: "o Instagram", Facebook: "o Facebook", WhatsApp: "o WhatsApp", Linktree: "um Linktree",
   "link na bio": "um link na bio", TikTok: "o TikTok", YouTube: "o YouTube", Doctoralia: "a Doctoralia",
   BoaConsulta: "a BoaConsulta", Booksy: "o Booksy", Trinks: "o Trinks" };
@@ -512,37 +520,62 @@ function mensagem(l) {
     && ["advocacia", "contabilidade", "arquitetura e interiores"].includes(l.segmento);
   if (escritorio) nome = `escritório ${semRamo}`;
   const artigo = escritorio || /^(escrit[oó]rio|est[uú]dio|studio|espa[cç]o|centro|instituto|grupo|buffet|ateli[eê]|consult[oó]rio|lava|sal[aã]o)/i.test(nome) ? "do" : "da";
-  const abertura = titulo ? `Oi, ${titulo[1]}. ${titulo[2]}, tudo bem?` : prof ? `Oi, ${prof[1]}, tudo bem?` : `Oi, tudo bem? É ${artigo} ${nome}?`;
-  const siteDe = pessoa ? "o seu site" : "o site de vocês";
-  const fichaDe = pessoa ? "a sua ficha" : "a ficha de vocês", fichaNa = pessoa ? "na sua ficha" : "na ficha de vocês";
+  const v = (seu, deVoces) => pessoa ? seu : deVoces;
+  const s = (chave, opcoes) => sorteio(l.id, chave, opcoes);
+  const oi = s("oi", ["Oi, tudo bem?", "Olá, tudo bem?", "Oi, tudo certo?", "Oi! Tudo bem?"]);
+  const abertura = titulo ? `${oi.replace(/[,!].*/, "")}, ${titulo[1]}. ${titulo[2]}, ${s("tb", ["tudo bem?", "tudo certo?", "como vai?"])}`
+    : prof ? `${oi.replace(/[,!].*/, "")}, ${prof[1]}, ${s("tb", ["tudo bem?", "tudo certo?", "como vai?"])}`
+    : `${oi} ${s("e", [`É ${artigo} ${nome}?`, `Falo com ${artigo === "do" ? "o" : "a"} ${nome}?`, `Esse é o número ${artigo} ${nome}?`])}`;
+  const siteDe = v("o seu site", "o site de vocês"), noSite = v("no seu site", "no site de vocês");
+  const fichaDe = v("a sua ficha", "a ficha de vocês"), fichaNa = v("na sua ficha", "na ficha de vocês");
+  const sabiam = s("sabiam", [v("Você já sabia?", "Vocês já sabiam?"), v("Você está sabendo?", "Vocês estão sabendo?"), v("Já tinha visto isso?", "Já tinham visto isso?")]);
+  const quemCuida = s("cuida", [v("É você que cuida dessa parte?", "Quem cuida dessa parte aí?"), v("É você quem cuida disso?", "Com quem eu falo sobre isso?"),
+    v("É você que cuida do seu site e das redes?", "Quem cuida da parte de internet de vocês?")]);
+  const rede = ARTIGO_REDE[l.rotulo_link] || "uma rede social";
   let obs;
   if (l.situacao === "site quebrado") {
-    const como = /certificado/.test(l.site_quebrado) ? "o navegador avisa que ele não é seguro, porque o certificado venceu. Muita gente fecha a página nessa hora"
-      : /parado/.test(l.site_quebrado) ? "aparece uma página de domínio parado, no lugar do site" : "ele não carregou";
-    obs = `Fui abrir ${siteDe} (${l.rotulo_link}) e ${como}.`;
+    const como = /certificado/.test(l.site_quebrado) ? s("como", ["o navegador avisou que ele não é seguro (o certificado venceu)", "apareceu um aviso de site não seguro, porque o certificado venceu"])
+      : /parado/.test(l.site_quebrado) ? s("como", ["apareceu uma página de domínio parado no lugar do site", "abriu uma página de domínio à venda, e não o site"])
+      : s("como", ["ele não carregou", "ele não abriu", "a página não carregou"]);
+    obs = s("obs", [`Fui abrir ${siteDe} pelo Google e ${como}.`, `Tentei entrar ${noSite} (${l.rotulo_link}) e ${como}.`, `Entrei ${noSite} agora há pouco e ${como}.`]) + " " + sabiam;
   } else if (l.situacao === "site do Google desativado") {
-    obs = `O link de site que aparece ${fichaNa} do Google é de um site grátis que o próprio Google desativou em 2024: quem clica não encontra nada.`;
+    obs = s("obs", [`O link de site que aparece ${fichaNa} do Google não abre mais: é um daqueles sites grátis que o Google desativou em 2024.`,
+      `Cliquei no site que aparece ${fichaNa} do Google e não abriu nada. É do tipo de site grátis que o próprio Google tirou do ar em 2024.`,
+      `Reparei que o link de site ${fichaNa} do Google leva para uma página que não existe mais (o Google desativou esses sites grátis em 2024).`]) + " " + sabiam;
   } else if (l.situacao === "site grátis") {
-    obs = `Vi que ${siteDe} está num endereço grátis (${l.rotulo_link}), sem domínio próprio.`;
+    obs = s("obs", [`Vi que ${siteDe} está num endereço grátis (${l.rotulo_link}).`, `Reparei que ${siteDe} usa um endereço gratuito (${l.rotulo_link}), sem domínio próprio.`,
+      `Entrei ${noSite} e vi que ele está num endereço grátis (${l.rotulo_link}).`]) + " " + quemCuida;
   } else if (l.situacao === "só rede social") {
-    obs = `Vi que, no lugar do site, ${fichaDe} no Google leva para ${ARTIGO_REDE[l.rotulo_link] || "uma rede social"}.`;
+    obs = s("obs", [`Vi no Google que o link de site ${v("da sua ficha", "de vocês")} leva para ${rede}.`, `Reparei que, no lugar do site, ${fichaDe} no Google leva para ${rede}.`,
+      `${v("Te procurei", "Procurei vocês")} no Google e o botão de site leva para ${rede}.`]) + " " + quemCuida;
   } else {
-    obs = `Vi que ${fichaDe} no Google não tem site.`;
+    obs = s("obs", [`${v("Te procurei", "Procurei vocês")} no Google e não achei site.`, `Vi que ${fichaDe} no Google não tem site.`, `Estava olhando ${fichaDe} no Google e não encontrei link de site.`])
+      + " " + s("tem", [v("Você tem algum que eu não encontrei?", "Vocês têm algum que eu não encontrei?"), v("Tem algum que eu não achei?", "Tem algum que eu não achei?"),
+        v("Você tem site e só não está ali?", "Vocês têm site e só não está ali?")]);
   }
   const topico = (l.topicos || []).find(([t, n]) => n >= 3 && ELOGIO.test(t));
-  const elogio = l.nota >= 4.5 && l.avaliacoes >= 20
-    ? `E ${pessoa ? "você tem" : "vocês têm"} nota ${virgula(l.nota)} em ${l.avaliacoes} avaliações` + (topico ? `, com "${topico[0]}" entre as palavras que mais aparecem nelas.` : ".") + " "
-    : "";
-  return [abertura, obs + " " + elogio + `Quem procura ${l.busca} em ${l.cidade} costuma olhar o site antes de chamar.`,
-    `Meu nome é ${eu() || "[seu nome]"}, sou da ${empresa() || "[empresa]"}. Fazemos sites para ${l.plural}. Posso te mandar um exemplo de como ficaria ${pessoa ? "o seu" : "o de vocês"}?`,
-    "Se não for o momento, me avisa que não mando mais."].join("\n\n");
+  const motivo = l.nota >= 4.5 && l.avaliacoes >= 20
+    ? `${v("Você tem", "Vocês têm")} nota ${virgula(l.nota)} em ${l.avaliacoes} avaliações` + (topico ? `, com "${topico[0]}" entre as palavras que mais aparecem nelas` : "")
+      + s("motivo", [": um site mostraria isso para quem ainda não conhece.", ", e um site ajuda a mostrar isso para quem ainda não conhece.", ". Dá para aproveitar isso num site."])
+    : s("motivo", [`Quem procura ${l.busca} em ${l.cidade} costuma olhar o site antes de chamar.`, `Muita gente que procura ${l.busca} em ${l.cidade} confere o site antes de entrar em contato.`,
+      `Hoje quem busca ${l.busca} em ${l.cidade} quase sempre olha o site antes de chamar.`]);
+  const quem = eu() || "[seu nome]", onde = empresa() || "[empresa]";
+  // Duas partes: a primeira só observa e pergunta (sem oferta, para não ter cara de disparo); a segunda é para quem respondeu
+  return [[abertura, obs].join("\n\n"),
+    [s("eu", [`Meu nome é ${quem}, sou da ${onde}.`, `Prazer, aqui é ${quem}, da ${onde}.`, `Me chamo ${quem} e trabalho na ${onde}.`])
+      + " " + s("faz", [`Fazemos sites para ${l.plural}.`, `A gente faz sites para ${l.plural}.`, `Trabalhamos com sites para ${l.plural}.`]),
+     motivo,
+     s("fecho", [`Posso te mandar um exemplo de como ficaria ${v("o seu", "o de vocês")}?`, `Quer que eu te mande um exemplo de como ficaria ${v("o seu", "o de vocês")}?`,
+       "Posso te mostrar um exemplo de como ficaria?"])].join("\n\n")];
 }
 
 /* ---------- lista ---------- */
 const f = { vista: "lote", segmento: "", situacao: "", cidade: "", envio: "" };
 const enviado = id => marcado("enviado", id), respondeu = id => marcado("respondeu", id);
 function cartaoLead(l) {
-  const texto = el("textarea", { className: "campo", value: mensagem(l), ariaLabel: "Mensagem para " + l.nome });
+  const [primeira, segunda] = mensagem(l);
+  const texto = el("textarea", { className: "campo", value: primeira, ariaLabel: "Primeira mensagem para " + l.nome, style: "min-height:120px" });
+  const resposta = el("textarea", { className: "campo", value: segunda, ariaLabel: "Mensagem para " + l.nome + " se responder", style: "min-height:150px" });
   let card;
   const pintar = () => { card.classList.toggle("feito", enviado(l.id) && !respondeu(l.id)); card.classList.toggle("ok", respondeu(l.id)); };
   const bEnv = marcaBotao("Enviado", "enviado", l.id, () => { pintar(); contar(); });
@@ -569,7 +602,8 @@ function cartaoLead(l) {
       topicos.length || (l.destaques || []).length ? el("div", { className: "clientes" }, el("span", { className: "rot", textContent: "O que os clientes dizem" }),
         topicos.length ? el("div", { className: "tags", style: "margin:0" }, topicos.map(([t, n]) => el("span", { className: "tag", textContent: `${t} ${n}` }))) : null,
         (l.destaques || []).slice(0, 2).map(q => el("q", { textContent: q }))) : null,
-      texto,
+      el("div", {}, el("span", { className: "rot", textContent: "Primeira mensagem (o botão do WhatsApp manda esta)" }), texto),
+      el("div", {}, el("span", { className: "rot", textContent: "Se responder" }), resposta, el("div", { style: "margin-top:8px" }, botaoCopiar(resposta, "Copiar resposta"))),
       el("p", { className: "c-info", style: "margin:0", textContent: [l.categoria, l.telefone, [l.bairro, l.cidade].filter(Boolean).join(", "), l.fotos ? `${l.fotos} fotos` : null,
         l.responde ? "responde avaliações" : null, l.ultima_avaliacao ? `avaliação de ${l.ultima_avaliacao}` : null].filter(Boolean).join(" · ") }),
       el("div", { className: "links" }, el("a", { href: l.maps, target: "_blank", rel: "noopener", textContent: "Ver no Google Maps" }))] });
@@ -600,7 +634,7 @@ function render() {
       seletor("Envio", "Todos", [["pendente", "Ainda não enviados"], ["enviado", "Enviados, sem resposta"], ["respondeu", "Responderam"]], f.envio, mudou(v => f.envio = v)),
       el("div", { className: "fim" }, botaoCsv("leads-sites", () => ls.map(l => ({ temperatura: l.temperatura, pontos: l.pontos, nome: l.nome, segmento: l.segmento,
         situacao: l.situacao, link_atual: l.site || "", telefone: l.telefone, tipo_telefone: l.tipo_telefone, nota: l.nota || "", avaliacoes: l.avaliacoes,
-        cidade: l.cidade, bairro: l.bairro, a_favor: l.a_favor.join("; "), atencao: l.atencao.join("; "), maps: l.maps, mensagem: mensagem(l) }))))) : null,
+        cidade: l.cidade, bairro: l.bairro, a_favor: l.a_favor.join("; "), atencao: l.atencao.join("; "), maps: l.maps, mensagem: mensagem(l)[0], se_responder: mensagem(l)[1] }))))) : null,
     el("p", { className: "contagem num", textContent: f.vista === "lote" ? textoLote("com mais chance de comprar, que você ainda não tinha visto", restantes(D.leads))
       : f.vista === "novos" ? `${ls.length} ${ls.length === 1 ? "empresa encontrada" : "empresas encontradas"} nos últimos 3 dias` : `${ls.length} ${ls.length === 1 ? "empresa" : "empresas"}` }),
     ...lista(ls, cartaoLead, f.vista === "lote" ? "Não sobrou lead novo com esses filtros: todos já foram vistos ou enviados. Veja em Todos, ou espere a próxima busca."

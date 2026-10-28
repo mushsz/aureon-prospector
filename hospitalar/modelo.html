@@ -170,6 +170,7 @@ details.mais summary:hover{color:var(--text)}
     <p><b>Clínicas:</b> Google Maps, Porto Alegre e região. A temperatura soma celular (WhatsApp) +25, consumo do segmento de 8 a 20, segmento que você já atende +10, avaliações até +20, 24 horas +10 e nota 4,5 ou mais +5; rede nacional −20. Quente: 70 ou mais. Morno: 50 ou mais. O lote do dia são os 20 mais quentes que ninguém enviou nem viu em dias anteriores.</p>
     <p><b>Hospitais:</b> CNES (Ministério da Saúde), privados e filantrópicos ativos. Compram por cotação: o caminho é entrar no cadastro de fornecedores.</p>
     <p>As marcações são compartilhadas: quem usa este mesmo link vê o que você marca como enviado, riscado, em até 30 segundos. O Lote do dia mostra 20 leads que você ainda não tinha visto e, riscados, os que já foram enviados hoje; o que apareceu em um dia não volta no seguinte (continua em Todos). Mande poucas mensagens por dia, uma por vez.</p>
+    <p>A mensagem do WhatsApp vem em duas partes. Mande só a primeira: ela pergunta quem cuida das compras, sem oferta. A segunda, em "Se responder", é só para quem respondeu. Quem não responde não recebe mais nada: é isso que evita bloqueio e banimento do número.</p>
   </details>
 </main>
 <script>
@@ -397,8 +398,8 @@ function botaoZap(digitos, texto, celular) {
   if (!assinou() || !digitos) { a.setAttribute("aria-disabled", "true"); a.title = "Preencha quem assina, lá em cima"; }
   return a;
 }
-function botaoCopiar(texto) {
-  const b = el("button", { type: "button", className: "b" }, icone("copiar"), "Copiar");
+function botaoCopiar(texto, rotulo = "Copiar") {
+  const b = el("button", { type: "button", className: "b" }, icone("copiar"), rotulo);
   b.addEventListener("click", async () => {
     try { await navigator.clipboard.writeText(texto.value); } catch (e) { texto.select(); document.execCommand("copy"); }
     b.lastChild.textContent = "Copiado";
@@ -497,6 +498,13 @@ const GENERICO = /^(cl[ií]nica|hospital|centro|consult[oó]rio|residencial|lar|
 const opcoes = (lista, campo) => [...new Set(lista.map(x => x[campo]).filter(Boolean))].sort().map(v => [v, v]);
 
 /* ---------- textos ---------- */
+// Cada frase tem jeitos diferentes de dizer a mesma coisa, para as mensagens não saírem todas iguais.
+// O jeito sai do id do lead: é sempre o mesmo para aquele lead, em qualquer navegador.
+function sorteio(id, chave, opcoes) {
+  let h = 2166136261;
+  for (const c of id + chave) h = Math.imul(h ^ c.charCodeAt(0), 16777619);
+  return opcoes[(h >>> 0) % opcoes.length];
+}
 const OFERTA = {
   "veterinária": ["clínicas e hospitais veterinários", "fio de sutura, glicosímetro, macas e equipamento de centro cirúrgico"],
   "casa de repouso": ["casas de repouso", "camas hospitalares, poltronas reclináveis, cadeiras de banho e glicosímetros"],
@@ -511,13 +519,27 @@ function mensagemEmpresa(l) {
   // "Dra. Ana Lima" é a pessoa; "Dra. de Bicho" é trocadilho: só vale nome com inicial maiúscula
   const pessoa = nome.match(/^(Dra?)\.?\s+([A-ZÀ-Ú][a-zà-ú]+)/);
   const artigo = /^(hospital|residencial|lar|centro|instituto|espa[cç]o|studio|est[uú]dio|pronto|consult[oó]rio|ambulat[oó]rio|grupo|recanto|cantinho|n[uú]cleo|day|home|atendimento|cuidado)\b/i.test(nome) ? "do" : "da";
-  const abertura = pessoa ? `Oi, ${pessoa[1]}. ${pessoa[2]}, tudo bem?` : `Oi, tudo bem? É ${artigo} ${nome}?`;
+  const v = (seu, deVoces) => pessoa ? seu : deVoces;
+  const s = (chave, opcoes) => sorteio(l.id, chave, opcoes);
+  const oi = s("oi", ["Oi, tudo bem?", "Olá, tudo bem?", "Oi, tudo certo?", "Oi! Tudo bem?"]);
+  const abertura = pessoa ? `${oi.replace(/[,!].*/, "")}, ${pessoa[1]}. ${pessoa[2]}, ${s("tb", ["tudo bem?", "tudo certo?", "como vai?"])}`
+    : `${oi} ${s("e", [`É ${artigo} ${nome}?`, `Falo com ${artigo === "do" ? "o" : "a"} ${nome}?`, `Esse é o número ${artigo} ${nome}?`])}`;
+  const pergunta = pessoa
+    ? s("compras", ["É você quem cuida das compras de material aí?", "As compras de material aí passam por você?", "Quem cuida das compras de material aí, é você?"])
+    : s("compras", ["Quem cuida das compras de material aí?", "Com quem eu falo sobre a compra de material de vocês?",
+      "Quem é a pessoa que cuida das compras de material e equipamento de vocês?", "Queria falar com quem cuida das compras de material. É por aqui mesmo?"]);
   const [publico, itens] = OFERTA[l.segmento];
-  const prova = publico ? `Já atendemos ${publico} com ${itens}.` : `Trabalhamos com ${itens}, e já atendemos UPAs, clínicas veterinárias e casas de repouso.`;
-  return [abertura,
-    `Meu nome é ${eu() || "[seu nome]"}, sou da ${empresa() || "[empresa]"}, fornecedora de material médico-hospitalar. ${prova}`,
-    `Se me disser o que ${pessoa ? "você mais compra" : "vocês mais compram"} no mês, faço uma cotação para comparar com o fornecedor de hoje. Posso te mandar?`,
-    "Se não for o momento, me avisa que não mando mais."].join("\n\n");
+  const prova = publico ? s("prova", [`Já atendemos ${publico} com ${itens}.`, `Atendemos ${publico} com ${itens}.`, `Já vendemos ${itens} para ${publico}.`])
+    : s("prova", [`Trabalhamos com ${itens}, e já atendemos UPAs, clínicas veterinárias e casas de repouso.`,
+      `Vendemos ${itens}, e já atendemos UPAs, clínicas veterinárias e casas de repouso.`]);
+  const quem = eu() || "[seu nome]", onde = empresa() || "[empresa]";
+  // Duas partes: a primeira só pergunta quem compra (sem oferta, para não ter cara de disparo); a segunda é para quem respondeu
+  return [[abertura, pergunta].join("\n\n"),
+    [s("eu", [`Meu nome é ${quem}, sou da ${onde}, fornecedora de material médico-hospitalar.`, `Prazer, aqui é ${quem}, da ${onde}. Somos fornecedores de material médico-hospitalar.`,
+      `Me chamo ${quem} e trabalho na ${onde}, que fornece material médico-hospitalar.`]) + " " + prova,
+     s("cotacao", [`Se me disser o que ${v("você mais compra", "vocês mais compram")} no mês, faço uma cotação para comparar com o fornecedor de hoje. Posso te mandar?`,
+       `Me conta o que ${v("você mais usa", "vocês mais usam")} no mês que eu monto uma cotação para comparar com o que ${v("você paga", "vocês pagam")} hoje.`,
+       `Se quiser, me passa os itens que ${v("você mais compra", "vocês mais compram")} e eu faço uma cotação para comparar com o fornecedor atual.`])].join("\n\n")];
 }
 function emailHospital(h) {
   const nome = nomeCurto(h.nome, GENERICO);
@@ -606,7 +628,9 @@ function painelCompras() {
 const fE = { vista: "lote", segmento: "", cidade: "", envio: "" };
 const enviado = id => marcado("enviado", id), respondeu = id => marcado("respondeu", id);
 function cartaoEmpresa(l) {
-  const texto = el("textarea", { className: "campo", value: mensagemEmpresa(l), ariaLabel: "Mensagem para " + l.nome });
+  const [primeira, segunda] = mensagemEmpresa(l);
+  const texto = el("textarea", { className: "campo", value: primeira, ariaLabel: "Primeira mensagem para " + l.nome, style: "min-height:110px" });
+  const resposta = el("textarea", { className: "campo", value: segunda, ariaLabel: "Mensagem para " + l.nome + " se responder", style: "min-height:150px" });
   let card;
   const pintar = () => { card.classList.toggle("feito", enviado(l.id) && !respondeu(l.id)); card.classList.toggle("ok", respondeu(l.id)); };
   const bEnv = marcaBotao("Enviado", "enviado", l.id, () => { pintar(); contar(); });
@@ -619,10 +643,12 @@ function cartaoEmpresa(l) {
     info: [l.segmento, l.cidade, l.nota ? `★ ${virgula(l.nota)} (${l.avaliacoes})` : null, l.tipo_telefone],
     tags: [tagNovo(l), ...l.motivos.slice(0, 3).map(m => el("span", { className: "tag", textContent: m }))],
     acoes: [botaoZap(l.digitos, texto, l.tipo_telefone === "celular"), botaoCopiar(texto), botaoLigar(l.digitos),
-      l.email ? el("a", { className: "b", href: `mailto:${l.email}?subject=${encodeURIComponent("Cotação de material médico-hospitalar")}&body=${encodeURIComponent(texto.value)}` }, icone("mail"), "E-mail") : null],
+      l.email ? el("a", { className: "b", href: `mailto:${l.email}?subject=${encodeURIComponent("Cotação de material médico-hospitalar")}&body=${encodeURIComponent("Olá, tudo bem?\n\n" + segunda)}` }, icone("mail"), "E-mail") : null],
     marcas: [bEnv, bResp],
     resumo: "Mensagem e detalhes",
-    detalhes: [texto, el("p", { className: "c-info", textContent: [l.categoria, l.telefone, l.email, [l.bairro, l.cidade].filter(Boolean).join(", "), l.endereco].filter(Boolean).join(" · ") }),
+    detalhes: [el("div", {}, el("span", { className: "rot", textContent: "Primeira mensagem (o botão do WhatsApp manda esta)" }), texto),
+      el("div", {}, el("span", { className: "rot", textContent: "Se responder" }), resposta, el("div", { style: "margin-top:8px" }, botaoCopiar(resposta, "Copiar resposta"))),
+      el("p", { className: "c-info", textContent: [l.categoria, l.telefone, l.email, [l.bairro, l.cidade].filter(Boolean).join(", "), l.endereco].filter(Boolean).join(" · ") }),
       el("div", { className: "links" }, el("a", { href: l.maps, target: "_blank", rel: "noopener", textContent: "Ver no Google Maps" }),
         l.site ? el("a", { href: l.site, target: "_blank", rel: "noopener", textContent: "Site ou rede social" }) : null)] });
   card._pintar = pintar;
@@ -645,7 +671,7 @@ function painelEmpresas() {
       seletor("Situação", "Todas", [["pendente", "Ainda não enviados"], ["enviado", "Enviados, sem resposta"], ["respondeu", "Responderam"]], fE.envio, mudou(v => fE.envio = v)),
       el("div", { className: "fim" }, botaoCsv("clinicas", () => ls.map(l => ({ temperatura: l.temperatura, pontos: l.pontos, nome: l.nome, segmento: l.segmento,
         telefone: l.telefone, tipo_telefone: l.tipo_telefone, email: l.email, nota: l.nota || "", avaliacoes: l.avaliacoes, cidade: l.cidade, bairro: l.bairro,
-        motivos: l.motivos.join("; "), maps: l.maps, mensagem: mensagemEmpresa(l) }))))) : null,
+        motivos: l.motivos.join("; "), maps: l.maps, mensagem: mensagemEmpresa(l)[0], se_responder: mensagemEmpresa(l)[1] }))))) : null,
     el("p", { className: "contagem num", textContent: fE.vista === "lote" ? textoLote("mais quentes, que você ainda não tinha visto", restantes(D.empresas.filter(l => l.digitos)))
       : fE.vista === "novos" ? `${ls.length} ${ls.length === 1 ? "clínica encontrada" : "clínicas encontradas"} nos últimos 3 dias` : `${ls.length} ${ls.length === 1 ? "clínica" : "clínicas"}` }),
     ...lista(ls, cartaoEmpresa, fE.vista === "lote" ? "Não sobrou lead novo com esses filtros: todos já foram vistos ou enviados. Veja em Todos, ou espere a próxima busca."
