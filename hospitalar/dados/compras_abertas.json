@@ -1,111 +1,5 @@
 [
  {
-  "id": "87246120000151-1-000212/2026",
-  "orgao": "MUNICIPIO DE ESTRELA",
-  "unidade": "FUNDO MUN SAUDE",
-  "cidade": "Estrela",
-  "objeto": "Referente a processo de dispensa de licitação para aquisição de insumos ambulatoriais e odontológicos para a Secretaria de Saúde. Obs.: Recurso referente a Emenda de Comissão - C/C 42.641-5 Banco do Brasil. Portaria n°8515 de 22 de Outubro de 2025.",
-  "modalidade": "Dispensa",
-  "srp": false,
-  "valor_estimado": 35096.3,
-  "abertura": "2026-10-23T08:00:00",
-  "encerramento": "2026-10-27T17:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87246120000151/2026/212",
-  "link_sistema": null,
-  "total_itens": 46,
-  "itens_da_linha": [
-   {
-    "descricao": "LUVA CIRÚRGICA ESTÉRIL 6,5, EM LATEX NATURAL, ANATÕMICA, ACONDICIONADA INDIVIDUALMENTE",
-    "quantidade": 50.0,
-    "unidade": "PAR (PAR)",
-    "valor_total": 130.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA LUER LOCK 10ML, DESCARTÁVEL, ESTÉRIL",
-    "quantidade": 150.0,
-    "unidade": "UNIDADE (un)",
-    "valor_total": 120.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DE INSULINA 0,5ML, ESTÉRIL, COM AGULHA HIPODÉRMICA DE 8X0,3MM, CAIXA C/100",
-    "quantidade": 10.0,
-    "unidade": "CAIXA (CX)",
-    "valor_total": 2462.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LUVA CIRÚRGICA ESTÉRIL N°8, EM LATEX NATURAL, ANATÔMICA, ACONDICIONADA INDIVIDUALMENTE",
-    "quantidade": 200.0,
-    "unidade": "PAR (PAR)",
-    "valor_total": 460.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA TNT, UMEDECIDA COM ÁLCOOL 70%, TAM. MÍNIMO 6,5X3CM, CAIXA C/100",
-    "quantidade": 50.0,
-    "unidade": "CAIXA (CX)",
-    "valor_total": 385.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 3557.0,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-000969/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente pregão tem por objeto Órteses e Próteses e Materiais Especiais (HASTES, COMPONENTES FEMORAIS E TIBIAIS E OUTROS), sob forma de consignação, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o HOSPITAL GERAL DE BONSUCESSO DO RIO DE JANEIRO, filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., descritas no Anexo I neste Edital, conforme condições estabelecidas na Portaria GM/MS 2.036, de 04.11.2002.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-13T14:30:00",
-  "encerramento": "2026-10-28T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/969",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102180",
-  "total_itens": 27,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 93392460\nEspecificação: HASTE INTRAMEDULAR,UMERAL EM ACO INOXIDAVEL,CROMO COBALTO,VARIOS TAM.,CIMENTADA OU DE FIXACAO BIOLOGICA,C/COLO VALGO OU VARO, C/02 ALETAS LATERAIS E 01 MEDIAL,C/FUROS P/FIXACAO E SUTURA DE PARTES MOLES - Com 08 tamanhos e com testes\nANEXO: 9\nUnidade: UNIDADE",
-    "quantidade": 48.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
   "id": "88771001000180-1-000339/2026",
   "orgao": "MUNICIPIO DE TRAMANDAI",
   "unidade": "Secretaria Municipal de Saúde",
@@ -4851,6 +4745,48 @@
   "exclusiva_me": false
  },
  {
+  "id": "00394452000103-1-023072/2026",
+  "orgao": "COMANDO DO EXERCITO",
+  "unidade": "HOSPITAL GERAL DE SANTA MARIA",
+  "cidade": "Santa Maria",
+  "objeto": "Aquisição de materiais para o Estágio de Atendimento Pré-Hospitalar (APH)",
+  "modalidade": "Dispensa",
+  "srp": true,
+  "valor_estimado": 2112.82,
+  "abertura": "2026-10-29T08:00:00",
+  "encerramento": "2026-11-05T08:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23072",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16041606002612026",
+  "total_itens": 11,
+  "itens_da_linha": [
+   {
+    "descricao": "Sistema Para Compressão tipo: torniquete não pneumático, aplicação: tático, p/ atendimento pré hospitalar, modelo: cinta em nylon, c/ cor, tipo fecho: auto ajustável c/ velcro, fivela e barra pressão, tipo uso: reusável",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 319.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Gaze Uso Em Saúde modelo: compressa, dobra em z - aph, material: tecido 100% algodão, c/ elemento hemostático, radiopacidade: com elemento radiopaco, dimensão fechada: cerca de 7,5 cm x 4 metros, esterilidade: estéril, uso único",
+    "quantidade": 2.0,
+    "unidade": "Embalagem UN",
+    "valor_total": 170.04,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 489.84,
+  "itens_principais": 0,
+  "exclusiva_me": true
+ },
+ {
   "id": "88488366000100-1-000421/2026",
   "orgao": "MUNICIPIO DE SANTA MARIA",
   "unidade": "PREFEITURA MUNICIPAL DE SANTA MARIA/RS",
@@ -6519,6 +6455,37 @@
   "exclusiva_me": false
  },
  {
+  "id": "04712762000171-1-000053/2026",
+  "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL DA REGIAO DOS CAMPOS DE CIMA DA SERRA - CONDESUS",
+  "unidade": "Consórcio Intermunicipal de Desenvolvimento Sustentável da Região dos Campos de Cima da Serra",
+  "cidade": "Vacaria",
+  "objeto": "Aquisição de mobiliários em geral, por parte dos municípios consorciados ao CONDESUS e da própria entidade",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 31856112.9,
+  "abertura": "2026-10-26T16:30:00",
+  "encerramento": "2026-11-10T08:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/04712762000171/2026/53",
+  "link_sistema": "",
+  "total_itens": 49,
+  "itens_da_linha": [
+   {
+    "descricao": "1 - Banco de Praça em Madeira \n\n1. Características Gerais \n\n•\tBanco para uso externo, com assento e encosto em madeira. \n\n•\tCapacidade para no mínimo 3 pessoas. \n\n2. Dimensões Mínimas \n\n•\tComprimento: 1,50 m \n\n•\tAltura total: 80 cm \n\n•\tAltura do assento: 45 cm \n\n•\tProfundidade do assento: 40 cm \n\n•\tEspessura das réguas: 2 cm \n\n3. Material \n\n•\tMadeira de alta resistência, podendo ser cumaru, garape",
+    "quantidade": 330.0,
+    "unidade": "UNIDADE",
+    "valor_total": 308880.0,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 308880.0,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
   "id": "88696810000175-1-000233/2026",
   "orgao": "MUNICIPIO DE CAMAQUA",
   "unidade": "Secretaria Munic da Saude -sms -asps",
@@ -7626,19 +7593,105 @@
   "exclusiva_me": false
  },
  {
-  "id": "08007591000130-1-000005/2026",
+  "id": "87482535000124-1-001923/2026",
+  "orgao": "MUNICIPIO DE DOM PEDRITO",
+  "unidade": "Prefeitura Municipal de Dom Pedrito",
+  "cidade": "Dom Pedrito",
+  "objeto": "[Portal de Compras Públicas] - Materiais médicos veterinários para Casa de Passagem do Bem- Estar Animal",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-23T15:00:00",
+  "encerramento": "2026-11-10T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87482535000124/2026/1923",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Dom-Pedrito-1520/RPE-148-2026-2026-520809",
+  "total_itens": 41,
+  "itens_da_linha": [
+   {
+    "descricao": "Fio poliglactina 910 n 2-0 violeta -absorvivel - agulhado - esteril",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 4 - felina (tipo tom cat) - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 4 - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 06 - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 08 - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda uretral n 10 - unidade",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": true
+ },
+ {
+  "id": "08007591000130-1-000006/2026",
   "orgao": "CONSORCIO DE SAUDE INTER-MUNICIPAL",
   "unidade": "CONSIM - Consorcio de Saúde Inter-Municipal",
   "cidade": "Palmeira das Missões",
   "objeto": "MATERIAIS AMBULATORIAIS, HOSPITALARES E EQUIPAMENTOS HOSPITALARES.",
   "modalidade": "Pregão - Eletrônico",
   "srp": true,
-  "valor_estimado": 6475193.66,
+  "valor_estimado": 6445825.34,
   "abertura": "2026-10-27T09:00:00",
   "encerramento": "2026-11-10T08:59:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/08007591000130/2026/5",
-  "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]v8OTrk8MPrzzIE5uAJvO2juQZBwjssFxqYrv/s0Frn8QbOkIEFfrMNqzKF1LdxDCp_D5TdP6q5MH9dl3VkB8imEHgNldL6HZi3tJ/fA5KhM=",
-  "total_itens": 441,
+  "link_pncp": "https://pncp.gov.br/app/editais/08007591000130/2026/6",
+  "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]en5PMpc7LWhqstcWQ6iPzZT8kTalIFKsHzWzmQu/taOjItO61lZLBubHh4ynsDZiebF0ZMQVlE/GjSUTAWHwOISLFVgPNI4GBPa5gQObX58=",
+  "total_itens": 439,
   "itens_da_linha": [
    {
     "descricao": "ÁGUA DESTILADA PARA AUTOCLAVE 5L: APRESENTAÇÃO FRASCO DE 5 LITROS.",
@@ -8904,92 +8957,6 @@
   "exclusiva_me": false
  },
  {
-  "id": "87482535000124-1-001923/2026",
-  "orgao": "MUNICIPIO DE DOM PEDRITO",
-  "unidade": "Prefeitura Municipal de Dom Pedrito",
-  "cidade": "Dom Pedrito",
-  "objeto": "[Portal de Compras Públicas] - Materiais médicos veterinários para Casa de Passagem do Bem- Estar Animal",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-23T15:00:00",
-  "encerramento": "2026-11-10T08:59:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87482535000124/2026/1923",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Dom-Pedrito-1520/RPE-148-2026-2026-520809",
-  "total_itens": 41,
-  "itens_da_linha": [
-   {
-    "descricao": "Fio poliglactina 910 n 2-0 violeta -absorvivel - agulhado - esteril",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Sonda uretral n 4 - felina (tipo tom cat) - unidade",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Sonda uretral n 4 - unidade",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Sonda uretral n 06 - unidade",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Sonda uretral n 08 - unidade",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Sonda uretral n 10 - unidade",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": true
- },
- {
   "id": "15126437000305-1-004365/2026",
   "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
   "unidade": "HOSPITAL UNIV. DR. MIGUEL RIET CORREA JUNIOR",
@@ -9255,6 +9222,37 @@
   "exclusiva_me": false
  },
  {
+  "id": "92963560000160-1-001395/2026",
+  "orgao": "MUNICIPIO DE PORTO ALEGRE",
+  "unidade": "DLC - Diretoria de Licitações e Contratos",
+  "cidade": "Porto Alegre",
+  "objeto": "[Portal de Compras Públicas] - Registro de preços para material de consumo hospitalar - tubo endotraqueal, sonda aspiração traqueal, dreno torácico, cânula traqueostomia.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 121679.34,
+  "abertura": "2026-10-28T18:00:00",
+  "encerramento": "2026-11-11T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92963560000160/2026/1395",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Porto-Alegre-206/RPE-369-2026-2026-521660",
+  "total_itens": 21,
+  "itens_da_linha": [
+   {
+    "descricao": "Sonda de aspiracao traqueal, numero 4",
+    "quantidade": 3270.0,
+    "unidade": "Unidade",
+    "valor_total": 2102.937,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 2102.94,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
   "id": "92787118000120-1-001013/2026",
   "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
   "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
@@ -9326,6 +9324,37 @@
   "valor_itens_da_linha": 3971.74,
   "itens_principais": 2,
   "exclusiva_me": true
+ },
+ {
+  "id": "88254875000160-1-000517/2026",
+  "orgao": "MUNICIPIO DE NOVO HAMBURGO",
+  "unidade": "Diretoria de Saúde - Fundo Municipal de Saúde",
+  "cidade": "Novo Hamburgo",
+  "objeto": "PREGÃO ELETRÔNICO PARA AQUISIÇÃO DE MOBILIÁRIO, EQUIPAMENTOS E MATERIAIS PERMANENTES DIVERSOS PARA O MUNICÍPIO DE NOVO HAMBURGO.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 245842.06,
+  "abertura": "2026-10-28T16:00:00",
+  "encerramento": "2026-11-12T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88254875000160/2026/517",
+  "link_sistema": null,
+  "total_itens": 28,
+  "itens_da_linha": [
+   {
+    "descricao": "POLTRONA HOSPITALAR ESTOFADA\r\nPOLTRONA HOSPITALAR ESTOFADA, UTILIZADA EM AMBIENTES DE ATENDIMENTO À SAÚDE, COM CAPACIDADE DE NO MÍNIMO 180KG. ARMAÇÃO EM AÇO/FERO PINTADO. ASSENTO/ENCOSTO/BRAÇOS E APOIO PARA OS PÉS EM ESPUMA DE ALTA DENSIDADE, SENDO ENTRE D30 E D33 PARA O ENCOSTRO E D50 (INJETADO) PARA ASSENTO. REVESTIMENTO DE COURINO. RECLINAÇÃO COM ACIONAMENTO MANUAL. DESCANSO PARA OS PÉS INTEGRA",
+    "quantidade": 6.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 5379.96,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 5379.96,
+  "itens_principais": 1,
+  "exclusiva_me": false
  },
  {
   "id": "95591764000105-1-000302/2026",
@@ -10018,6 +10047,48 @@
   "exclusiva_me": false
  },
  {
+  "id": "87612883000179-1-000080/2026",
+  "orgao": "MUNICIPIO DE VICENTE DUTRA",
+  "unidade": "Manutencao do Fundo Municipal de Saúde",
+  "cidade": "Vicente Dutra",
+  "objeto": "A presente contratação tem por finalidade a aquisição de equipamentos e materiais destinados à área da saúde, visando atender às necessidades dos serviços prestados à população, especialmente no que se refere à aferição da pressão arterial, ao monitoramento de sinais vitais e ao acondicionamento e transporte de materiais termossensíveis. A aquisição contempla itens que se mostraram necessários à estruturação e ao adequado funcionamento dos serviços de saúde, buscando assegurar melhores condições de atendimento, segurança e qualidade na assistência prestada, bem como a continuidade dos serviços públicos de saúde no Município de Vicente Dutra/RS.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 21707.57,
+  "abertura": "2026-10-27T17:00:00",
+  "encerramento": "2026-11-17T07:50:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87612883000179/2026/80",
+  "link_sistema": null,
+  "total_itens": 6,
+  "itens_da_linha": [
+   {
+    "descricao": "Aparelho de Pressão Adulto Com Estetoscópio Fecho em Velcro: O aparelho de pressão é um esfigmomanômetro que utiliza um manguito inflável com fecho de velcro, conectado a um medidor de pressão. Ele é acompanhado por um estetoscópio para auscultar os sons do pulso durante a medição da pressão arterial; Este dispositivo é comum em ambientes clínicos e domésticos para monitorar a pressão arterial de ",
+    "quantidade": 10.0,
+    "unidade": "UN (UN)",
+    "valor_total": 2380.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro adulto obeso destiando á aferição não invasive da pressão arterial em pacientes obesos, composto por monômetro, manguitos/braçadeiras.",
+    "quantidade": 1.0,
+    "unidade": "UN (UN)",
+    "valor_total": 207.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 2587.0,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
   "id": "13016717000173-1-000251/2026",
   "orgao": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
   "unidade": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
@@ -10057,6 +10128,37 @@
   ],
   "valor_itens_da_linha": 334781.0,
   "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "11055682000156-1-000553/2026",
+  "orgao": "FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH",
+  "unidade": "Diretoria de Gestão Hospitalar",
+  "cidade": "Novo Hamburgo",
+  "objeto": "AQUISIÇÃO DE APARELHOS DE ANESTESIA E DE MONITORES MULTIPARÂMETROS PARA A FUNDAÇÃO DE SAÚDE PÚBLICA DE NOVO HAMBURGO",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-28T10:00:00",
+  "encerramento": "2026-11-17T10:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/11055682000156/2026/553",
+  "link_sistema": null,
+  "total_itens": 2,
+  "itens_da_linha": [
+   {
+    "descricao": "MONITOR MULTIPARÂMETRO",
+    "quantidade": 5.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
   "exclusiva_me": false
  },
  {
@@ -10240,6 +10342,334 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 4,
+  "exclusiva_me": false
+ },
+ {
+  "id": "04712762000171-1-000055/2026",
+  "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL DA REGIAO DOS CAMPOS DE CIMA DA SERRA - CONDESUS",
+  "unidade": "Consórcio Intermunicipal de Desenvolvimento Sustentável da Região dos Campos de Cima da Serra",
+  "cidade": "Vacaria",
+  "objeto": "Aquisição de Tubos e Conexões em PEAD, para atender as necessidades dos municípios consorciados ao CONDESUS.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 3749843.13,
+  "abertura": "2026-10-27T14:30:00",
+  "encerramento": "2026-11-26T08:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/04712762000171/2026/55",
+  "link_sistema": "",
+  "total_itens": 37,
+  "itens_da_linha": [
+   {
+    "descricao": "ADAPTADOR PEAD DE COMPRESSÃO ROSCA FEMEA, DN = 25x3,4” / PN 16",
+    "quantidade": 1780.0,
+    "unidade": "UNIDADE",
+    "valor_total": 16678.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "ADAPTADOR PEAD DE COMPRESSÃO ROSCA FEMEA, DN = 32x1” / PN 16",
+    "quantidade": 1575.0,
+    "unidade": "UNIDADE",
+    "valor_total": 22254.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "ADAPTADOR PEAD DE COMPRESSÃO ROSCA FEMEA, DN = 40x1 1/4” / PN 16",
+    "quantidade": 1575.0,
+    "unidade": "UNIDADE",
+    "valor_total": 33059.25,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "ADAPTADOR PEAD DE COMPRESSÃO ROSCA MACHO, DN = 25x3,4” / PN 16",
+    "quantidade": 1775.0,
+    "unidade": "UNIDADE",
+    "valor_total": 16152.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "ADAPTADOR PEAD DE COMPRESSÃO ROSCA MACHO, DN = 32x1” / PN 16",
+    "quantidade": 1575.0,
+    "unidade": "UNIDADE",
+    "valor_total": 16317.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "ADAPTADOR PEAD DE COMPRESSÃO ROSCA MACHO, DN = 40x1 1/4” / PN 16",
+    "quantidade": 1565.0,
+    "unidade": "UNIDADE",
+    "valor_total": 35948.05,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "JOELHO PEAD DE COMPRESSAO – DN = 25MM X 25MM / PN 16",
+    "quantidade": 1345.0,
+    "unidade": "UNIDADE",
+    "valor_total": 20982.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "JOELHO PEAD DE COMPRESSAO – DN = 32MM X 32MM / PN 16",
+    "quantidade": 1315.0,
+    "unidade": "UNIDADE",
+    "valor_total": 24130.25,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "JOELHO PEAD DE COMPRESSAO – DN = 40MM X 40MM / PN 16",
+    "quantidade": 1315.0,
+    "unidade": "UNIDADE",
+    "valor_total": 45196.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "CAP TAMPÃO DE COMPRESSÃO POLIPROPILENO PARA PEAD 25MM / PN 16",
+    "quantidade": 1230.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5252.1,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "CAP TAMPÃO DE COMPRESSÃO POLIPROPILENO PARA PEAD 32MM / PN 16",
+    "quantidade": 1139.0,
+    "unidade": "UNIDADE",
+    "valor_total": 6913.73,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "CAP TAMPÃO DE COMPRESSÃO POLIPROPILENO PARA PEAD 40MM / PN 16",
+    "quantidade": 1045.0,
+    "unidade": "UNIDADE",
+    "valor_total": 7691.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "CAP TAMPÃO DE COMPRESSÃO POLIPROPILENO PARA PEAD 50MM / PN 16",
+    "quantidade": 1150.0,
+    "unidade": "UNIDADE",
+    "valor_total": 15421.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "REGISTRO RÁPIDO HORIZONTAL DE COMPRESSÃO PARA PEAD DN 25MM / PN 16",
+    "quantidade": 1215.0,
+    "unidade": "UNIDADE",
+    "valor_total": 60008.85,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "REGISTRO RÁPIDO HORIZONTAL DE COMPRESSÃO PARA PEAD DN 32MM / PN 16",
+    "quantidade": 1135.0,
+    "unidade": "UNIDADE",
+    "valor_total": 77838.3,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "REGISTRO RÁPIDO HORIZONTAL DE COMPRESSÃO PARA PEAD DN 40MM / PN 16",
+    "quantidade": 1135.0,
+    "unidade": "UNIDADE",
+    "valor_total": 112444.45,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "REGISTRO RÁPIDO HORIZONTAL DE COMPRESSÃO PARA PEAD DN 50MM / PN 16",
+    "quantidade": 1135.0,
+    "unidade": "UNIDADE",
+    "valor_total": 150047.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "TEE DE COMPRESSÃO TUBO PEAD – DN = 25MM X 25MM / PN 16",
+    "quantidade": 1535.0,
+    "unidade": "UNIDADE",
+    "valor_total": 35811.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "TEE DE COMPRESSÃO TUBO PEAD – DN = 32MM X 32MM / PN 16",
+    "quantidade": 1485.0,
+    "unidade": "UNIDADE",
+    "valor_total": 41550.3,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "TEE DE COMPRESSÃO TUBO PEAD – DN = 40MM X 40MM / PN 16",
+    "quantidade": 1495.0,
+    "unidade": "UNIDADE",
+    "valor_total": 67753.4,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "TEE DE COMPRESSÃO TUBO PEAD – DN = 50MM X 50MM / PN 16",
+    "quantidade": 1515.0,
+    "unidade": "UNIDADE",
+    "valor_total": 93687.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "UNIAO DE COMPRESSAO DE REDUÇÃO PEAD DN = 40MM X 25MM / PN 16",
+    "quantidade": 1380.0,
+    "unidade": "UNIDADE",
+    "valor_total": 21748.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "UNIÃO DE COMPRESSÃO DE REDUÇAO TUBO PEAD – DN = 32MM X 25MM / PN 16",
+    "quantidade": 1395.0,
+    "unidade": "UNIDADE",
+    "valor_total": 24705.45,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "UNIÃO DE COMPRESSÃO DE REDUÇAO TUBO PEAD – DN = 40MM X 32MM / PN 16",
+    "quantidade": 1375.0,
+    "unidade": "UNIDADE",
+    "valor_total": 45141.25,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "UNIÃO DE COMPRESSÃO DE REDUÇAO TUBO PEAD – DN = 50MM X 40MM / PN 16",
+    "quantidade": 1175.0,
+    "unidade": "UNIDADE",
+    "valor_total": 46635.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "UNIÃO DE COMPRESSÃO TUBO PEAD – DN = 32X32MM / PN 16",
+    "quantidade": 1425.0,
+    "unidade": "UNIDADE",
+    "valor_total": 26989.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "UNIÃO DE COMPRESSÃO TUBO PEAD – DN = 40X40MM / PN 16",
+    "quantidade": 1505.0,
+    "unidade": "UNIDADE",
+    "valor_total": 42877.45,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "UNIÃO DE COMPRESSÃO TUBO PEAD – DN = 50X50MM / PN 16",
+    "quantidade": 1155.0,
+    "unidade": "UNIDADE",
+    "valor_total": 56375.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 1169612.68,
+  "itens_principais": 0,
   "exclusiva_me": false
  },
  {
