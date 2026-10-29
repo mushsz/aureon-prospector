@@ -1,1387 +1,5 @@
 [
  {
-  "id": "88771001000180-1-000339/2026",
-  "orgao": "MUNICIPIO DE TRAMANDAI",
-  "unidade": "Secretaria Municipal de Saúde",
-  "cidade": "Tramandaí",
-  "objeto": "aquisiÃ§Ã£o de material ambulatorial e hospitalar para uso nas Unidades de SaÃºde do MunicÃ­pio, na UPA (Unidade de Pronto Atendimento) e SAMU (ServiÃ§o de Atendimento MÃ³vel de UrgÃªncia).",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 2443217.5,
-  "abertura": "2026-10-15T00:00:00",
-  "encerramento": "2026-10-28T14:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/88771001000180/2026/339",
-  "link_sistema": null,
-  "total_itens": 51,
-  "itens_da_linha": [
-   {
-    "descricao": "COLCHONETE - Colchonete P/ Maca Colchonete de curvim p/ maca 1,80 x 50 densidade 33.",
-    "quantidade": 50.0,
-    "unidade": "UNIDADE",
-    "valor_total": 9333.5,
-    "linhas": [
-     "maca"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA CAMPO OPERATORIO - Compressa de gaze/ campo operatÃ³rio 45cm x 50cm, 35 gramas, NÃ£o EstÃ©ril, elaborado com tecido 100% algodÃ£o, com 4 camadas sobrepostas fixadas entre si, pacote com 50 unidades Peso mÃ­nimo pct.1280 a 1350g, cfe Normas da ABNT NBR 13843, com alÃ§a. Apoio em algodÃ£o c/dados do Fabricante e nÂ° de registro na ANVISA.",
-    "quantidade": 1600.0,
-    "unidade": "PACOTE",
-    "valor_total": 100416.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA CAMPO OPERATORIO - Compressa de gaze/ campo operatÃ³rio 45cm x 50cm, 35 gramas, NÃ£o EstÃ©ril, elaborado com tecido 100% algodÃ£o, com 4 camadas sobrepostas fixadas entre si, pacote com 50 unidades. Peso mÃ­nimo pct.1280 a 1350g, cfe Normas da ABNT NBR 13843, com alÃ§a. Apoio em algodÃ£o c/dados do Fabricante e nÂ° de registro na ANVISA. ITEM EXCLUSIVO ME/EPP",
-    "quantidade": 400.0,
-    "unidade": "PACOTE",
-    "valor_total": 25104.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA DE GAZE - Compressa de gaze 10cmx10cm fechada e 20cmx40cm aberta, 13 fios por cmÂ², nÃ£o estÃ©ril, 8 camadas, 5 dobras. Pacote com 500 unidades. peso mÃ­nimo 465g, conforme NBR 13.843.",
-    "quantidade": 20000.0,
-    "unidade": "ROLO",
-    "valor_total": 757400.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA DE GAZE - Compressa de gaze 10cmx10cm fechada e 20cmx40cm aberta, 13 fios por cmÂ², nÃ£o estÃ©ril, 8 camadas, 5 dobras. Pacote com 500 unidades. peso mÃ­nimo 465g, conforme NBR 13.843. ITEM EXCLUSIVO ME/EPP",
-    "quantidade": 5000.0,
-    "unidade": "ROLO",
-    "valor_total": 189350.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA DE GAZE - Compressa de gaze em rolo 91cm x 91m, 13 fios, 08 dobras, 03 camadas, peso mÃ­nimo 1820g, conforme NBR 14,108.",
-    "quantidade": 2000.0,
-    "unidade": "ROLO",
-    "valor_total": 196820.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA DE GAZE - Compressa de gaze em rolo 91cm x 91m, 13 fios, 08 dobras, 03 camadas, peso mÃ­nimo 1820g, conforme NBR 14,108. ITEM EXCLUSIVO ME/EPP",
-    "quantidade": 500.0,
-    "unidade": "ROLO",
-    "valor_total": 49205.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CURATIVO - Curativo de fixaÃ§Ã£o de Cateter intravenoso - Transparente com a IncorporaÃ§Ã£o da fita estabilizadora a cobertura, reforÃ§o de borda em toda a sua extensÃ£o e bordas dinÃ¢micas que se adaptam aos movimentos do paciente, encaixe arredondado, filme transparente, estÃ©ril e permeÃ¡vel, fita de identificaÃ§Ã£o, 8,5cmx11,5cm",
-    "quantidade": 600.0,
-    "unidade": "UNIDADE",
-    "valor_total": 1410.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "DRENO PENROSE - Dreno penrose nÂ° 01 lÃ¡tex natural, maleÃ¡vel sem gaze c/ parede fina estÃ©ril",
-    "quantidade": 30.0,
-    "unidade": "UNIDADE",
-    "valor_total": 65.1,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "DRENO PENROSE - Dreno penrose nÂ° 02 lÃ¡tex natural, maleÃ¡vel sem gaze c/ parede fina estÃ©ril",
-    "quantidade": 30.0,
-    "unidade": "UNIDADE",
-    "valor_total": 73.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "DRENO PENROSE - Dreno penrose nÂ° 03 lÃ¡tex natural, maleÃ¡vel sem gaze c/ parede fina estÃ©ril",
-    "quantidade": 30.0,
-    "unidade": "UNIDADE",
-    "valor_total": 69.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ELETRODOS - Eletrodo Cpr Stat Pdz P/ Aparelho DeaS, Desfibrilador E Multifuncional (Desfibrilador, Marca-Passo E MonitorizaÃ§Ã£o) Para Aparelho Do Marca Zoll Aed Plus.",
-    "quantidade": 120.0,
-    "unidade": "UNIDADE",
-    "valor_total": 233100.0,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ELETRODOS - Eletrodo Cpr Stat Pdz P/ Aparelho DeaS, Desfibrilador E Multifuncional (Desfibrilador, Marca-Passo E MonitorizaÃ§Ã£o) Para Aparelho Do Marca Zoll Aed Plus. ITEM EXCLUSIVO ME/EPP",
-    "quantidade": 30.0,
-    "unidade": "UNIDADE",
-    "valor_total": 58275.0,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO - O equipo parenteral para bomba de infusÃ£o universal. Compatibilidade Universal. CÃ¢mara Gotejadora FlexÃ­vel: Equipado com uma cÃ¢mara gotejadora flexÃ­vel que permite um fluxo contÃ­nuo e controlado da soluÃ§Ã£o parenteral durante a infusÃ£o, garantindo uma administraÃ§Ã£o precisa e eficaz. Tubo Intermediado por Segmento de Silicone: O equipo possui um tubo intermediado por um segmento ",
-    "quantidade": 5000.0,
-    "unidade": "UNIDADE",
-    "valor_total": 36500.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO MACRO - Equipo macrogotas Equipo macro gtÂª ponta perfurante adaptÃ¡vel c/protetor tubo flexÃ­vel e transparente .em PVC regulagem de fluxo clamp e rolete p/controle fluxo.",
-    "quantidade": 120000.0,
-    "unidade": "UNIDADE",
-    "valor_total": 81600.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO MACRO - Equipo macrogotas Equipo macro gtÂª ponta perfurante adaptÃ¡vel c/protetor tubo flexÃ­vel e transparente .em PVC regulagem de fluxo clamp e rolete p/ controlefluxo. ITEM EXCLUSIVO ME/EPP",
-    "quantidade": 30000.0,
-    "unidade": "UNIDADE",
-    "valor_total": 20400.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO - Equipo Micro gtÂª ponta perfurante adaptÃ¡vel c/protetor tubo flexÃ­vel e transparente em PVC regulagem de fluxo clamp e rolete p/controle fluxo.",
-    "quantidade": 15000.0,
-    "unidade": "UNIDADE",
-    "valor_total": 18900.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO - Equipo para nutriÃ§Ã£o enteral, dispositivo para administraÃ§Ã£o de infusÃ£o de soluÃ§Ãµes enterais, que conecta o recipiente de soluÃ§Ãµes (frasco ou bolsa) e sonda de alimentaÃ§Ã£o enteral, perfurador para conexÃ£o ao recipiente de soluÃ§Ã£o, pinÃ§a, rolete, conexÃ£o LUER SLIP, cor azul, estÃ©ril, atÃ³xico, apirogÃªnico.",
-    "quantidade": 30000.0,
-    "unidade": "UNIDADE",
-    "valor_total": 34200.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 1812221.4,
-  "itens_principais": 3,
-  "exclusiva_me": false
- },
- {
-  "id": "87612750000100-1-000172/2026",
-  "orgao": "MUNICIPIO DE ARVOREZINHA",
-  "unidade": "Prefeitura Municipal de Arvorezinha",
-  "cidade": "Arvorezinha",
-  "objeto": "[Portal de Compras Públicas] - Registro de preços para contratação de empresa especializada para aquisição de material Médico-Hospitalar e Ambulatorial.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 1579150.05,
-  "abertura": "2026-10-16T08:00:00",
-  "encerramento": "2026-10-29T07:59:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87612750000100/2026/172",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Arvorezinha-1714/RPE-39-2026-2026-514366",
-  "total_itens": 64,
-  "itens_da_linha": [
-   {
-    "descricao": "ATADURA ELASTICA CONFECCIONADA EM TECIDO SINTETICO MISTO, CONTENDO POLIAMIDA, POLIESTER E ALGODAO. COR BRANCA. MACIA E MOLDAVEL. EMBALAGEM UNITARIA CONTENDO DADOS DE IDENTIFICACAO, PROCEDENCIA E LOTE. TAMANHO DE 12CM X 2,2M. APRESENTAR REGISTRO NO MINISTERIO DA SAUDE/ANVISA.  UNIDADE",
-    "quantidade": 3000.0,
-    "unidade": "Unidade",
-    "valor_total": 5340.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA ELASTICA CONFECCIONADA EM TECIDO SINTETICO MISTO, CONTENDO POLIAMIDA, POLIESTER E ALGODAO. COR BRANCA. MACIA E MOLDAVEL. EMBALAGEM UNITARIA CONTENDO DADOS DE IDENTIFICACAO, PROCEDENCIA E LOTE. TAMANHO DE 8CM X 2,2M, ACEITANDO VARIACOES DE +/- 1CM. APRESENTAR REGISTRO NO MINISTERIO DA SAUDE/ANVISA UNIDADE",
-    "quantidade": 3000.0,
-    "unidade": "Unidade",
-    "valor_total": 4440.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA DE CREPOM, 13 FIOS CM2, MEDINDO 20CM DE LARGURA COM 1,8M DE COMPRIMENTO EM REPOUSO, CONTENDO MASSA POR UNIDADE DE 42,8G. CONFECCIONADA EM FIOS 100% ALGODAO CRU OU MISTO, COM ABACAMENTO SEM FIOS SOLTOS, ESPESSURA E TEXTURA UNIFORMES, COM ELASTICIDADE E MACIEZ ADEQUADAS A SUA FINALIDADE. UNIDADE",
-    "quantidade": 3500.0,
-    "unidade": "Unidade",
-    "valor_total": 7140.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CATETER INTRAVENOSO PERIFERICO 22G, COM AGULHA EM BISEL TRIFACETADO. CANULA EM BIOMATERIAL TEFLON OU POLIURETANO. ESTERIL, ATOXICO E APIROGENICO. EMBALAGEM UNITARIA QUE GARANTA A INTEGRIDADE DO PRODUTO CONTENDO DADOS DE IDENTIFICACAO, PROCEDENCIA E LOTE. APRESENTAR REGISTRO NO MINISTERIO DA SAUDE/ANVISA. UNIDADE",
-    "quantidade": 3000.0,
-    "unidade": "Unidade",
-    "valor_total": 6030.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CATETER INTRAVENOSO PERIFERICO 24G, COM AGULHA EM BISEL TRIFACETADO. CANULA EM BIOMATERIAL TEFLON OU POLIURETANO. ESTERIL, ATOXICO E APIROGENICO. EMBALAGEM UNITARIA QUE GARANTA A INTEGRIDADE DO PRODUTO CONTENDO DADOS DE IDENTIFICACAO, PROCEDENCIA E LOTE. APRESENTAR REGISTRO NO MINISTERIO DA SAUDE/ANVISA UNIDADE",
-    "quantidade": 3000.0,
-    "unidade": "Unidade",
-    "valor_total": 6210.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CATETER NASAL PARA OXIGENIO TIPO OCULOS, PARA USO ADULTO. CONFECCIONADO EM PVC SILICONADO ATOXICO E FLEXIVEL. DESCARTAVEL. EMBALADO INDIVIDUALMENTE E ESTERILIZADO. DEVE APRESENTAR REGISTRO NA ANVISA. UNIDADE",
-    "quantidade": 1500.0,
-    "unidade": "Unidade",
-    "valor_total": 3045.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA DE GAZE, CONFECCIONADA COM 13 FIOS POR CM2, MEDINDO 7,5CM X 7,5M. NAO ESTERIL.TECIDO 100% ALGODAO COM 08 CAMADAS, 7,50 CM E 5 DOBRAS, COR BRANCA, ISENTA DE MANCHAS, FALHAS E IMPERFEICOES. PACOTE COM 10 UNIDADES EM EMBALAGEM PLASTICA CONTENDO NUMERO DE LOTE, DADOS DE IDENTIFICACAO, PROCEDENCIA E LOTE. UNIDADE",
-    "quantidade": 8000.0,
-    "unidade": "Unidade",
-    "valor_total": 12240.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO MACROGOTAS COM RESPIRO DE AR E PONTO DE INFUSAO LATERAL TIPO Y COM MEMBRANA AUTOCICATRIZANTE, ESTERIL. FABRICADO EM PVC FLEXIVEL E INCOLOR. DEVE POSSUIR CONTROLADOR DE FLUXO TIPO PINCA ROLETE, CAMARA TRANSPARENTE PARA VISUALIZACAO DE GOTEJAMENTO E CONEXAO LUER SLIP. TUBO COM 1,5M DE COMPRIMENTO. UNIDADE",
-    "quantidade": 4000.0,
-    "unidade": "Unidade",
-    "valor_total": 5720.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ESPARADRAPO EM ROLO. CONFECCIONADO EM TECIDO 100% ALGODAO COM ACRILICO IMPERMEABILIZANTE, BORRACHA NATURAL E OXIDO DE ZINCO. COR BRANCA, TAMANHO DE 10CM X 4,5M. EMBALAGEM COM CAPA PROTETORA. UNIDADE",
-    "quantidade": 1000.0,
-    "unidade": "Unidade",
-    "valor_total": 13580.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO CIRURGICO PARA SUTURA NYLON MONOFILAMENTO PRETO 3-0, COM AGULHA 3/8 CIRCULAR TRIANGULAR 4 CM. FIO NAO ABSORVIVEL COM 45 CM DE COMPRIMENTO, ESTERIL. EMBALADO EM ENVELOPE ESTERIL E INDIVIDUAL, COM DATA DE FABRICACAO, PRAZO DE VALIDADE E LOTE E REGISTRO NA ANVISA. CAIXA COM 24 ENVELOPES. CAIXA",
-    "quantidade": 600.0,
-    "unidade": "Caixa",
-    "valor_total": 27420.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO CIRURGICO PARA SUTURA NYLON MONOFILAMENTO PRETO 4-0, COM AGULHA 3/8 CIRCULAR TRIANGULAR 3 CM. FIO NAO ABSORVIVEL COM 45 CM DE COMPRIMENTO, ESTERIL. EMBALADO EM ENVELOPE ESTERIL E INDIVIDUAL, COM DATA DE FABRICACAO, PRAZO DE VALIDADE E LOTE E REGISTRO NA ANVISA. CAIXA COM 24 ENVELOPES. CAIXA",
-    "quantidade": 300.0,
-    "unidade": "Caixa",
-    "valor_total": 13710.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO DE SUTURA, NYLON MONOFILAMENTO, 5-0 , PRETO, 45 CM, COM AGULHA 3/8 CIRCULO CORTANTE, 2,0 CM ESTERIL- TRIANG 20 MM - CAIXA COM NO MUNIMO 24 ENVELOPES EMBALADOS INDIVIDUALMENTE, CONTENDO NUMERO DE LOTE, DATA DE FABRICACAO, VALIDADE E REGISTRO NA ANVISA.  CAIXA",
-    "quantidade": 300.0,
-    "unidade": "Caixa",
-    "valor_total": 13710.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "GAZE HIDROFILA EM COMPRESSA. CONFECCIONADA COM 13 FIOS/CM2, EM TAMANHO 10X10CM FECHADA E 20X40CM ABERTA. COM 5 DOBRAS VOLTADAS PARA DENTRO E 8 CAMADAS, DEVE POSSUIR PESO MINIMO DE 1,8G POR UNIDADE. PACOTE COM 10 UNIDADES CONTENDO DADOS DE IDENTIFICACAO, PROCEDENCIA, LOTE, NUMERO DE DOBRAS, NUMERO DE FIOS. UNIDADE",
-    "quantidade": 12000.0,
-    "unidade": "Unidade",
-    "valor_total": 30000.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA HIPODERMICA DESCARTAVEL, ESTERIL, CAPACIDADE DE 10CC, COM BICO LISO LUER SLIP. FABRICADA EM POLIPROPILENO, SEM AGULHA, SILICONIZADA, COM GRADUACAO EXATA, NITIDA E PERMANENTE. EMBOLO DESLIZAVEL COM PERFEITA VEDACAO E CORPO TRANSLUCIDO. EMBALAGEM UNITARIA EM PAPEL GRAU CIRURGICO QUE PERMITA AB UNIDADE",
-    "quantidade": 3000.0,
-    "unidade": "Unidade",
-    "valor_total": 1680.0,
-    "linhas": [
-     "fio de sutura",
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA HIPODERMICA DESCARTAVEL, ESTERIL, CAPACIDADE DE 20CC, COM BICO LISO LUER SLIP. FABRICADA EM POLIPROPILENO, SEM AGULHA, SILICONIZADA, COM GRADUACAO EXATA, NITIDA E PERMANENTE. EMBOLO DESLIZAVEL COM PERFEITA VEDACAO E CORPO TRANSLUCIDO. EMBALAGEM UNITARIA EM PAPEL GRAU CIRURGICO QUE PERMITA AB UNIDADE",
-    "quantidade": 3000.0,
-    "unidade": "Unidade",
-    "valor_total": 2130.0,
-    "linhas": [
-     "fio de sutura",
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA HIPODERMICA DESCARTAVEL, ESTERIL, CAPACIDADE DE 5CC, COM BICO LISO LUER SLIP. FABRICADA EM POLIPROPILENO, SEM AGULHA, SILICONIZADA, COM GRADUACAO EXATA, NITIDA E PERMANENTE. EMBOLO DESLIZAVEL COM PERFEITA VEDACAO E CORPO TRANSLUCIDO. EMBALAGEM UNITARIA EM PAPEL GRAU CIRURGICO QUE PERMITA ABE UNIDADE",
-    "quantidade": 1500.0,
-    "unidade": "Unidade",
-    "valor_total": 585.0,
-    "linhas": [
-     "fio de sutura",
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SONDA FOLEY, COM DUAS VIAS, FEITA EM LATEX, COM SUPERFICIE SILICONIZADA, BALAO VOLUMETRICO DE 30CC, INFORMACOES TECNICAS GRAVADAS NO FUNIL DE DRENAGEM DE FORMA NITIDA E PERMANENTE, VALVULA DE FACIL MANIPULACAO, PERFEITA VEDACAO, ESTERIL. EMBALADA INDIVIDUALMENTE, COM ABERTURA ASSEPTICA, CONTENDO EXT. TAM 14  UNIDADE",
-    "quantidade": 200.0,
-    "unidade": "Unidade",
-    "valor_total": 818.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SONDA FOLEY, COM DUAS VIAS, FEITA EM LATEX, COM SUPERFICIE SILICONIZADA, BALAO VOLUMETRICO DE 30CC, INFORMACOES TECNICAS GRAVADAS NO FUNIL DE DRENAGEM DE FORMA NITIDA E PERMANENTE, VALVULA DE FACIL MANIPULACAO, PERFEITA VEDACAO, ESTERIL. EMBALADA INDIVIDUALMENTE, COM ABERTURA ASSEPTICA, CONTENDO EXT. TAM 16 UNIDADE",
-    "quantidade": 500.0,
-    "unidade": "Unidade",
-    "valor_total": 2045.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SONDA FOLEY, COM DUAS VIAS, FEITA EM LATEX, COM SUPERFICIE SILICONIZADA, BALAO VOLUMETRICO DE 30CC, INFORMACOES TECNICAS GRAVADAS NO FUNIL DE DRENAGEM DE FORMA NITIDA E PERMANENTE, VALVULA DE FACIL MANIPULACAO, PERFEITA VEDACAO, ESTERIL. EMBALADA INDIVIDUALMENTE, COM ABERTURA ASSEPTICA, CONTENDO EXT. TAM 18 UNIDADE",
-    "quantidade": 500.0,
-    "unidade": "Unidade",
-    "valor_total": 2045.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SONDA FOLEY, COM DUAS VIAS, FEITA EM LATEX, COM SUPERFICIE SILICONIZADA, BALAO VOLUMETRICO DE 30CC, INFORMACOES TECNICAS GRAVADAS NO FUNIL DE DRENAGEM DE FORMA NITIDA E PERMANENTE, VALVULA DE FACIL MANIPULACAO, PERFEITA VEDACAO, ESTERIL. EMBALADA INDIVIDUALMENTE, COM ABERTURA ASSEPTICA, CONTENDO EXT. TAM 20  UNIDADE",
-    "quantidade": 500.0,
-    "unidade": "Unidade",
-    "valor_total": 2045.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "OXIMETRO DE PULSO, MEDE E MOSTRA VALORES CONFIAVEIS DA SPO2 E DA FREQUENCIA CARDIACA; BOTAO UNICO DE LIGACAO PARA FACILITAR A OPERACAO; VISOR GRANDE E FACIL VISUALIZACAO; COMPACTO, PORTATIL E ILUMINADO; ALIMENTACAO ATRAVES DE DUAS PILHAS ALCALINAS AAA DISPOSITIVO DESLIGA AUTOMATICAMENTE APOS 8 SEGUNDOS UNIDADE",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 13488.0,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SONDA URETRAL N14, DESCARTAVEL, TUBO DE PVC, ATOXICO, FLEXIVEL E TRANSLUCIDO, COM 1 FURO LATERAL E CONECTOR PADRAO COM TAMPA, TUBO LISO SEM REBARBAS. COMPRIMENTO DE 40 A 45 CM. ESTERILIZADA POR RADIACAO IONIZANTE. EMBALAGEM UNITARIA CONTENDO DADOS DE IDENTIFICACAO, PROCEDENCIA E LOTE. APRESENTAR REG NO MINISTERIO DA SAUDE/ANVISA UNIDADE",
-    "quantidade": 600.0,
-    "unidade": "Unidade",
-    "valor_total": 756.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 174177.0,
-  "itens_principais": 7,
-  "exclusiva_me": false
- },
- {
-  "id": "87366159000102-1-000429/2026",
-  "orgao": "MUNICIPIO DE SAPIRANGA",
-  "unidade": "SECRETARIA MUNICIPAL DE SAÚDE",
-  "cidade": "Sapiranga",
-  "objeto": "Registro de preços para o fornecimento de medicamentos essências, visando atender a Secretaria Municipal de Saúde e a Secretaria Municipal de Meio Ambiente e Preservação Ecológica.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 4920435.8,
-  "abertura": "2026-10-13T09:00:00",
-  "encerramento": "2026-10-29T08:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87366159000102/2026/429",
-  "link_sistema": null,
-  "total_itens": 115,
-  "itens_da_linha": [
-   {
-    "descricao": "SERINGA PP TRANSPARENTE ESTERIL DESCARTAVEL INSULINA 1ML C/AGULHA 8X0,3MM - UN",
-    "quantidade": 80000.0,
-    "unidade": "UNIDADE",
-    "valor_total": 15760.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 15760.0,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
-  "id": "07664821000171-1-000058/2026",
-  "orgao": "CONSORCIO INTERMUNICIPAL DE SERVICOS DO VALE DO RIO PARDO - CISVALE",
-  "unidade": "CISVALE",
-  "cidade": "Santa Cruz do Sul",
-  "objeto": "Registro de Precos para futura e eventual aquisicao de Materiais Ambulatoriais.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-19T08:00:00",
-  "encerramento": "2026-10-29T08:25:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/07664821000171/2026/58",
-  "link_sistema": " ",
-  "total_itens": 162,
-  "itens_da_linha": [
-   {
-    "descricao": "Agulha 13x4 5 Descartavel Esterilizada. Agulha Hipodermica Material  Aco Inoxidavel Siliconizado Dimensao  26 G X 1 2  Tipo Ponta  Bisel Curto Trifacetado Tipo Conexao  Conector Luer Lock Em Plastico Tipo Fixacao  Protetor Plastico Caracteristica Adicional  Com Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. Caixa c  100 unidades",
-    "quantidade": 10905.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Agulha 20x5 5 Descartavel Esterilizada. Agulha Hipodermica Material  Aco Inoxidavel Siliconizado Dimensao  24 G X 3 4  Tipo Ponta  Bisel Curto Trifacetado Tipo Conexao  Conector Luer Lock Ou Slip Em Plastico Tipo Fixacao  Protetor Plastico Tipo Uso  Esteril  Descartavel  Embalagem Individual. Caixa c  100 unidades",
-    "quantidade": 15127.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Agulha 25x7 Descartavel Esterilizada. Agulha Hipodermica Material  Aco Inoxidavel Siliconizado Dimensao  22 G X 1  Tipo Ponta  Bisel Curto Trifacetado Tipo Conexao  Conector Luer Lock Em Plastico Tipo Fixacao  Protetor Plastico Caracteristica Adicional  Com Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. Caixa c  100 unidades",
-    "quantidade": 17038.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Agulha 25x8 Descartavel Esterilizada. Agulha Hipodermica Material  Aco Inoxidavel Siliconizado Dimensao  21 G X 1  Tipo Ponta  Bisel Curto Trifacetado Tipo Conexao  Conector Luer Lock Em Plastico Tipo Fixacao  Protetor Plastico Caracteristica Adicional  Com Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. Caixa c  100 unidades",
-    "quantidade": 13708.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Agulha 40x12 Descartavel Esterilizada. Agulha Hipodermica Material  Aco Inoxidavel Siliconizado Dimensao  18 G X 1 1 2  Tipo Ponta  Bisel Curto Trifacetado Tipo Conexao  Conector Luer Lock Em Plastico Tipo Fixacao  Protetor Plastico Caracteristica Adicional  Com Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. Caixa c  100 unidades",
-    "quantidade": 22407.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Atadura crepom  tipo  cerca de 13 fios   cm   material  faixa de tecido 100  algodao  largura  cerca de 15 cm  comprimento em repouso  rolo cerca de 1 8 m  esterilidade  nao esteril. Embalagem Individual. ",
-    "quantidade": 95840.0,
-    "unidade": "ROLOS",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Atadura crepom  tipo  cerca de 13 fios   cm   material  faixa de tecido 100  algodao  largura cerca de 10 cm  comprimento em repouso  rolo cerca de 1 8 m  esterilidade  nao esteril. Embalagem Individual. ",
-    "quantidade": 83180.0,
-    "unidade": "ROLOS",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Atadura crepom  tipo  cerca de 13 fios   cm   material  faixa de tecido misto   algodao e sintetico  largura cerca de 6 cm  comprimento em repouso  rolo cerca de 1 8 m  esterilidade  nao esteril. Embalagem Individual. ",
-    "quantidade": 50350.0,
-    "unidade": "ROLOS",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Bandagem atadura Tipo  Elastica Modelo  Nao Aderente Material  Malha De Tecido Sintetico E Algodao Dimensao  Cerca De 10 Cm X 2 2 M Cor  C  Cor Embalagem  Embalagem Individual Em Rolo Tipo Uso  Uso Unico. Embalagem Individual. ",
-    "quantidade": 29320.0,
-    "unidade": "ROLOS",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Bandagem atadura Tipo  Elastica Modelo  Nao Aderente Material  Malha De Tecido Sintetico E Algodao Dimensao  Cerca De 12 Cm X 2 2 M Cor  C  Cor Embalagem  Embalagem Individual Em Rolo Tipo Uso  Uso Unico. Embalagem Individual. ",
-    "quantidade": 16070.0,
-    "unidade": "ROLOS",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter intravenoso n  14 com dispositivo de seguranca. Cateter Periferico Material Cateter  Polimero Radiopaco Aplicacao  Venoso Material Agulha  Agulha Aco Inox Diametro  14 GAU Comprimento  Cerca 50 MM Conector  Conector Padrao Componente 1  Camara Refluxo C  Filtro Componente 2  C  Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual.",
-    "quantidade": 3047.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter intravenoso n  16 com dispositivo de seguranca. Cateter Periferico Material Cateter  Polimero Radiopaco Aplicacao  Venoso Material Agulha  Agulha Aco Inox Diametro  16 GAU Comprimento  Cerca 30 MM Conector  Conector Padrao Componente 1  Camara Refluxo C  Filtro Componente 2  C  Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. ",
-    "quantidade": 2997.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter intravenoso n  18 com dispositivo de seguranca. Cateter Periferico Material Cateter  Polimero Radiopaco Aplicacao  Venoso Material Agulha  Agulha Aco Inox Diametro  18 GAU Comprimento  Cerca 45 MM Conector  Conector Padrao Componente 1  Camara Refluxo C  Filtro Componente 2  C  Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. ",
-    "quantidade": 6849.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter intravenoso n  20 com dispositivo de seguranca. Cateter Periferico Material Cateter  Polimero Radiopaco Aplicacao  Venoso Material Agulha  Agulha Aco Inox Diametro  20 GAU Comprimento  Cerca 30 MM Conector  Conector Padrao Componente 1  Camara Refluxo C  Filtro Componente 2  C  Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. ",
-    "quantidade": 12107.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter intravenoso n  22 com dispositivo de seguranca. Cateter Periferico Material Cateter  Polimero Radiopaco Aplicacao  Venoso Material Agulha  Agulha Aco Inox Diametro  22 GAU Comprimento  Cerca 25 MM Conector  Conector Padrao Componente 1  Camara Refluxo C  Filtro Componente 2  C  Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. ",
-    "quantidade": 15287.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter intravenoso n  24 com dispositivo de seguranca. Cateter Periferico Material Cateter  Polimero Radiopaco Aplicacao  Venoso Material Agulha  Agulha Aco Inox Diametro  24 GAU Comprimento  Cerca 20 MM Conector  Conector Padrao Componente 1  Camara Refluxo C  Filtro Componente 2  C  Sistema Seguranca Segundo Nr 32 Tipo Uso  Esteril  Descartavel  Embalagem Individual. ",
-    "quantidade": 14877.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter Nasal Para Oxigenio Modelo  Tipo Oculos Aplicacao  P Oxigenoterapia Material  Tubo E Pronga De Silicone Conector  Compativel C  Fonte O2 Tamanho  Adulto Comprimento  Cerca De 2 5 M Esterilidade  Nao Esteril  Uso Unico",
-    "quantidade": 7425.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter Nasal Para Oxigenio Modelo  Tipo Oculos Aplicacao  P Oxigenoterapia Material  Tubo. E Pronga De Silicone Conector  Compativel C  Fonte O2 Tamanho  Infantil pediatrico Comprimento  Cerca De 2 5 M Esterilidade  Nao Esteril  Uso Unico",
-    "quantidade": 3873.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter Periferico Aplicacao  Venoso Modelo  Tipo Escalpe Material Agulha  Agulha Aco Inox Diametro  21 GAU Componente Adicional  C  Asa De Fixacao  Tubo Extensor Conector  Conector Padrao C  Tampa Tipo Uso  Esteril  Descartavel  Embalagem Individual. ",
-    "quantidade": 14252.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter Periferico Aplicacao  Venoso Modelo  Tipo Escalpe Material Agulha  Agulha Aco Inox Diametro  23 GAU Componente Adicional  C  Asa De Fixacao  Tubo Extensor Conector  Conector Padrao C  Tampa Tipo Uso  Esteril  Descartavel  Embalagem Individual. ",
-    "quantidade": 14402.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cateter Periferico Aplicacao  Venoso Modelo  Tipo Escalpe Material Agulha  Agulha Aco Inox Diametro  25 GAU Componente Adicional  C  Asa De Fixacao  Tubo Extensor Conector  Conector Padrao C  Tampa Tipo Uso  Esteril  Descartavel  Embalagem Individual. ",
-    "quantidade": 8232.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Compressa Campo Operatorio Tipo  Sem Pre Encolhimento Dimensao  Cerca De 45 X 50 CM Material  100  Algodao Fixacao  C  Dispositivo De Fixacao Esterilidade  Nao Esteril  Uso Unico. Pacote com 50 unidades",
-    "quantidade": 3944.0,
-    "unidade": "PACOTE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Fio De Sutura Agulhado. Material Fio  Nylon   Poliamida Preto. Modelo Fio  Monofilamentar Diametro Fio  3 0. Comprimento Fio  Cerca De 45 CM. Tipo Agulha  Agulha 3 8 Circulo Modelo Agulha  Cortante Reversa   Invertida. Comprimento Agulha  Cerca De 20 MM Esterilidade  Esteril. Apresentacao  Embalagem Individual. Caixa c  24 unidades",
-    "quantidade": 330.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Fio De Sutura Agulhado Material Fio  Nylon   Poliamida Preto Modelo Fio  Monofilamentar Diametro Fio  4 0 Comprimento Fio  Cerca De 45 CM Tipo Agulha  Agulha 1 2 Circulo Modelo Agulha  Cortante Reversa   Invertida Comprimento Agulha  Cerca De 20 MM Esterilidade  Esteril Apresentacao  Embalagem Individual. Caixa c  24 unidades",
-    "quantidade": 391.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Fio De Sutura Agulhado Material Fio  Nylon   Poliamida Incolor Modelo Fio  Monofilamentar Diametro Fio  5 0 Comprimento Fio  Cerca De 45 CM Tipo Agulha  Agulha 3 8 Circulo Modelo Agulha  Cortante Reversa   Invertida Comprimento Agulha  Cerca De 20 MM Esterilidade  Esteril Apresentacao  Embalagem Individual. Caixa c  24 unidades",
-    "quantidade": 213.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Fio De Sutura Agulhado Material Fio  Nylon   Poliamida Preto Modelo Fio  Monofilamentar Diametro Fio  6 0 Comprimento Fio  Cerca De 45 CM Tipo Agulha  Agulha 3 8 Circulo Modelo Agulha  Cortante Reversa   Invertida Comprimento Agulha  Cerca De 20 MM Esterilidade  Esteril Apresentacao  Embalagem Individual. Caixa c  24 unidades",
-    "quantidade": 284.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Fio De Sutura Agulhado. Material Fio  Catgut Cromado. Modelo Fio  Multifilamentar. Diametro Fio  3 0. Comprimento Fio  Cerca De 70 CM. Tipo Agulha  Agulha 3 8 Circulo. Modelo Agulha  Cilindrica. Comprimento Agulha  Cerca De 30 MM. Esterilidade  Esteril. Apresentacao  Embalagem Individual. Caixa c  24 unidades",
-    "quantidade": 432.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Fita Adesiva   Uso Cutaneo Tipo  Esparadrapo Impermeavel Material Dorso  100  Algodao Tipo De Adesivo  Sintetico  Hipoalergenico Largura Da Fita  Cerca De 100 Mm Cor  BRANCO Apresentacao  Rolo C  Capa Protetora Esterilidade  Nao Esteril. Rolo de 4 5m",
-    "quantidade": 9086.0,
-    "unidade": "ROLOS",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Gaze Uso Em Saude  Modelo  Compressa C  Dobras E Camadas Material  Tecido 100  Algodao Densidade  Cerca De 13 Fios   Cm2 Radiopacidade  Sem Elemento Radiopaco Dimensao Fechada  Cerca De 10 X 10 Cm Esterilidade  Esteril  Uso Unico. Pacote com 10 unidades ",
-    "quantidade": 99315.0,
-    "unidade": "PACOTE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Gaze Uso Em Saude Modelo  Compressa C  Dobras E Camadas Material  Tecido 100  Algodao Densidade  Cerca De 13 Fios   Cm2 Radiopacidade  Sem Elemento Radiopaco Dimensao Fechada  Cerca De 7 5 X 7 5 Cm Esterilidade  Nao Esteril  Uso Unico. Pacote c  500 unidades",
-    "quantidade": 23960.0,
-    "unidade": "PACOTE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Gaze Uso Em Saude Modelo  Compressa C  Dobras E Camadas Material  Tecido 100  Viscose   Rayon Densidade  Cerca De 13 Fios   Cm2 Radiopacidade  Sem Elemento Radiopaco Dimensao Fechada  Cerca De 7 5 X 7 5 Cm Esterilidade  Esteril  Uso Unico. Embalagem Individual",
-    "quantidade": 42050.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Lampada   Laringoscopio Tipo  Led Branco Tensao Nominal  2 5 V Aplicacao  Laringoscopio Adulto",
-    "quantidade": 147.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Lanceta Material Lamina  Aco Inoxidavel Ponta Afiada Trifacetada Uso  Descartavel Caracteristicas Adicionais  Esteril  Embalagem Individual Tipo  Com Sistema Retratil  Agulha 28G  Profundidade 1 5mm. Caixa c  100 unidades",
-    "quantidade": 10610.0,
-    "unidade": "CAIXA",
-    "valor_total": 0,
-    "linhas": [
-     "glicosímetro e tiras"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Luva Cirurgica Material  Borracha Natural   Latex Superficie  Superficie Lisa Formato  Anatomico Po  Com Po Bioabsorvivel Cor  C  Cor Tamanho  N  7 0 Apresentacao  Em Par Esterilidade  Esteril  Uso Unico Embalagem  Embalagem Individual",
-    "quantidade": 7200.0,
-    "unidade": "PAR",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Luva Cirurgica Material  Borracha Natural   Latex Superficie  Superficie Lisa Formato  Anatomico Po  Com Po Bioabsorvivel Cor  C  Cor Tamanho  N  7 5 Apresentacao  Em Par Esterilidade  Esteril  Uso Unico Embalagem  Embalagem Individual",
-    "quantidade": 8465.0,
-    "unidade": "PAR",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Luva Cirurgica Material  Borracha Natural   Latex Superficie  Superficie Lisa Formato  Anatomico Po  Com Po Bioabsorvivel Cor  C  Cor Tamanho  N  8 0 Apresentacao  Em Par Esterilidade  Esteril  Uso Unico Embalagem  Embalagem Individual",
-    "quantidade": 4465.0,
-    "unidade": "PAR",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Luva Cirurgica Material  Borracha Natural   Latex Superficie  Superficie Lisa Formato  Anatomico Po  Com Po Bioabsorvivel Cor  C  Cor Tamanho  N  8 5 Apresentacao  Em Par Esterilidade  Esteril  Uso Unico Embalagem  Embalagem Individual",
-    "quantidade": 3060.0,
-    "unidade": "PAR",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Luva Cirurgica Material  Borracha Natural   Latex Superficie  Superficie Lisa Formato  Anatomico Po  Com Po Bioabsorvivel Cor  C  Cor Tamanho  N  6 5 Apresentacao  Em Par Esterilidade  Esteril  Uso Unico Embalagem  Embalagem Individual",
-    "quantidade": 6240.0,
-    "unidade": "PAR",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  1 ML Tipo Bico  Bico Central Luer Lock Ou Slip Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Escala Ml   Numerada Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 30500.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  1 ML Tipo Bico  Bico Central Luer Lock Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Escala Ml   Numerada Tipo Agulha  C  Agulha 26 G X 1 2  Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 52910.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  10 ML Tipo Bico  Bico Central Luer Lock Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Numerada Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 85350.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  20 ML Tipo Bico  Bico Central Luer Lock Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Numerada Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 55400.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  20 ML Tipo Bico  Bico Central Luer Slip Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Numerada Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 70300.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  3 ML Tipo Bico  Bico Central Luer Lock Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Numerada Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 138900.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  3 ML Tipo Bico  Bico Central Luer Slip Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Numerada Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 92700.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  5 ML Tipo Bico  Bico Central Luer Lock Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Numerada Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 135200.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa Material  Polipropileno Capacidade  60 ML Tipo Bico  Bico Tipo Cateter Tipo Vedacao  Embolo De Borracha Adicional  Graduada  Numerada Esterilidade  Esteril  Descartavel Apresentacao  Embalagem Individual",
-    "quantidade": 8350.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 7,
-  "exclusiva_me": false
- },
- {
-  "id": "87613626000151-1-000438/2026",
-  "orgao": "MUNICIPIO DE LAGOA VERMELHA",
-  "unidade": "RECURSOS FEDERAIS NA SAÚDE",
-  "cidade": "Lagoa Vermelha",
-  "objeto": "Registro de Preços para a aquisição de equipamentos e materiais permanentes (mobiliários, médico hospitalares e em geral) para o SAE, UBS`s e Farmácia Municipal, com recursos das Portarias 5383/2024, 1228/2025 e 1253/2025. (CONTAS 104922, 104980 e 104975)",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 275928.53,
-  "abertura": "2026-10-19T08:30:00",
-  "encerramento": "2026-10-29T08:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87613626000151/2026/438",
-  "link_sistema": null,
-  "total_itens": 16,
-  "itens_da_linha": [
-   {
-    "descricao": "Cadeira para exames Elétrica. Indicada para ginecologia, ultrassonografia, entre outras especialidades; Equipamento produzido para atender as necessidades dos profissionais de saúde oferecendo praticidade, funcionalidade e durabilidade com design moderno; Possuir tratamento antiferrugem (pintura eletrostática à pó) e acabamento exclusivo em poliestireno de alto impacto (PSAI) que facilita na hora ",
-    "quantidade": 2.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 34943.34,
-    "linhas": [
-     "maca"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cadeira de Rodas Obeso estrutura dobrável dupla em X em aço carbono, com suporte de até 180 kg; Peso Líquido 28,5 Kg; Largura Interna 60 cm; Rodas Frontais 8\" Maciça, com rolamentos blindados; Rodas Traseiras 24\" de aço carbono e rolamentos blindados, Maciço 24\"; Tipo de encosto Fixo; Almofada Espuma de alta densidade; Regulagem do apoio de pés Rebatível com regulagem de altura; Altura de encosto ",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 6447.32,
-    "linhas": [
-     "cadeira de rodas/banho"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Escada 2 degraus Inox; pés tubulares 3/4 em Aço Inox com ponteira; dois degraus revestido em material sintético antiderrapante; dimensões externas aproximadas comprimento: 38cm, largura: 37cm, altura: 41cm. Garantia total de 12 meses.",
-    "quantidade": 10.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 2384.6,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Destilador de água; 220V; Capacidade do tanque: 4 L.; equipamento desenvolvido para a destilação de água para uso em autoclaves de esterilização à vapor ou qualquer outra aplicação onde seja necessária a utilização de água destilada; processo de destilação de 150 ml de água em 19 minutos sem a necessidade de realizar qualquer instalação hidráulica; potência de 450 Watts operando em 220V que viabil",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 5904.0,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Autoclave Horizontal Digital 54 lts.Cap.de 54 lts;220V porta com sistema de abertura e travamento motorizados;esterilização por vapor saturado sob pressão;controle eletrônico de potência,chave e trava da porta monitoramento de falhas e alertas preventivos;Display Com painel de cristal líquido e ajuste de altitude automático;sist.de rastreabilidade que cumpre a norma NBR ISO 13485;todos os vasos de",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 43734.08,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 93413.34,
-  "itens_principais": 5,
-  "exclusiva_me": false
- },
- {
-  "id": "88814181000130-1-000494/2026",
-  "orgao": "MUNICIPIO DE OSORIO",
-  "unidade": "SECRETARIA MUNICIPAL DE SAÚDE",
-  "cidade": "Osório",
-  "objeto": "Constitui objeto da presente licitação a aquisição de mobiliários para a Secretaria da Saúde, conforme condições, quantidades e exigências estabelecidas no Estudo Técnico Preliminar/Termo de Referência e Edital.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 56480.55,
-  "abertura": "2026-10-14T09:00:00",
-  "encerramento": "2026-10-29T08:59:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/88814181000130/2026/494",
-  "link_sistema": null,
-  "total_itens": 15,
-  "itens_da_linha": [
-   {
-    "descricao": "MACA (MESA) GINECOLÓGICA: MACA GINECOLÓGICA TIPO BALCÃO, CONSTRUÍDA EM MDF COM REVESTIMENTO BP (MELAMÍNICO DE BAIXA PRESSÃO) NA COR BRANCA, COM ARMÁRIO DE 02 PORTAS E 03 GAVETAS. LEITO ACOLCHOADO ESTOFADO COM ESPUMA ESPECIAL INDEFORMÁVEL DENSIDADE 28 OU MAIS, REVESTIDO EM CORVIM DE ALTA QUALIDADE, NAPA NA COR PRETA OU AZUL. 1 PAR DE PORTA-COXAS ESTOFADOS E REGULÁVEIS. PESEIRA REFORÇADA COM FERRAGE",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 6041.76,
-    "linhas": [
-     "maca"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SUPORTE PARA SORO EM AÇO INOX C/ 4 RODÍZIOS, COLUNA FIXA FABRICADA EM TUBO REDONDO DE 7/8 DE AÇO INOX",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 720.8,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CADEIRA COLETA POLTRONA RECLINÁVEL COR: AZUL COMPONENTES: ASSENTO, ENCOSTO, APOIO BRAÇOS E PÉS ARTICULADOS CARACTERÍSTICAS ADICIONAIS: APOIO P/ PÉS ACOPLADO A POLTRONA ACABAMENTO: ESTOFADO DE ESPUMA REVESTIDO EM COURVIN LARGURA MIN: 85 CM PROFUNDIDADE MIN: 85 CM ESTRUTURA: TUBULAR APLICAÇÃO: HOSPITALAR MODELO: ENCOSTO E BRAÇO REGULÁVEL. CAPACIDADE MÍNIMA 200 KG, GARANTIA DE 12 MESES.",
-    "quantidade": 3.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 1743.0,
-    "linhas": [
-     "poltrona"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 8505.56,
-  "itens_principais": 3,
-  "exclusiva_me": false
- },
- {
-  "id": "88814181000130-1-000495/2026",
-  "orgao": "MUNICIPIO DE OSORIO",
-  "unidade": "SECRETARIA MUNICIPAL DE SAÚDE",
-  "cidade": "Osório",
-  "objeto": "Constitui objeto da presente licitação a aquisição de equipamentos para a Secretaria da Saúde, conforme condições, quantidades e exigências estabelecidas no Estudo Técnico Preliminar/Termo de Referência e Edital.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 249160.16,
-  "abertura": "2026-10-14T09:00:00",
-  "encerramento": "2026-10-29T08:59:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/88814181000130/2026/495",
-  "link_sistema": null,
-  "total_itens": 17,
-  "itens_da_linha": [
-   {
-    "descricao": "BRAÇADEIRA PARA MULTIPARÂMETRO ADULTO (27-35 CM). BRAÇADEIRA COM MANGUITO, FECHAMENTO EM VELCRO, PARA USO EM MONITOR MULTIPARAMÉTRICO 27-35 CM, ADULTO.COMPATÍVEL COM A MARCA ALFAMED VITA I100. REGISTRO NA ANVISA, SELO INMETRO. GARANTIA DE 1 ANO.",
-    "quantidade": 13.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 701.48,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ESTETOSCÓPIO ADULTO,ALTA SENSIBILIDADE ACÚSTICA.",
-    "quantidade": 13.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 272.48,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 973.96,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
-  "id": "87890992000158-1-001094/2026",
-  "orgao": "MUNICIPIO DE GRAVATAI",
-  "unidade": "Diretoria Administrativa",
-  "cidade": "Gravataí",
-  "objeto": "Aquisição de material hospitalar para a Unidade de Saúde Animal - SRP",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 97480.6,
-  "abertura": "2026-10-13T17:00:00",
-  "encerramento": "2026-10-29T08:59:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87890992000158/2026/1094",
-  "link_sistema": null,
-  "total_itens": 14,
-  "itens_da_linha": [
-   {
-    "descricao": "Compressa de gaze 11 a 13 fios, tamanho 7,5 x 7,5 cm, no mínimo 5 dobras, 8 camadas. Pacote com 500 unidades.",
-    "quantidade": 2000.0,
-    "unidade": "PACOTE (PACOTE)",
-    "valor_total": 35820.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa de 03ml luer lock, descartável. (conforme termo de referência)",
-    "quantidade": 8000.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 3680.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa de 05ml luer lock, descartável. (conforme termo de referência)",
-    "quantidade": 5000.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 1500.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Seringa de 10ml luer lock, descartável. (conforme termo de referência)",
-    "quantidade": 5000.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 2700.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 43700.0,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
-  "id": "09341233000122-1-000149/2026",
-  "orgao": "FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA",
-  "unidade": "FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA",
-  "cidade": "Bagé",
-  "objeto": "Aquisição de Material Hospitalar, destinado à UNIPAMPA, Campus Uruguaiana/RS",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 1237406.44,
-  "abertura": "2026-10-15T08:00:00",
-  "encerramento": "2026-10-29T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/09341233000122/2026/149",
-  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15435905002842026",
-  "total_itens": 58,
-  "itens_da_linha": [
-   {
-    "descricao": "Cateter Periférico aplicação: venoso, componente 2: c/ sistema segurança segundo nr/32, componente adicional: c/ asa de fixação, tubo extensor c/ clamp, comprimento: cerca 30, conector: conector padrão c/ injetor lateral, diametro: 18, material agulha: agulha aço inox, material cateter: polímero radiopaco, tipo uso: estéril, descartável, embalagem individual",
-    "quantidade": 10000.0,
-    "unidade": "Unidade",
-    "valor_total": 20800.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Cateter Periférico aplicação: venoso, componente 2: c/ sistema segurança segundo nr/32, componente adicional: c/ asa de fixação, tubo extensor c/ clamp, comprimento: cerca 30, conector: conector padrão c/ injetor lateral, diametro: 20, material agulha: agulha aço inox, material cateter: polímero radiopaco, tipo uso: estéril, descartável, embalagem individual",
-    "quantidade": 11000.0,
-    "unidade": "Unidade",
-    "valor_total": 24090.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Cateter Periférico aplicação: venoso, componente 2: c/ sistema segurança segundo nr/32, componente adicional: c/ asa de fixação, tubo extensor c/ clamp, comprimento: cerca 25, conector: conector padrão c/ injetor lateral, diametro: 22, material agulha: agulha aço inox, material cateter: polímero radiopaco, tipo uso: estéril, descartável, embalagem individual",
-    "quantidade": 10550.0,
-    "unidade": "Unidade",
-    "valor_total": 24054.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Cateter Periférico aplicação: venoso, componente 2: c/ sistema segurança segundo nr/32, componente adicional: c/ asa de fixação, tubo extensor c/ clamp, comprimento: cerca 20, conector: conector padrão c/ injetor lateral, diametro: 24, material agulha: agulha aço inox, material cateter: polímero radiopaco, tipo uso: estéril, descartável, embalagem individual",
-    "quantidade": 10100.0,
-    "unidade": "Unidade",
-    "valor_total": 22523.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Espéculo Uso Médico adicional 2: compatível c/ otoscópio, aplicação: auricular, esterilidade: não estéril, uso único, material: polímero, ponta ativa: cerca de 2,5, tamanho: infantil",
-    "quantidade": 1000.0,
-    "unidade": "Unidade",
-    "valor_total": 1000.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Fio De Sutura Agulhado apresentação: embalagem individual, comprimento agulha: cerca de 30, comprimento fio: cerca de 45, diâmetro fio: 3-0, esterilidade: estéril, material fio: nylon / poliamida preto, modelo agulha: cilíndrica, modelo fio: monofilamentar, tipo agulha: agulha 3/8 círculo",
-    "quantidade": 2600.0,
-    "unidade": "Unidade",
-    "valor_total": 6630.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Fita Adesiva - Uso Cutâneo apresentação: rolo c/ capa protetora, cor: c/ cor, esterilidade: não estéril, largura da fita: cerca de 25 mm, material dorso: à base de algodão e fibra sintética, tipo: esparadrapo impermeável, tipo de adesivo: c/ látex natural",
-    "quantidade": 5050.0,
-    "unidade": "Unidade",
-    "valor_total": 15756.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 114853.0,
-  "itens_principais": 2,
-  "exclusiva_me": true
- },
- {
   "id": "74704008000175-1-000040/2026",
   "orgao": "FUNDACAO DE APOIO DA UNIVERSIDADE FEDERAL DO RGS",
   "unidade": "FUNDACAO DE APOIO DA UFRGS",
@@ -9284,6 +7902,81 @@
   "exclusiva_me": false
  },
  {
+  "id": "87612883000179-1-000081/2026",
+  "orgao": "MUNICIPIO DE VICENTE DUTRA",
+  "unidade": "Manutencao do Fundo Municipal de Saúde",
+  "cidade": "Vicente Dutra",
+  "objeto": "Contratação de empresa(s) para a aquisição de materiais, equipamentos e mobiliários destinados aos serviços de saúde materna, paterna e infantil, com recursos provenientes da Portaria nº 1.228/2025 - RBC e Portaria n° SES 1284/2025 para utilização nas Unidades Básicas de Saúde (UBS), nos postos de saúde e pelas equipes da Estratégia Saúde da Família (ESF) do Município de Vicente Dutra/RS",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 140450.0,
+  "abertura": "2026-10-29T12:00:00",
+  "encerramento": "2026-11-12T07:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87612883000179/2026/81",
+  "link_sistema": null,
+  "total_itens": 38,
+  "itens_da_linha": [
+   {
+    "descricao": "Esfigmomanômetro infantil destinado à aferição não invasiva da pressão arterial em pacientes pediátricos, composto por manômetro, manguitos/braçadeiras.",
+    "quantidade": 5.0,
+    "unidade": "UN (UN)",
+    "valor_total": 806.25,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro adulto obeso destinado à aferição não invasiva da pressão arterial em pacientes obesos, composto por manômetro, manguitos/braçadeiras",
+    "quantidade": 5.0,
+    "unidade": "UN (UN)",
+    "valor_total": 1093.75,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Estetoscópio infantil destinado à ausculta dos sons cardíacos, pulmonares e demais sons corporais em pacientes pediátricos. Deverá possuir auscultador/cabeça dupla ou equivalente, com diafragma adequado para uso infantil, proporcionando boa sensibilidade acústica e transmissão sonora. O equipamento deverá apresentar boa qualidade acústica, baixa interferência de ruídos externos e ausência de vazam",
+    "quantidade": 5.0,
+    "unidade": "UN (UN)",
+    "valor_total": 353.75,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro adulto destinado à aferição não invasiva da pressão arterial em pacientes adultos, composto por manômetro, manguitos/braçadeiras.",
+    "quantidade": 10.0,
+    "unidade": "UN (UN)",
+    "valor_total": 1500.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Mesa ginecológica elétrica destinada à realização de exames e procedimentos ginecológicos e obstétricos, adequada para utilização em consultórios, clínicas, unidades básicas de saúde, ambulatórios e demais estabelecimentos de assistência à saúde.ESPECIFICAÇÃO COMPLETA SE ENCONTRA NO EDITAL E TERMO REFERENCIA",
+    "quantidade": 1.0,
+    "unidade": "UN (UN)",
+    "valor_total": 18159.68,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 21913.43,
+  "itens_principais": 5,
+  "exclusiva_me": false
+ },
+ {
   "id": "91573048000144-1-000322/2026",
   "orgao": "MUNICIPIO DE ITACURUBI",
   "unidade": "MUNICIPIO DE ITACURUBI/RS",
@@ -9484,6 +8177,214 @@
   ],
   "valor_itens_da_linha": 5618.4,
   "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "00394452000103-1-023168/2026",
+  "orgao": "COMANDO DO EXERCITO",
+  "unidade": "HOSPITAL GERAL DE SANTA MARIA",
+  "cidade": "Santa Maria",
+  "objeto": "Registro de preços para aquisição de materiais e equipamentos médico-hospitalares - PAASSEx",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 2783955.9,
+  "abertura": "2026-10-29T09:00:00",
+  "encerramento": "2026-11-12T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23168",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16041605000092026",
+  "total_itens": 65,
+  "itens_da_linha": [
+   {
+    "descricao": "Oxímetro Uso Médico tipo: mesa, faixa medição saturação 1: 0 a 100%, faixa medição pulso 1: cerca  de 20 a 250, autonomia sistema 1: cerca 16, alimentação: rede elétrica, acessórios: c/ sensor",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 8700.0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Poltrona Reclinável material: tubos aço com pintura eletrostática, componentes: braços articuláveis ao encosto, características adicionais: pés ponteira borracha, acabamento: encosto, assento e braços espuma alta densidade, estrutura: costas e pés reclináveis simultâneos 3 posições, aplicação: hemodiálise",
+    "quantidade": 8.0,
+    "unidade": "Unidade",
+    "valor_total": 32544.0,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Conjunto Procedimento Médico aplicação: p/ sutura, composição básica: c/ no mínimo, componentes: 1 pinça, 1 tesoura, 1 porta agulha, outros componentes: 1 campo fenestrado, 1 fio de sutura, componentes adicionais: compressa de gaze, esterilidade: estéril, uso único",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 928.44,
+    "linhas": [
+     "fio de sutura",
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Poltrona Reclinável material: tubos aço com pintura epoxi, componentes: c/ encosto, assento, apoio pernas e braços, características adicionais: posição trendelemburg, acabamento: estofado de espuma revestido em courvin, modelo: manual, sistema pneumático",
+    "quantidade": 15.0,
+    "unidade": "Unidade",
+    "valor_total": 27000.0,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro ajuste: digital, tipo*: de braço, faixa de operação: até 300, material braçadeira: braçadeira em nylon, tipo fecho: fecho em velcro, tamanho: adulto",
+    "quantidade": 15.0,
+    "unidade": "Unidade",
+    "valor_total": 12449.85,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro ajuste: analógico, aneróide, uso: pedestal c/ rodízios, tipo*: de braço, faixa de operação: até 300, material braçadeira: braçadeira em nylon, tipo fecho: fecho em velcro, tamanho: adulto",
+    "quantidade": 5.0,
+    "unidade": "Unidade",
+    "valor_total": 2587.5,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Biombo Hospitalar material: aço inoxidável, tipo: sanfonado, móvel, altura: cerca de 1,80, comprimento: comprimento 1,80 aproximadamente, aberto, tipo de rodízio: rodízios c/ freios, características adicionais: divisórias em pvc",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 25990.0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Peça Equipamento Médico tipo 1: chassi, compatível: p/ processador de imagem câmera videolaparoscopia",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 880138.38,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cânula Instrumental aplicação: p/ aspiração e irrigação, modelo: videocirurgia, diâmetro: cerca de 5,0, haste: reta, comprimento total: cerca de 36, material: aço inoxidável, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 7878.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Porta-Agulha P/ Videocirurgia material: aço inoxidável, formato ponta: ponta curva, adicional 1: c/ vídea, haste: haste s/ isolamento, dimensão: cerca de 5 mm x 35 cm, componente: manopla em metal c/ cremalheira, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 7457.64,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Porta-Agulha P/ Videocirurgia material: aço inoxidável, formato ponta: ponta curva, haste: haste s/ isolamento, dimensão: cerca de 5 mm x 35 cm, componente: manopla em metal c/ cremalheira, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 6994.35,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Endoscópio Rígido ângulo visão: 30°, revestimento: aço inoxidável, formato: reta, rígida, dimensão: cerca de 10 x 400, adicional 2: compatível com fibra óptica, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 67797.57,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: dissecção, modelo 1: maryland, haste: haste isolada, dimensão: cerca de 5 mm x 35 cm, componente: manopla s/ cremalheira, outros componentes: c/ conexão p/ bisturi monopolar, características adicionais: giratória, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 8970.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: dissecção, modelo 1: maryland, haste: haste isolada, dimensão: cerca de 5 mm x 30 cm, componente: manopla s/ cremalheira, outros componentes: c/ conexão p/ bisturi bipolar, características adicionais: giratória, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 8970.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão atraumática, modelo 1: fenestrada tipo endoclinch, haste: haste isolada, dimensão: cerca de 5 mm x 35 cm, componente: manopla c/ cremalheira, características adicionais: giratória, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 5295.54,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Tesoura P/ Videocirurgia aplicação: p/ videocirurgia, tipo*: monopolar, modelo: metzenbaum, ponta: ponta curva, material*: aço inoxidável, diâmetro: cerca de 5 mm x 35 cm, adicional: rotatória, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 8972.7,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão atraumática, modelo 1: fenestrada, formato ponta: curva, haste: haste isolada, dimensão: cerca de 5 mm x 45 cm, componente: manopla c/ cremalheira, características adicionais: giratória, esterilidade: esterilizável",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 8970.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 1121643.97,
+  "itens_principais": 17,
   "exclusiva_me": false
  },
  {
@@ -9994,6 +8895,770 @@
   "exclusiva_me": true
  },
  {
+  "id": "15126437000305-1-004458/2026",
+  "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+  "unidade": "HOSPITAL ESCOLA DA UNIV. FEDERAL DE PELOTAS",
+  "cidade": "Pelotas",
+  "objeto": "Registro de Preços para a Aquisição de Produtos para Saúde - Fios Cirúrgicos, Hemostácitos e Clipes Cirúrgicos",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-29T08:00:00",
+  "encerramento": "2026-11-13T10:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/15126437000305/2026/4458",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15590105001302026",
+  "total_itens": 69,
+  "itens_da_linha": [
+   {
+    "descricao": "Fio De Sutura S/ Agulha Fio De Sutura S/ Agulha, Material:Aço Inoxidável, Modelo:Monofilamentar, Diâmetro:0 / 1-0, Comprimento:3 X Cerca De 60 CM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO AÇO INOXIDÁVEL, FIO Nº 0, COM 3 FIOS X 60 CM COMPRIMENTO, SEM AGULHA. FIO INABSORVÍVEL. ESTÉRIL. USO ÚNICO. ENVELOPE INDIVIDUAL, APROPRIADO AO MÉTODO DE ESTERILIZAÇÃO, QUE POSSI",
+    "quantidade": 47.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura S/ Agulha Fio De Sutura S/ Agulha, Material:Aço Inoxidável, Modelo:Monofilamentar, Diâmetro:2-0, Comprimento:3 X Cerca De 60 CM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO AÇO INOXIDÁVEL, FIO  Nº 2.0, COM 3 FIOS X 60 CM COMPRIMENTO, SEM AGULHA. FIO INABSORVÍVEL. ESTÉRIL. USO ÚNICO. ENVELOPE INDIVIDUAL, APROPRIADO AO MÉTODO DE ESTERILIZAÇÃO, QUE POSSIB",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura S/ Agulha Fio De Sutura S/ Agulha, Material:Aço Inoxidável, Modelo:Monofilamentar, Diâmetro:Nº 1, Comprimento:3 X Cerca De 60 CM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO AÇO INOXIDÁVEL, FIO Nº 1, COM 3 FIOS X 60 CM COMPRIMENTO, SEM AGULHA. FIO INABSORVÍVEL. ESTÉRIL. USO ÚNICO. ENVELOPE INDIVIDUAL, APROPRIADO AO MÉTODO DE ESTERILIZAÇÃO, QUE POSSIBIL",
+    "quantidade": 4.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglecaprone Violeta, Modelo Fio:Monofilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLECAPRONE 25, 2-0, COR VIOLETA, COM 70 CM COMPRIMENTO, AGULHA DE ",
+    "quantidade": 52.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglecaprone Violeta, Modelo Fio:Monofilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 35 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLECAPRONE 25, 2-0, COR VIOLETA, COM 70 CM COMPRIMENTO, AGULHA DE ",
+    "quantidade": 73.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglecaprone Violeta, Modelo Fio:Monofilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGECAPRONE 25, 3-0,VIOLETA, COMPRIMENTO DO FIO DE 70 CM, AGULHA DE ",
+    "quantidade": 306.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglecaprone Violeta, Modelo Fio:Monofilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 18 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLECAPRONE 25, 4-0, COR VIOLETA , COM 70 CM DE COMPRIMENTO, AGULHA",
+    "quantidade": 46.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglecaprone Incolor, Modelo Fio:Monofilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 16 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLECAPRONE 25, 4-0, COR INCOLOR, COMPRIMENTO DO ",
+    "quantidade": 1037.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglecaprone Incolor, Modelo Fio:Monofilamentar, Diâmetro Fio:5-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLECAPRONE 25, 5-0, INCOLOR , COMPRIMENTO DO FIO",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Cromado, Modelo Fio:Multifilamentar, Diâmetro Fio:Nº 1, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 50 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT CROMADO 1, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR MARROM. AGULHA D",
+    "quantidade": 317.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Cromado, Modelo Fio:Multifilamentar, Diâmetro Fio:0 / 1-0, Comprimento Fio:Cerca De 90 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 50 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT CROMADO 0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR MARROM. AGULH",
+    "quantidade": 44.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Cromado, Modelo Fio:Multifilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT CROMADO 2-0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR MARROM. AGULHA ",
+    "quantidade": 2269.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Cromado, Modelo Fio:Multifilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT CROMADO 3-0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR MARROM. AGULHA ",
+    "quantidade": 16.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Cromado, Modelo Fio:Multifilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 14 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT CROMADO 4-0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR MARROM. AGULHA ",
+    "quantidade": 6.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Cromado, Modelo Fio:Multifilamentar, Diâmetro Fio:5-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 16 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT CROMADO 5-0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR MARROM. AGULHA ",
+    "quantidade": 31.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Simples, Modelo Fio:Multifilamentar, Diâmetro Fio:0 / 1-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT SIMPLES 0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR AMARELA. AGUL",
+    "quantidade": 7.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Simples, Modelo Fio:Multifilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT SIMPLES 2-0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR AMARELA. AGULHA",
+    "quantidade": 1600.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Simples, Modelo Fio:Multifilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT SIMPLES 3-0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR AMARELA. AGULHA",
+    "quantidade": 35.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Simples, Modelo Fio:Multifilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT SIMPLES 4-0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR AMARELA. AGULHA",
+    "quantidade": 14.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Catgut Simples, Modelo Fio:Multifilamentar, Diâmetro Fio:5-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 16 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO CATGUT SIMPLES 5-0, ABSORVÍVEL, MULTIFILAMENTAR, TORCIDO, COR AMARELA. AGULHA",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliéster Verde, Modelo Fio:Multifilamentar, Componente Fio:C/ Revestimento Deslizante, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:2 Agulhas 1/2 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIÉSTER, FI",
+    "quantidade": 13.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliéster Verde, Modelo Fio:Multifilamentar, Componente Fio:C/ Revestimento Deslizante, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 60 CM, Tipo Agulha:2 Agulhas 1/2 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 16 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIÉSTER, FI",
+    "quantidade": 14.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliéster Verde, Modelo Fio:Multifilamentar, Componente Fio:C/ Revestimento Deslizante, Diâmetro Fio:Nº 5, Comprimento Fio:4 X Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cortante, Comprimento Agulha:Cerca De 50 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIÉSTER, FIO 5, REVESTIDO CO",
+    "quantidade": 49.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Linho Branco, Modelo Fio:Multifilamentar, Diâmetro Fio:0 / 1-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual \"FIO DE SUTURA, TIPO LINHO, Nº 0, POLIFILAMENTOS DE COR BRANCA, TORCIDOS, DE ALTA RESISTÊNCIA T",
+    "quantidade": 150.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Linho Branco, Modelo Fio:Multifilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA,   TIPO LINHO, Nº 2, POLIFILAMENTOS DE COR BRANCA, TORCIDOS, DE ALTA RESISTÊNCIA TÊNS",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura S/ Agulha Fio De Sutura S/ Agulha, Material:Linho Branco, Modelo:Multifilamentar, Diâmetro:2-0, Comprimento:15 X Cerca De 45 CM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO LINHO, Nº 2-0, POLIFILAMENTOS DE COR BRANCA, TORCIDOS, DE ALTA RESISTÊNCIA TÊNSIL, COR BRANCA, PRÉ CORTADO, SEM AGULHA, 15 FIOS  X 45 CM DE COMPRIMENTO. FIO INABSORVÍVEL, ESTÉRIL, U",
+    "quantidade": 250.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:0 / 1-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, MONO NYLON, 0,  MONOFILAMENTO PRETO, COMPRIMENTO DO ",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 35 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, MONO NYLON, 2-0, MONOFILAMENTO  PRETO, COMPRIMENTO DO FI",
+    "quantidade": 1000.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 40 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO NYLON 2-0, MONOFILAMENTO, NÃO ABSORVÍVEL, COR PRETO",
+    "quantidade": 1200.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, MONO NYLON, 3-0, MONOFILAMENTO  PRETO, COMPRIMENTO DO FI",
+    "quantidade": 800.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, MONO NYLON, 3-0, PRETO, COMPRIMENTO DO FIO DE 45 CM, AGU",
+    "quantidade": 4000.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, MONO NYLON, 4-0,MONOFILAMENTO PRETO, COMPRIMENTO DO FIO ",
+    "quantidade": 400.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, MONO NYLON, 4-0, PRETO, COMPRIMENTO DO FIO DE 45 CM, AGU",
+    "quantidade": 1500.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:5-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 16 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, MONO NYLON, 5-0, PRETO, COMPRIMENTO DO DE 45 CM, AGULHA ",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:5-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO NYLON 5-0, MONOFILAMENTO, NÃO ABSORVÍVEL, COR PRETO",
+    "quantidade": 250.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Nylon / Poliamida Preto, Modelo Fio:Monofilamentar, Diâmetro Fio:6-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO NYLON 6-0, MONOFILAMENTO, NÃO ABSORVÍVEL, COR PRETO",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polipropileno Azul, Modelo Fio:Monofilamentar, Diâmetro Fio:0 / 1-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIPROPILENO 0, MONOFILAMENTO, NÃO ABSORVÍVEL, COR AZUL. AGULHA DE 25",
+    "quantidade": 250.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polipropileno Azul, Modelo Fio:Monofilamentar, Diâmetro Fio:0 / 1-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 40 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIPROPILENO 0, MONOFILAMENTO, NÃO ABSORVÍVEL, COR AZUL. AGULHA DE 40",
+    "quantidade": 150.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polipropileno Azul, Modelo Fio:Monofilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:2 Agulhas 1/2 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIPROPILENO 2-0, MONOFILAMENTO, NÃO ABSORVÍVEL, COR ",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polipropileno Azul, Modelo Fio:Monofilamentar, Diâmetro Fio:Nº 2, Comprimento Fio:3 X Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 75 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIPROPILENO, 2,0, MONOFILAMENTAR, COR AZUL, COM 3",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polipropileno Azul, Modelo Fio:Monofilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:2 Agulhas 1/2 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIPROPILENO, 3.0, MONOFILAMENTAR, COR AZUL, COMPRIME",
+    "quantidade": 80.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polipropileno Azul, Modelo Fio:Monofilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:2 Agulhas 1/2 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 20 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIPROPILENO 4-0, MONOFILAMENTO, NÃO ABSORVÍVEL, COR ",
+    "quantidade": 120.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polipropileno Azul, Modelo Fio:Monofilamentar, Diâmetro Fio:5-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:2 Agulhas 1/2 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 18 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIPROPILENO 5-0, MONOFILAMENTO, NÃO ABSORVÍVEL, COR ",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polipropileno Azul, Modelo Fio:Monofilamentar, Diâmetro Fio:6-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:2 Agulhas 3/8 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 14 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIPROPILENO, 6-0, MONOFILAMENTAR, COR AZUL, COMPRIME",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura S/ Agulha Fio De Sutura S/ Agulha, Material:Seda Preto, Modelo:Multifilamentar, Diâmetro:Nº 1, Comprimento:15 X Cerca De 45 CM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO SEDA, 1, MULTIFILAMENTAR ,  TRANÇADO, COR PRETA, SEM AGULHA, 15 X 45 CM. FIO INABSORVÍVEL, ESTÉRIL, USO ÚNICO. ENVELOPE INDIVIDUAL, APROPRIADO AO MÉTODO DE ESTERILIZAÇÃO, QUE POSSIBI",
+    "quantidade": 400.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Seda Preto, Modelo Fio:Multifilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO SEDA 2-0, TRANÇADO, NÃO ABSORVÍVEL, COR PRETO. AGULHA 30 A 32 MM CILÍNDRICA, CURV",
+    "quantidade": 800.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Seda Preto, Modelo Fio:Multifilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 30 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO SEDA, 3.0, MONOFILAMENTAR TRANÇADO, COR PRETO, COMPRIMENTO DO FIO DE 70CM,  AGULH",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura S/ Agulha Fio De Sutura S/ Agulha, Material:Seda Preto, Modelo:Multifilamentar, Diâmetro:2-0, Comprimento:15 X Cerca De 45 CM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO SEDA, 2.0, MULTIFILAMENTAR  TRANÇADO, COR PRETA, SEM AGULHA, 15 X 45 CM. FIO INABSORVÍVEL, ESTÉRIL, USO ÚNICO. ENVELOPE INDIVIDUAL, APROPRIADO AO MÉTODO DE ESTERILIZAÇÃO, QUE POSSIBIL",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura S/ Agulha Fio De Sutura S/ Agulha, Material:Seda Preto, Modelo:Multifilamentar, Diâmetro:3-0, Comprimento:15 X Cerca De 45 CM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO SEDA, 3.0, MULTIFILAMENTAR TRANÇADA, COR PRETA, SEM AGULHA, 15 X 45 CM. FIO INABSORVÍVEL, ESTÉRIL, USO ÚNICO. ENVELOPE INDIVIDUAL, APROPRIADO AO MÉTODO DE ESTERILIZAÇÃO, QUE POSSIBILI",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglactina Violeta, Modelo Fio:Multifilamentar, Diâmetro Fio:0 / 1-0, Comprimento Fio:Cerca De 90 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 50 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLACTINA 1, SINTÉTICO ABSORVÍVEL, COR VIOLETA. AGULHA DE 48 A 5",
+    "quantidade": 5000.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglactina Violeta, Modelo Fio:Multifilamentar, Diâmetro Fio:0 / 1-0, Comprimento Fio:Cerca De 90 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 50 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLACTINA 910,  Nº 0, VIOLETA, COMPRIMENTO DO FIO DE 90 CM, AGUL",
+    "quantidade": 1000.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglactina Violeta, Modelo Fio:Multifilamentar, Diâmetro Fio:2-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLACTINA 2-0, SINTÉTICO ABSORVÍVEL, COR VIOLETA. AGULHA DE 24 A 26 ",
+    "quantidade": 1000.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglactina Violeta, Modelo Fio:Multifilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica Robusta, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLACTINA 910,  Nº 3-0, VIOLETA, COMPRIMENTO DO FIO DE 70 CM",
+    "quantidade": 60.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglactina Violeta, Modelo Fio:Multifilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica Robusta, Comprimento Agulha:Cerca De 26 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLACTINA 910,  Nº 3-0, VIOLETA, COMPRIMENTO DO FIO DE 70 CM",
+    "quantidade": 1700.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura S/ Agulha Fio De Sutura S/ Agulha, Material:Poliglactina Violeta, Modelo:Multifilamentar, Diâmetro:3-0, Comprimento:Cerca De 150 CM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLACTINA 910, 3.0, VIOLETA TRANÇADA, SEM AGULHA, REVESTIDO COM POLIGLACTINA 370 E ESTEARATO DE CÁLCIO, COMPRIMENTO DO FIO DE 150 CM. FIO ABSORVÍVEL, ESTÉRIL, USO ÚNICO. ENVE",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Poliglactina Violeta, Modelo Fio:Multifilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 22 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIGLACTINA 910,  4-0, VIOLETA, COMPRIMENTO DO FIO DE 70 CM, AGULHA DE",
+    "quantidade": 150.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Ác. Poliglicólico Incolor, Modelo Fio:Multifilamentar, Diâmetro Fio:3-0, Comprimento Fio:Cerca De 45 CM, Tipo Agulha:Agulha 3/8 Círculo, Modelo Agulha:Cortante Reversa / Invertida, Comprimento Agulha:Cerca De 24 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO ÁCIDO POLIGLICÓLICO (PGA), 3-0, COR INCOLOR, COM",
+    "quantidade": 450.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Ác. Poliglicólico Violeta, Modelo Fio:Multifilamentar, Diâmetro Fio:5-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 16 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO ÁCIDO POLIGLICÓLICO (PGA), 5-0, VIOLETA, COMPRIMENTO DO FIO DE 70 ",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Ác. Poliglicólico Violeta, Modelo Fio:Multifilamentar, Diâmetro Fio:8-0, Comprimento Fio:Cerca De 30 CM, Tipo Agulha:2 Agulhas 3/8 Círculo Nas Extremidades, Modelo Agulha:Espatulada, Comprimento Agulha:Cerca De 6 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO ÁCIDO POLIGLICÓLICO (PGA), 8-0, VIOLETA, COMPRI",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polidioxanona Violeta, Modelo Fio:Monofilamentar, Diâmetro Fio:6-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:2 Agulhas 3/8 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 9 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIDIOXANONA 6-0, VIOLETA, COMPRIMENTO DO FIO DE 75",
+    "quantidade": 9.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polidioxanona Violeta, Modelo Fio:Monofilamentar, Diâmetro Fio:7-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:2 Agulhas 3/8 Círculo Nas Extremidades, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 9 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIDIOXANONA 7-0, VIOLETA, COMPRIMENTO DO FIO DE 70",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio De Sutura Agulhado Fio De Sutura Agulhado, Material Fio:Polidioxanona Violeta, Modelo Fio:Monofilamentar, Diâmetro Fio:4-0, Comprimento Fio:Cerca De 70 CM, Tipo Agulha:Agulha 1/2 Círculo, Modelo Agulha:Cilíndrica, Comprimento Agulha:Cerca De 22 MM, Esterilidade:Estéril, Apresentação:Embalagem Individual FIO DE SUTURA, TIPO POLIDIOXANONA 4-0, VIOLETA, COMPRIMENTO DO FIO DE 70 CM, AGULHA DE 2,2 ",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 62,
+  "exclusiva_me": false
+ },
+ {
+  "id": "93317980000131-1-000464/2026",
+  "orgao": "MUNICIPIO DE MORRINHOS DO SUL",
+  "unidade": "PREFEITURA MUNICIPAL DE MORRINHOS DO SUL",
+  "cidade": "Morrinhos do Sul",
+  "objeto": "AQUISIÇÃO DE BENS DESTINADOS À PREMIAÇÃO DO PROGRAMA MUNICIPAL “NOTA PREMIADA” – EXERCÍCIO DE 2026, COMPREENDENDO ELETRODOMÉSTICOS, EQUIPAMENTOS ELETRÔNICOS, BICICLETA, GAZEBO E DEMAIS BENS PREVISTOS NO DECRETO MUNICIPAL Nº 4.511/2026.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 26906.23,
+  "abertura": "2026-10-28T11:30:00",
+  "encerramento": "2026-11-16T08:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/93317980000131/2026/464",
+  "link_sistema": "",
+  "total_itens": 18,
+  "itens_da_linha": [
+   {
+    "descricao": "GAZEBO ARTICULADO: Gazebo articulado, novo e sem uso anterior, com dimensões mínimas de 3,00 m x 3,00 m, sistema sanfonado/articulado de abertura e fechamento, pés em alumínio, cobertura em poliéster ou material equivalente, impermeável e com proteção contra raios UV, acompanhado de bolsa para transporte e dos acessórios necessários à montagem e utilização. Garantia mínima de 3 (três) meses, conta",
+    "quantidade": 1.0,
+    "unidade": "UNIDADE",
+    "valor_total": 577.11,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 577.11,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
+  "id": "04218960000183-1-000121/2026",
+  "orgao": "MUNICIPIO DE ARROIO DO PADRE",
+  "unidade": "Secretaria de Administração, Planejamento, Finanças, Gestão e Tributos",
+  "cidade": "Arroio do Padre",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de tiras reagentes para medição de glicose sanguínea, destinadas ao monitoramento e controle dos níveis glicêmicos dos pacientes atendidos pela Unidade Básica de Saúde (UBS) e pela Farmácia Municipal de Arroio do Padre/RS, visando garantir a continuidade do acompanhamento de pacientes diabéticos e demais usuários que necessitem de controle glicêmico, conforme as demandas dos serviços municipais de saúde",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 10800.0,
+  "abertura": "2026-10-29T09:00:00",
+  "encerramento": "2026-11-16T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/04218960000183/2026/121",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Arroio-do-Padre-1201/RPE-RPPE64-2026-2026-521814",
+  "total_itens": 1,
+  "itens_da_linha": [
+   {
+    "descricao": "Tiras para medicao de Glicose COMPATiVEL COM APARELHO On Call Plus ou aparelho Medisign ou não sendo COMPATiVEL com estes aparelhos que seja fornecido juntamente 50 aparelhos Glicosimetro COMPATiVEL com a marca a ser fornecida",
+    "quantidade": 20000.0,
+    "unidade": "Unidade",
+    "valor_total": 10800.0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 10800.0,
+  "itens_principais": 1,
+  "exclusiva_me": true
+ },
+ {
   "id": "92787118000120-1-000999/2026",
   "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
   "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
@@ -10089,6 +9754,48 @@
   "exclusiva_me": false
  },
  {
+  "id": "13016717000173-1-000261/2026",
+  "orgao": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
+  "unidade": "Fundação de Saúde Pública São Camilo de Esteio",
+  "cidade": "Esteio",
+  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE EQUIPAMENTO E MATERIAL PERMANENTE PARA APOIO A INTERNAÇÃO/INTERNAÇÃO GERAL",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 339553.0,
+  "abertura": "2026-10-28T14:00:00",
+  "encerramento": "2026-11-17T09:20:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/13016717000173/2026/261",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Fundacao-de-Saude-Publica-Sao-Camilo-de-Esteio-1126/RPE-92-2026-2026-517695",
+  "total_itens": 3,
+  "itens_da_linha": [
+   {
+    "descricao": "Esfigmomanômetro Obeso-Características: Braçadeira: Confeccionada em tecido nylon de alta resistência com tecnologia sem costura. Manguito: Bolsa com tubos interligados entre manômetro, válvula e pêra, em PVC antialérgico. Pêra: Confeccionada em PVC antia",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 209.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cama Hospitalar Tipo Fawler Elétrica-Todas as informações descritas detalhadamente conforme termo de referência.",
+    "quantidade": 14.0,
+    "unidade": "Unidade",
+    "valor_total": 334572.0,
+    "linhas": [
+     "cama hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 334781.0,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
   "id": "13016717000173-1-000251/2026",
   "orgao": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
   "unidade": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
@@ -10159,6 +9866,48 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "11055682000156-1-000562/2026",
+  "orgao": "FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH",
+  "unidade": "Diretoria de Gestão Hospitalar",
+  "cidade": "Novo Hamburgo",
+  "objeto": "AQUISIÇÃO DE TUBO DE REATIVOS TCA, GRAMPEADOR LINEAR, CARGA DE GRAMPEADOR LINEAR, GRAMPEADOR CIRCULAR E CLIPE CIRÚRGICO PARA HEMOSTASIA.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-29T11:10:11",
+  "encerramento": "2026-11-17T10:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/11055682000156/2026/562",
+  "link_sistema": null,
+  "total_itens": 8,
+  "itens_da_linha": [
+   {
+    "descricao": "CLIPE USO CIRÚRGICO. CLIPE CIRURGICO PARA HEMOSTASIA, TITANIO, PEQUENO, ESTERIL,  DESCARTAVEL, USO EM VIDEOCIRURGIA LAPAROSCOPICA PARA LIGADURA MECANICA. APRESENTAÇÃO- OBSERVACAO: COMODATO: 2 PINÇAS CLIPADORAS PARA CIRURGIA ABERTA",
+    "quantidade": 300.0,
+    "unidade": "CARTUCHO (CTC)",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CLIPE USO CIRÚRGICO. CLIPE CIRURGICO PARA HEMOSTASIA, TITANIO, GRANDE, ESTERIL,  DESCARTAVEL, USO EM VIDEOCIRURGIA LAPAROSCOPICA PARA LIGADURA MECANICA. APRESENTAÇÃO: \nOBSERVACAO: COMODATO: 02(DUAS) PINÇAS CLIPADORAS P/ CIRURGIA POR VÍDEO E 1(UMA) PINÇA CLIPADORA PARA CIRURGIA ABERTA.",
+    "quantidade": 60.0,
+    "unidade": "CARTUCHO (CTC)",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 2,
   "exclusiva_me": false
  },
  {
@@ -10335,6 +10084,189 @@
     "valor_total": 0,
     "linhas": [
      "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 4,
+  "exclusiva_me": false
+ },
+ {
+  "id": "11055682000156-1-000559/2026",
+  "orgao": "FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH",
+  "unidade": "Setor de Compras e Licitações",
+  "cidade": "Novo Hamburgo",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de Pneus novos para as ambulâncias do SAMU",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-28T14:00:00",
+  "encerramento": "2026-11-18T10:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/11055682000156/2026/559",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Fundacao-de-Saude-Publica-de-Novo-Hamburgo-Fsnh-746/RPE-110-2026-2026-521801",
+  "total_itens": 12,
+  "itens_da_linha": [
+   {
+    "descricao": "PNEU PARA CADEIRA DE RODAS - PNEU 24 X 1.3/8 PARA CADEIRA DE RODAS - COR CINZA/CINZENTO (MODELO NAO MARCANTE / NON-MARKING, QUE NAO RISCA NEM DANIFICA O PISO HOSPITALAR). ESTRUTURA EM NAILON COM TALAO EM ARAME DE ACO. TRAMA DE BORRACHA FLEXiVEL DE ALTA DURABILIDADE E ADERENCIA. PRODUTO NOVO (PRIMEIRA VIDA). EMBALADO INDIVIDUALMENTE COM ROTULO DO FABRICANTE CONTENDO DIMENSOES E PRESSAO DE CALIBRAGE",
+    "quantidade": 60.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CAMARA DE AR PARA CADEIRA DE RODAS - CAMARA DE AR 24 X 1.3/8 PARA CADEIRA DE RODAS - CONFECCIONADA EM BORRACHA SINTETICA DE ALTA RESISTENCIA E ALTA RETENCAO DE AR (TIPO BUTiLICA). DOTADA DE VALVULA TIPO SCHRADER (BICO GROSSO) COM TAMPA DE PROTECAO E NuCLEO REMOViVEL. PRODUTO 100% NOVO, SEM EMENDAS, VULCANIZACOES OU REPAROS. EMBALADA INDIVIDUALMENTE COM IDENTIFICACAO CLARA DO FABRICANTE, MARCA E DI",
+    "quantidade": 60.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "87615449000142-1-000367/2026",
+  "orgao": "MUNICIPIO DE TAPEJARA",
+  "unidade": "Município de Tapejara",
+  "cidade": "Tapejara",
+  "objeto": "MATERIAL AMBULATORIAL",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-10-28T18:00:00",
+  "encerramento": "2026-11-23T08:29:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87615449000142/2026/367",
+  "link_sistema": null,
+  "total_itens": 25,
+  "itens_da_linha": [
+   {
+    "descricao": "ASPIRADOR CIRÚRGICO PORTÁTIL - ASPIRADOR PEQUENO",
+    "quantidade": 6.0,
+    "unidade": "UN",
+    "valor_total": 0,
+    "linhas": [
+     "aspirador"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Curativo primário, estéril, não aderente, constituído por uma compressa de malha de rayon",
+    "quantidade": 500.0,
+    "unidade": "CX",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "EQUIPO PARA BOMBA DE INFUSÃO (ROXO), ESTÉRIL",
+    "quantidade": 300.0,
+    "unidade": "UN",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Monitor multiparamétrico eletrônico para monitorização",
+    "quantidade": 6.0,
+    "unidade": "UN",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OFTALMOSCÓPIO",
+    "quantidade": 5.0,
+    "unidade": "UN",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OXÍMETRO PEDIÁTRICO",
+    "quantidade": 15.0,
+    "unidade": "UN",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA HIPODÉRMICA SEM AGULHA LUER LOCK (20ML)",
+    "quantidade": 300.0,
+    "unidade": "CX",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA HIPODÉRMICA SEM AGULHA LUER SLIP (3ML)",
+    "quantidade": 600.0,
+    "unidade": "CX",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA HIPODÉRMICA SEM AGULHA LUER SLIP (5ML)",
+    "quantidade": 600.0,
+    "unidade": "CX",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL DESCARTÁVEL ESTÉRIL Nº12 (ALIVIO)",
+    "quantidade": 6000.0,
+    "unidade": "UN",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL DESCARTÁVEL ESTÉRIL Nº14 (ALIVIO)",
+    "quantidade": 1800.0,
+    "unidade": "UN",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
     ],
     "situacao": "Em andamento",
     "exclusiva_me": false
