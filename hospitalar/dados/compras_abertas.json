@@ -8080,6 +8080,59 @@
   "exclusiva_me": false
  },
  {
+  "id": "87890992000158-1-001121/2026",
+  "orgao": "MUNICIPIO DE GRAVATAI",
+  "unidade": "Fundo Municipal da Saude",
+  "cidade": "Gravataí",
+  "objeto": "Aquisição de mobiliário hospitalar - SRP.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 206415.5,
+  "abertura": "2026-10-30T00:00:00",
+  "encerramento": "2026-11-13T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87890992000158/2026/1121",
+  "link_sistema": null,
+  "total_itens": 7,
+  "itens_da_linha": [
+   {
+    "descricao": "Suporte para soro, haste em aço inox, regulagem de altura, rodízios.",
+    "quantidade": 50.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 15897.5,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Suporte de hamper com tampa (conforme termo de referência).",
+    "quantidade": 50.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 56410.5,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Carro de emergência/parada cardíaca. (conforme termo de referência)",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 36923.1,
+    "linhas": [
+     "carro de emergência"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 109231.1,
+  "itens_principais": 3,
+  "exclusiva_me": false
+ },
+ {
   "id": "88830609000139-1-000599/2026",
   "orgao": "MUNICIPIO DE CAXIAS DO SUL",
   "unidade": "MRS-PREFEITURA MUNICIPAL DE CAXIAS DO SUL",
