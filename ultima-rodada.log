@@ -1,2 +1,82 @@
-Execução: https://github.com/mushsz/aureon-prospector/actions/runs/41255932541 (schedule)
-31/10 21:15:30  Vigia: fila com sites 961, equipamentos 1174. Nada a repor.
+Execução: https://github.com/mushsz/aureon-prospector/actions/runs/41327437620 (schedule)
+01/11 13:39:30  Rodada diária começou (15 pesquisas por lista; fila com sites 961, equipamentos 1174)
+01/11 13:39:30  == Licitações abertas (PNCP)
+01/11 13:42:38     4138 compras abertas no RS; 231 candidatas pelo objeto. Conferindo itens...
+01/11 13:44:22       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/91693325000152/compras/2026/179/itens?pagina=1&tamanhoPagina=500 Remote end closed connection without response
+01/11 13:46:16       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/13693153000103/compras/2026/71/itens?pagina=1&tamanhoPagina=500 HTTP Error 503: Service Unavailable
+01/11 13:49:14     [3/231] Lavras do Sul: 96 de 319 itens · 'SISTEMA DE REGISTRO DE PREÇOS (SRP) PARA POSSÍVEL E EVENTUAL AQUISIÇÃO'
+01/11 13:49:27     [5/231] Passo Fundo: 1 de 5 itens · '[Portal de Compras Públicas] - Constitui objeto da presente licitação '
+01/11 13:49:40     [7/231] Bossoroca: 13 de 42 itens · 'REGISTRAR PREÇOS, visando futuras aquisições de materiais médico hospi'
+01/11 13:54:23       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/92787118000120/compras/2026/962/itens?pagina=1&tamanhoPagina=500 HTTP Error 503: Service Unavailable
+01/11 14:00:30     [30/231] Caxias do Sul: 3 de 14 itens · 'Fornecimento de materiais médico-hospitalares – Processo 7.'
+01/11 14:04:44       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/88830609000139/compras/2026/581/itens?pagina=1&tamanhoPagina=500 HTTP Error 503: Service Unavailable
+01/11 14:06:34       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/92787118000120/compras/2026/967/itens?pagina=1&tamanhoPagina=500 HTTP Error 503: Service Unavailable
+01/11 14:09:24       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/13016717000173/compras/2026/247/itens?pagina=1&tamanhoPagina=500 HTTP Error 503: Service Unavailable
+01/11 14:12:18       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/11055682000156/compras/2026/523/itens?pagina=1&tamanhoPagina=500 The read operation timed out
+01/11 14:14:25     [36/231] Sapiranga: 6 de 29 itens · 'Aquisição de equipamento médico, móveis e eletrônicos, visando atender'
+01/11 14:14:38     [37/231] Porto Alegre: 2 de 9 itens · 'O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar'
+01/11 14:14:51     [39/231] Sapucaia do Sul: 1 de 8 itens · 'AQUISIÇÃO DE MATERIAL MÉDICO PARA A FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS'
+01/11 14:15:08     [41/231] Porto Alegre: 23 de 48 itens · 'O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar'
+01/11 14:21:38       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/92787118000120/compras/2026/983/itens?pagina=1&tamanhoPagina=500 HTTP Error 503: Service Unavailable
+01/11 14:24:46       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/92787118000120/compras/2026/984/itens?pagina=1&tamanhoPagina=500 HTTP Error 502: Bad Gateway
+01/11 14:27:41       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/13183513000127/compras/2026/197/itens?pagina=1&tamanhoPagina=500 The read operation timed out
+01/11 14:32:09     [51/231] Rio Grande: 6 de 39 itens · 'Aquisição de Material Hospitalar - Respiratórios 1'
+01/11 14:32:28     [52/231] Esteio: 2 de 3 itens · 'Compra de camas, cadeira de rodas e esfigmomanômetro para a FSPSCE via'
+01/11 14:38:16       falhou: https://pncp.gov.br/api/pncp/v1/orgaos/88830609000139/compras/2026/599/itens?pagina=1&tamanhoPagina=500 HTTP Error 503: Service Unavailable
+01/11 14:39:31     passou de 60 min: parei esta etapa
+01/11 14:39:31  == Google Maps: clínicas para equipamentos
+01/11 14:39:31     15 pesquisas nesta rodada (192 ainda nunca feitas).
+01/11 14:39:39     [1/15] casa de repouso · Protásio Alves, Porto Alegre: 11 resultados, 0 novos
+01/11 14:39:39        nenhum lead novo. Descartados: {'sem telefone': 1, 'fechados': 0, 'já conhecidos': 10}. Cartão de exemplo: 'Recanto da Vó Marlene Recanto da Vó Marlene 5,0(6) Casa de repouso para idosos · \ue934 · Av. Protásio Alves, 3838 Aberto 24 horas · +55 51 3085-0031 \ue80b Website \ue52e Rotas'
+01/11 14:39:48     [2/15] clínica de estética · Protásio Alves, Porto Alegre: 6 resultados, 0 novos
+01/11 14:39:48        nenhum lead novo. Descartados: {'sem telefone': 6, 'fechados': 0, 'já conhecidos': 2}. Cartão de exemplo: 'Estética Renova Estética Renova 4,7(226) Salão de Beleza · \ue934 · Av. Protásio Alves, 1678 Fechado · Abre ter. às 09:00'
+01/11 14:39:57     [3/15] hospital veterinário · Jardim Carvalho, Porto Alegre: 2 resultados, 0 novos
+01/11 14:39:57        nenhum lead novo. Descartados: {'sem telefone': 0, 'fechados': 0, 'já conhecidos': 2}. Cartão de exemplo: 'PET HOME 24h - Hospital Veterinário 24 horas | Atendimento Pet Porto Alegre PET HOME 24h - Hospital Veterinário 24 horas | Atendimento Pet Porto Alegre 4,4(1.054) Hospital Veterinário · \ue934 · R. Araponga, 437 Aberto 24 hor'
+01/11 14:40:21     [4/15] clínica veterinária · Jardim Carvalho, Porto Alegre: 60 resultados, 4 novos
+01/11 14:40:33     [5/15] casa de repouso · Jardim Carvalho, Porto Alegre: 16 resultados, 4 novos
+01/11 14:40:42     [6/15] clínica de estética · Jardim Carvalho, Porto Alegre: 16 resultados, 5 novos
+01/11 14:41:05     [7/15] hospital veterinário · Partenon, Porto Alegre: 44 resultados, 2 novos
+01/11 14:41:29     [8/15] clínica veterinária · Partenon, Porto Alegre: 60 resultados, 4 novos
+01/11 14:41:40     [9/15] casa de repouso · Partenon, Porto Alegre: 7 resultados, 1 novos
+01/11 14:42:05     [10/15] clínica de estética · Partenon, Porto Alegre: 46 resultados, 19 novos
+01/11 14:42:14     [11/15] hospital veterinário · Santo Antônio, Porto Alegre: 2 resultados, 0 novos
+01/11 14:42:14        nenhum lead novo. Descartados: {'sem telefone': 0, 'fechados': 0, 'já conhecidos': 2}. Cartão de exemplo: 'Centro Clínico Veterinário Santo Antônio Centro Clínico Veterinário Santo Antônio 4,9(180) Veterinário · \ue934 · Rua Delfino Riet, 390 Fechado · Abre seg. às 09:00 · +55 51 3219-1226 \ue52e Rotas'
+01/11 14:42:25     [12/15] clínica veterinária · Santo Antônio, Porto Alegre: 2 resultados, 0 novos
+01/11 14:42:25        nenhum lead novo. Descartados: {'sem telefone': 0, 'fechados': 0, 'já conhecidos': 2}. Cartão de exemplo: 'Centro Clínico Veterinário Santo Antônio Centro Clínico Veterinário Santo Antônio 4,9(180) Veterinário · \ue934 · Rua Delfino Riet, 390 Fechado · Abre seg. às 09:00 · +55 51 3219-1226 \ue52e Rotas'
+01/11 14:42:35     [13/15] casa de repouso · Santo Antônio, Porto Alegre: 2 resultados, 1 novos
+01/11 14:42:48     [14/15] clínica de estética · Santo Antônio, Porto Alegre: 18 resultados, 2 novos
+01/11 14:42:58     [15/15] hospital veterinário · Jardim Botânico, Porto Alegre: 5 resultados, 2 novos
+01/11 14:43:06     ok em 3.6 min
+01/11 14:43:06  == Google Maps: empresas para sites
+01/11 14:43:06     15 pesquisas nesta rodada (468 ainda nunca feitas).
+01/11 14:43:48     [1/15] psicólogo · São João, Porto Alegre: 40 resultados, 16 com site no ar, 1 leads
+01/11 14:44:26     [2/15] arquiteto · São João, Porto Alegre: 40 resultados, 19 com site no ar, 0 leads
+01/11 14:44:26        nenhum lead novo. Descartados: {'sem telefone': 1, 'menos de 5 avaliações': 11, 'fechados': 0, 'já conhecidos': 2}. Cartão de exemplo: 'Baggio Arquitetura e Computação Grafica SS Baggio Arquitetura e Computação Grafica SS 4,9(22) Arquiteto · Rua Zamenhoff, 71 +55 51 3337-0014 \ue80b Website \ue52e Rotas'
+01/11 14:45:06     [3/15] estética automotiva · São João, Porto Alegre: 40 resultados, 10 com site no ar, 2 leads
+01/11 14:46:30     [4/15] escritório de advocacia · Navegantes, Porto Alegre: 40 resultados, 23 com site no ar, 2 leads
+01/11 14:47:53     [5/15] escritório de contabilidade · Navegantes, Porto Alegre: 40 resultados, 28 com site no ar, 1 leads
+01/11 14:48:29     [6/15] clínica de estética · Navegantes, Porto Alegre: 8 resultados, 2 com site no ar, 0 leads
+01/11 14:48:29        nenhum lead novo. Descartados: {'sem telefone': 0, 'menos de 5 avaliações': 1, 'fechados': 0, 'já conhecidos': 3}. Cartão de exemplo: '+Clinic Estética Avançada - Porto Alegre +Clinic Estética Avançada - Porto Alegre 4,9(262) Clínica especializada · \ue934 · R. Ramiro Barcelos, 630 - Conj 512 Fechado · Abre seg. às 09:00 · +55 51 98329-9988'
+01/11 14:49:57     [7/15] fisioterapia · Navegantes, Porto Alegre: 40 resultados, 23 com site no ar, 4 leads
+01/11 14:50:49     [8/15] psicólogo · Navegantes, Porto Alegre: 40 resultados, 13 com site no ar, 3 leads
+01/11 14:51:55     [9/15] arquiteto · Navegantes, Porto Alegre: 40 resultados, 10 com site no ar, 3 leads
+01/11 14:52:17     [10/15] estética automotiva · Navegantes, Porto Alegre: 10 resultados, 0 com site no ar, 2 leads
+01/11 14:53:30     [11/15] escritório de advocacia · Humaitá, Porto Alegre: 40 resultados, 16 com site no ar, 3 leads
+01/11 14:54:22     [12/15] escritório de contabilidade · Humaitá, Porto Alegre: 40 resultados, 8 com site no ar, 3 leads
+01/11 14:54:31     [13/15] clínica de estética · Humaitá, Porto Alegre: 2 resultados, 0 com site no ar, 0 leads
+01/11 14:54:31        nenhum lead novo. Descartados: {'sem telefone': 2, 'menos de 5 avaliações': 1, 'fechados': 0, 'já conhecidos': 0}. Cartão de exemplo: 'Estética Nubia Melo (Maquiagem, Penteados,Micropigmentação, Cilios,Nails, Corte de Cabelo,Salao de Beleza) Estética Nubia Melo (Maquiagem, Penteados,Micropigmentação, Cilios,Nails, Corte de Cabelo,Salao de Beleza) 4,8(13'
+01/11 14:55:36     [14/15] fisioterapia · Humaitá, Porto Alegre: 40 resultados, 11 com site no ar, 4 leads
+01/11 14:56:03     [15/15] psicólogo · Humaitá, Porto Alegre: 10 resultados, 4 com site no ar, 1 leads
+01/11 14:56:13     ok em 13.1 min
+01/11 14:56:13  == Página de equipamentos
+01/11 14:56:13     80 compras abertas · 1200 empresas (283 quentes, 725 celulares) · 50 hospitais
+01/11 14:56:13     /home/runner/work/aureon-prospector/aureon-prospector/hospitalar/saida/leads-hospitalar-2026-11-01.html
+01/11 14:56:13     /home/runner/work/aureon-prospector/aureon-prospector/publicar/p/equipamentos.html
+01/11 14:56:13     ok em 0.0 min
+01/11 14:56:13  == Página de sites
+01/11 14:56:13     1046 leads (84 quentes, 860 celulares)
+01/11 14:56:13     /home/runner/work/aureon-prospector/aureon-prospector/sites/saida/leads-sites-2026-11-01.html
+01/11 14:56:13     /home/runner/work/aureon-prospector/aureon-prospector/publicar/p/sites.html
+01/11 14:56:13     ok em 0.0 min
+01/11 14:56:13  Sem publicar (--sem-publicar).
+01/11 14:56:13  Rodada diária terminou
