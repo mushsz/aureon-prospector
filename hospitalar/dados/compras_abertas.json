@@ -1,521 +1,5 @@
 [
  {
-  "id": "15126437000305-1-004268/2026",
-  "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
-  "unidade": "HOSPITAL UNIV. DR. MIGUEL RIET CORREA JUNIOR",
-  "cidade": "Rio Grande",
-  "objeto": "Aquisição de Material Hospitalar - Respiratórios 1",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-19T08:00:00",
-  "encerramento": "2026-11-03T08:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/15126437000305/2026/4268",
-  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15590805000592026",
-  "total_itens": 39,
-  "itens_da_linha": [
-   {
-    "descricao": "Material Gasoterapia modelo: micronebulizador, saída: p/ oxigênio, tipo máscara: máscara em plástico, tamanho: infantil, tipo frasco: frasco plástico graduado, c/ tampa, volume: cerca de 10, tipo extensão: extensor em pvc c/ conectores, comprimento extensão: cerca de 1,5, esterilidade*: esterilizável Conforme Anexo I do Termo de Referência - Descrição Detalhada e Quantitativo do Objeto",
-    "quantidade": 30.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Componente Reanimador Manual tipo: reservatório de o2, material: plástico, adicional: c/ conector, volume: cerca de 3,0 l, tamanhos: adulto, compatibilidade: compatibilidade específica, tipo uso: reutilizável Conforme Anexo I do Termo de Referência - Descrição Detalhada e Quantitativo do Objeto",
-    "quantidade": 30.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Componente Reanimador Manual tipo: reservatório de o2, material: plástico, adicional: c/ conector, volume: cerca de 1,0 l, tamanhos: infantil, compatibilidade: compatibilidade específica, tipo uso: reutilizável Conforme Anexo I do Termo de Referência - Descrição Detalhada e Quantitativo do Objeto",
-    "quantidade": 20.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Reanimador Manual material balão: silicone, capacidade balão: cerca 1,5, componente 1: máscara plástico rígido c/ coxim silicone, tipo válvula: válvula unidirecional pop off cerca 60 cmh2o, componente 2: reservatório de o2 em plástico c/ válvula, componentes 3: entrada de o2 e extensor pvc, tamanhos: adulto Conforme Anexo I do Termo de Referência - Descrição Detalhada e Quantitativo do Objeto",
-    "quantidade": 90.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Reanimador Manual material balão: silicone, capacidade balão: cerca 250, componente 1: máscara plástico rígido c/ coxim silicone, tipo válvula: válvula unidirecional pop off cerca 40 cmh20, componente 2: reservatório de o2 em plástico c/ válvula, componentes 3: entrada de o2 e extensor pvc, tamanhos: neonatal Conforme Anexo I do Termo de Referência - Descrição Detalhada e Quantitativo do Objeto",
-    "quantidade": 80.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Reanimador Manual material balão: silicone, capacidade balão: cerca 500, componente 1: máscara plástico rígido c/ coxim silicone, tipo válvula: válvula unidirecional pop off cerca 40 cmh20, componente 2: reservatório de o2 em plástico c/ válvula, componentes 3: entrada de o2 e extensor pvc, tamanhos: infantil Conforme Anexo I do Termo de Referência - Descrição Detalhada e Quantitativo do Objeto",
-    "quantidade": 40.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 6,
-  "exclusiva_me": false
- },
- {
-  "id": "92032226000192-1-000094/2026",
-  "orgao": "HOSPITAL BENEFICIENTE DR CESAR SANTOS",
-  "unidade": "Autarquia Municipal de Saúde",
-  "cidade": "Passo Fundo",
-  "objeto": "[Portal de Compras Públicas] - Constitui objeto da presente licitação a aquisição de equipamentos médico-hospitalares destinados à ampliação da Sala Vermelha do Hospital Beneficente Dr. César Santos (HBCS), compreendendo o fornecimento de central de monitorização, monitores multiparamétricos, monitores multiparamétricos de triagem, ventiladores pulmonares mecânicos e bombas de infusão volumétricas, incluindo todos os acessórios, cabos, sensores, baterias, suportes,módulos, softwares, licenças, consumíveis de instalação, manuais, dispositivos e demais componentes necessários ao pleno funcionamento dos equipamentos, bem como transporte, seguro, entrega, montagem, instalação, configuração, calibração inicial quando aplicável, realização de testes operacionais, treinamento dos profissionais indicados pela Administração, garantia e assistência técnica, conforme condições, quantidades e exigências estabelecidas neste Termo de Referência e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 508296.72,
-  "abertura": "2026-09-29T11:00:00",
-  "encerramento": "2026-11-03T08:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92032226000192/2026/94",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Hospital-Beneficente-Dr-Cesar-Santos-985/PE-43-2026-2026-514800",
-  "total_itens": 5,
-  "itens_da_linha": [
-   {
-    "descricao": "Lote 1 - MONITOR MULTIPARAMÉTRICO. APLICAÇÃO USO ADULTO E PEDIÁTRICO. DESCRIÇÃO TÉCNICA CONFORME O TERMO DE REFERÊNCIA. HOSPITAL BENEFICENTE DR. CESAR SANTOS.",
-    "quantidade": 7.0,
-    "unidade": "Unidade",
-    "valor_total": 88557.7,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 88557.7,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
-  "id": "13183513000127-1-000197/2026",
-  "orgao": "FUNDACAO DE SAUDE SAPUCAIA DO SUL",
-  "unidade": "FUNDAÇÃO DE SAÚDE SAPUCAIA DO SUL",
-  "cidade": "Sapucaia do Sul",
-  "objeto": "AQUISIÇÃO DE MATERIAL DE MANUTENÇÃO PARA A FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-16T08:00:00",
-  "encerramento": "2026-11-03T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/13183513000127/2026/197",
-  "link_sistema": "https://pregaobanrisul.com.br/editais/0161_2026/358184",
-  "total_itens": 25,
-  "itens_da_linha": [
-   {
-    "descricao": "6324\tLAMPADA 300W (BTPE300BF) / LAMPADA 300W (BTPE300BF), PARA USO COM A FONTE DE LUZ XENON - KARL STORZ, MODELO XENOX 300",
-    "quantidade": 12.0,
-    "unidade": "un",
-    "valor_total": 0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "6368\tLAMPADA FOCO CIRURGICO ESPELHADA BOCAL BA15D / LAMPADA FOCO CIRURGICO ESPELHADA BOCAL BA15D",
-    "quantidade": 12.0,
-    "unidade": "un",
-    "valor_total": 0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "2751\tLAMPADA FOCO CIRURGICO FC 40 25 W 12 V /",
-    "quantidade": 12.0,
-    "unidade": "un",
-    "valor_total": 0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 3,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-000972/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar (DIVERSOS EM COMODATO), com comodato de equipamentos, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o HOSPITAL GERAL DE BONSUCESSO DO RIO DE JANEIRO, filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-13T14:30:00",
-  "encerramento": "2026-11-03T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/972",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102219",
-  "total_itens": 9,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 29635\nEspecificação: ETIQUETA P/ESTERILIZACAO EM AUTOCLAVE A VAPOR C/INDICADOR QUIMICO CLASSE I, C/DUPLA CAMADA ADESIVA SENDO A EXTERNA P/MANTA DE POLIPROPILENO E GRAU CIRURGICO E INTERNA P/PAPEL TINTA ISENTA DE CHUMBO OU MATERIAL PESADO - a etiqueta deve permitir a gravação de data do processo, validade, identificação da autoclave, funcionário e lote ( A ETIQUETADORA DEVE SER DISPONIB",
-    "quantidade": 776340.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 34819\nEspecificação: PACOTE TESTE DESAFIO C/ INDICADOR QUIMICO CLASSE 5 + INDICADOR BIOLOGICO C/ LEITURA DE ATE 01 HORA POR FLUORESCENCIA DO GEOBABILLUS STEAROTHERMOPHILUS C/ POPUL. MINIMA DE 10 NA 6º POTENCIA DE ESPOROS, PRONTO USO P/ AUTOCLAVE A VAPOR C/ PRE-VACUO - deve atender as normas ISO 11138, ISO 11140 e ISO 17665 e ser fornecido em COMODATO incubadora compatível ao teste com ",
-    "quantidade": 96.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-000977/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar (ATADURAS, LUVAS E OUTROS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais, conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-14T15:00:00",
-  "encerramento": "2026-11-03T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/977",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102274",
-  "total_itens": 48,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 36916\nEspecificação: AGULHA HIPODERMICA LEBEL, TAMANHO DE 32G DE 6MM, SUBCUTANEA ULTRAFINA, EMBALAGEM INDIVIDUAL, ESTERIL, DESCARTAVEL - Cânula em aço inoxidável, bisel tri facetado, canhão em polipropileno de cor respectiva a numeração e que permita conexão c/ seringas Luer Slip e Luer Lock.\nUnidade: UNIDADE",
-    "quantidade": 1200.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 35981\nEspecificação: ATADURA DE CREPE (CREPOM), ESTERIL, MINIMO 13 FIOS, TAM.10cm X 180cm (EM REPOUSO) - \nUnidade: UNIDADE",
-    "quantidade": 4680.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 35982\nEspecificação: ATADURA DE CREPE (CREPOM), ESTERIL, MINIMO 13 FIOS, TAMANHO 6cm X 180cm (EM REPOUSO) - \nUnidade: UNIDADE",
-    "quantidade": 1320.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 35990\nEspecificação: ATADURA DE CREPE (CREPOM), ESTERIL, MINIMO 13 FIOS, TAMANHO 15cm X 180cm (EM REPOUSO) - \nUnidade: UNIDADE",
-    "quantidade": 14640.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 142\nEspecificação: ATADURA DE CREPE(CREPOM) 13 FIOS/cm2, TAM. 10cm X 1,8m EM REPOUSO (4,5m ESTICADA) EMBALADA INDIVIDUALMENTE EM ROLO CONFORME NORMA ABNT-NBR 14056 E PORTARIA 106/2003 DO INMETRO - \nUnidade: ROLO",
-    "quantidade": 108000.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 145\nEspecificação: ATADURA DE CREPE(CREPOM) 13 FIOS/cm2, TAM. 8cm X 1,8m EM REPOUSO (4,5m ESTICADA) CONFORME NORMA ABNT-NBR 14056 E PORTARIA 106/2003 DO INMETRO - \nUnidade: ROLO",
-    "quantidade": 49200.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 264\nEspecificação: ATADURA DE CREPE(CREPOM) 13 FIOS/cm2, TAM. 12cm X 1,8m EM REPOUSO (4,5m ESTICADA) EMBALADA INDIVIDUALMENTE EM ROLO CONFORME NORMA ABNT-NBR 14056 E PORTARIA 106/2003 DO INMETRO - \nUnidade: ROLO",
-    "quantidade": 15720.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 4996\nEspecificação: ATADURA DE CREPE(CREPOM) 13 FIOS/cm2, TAM. 6cm X 1,8m EM REPOUSO (4,5m ESTICADA) EMBALADA INDIVIDUALMENTE EM ROLO CONFORME NORMA ABNT-NBR 14056 E PORTARIA 106/2003 DO INMETRO - \nUnidade: ROLO",
-    "quantidade": 27600.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 91\nEspecificação: ATADURA DE CREPE(CREPOM) 13 FIOS/cm2, TAM. 20cm X 1,8m (4,5m ESTICADA) EMBALADA INDIVIDUALMENTE EM ROLO CONFORME NORMA ABNT-NBR 14056 E PORTARIA 106/2003 DO INMETRO - \nUnidade: ROLO",
-    "quantidade": 114600.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 263\nEspecificação: ATADURA GESSADA 10cm - em rolo c/3m, 15 fios/cm2, c/gesso impregnado em tela de gaze, acabamento em zig-zag, secagem rápida, entre 5 e 6 minutos, embalagem impermeável e individual, enrolada de forma continua, com dados de identificação e procedência\nUnidade: UNIDADE",
-    "quantidade": 13320.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 261\nEspecificação: ATADURA GESSADA 15cm - em rolo c/3m, 15 fios/cm2, c/gesso impregnado em tela de gaze, acabamento em zig-zag, secagem rápida, entre 5 e 6 minutos, embalagem impermeável e individual, enrolada de forma continua, com dados de identificação e procedência\nUnidade: UNIDADE",
-    "quantidade": 30120.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 260\nEspecificação: ATADURA GESSADA 20cm - em rolo c/4m, 15 fios/cm2, c/gesso impregnado em tela de gaze, acabamento em zig-zag, secagem rápida, entre 5 e 6 minutos, embalagem impermeável e individual, enrolada de forma continua, com dados de identificação e procedência\nUnidade: UNIDADE",
-    "quantidade": 8400.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 5324\nEspecificação: ATADURA GESSADA 6cm - em rolo c/2m, 15 fios/cm2, c/gesso impregnado em tela de gaze, acabamento em zig-zag, secagem rápida, entre 5 e 6 minutos, embalagem impermeável e individual, enrolada de forma continua, c/dados de identificação e procedência\nUnidade: UNIDADE",
-    "quantidade": 780.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 752\nEspecificação: ATADURA GESSADA 8cm - em rolo c/2m, 15 fios/cm2, c/gesso impregnado em tela de gaze, acabamento em zig-zag, secagem rápida, entre 5 e 6 minutos, embalagem impermeável e individual, enrolada de forma continua, com dados de identificação e procedência\nUnidade: UNIDADE",
-    "quantidade": 1500.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 31700\nEspecificação: LUVA CIRURGICA HIPOALERGENICA EM BORRACHA SINTETICA ISENTA DE LATEX, SEM TALCO(SEM PO), C/ALTA SENSIBILIDADE TATIL, C/BAINHA, FORMATO ANATOMICO, ESTERIL, DESCARTAVEL, TAM. N.7,5 - C/C.A. - \nUnidade: PAR",
-    "quantidade": 2160.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 31701\nEspecificação: LUVA CIRURGICA HIPOALERGENICA EM BORRACHA SINTETICA ISENTA DE LATEX, SEM TALCO (SEM PO), C/ALTA SENSIBILIDADE TATIL, C/BAINHA, FORMATO ANATOMICO, ESTERIL, DESCARTAVEL, TAM. N.8 - C/C.A. - \nUnidade: PAR",
-    "quantidade": 1380.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 7651\nEspecificação: LUVA CIRURGICA, ESTERIL, EM LATEX C/TALCO(C/PO) TAMANHO 7,0 - C/CA - \nUnidade: PAR",
-    "quantidade": 158400.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 7653\nEspecificação: LUVA CIRURGICA, ESTERIL, EM LATEX COM TALCO (C/PO) TAMANHO 8,0 - C/C.A. - \nUnidade: PAR",
-    "quantidade": 35760.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 4105\nEspecificação: LUVA CIRURGICA, ESTERIL, EM LATEX COM TALCO(C/PO) TAMANHO 6,5 - C/CA - \nUnidade: PAR",
-    "quantidade": 196800.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 4910\nEspecificação: LUVA CIRURGICA, ESTERIL, EM LATEX, HIPOALERGENICA, SEM TALCO(S/PO), TAMANHO 8,0 - C/CA - \nUnidade: PAR",
-    "quantidade": 3960.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 5035\nEspecificação: LUVA CIRURGICA, ESTERIL, EM LATEX, HIPOALERGENICA, SEM TALCO(S/PO), TAMANHO 7,0 - C/CA - \nUnidade: PAR",
-    "quantidade": 23040.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 41150\nEspecificação: SERINGA PLASTICA P/ ANESTESIA EPIDURAL DE 7 ML LUER SLIP,  C/ BAIXA FRICCAO E CILINDRO GRADUADO, LIVRE DE LATEX, ESTERIL, DESCARTAVEL - \nUnidade: UNIDADE",
-    "quantidade": 1584.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 894\nEspecificação: SONDA FOLEY 2 VIAS DE 8FR EM LATEX SILICONADO, BALAO C/ CAPACIDADE DE ATE 3ML, PONTA DISTAL ATRAUMATICA E FECHADA, C/ FUROS LATERIAIS P/ DRENAGEM, ESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL - \nUnidade: UNIDADE",
-    "quantidade": 288.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-000988/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Material Imobilizado (CADEIRA CAIXA GIRATÓRIA COM RODÍZIOS, CADEIRA CIRÚRGICA, MESA CIRÚRGICA PARA OFTALMOLOGIA), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e suas Filiais, conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-19T12:00:00",
-  "encerramento": "2026-11-03T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/988",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102479",
-  "total_itens": 3,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 9003\nEspecificação: MESA CIRÚRGICA P/ OFTALMOLOGIA.\nS.M.I 5600947/26 [PI] [Util 1442.04]\nUnidade: UNIDADE",
-    "quantidade": 1.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
   "id": "87613014000169-1-000480/2026",
   "orgao": "MUNICIPIO DE BOSSOROCA",
   "unidade": "MUNICIPIO DE BOSSOROCA/RS",
@@ -7950,6 +7434,48 @@
   "exclusiva_me": false
  },
  {
+  "id": "00394452000103-1-023454/2026",
+  "orgao": "COMANDO DO EXERCITO",
+  "unidade": "HOSPITAL MILITAR DE ÁREA DE PORTO ALEGRE",
+  "cidade": "Porto Alegre",
+  "objeto": "Aquisição de materiais e reagentes laboratoriais, com fornecimento em regime de registro de preços, incluindo comodato de equipamentos para o Laboratório de Análises Clínicas do Hospital Militar de Área de Porto Alegre (HMAPA) – Repetição",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 4479625.26,
+  "abertura": "2026-11-03T08:00:00",
+  "encerramento": "2026-11-13T08:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23454",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16039905000412026",
+  "total_itens": 185,
+  "itens_da_linha": [
+   {
+    "descricao": "Curativo / Cobertura aplicação: p/ ferida, aspecto físico: malha / gaze, composição: à base de algodão, componente 1: c/ poliéster, dimensão: cerca de 10 x 20, esterilidade: estéril",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 1261.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa material: polipropileno, capacidade: 2, tipo bico: bico central luer lock ou slip, adicional: graduada, numerada, modelo: p/ coleta de sangue, componente: c/ tampa de vedação de borracha, princípio ativo: c/ heparina de lítio, esterilidade: estéril, descartável, apresentação: embalagem individual",
+    "quantidade": 4500.0,
+    "unidade": "Unidade",
+    "valor_total": 28665.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 29926.0,
+  "itens_principais": 0,
+  "exclusiva_me": true
+ },
+ {
   "id": "90256652000184-1-000168/2026",
   "orgao": "MUNICIPIO DE IMBE",
   "unidade": "GABINETE DO PREFEITO MUNICIPAL MUNICÍPIO DE IMBÉ",
@@ -8303,6 +7829,59 @@
   "valor_itens_da_linha": 6528.63,
   "itens_principais": 7,
   "exclusiva_me": false
+ },
+ {
+  "id": "92967595000177-1-000066/2026",
+  "orgao": "FUNDACAO UNIVERSIDADE FEDERAL DE CIENCIAS DA SAUDE DE PORTO ALEGRE",
+  "unidade": "UNIVERSIDADE FED. DE CIENCIAS DA SAUDE/RS",
+  "cidade": "Porto Alegre",
+  "objeto": "Aquisição de equipamentos diversos para modernização da infraestrutura dos laboratórios de graduação e setores administrativos da UFCSPA.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 934098.45,
+  "abertura": "2026-11-03T08:00:00",
+  "encerramento": "2026-11-13T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92967595000177/2026/66",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15403205001042026",
+  "total_itens": 86,
+  "itens_da_linha": [
+   {
+    "descricao": "Aspirador Cirúrgico modelo: elétrico portátil, pressão de vácuo: cerca de 550 mmhg, fluxo de aspiração: de 15 a 30 lpm, tipo frasco: 1 frasco em plástico, volume: cerca de 1,5 l, componentes: sistema antitransbordamento, filtro bacteriológico",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 2101.2,
+    "linhas": [
+     "aspirador"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Autoclave Para Esterilização tipo: vertical, funcionamento: gravitacional, agente: vapor saturado sob pressão, capacidade: de 51 a 100, abastecimento de água: manual, ciclos mínimos: básico, painel controle: ajuste manual, número de portas: 1 porta, componente: c/ dispositivos de segurança, registro do ciclo: s/ memória de dados",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 48181.2,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Maca De Resgate material: tecido impermeável e lavável, tipo: tática manual, tamanho: cerca de 180 x 70, capacidade de carga: até 200, características adicionais: mínimo de 8 pega mãos, características adicionais 01: dobrável, aplicação: p/ atendimento pré hospitalar aph",
+    "quantidade": 4.0,
+    "unidade": "Unidade",
+    "valor_total": 5052.0,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 55334.4,
+  "itens_principais": 3,
+  "exclusiva_me": true
  },
  {
   "id": "00394429000100-1-002774/2026",
@@ -10325,6 +9904,92 @@
   "exclusiva_me": false
  },
  {
+  "id": "87592861000194-1-000471/2026",
+  "orgao": "MUNICIPIO DE SOBRADINHO",
+  "unidade": "FUNDO MUNICIPAL DE SAÚDE - RECURSOS VINCULADOS",
+  "cidade": "Sobradinho",
+  "objeto": "Aquisição de equipamentos, mobiliários, materiais médico-assistenciais, materiais lúdico-pedagógicos e equipamentos de informática destinados à estruturação e qualificação das ações da Rede Bem Cuidar - Puericultura, para atendimento das Unidades de Saúde da Secretaria Municipal da Saúde de Sobradinho/RS, com recursos do Programa Equipamentos Rede Bem Cuidar - Puericultura (SES nº 1228/2025)",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 33464.15,
+  "abertura": "2026-11-03T00:00:00",
+  "encerramento": "2026-11-24T08:50:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87592861000194/2026/471",
+  "link_sistema": null,
+  "total_itens": 18,
+  "itens_da_linha": [
+   {
+    "descricao": "BALANÇA ANTROPOMÉTRICA INFANTIL MESA ATÉ 30KG",
+    "quantidade": 3.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 1928.01,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "DETECTOR FETAL PORTÁTIL DIGITAL",
+    "quantidade": 4.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 1256.92,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "MESA GINECOLÓGICA ELÉTRICA",
+    "quantidade": 1.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 14077.33,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "BIOMBO TRIPLO HOSPITALAR",
+    "quantidade": 1.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 439.15,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "ESTETOSCÓPIO INFANTIL LÚDICO",
+    "quantidade": 2.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 675.5,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "OFTALMOSCÓPIO",
+    "quantidade": 1.0,
+    "unidade": "UNIDADE (UNIDADE)",
+    "valor_total": 650.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 19026.91,
+  "itens_principais": 6,
+  "exclusiva_me": true
+ },
+ {
   "id": "04712762000171-1-000055/2026",
   "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL DA REGIAO DOS CAMPOS DE CIMA DA SERRA - CONDESUS",
   "unidade": "Consórcio Intermunicipal de Desenvolvimento Sustentável da Região dos Campos de Cima da Serra",
@@ -10650,6 +10315,587 @@
   ],
   "valor_itens_da_linha": 1169612.68,
   "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
+  "id": "13016717000173-1-000269/2026",
+  "orgao": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
+  "unidade": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
+  "cidade": "Esteio",
+  "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO VARIADO PARA UM PERÍODO DE 12 MESES.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 856459.65,
+  "abertura": "2026-11-03T09:20:00",
+  "encerramento": "2026-12-02T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/13016717000173/2026/269",
+  "link_sistema": null,
+  "total_itens": 95,
+  "itens_da_linha": [
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 10,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436000",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 263.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 12,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436001",
+    "quantidade": 60.0,
+    "unidade": "un",
+    "valor_total": 270.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 14  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435995",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 972.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 16,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435999",
+    "quantidade": 2000.0,
+    "unidade": "un",
+    "valor_total": 9905.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 18,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435997",
+    "quantidade": 1000.0,
+    "unidade": "un",
+    "valor_total": 4252.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 20  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436078",
+    "quantidade": 180.0,
+    "unidade": "un",
+    "valor_total": 893.73,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 22,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436077",
+    "quantidade": 120.0,
+    "unidade": "un",
+    "valor_total": 581.42,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 24,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436836",
+    "quantidade": 30.0,
+    "unidade": "un",
+    "valor_total": 154.73,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 16,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436838",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 698.07,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 18  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436837",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 695.32,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 20  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 438578",
+    "quantidade": 60.0,
+    "unidade": "un",
+    "valor_total": 417.01,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 22  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 438575",
+    "quantidade": 40.0,
+    "unidade": "un",
+    "valor_total": 266.88,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 24  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 438576",
+    "quantidade": 40.0,
+    "unidade": "un",
+    "valor_total": 252.24,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº 6. , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435903",
+    "quantidade": 600.0,
+    "unidade": "un",
+    "valor_total": 709.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº 4 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435905",
+    "quantidade": 400.0,
+    "unidade": "un",
+    "valor_total": 425.48,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº8 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435904",
+    "quantidade": 500.0,
+    "unidade": "un",
+    "valor_total": 550.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa  estéril, nº10. , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT438983",
+    "quantidade": 500.0,
+    "unidade": "un",
+    "valor_total": 748.3,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº14 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438985",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 552.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº18 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT438987",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 700.86,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº20 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435911",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 779.25,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 6,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435996",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 1254.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 8,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435998",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 605.25,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 26  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 438574",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 151.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda uretral, siliconizada para sondagem de alívio, número 10. Validade mínima de  36 meses. Estéril. com registro na ANVISA. CATMAT 438412",
+    "quantidade": 600.0,
+    "unidade": "un",
+    "valor_total": 748.02,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 12. Validade mínima de 36  meses. Estéril. CATMAT 437443",
+    "quantidade": 2000.0,
+    "unidade": "un",
+    "valor_total": 2217.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 14. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 438410",
+    "quantidade": 360.0,
+    "unidade": "un",
+    "valor_total": 406.44,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 16. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 438411",
+    "quantidade": 120.0,
+    "unidade": "un",
+    "valor_total": 211.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 18. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 437438",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 155.42,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº 12. , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438397",
+    "quantidade": 500.0,
+    "unidade": "un",
+    "valor_total": 600.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº12 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT438984",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 510.36,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº16 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT438986",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 689.61,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº22  , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT435912",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 893.25,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 04. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 439069",
+    "quantidade": 500.0,
+    "unidade": "un",
+    "valor_total": 496.25,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 06. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 437437",
+    "quantidade": 600.0,
+    "unidade": "un",
+    "valor_total": 676.68,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 08. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 437440",
+    "quantidade": 600.0,
+    "unidade": "un",
+    "valor_total": 656.58,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 20. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 437444",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 158.02,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta  estéril, n°10 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435906",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 263.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta  estéril, nº14 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438398",
+    "quantidade": 1000.0,
+    "unidade": "un",
+    "valor_total": 1630.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº16 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438399",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 306.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta  estéril, nº18 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438400",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 420.66,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta  estéril, nº20  , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438951",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 409.32,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa  estéril, nº 4  , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438401",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 304.66,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº6  , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT437216",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 321.32,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Caneta Eletrocirúrgica, MONOPOLAR, descartável, com desenho ergonômico, teclas de comando manual para corte e coagulação, cabo de encaixe com conector perfeitamente compatível ao equipamento de eletrocoagulação do tipo bisturi elétrico, 3 PINOS; esterilizado em óxido de etileno, contendo na embalagem o nº de lote, data de fabricação, procedência, marca, prazo de validade. Acompanhada de eletrodo t",
+    "quantidade": 1000.0,
+    "unidade": "un",
+    "valor_total": 16408.7,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Atadura algodão ortopédico 10cm x 1,80 m. 100% algodão . Não estéril,  enroladas em papel apropriado. Com registro na ANVISA. Embaladas em pacotes com 12 unidades. CATMAT 448246.",
+    "quantidade": 1800.0,
+    "unidade": "rolo",
+    "valor_total": 2149.74,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": " Atadura algodão ortopédico 20cm x 1,80 m. 100% algodão . Não estéril,  enroladas em papel apropriado. Com registro na ANVISA. Embaladas em pacotes com 12 unidades. CATMAT(448248)",
+    "quantidade": 4000.0,
+    "unidade": "rolo",
+    "valor_total": 7234.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 6FR - Sonda de aspiração traqueal calibre nº 6, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiração, com envoltório plástico siliconizado em todo corpo da sonda. Com conector duplo em T ou cotovelo para adaptação do tubo endotraqueal e circuito",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 4827.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 8FR - Sonda de aspiração traqueal calibre nº 8, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiração, com envoltório plástico siliconizado em todo corpo da sonda. Com conector duplo em T ou cotovelo para adaptação do tubo endotraqueal e circuito",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 4122.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 10FR - Sonda de aspiração traqueal calibre nº 10, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiração, com envoltório plástico siliconizado em todo corpo da sonda. Com conector duplo em T ou cotovelo para adaptação do tubo endotraqueal e circui",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 1637.18,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 14FR - Sonda de aspiração traqueal calibre nº 14, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiração, com envoltório plástico siliconizado em todo corpo da sonda. Com conector duplo em T ou cotovelo para adaptação do tubo endotraqueal e circui",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 3146.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 16FR - Sonda de aspiração traqueal calibre nº 16, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiração, com envoltório plástico siliconizado em todo corpo da sonda. Com conector duplo em T ou cotovelo para adaptação do tubo endotraqueal e circui",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 3096.25,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 80797.0,
+  "itens_principais": 1,
   "exclusiva_me": false
  },
  {
