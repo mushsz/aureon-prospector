@@ -1,1269 +1,5 @@
 [
  {
-  "id": "87613014000169-1-000480/2026",
-  "orgao": "MUNICIPIO DE BOSSOROCA",
-  "unidade": "MUNICIPIO DE BOSSOROCA/RS",
-  "cidade": "Bossoroca",
-  "objeto": "REGISTRAR PREÇOS, visando futuras aquisições de materiais médico hospitalar para serem usados nas unidades da Secretaria Municipal De Saúde",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 199751.36,
-  "abertura": "2026-10-07T00:00:00",
-  "encerramento": "2026-11-04T07:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87613014000169/2026/480",
-  "link_sistema": "SITE",
-  "total_itens": 42,
-  "itens_da_linha": [
-   {
-    "descricao": "ATADURA ELáSTICA 10 CM PCT C/12UNI. ",
-    "quantidade": 500.0,
-    "unidade": "PAC",
-    "valor_total": 7355.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA ELASTICA 5CM PCT C/ 12 UNI. ",
-    "quantidade": 600.0,
-    "unidade": "PAC",
-    "valor_total": 8682.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ESFIGMOMANOMETRO OBESO C/FECHO. ",
-    "quantidade": 40.0,
-    "unidade": "UN",
-    "valor_total": 2764.4,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ESPARADRAPO 10 CM X 4.5 CM. <p>Esparadrapo 10cm x 4,5cm na cor branco</p>\n",
-    "quantidade": 1500.0,
-    "unidade": "UN",
-    "valor_total": 11280.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO DE NYLON N°4.0 SUTURA, AGULHADO CX C/ 24 FIOS. ",
-    "quantidade": 100.0,
-    "unidade": "CX",
-    "valor_total": 2975.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO NYLON 2.0 DE SUTURA, AGULHADO, CX C/ 24 UNID.. ",
-    "quantidade": 100.0,
-    "unidade": "CX",
-    "valor_total": 2592.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "GAZE COMPRESSA 7,5X7,5 13 FIOS PACOTE COM 500 UN. ",
-    "quantidade": 2250.0,
-    "unidade": "PAC",
-    "valor_total": 49815.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "GAZE HIDRÓFILA EM ROLO - TIPO QUEIJO 91CMX91M 11 FIOS. ",
-    "quantidade": 110.0,
-    "unidade": "UN",
-    "valor_total": 3803.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SCALP No 19. ",
-    "quantidade": 1000.0,
-    "unidade": "UN",
-    "valor_total": 290.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SCALP No 25. ",
-    "quantidade": 1000.0,
-    "unidade": "UN",
-    "valor_total": 190.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SCALP No 27. ",
-    "quantidade": 1000.0,
-    "unidade": "UN",
-    "valor_total": 210.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESC. C/ AGULHA 13/4,5 1ML CAIXA C/ 100UNI. ",
-    "quantidade": 300.0,
-    "unidade": "CX",
-    "valor_total": 6099.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTAVEL 1 ML S/ AGULHA CX C/100 UNID. ",
-    "quantidade": 200.0,
-    "unidade": "CX",
-    "valor_total": 3936.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 99992.2,
-  "itens_principais": 3,
-  "exclusiva_me": false
- },
- {
-  "id": "00394452000103-1-022496/2026",
-  "orgao": "COMANDO DO EXERCITO",
-  "unidade": "HOSPITAL MILITAR DE ÁREA DE PORTO ALEGRE",
-  "cidade": "Porto Alegre",
-  "objeto": "Aquisição de material médico-hospitalar para os Serviços de Cirurgia Geral, Cirurgia do Aparelho Digestivo e Proctologia do Hospital Militar de Área de Porto Alegre – HMAPA.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 30259237.4,
-  "abertura": "2026-10-21T08:00:00",
-  "encerramento": "2026-11-04T08:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/22496",
-  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16039905000172026",
-  "total_itens": 244,
-  "itens_da_linha": [
-   {
-    "descricao": "Instrumento P/ Corte E Coagulação De Vaso / Tecido modelo: até 7 mm, aplicação: p/ videocirurgia, tipo ponta: ponta curva, dimensão: cerca de 5 mm x 35 cm, haste: haste reta, c/ manopla, compatibilidade: compatível c/ bisturi ultrassônico, esterilidade: estéril, uso único",
-    "quantidade": 100.0,
-    "unidade": "Unidade  ",
-    "valor_total": 346991.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Instrumento P/ Corte E Coagulação De Vaso / Tecido modelo: até 7 mm, aplicação: p/ videocirurgia, tipo ponta: ponta curva, dimensão: cerca de 5 mm x 45 cm, haste: haste articulável, c/ manopla, compatibilidade: compatível c/ bisturi bipolar, esterilidade: estéril, uso único",
-    "quantidade": 20.0,
-    "unidade": "Unidade  ",
-    "valor_total": 110812.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Para Sistema Pneumático tipo: bota, compatível: para sistema de compressão intermitente, tamanho: adulto, tipo uso: descartável",
-    "quantidade": 100.0,
-    "unidade": "Unidade  ",
-    "valor_total": 26000.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Para Sistema Pneumático tipo: bota, compatível: para sistema de compressão intermitente, tamanho: adulto, tipo uso: descartável",
-    "quantidade": 200.0,
-    "unidade": "Unidade  ",
-    "valor_total": 52000.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Para Sistema Pneumático tipo: bota, compatível: para sistema de compressão intermitente, tamanho: adulto, tipo uso: descartável",
-    "quantidade": 200.0,
-    "unidade": "Unidade  ",
-    "valor_total": 52000.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Para Sistema Pneumático tipo: bota, compatível: para sistema de compressão intermitente, tamanho: adulto, tipo uso: descartável",
-    "quantidade": 100.0,
-    "unidade": "Unidade  ",
-    "valor_total": 26000.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Bisturi Elétrico modelo: radiofrequência e ultrassônico, modo de operação monopolar: monopolar, potência máxima corte monopolar: de 301 a 400, tipo de coagulação: coagulação, spray e fulguração, tipo de corte: corte puro e no mínimo 3 mistos, modo de operação: bipolar, micro e macro, opcionais: função pulsar, outros componentes: alarme, memória, compatibilidade: compatível c/ coagulador argônio",
-    "quantidade": 15.0,
-    "unidade": "Unidade  ",
-    "valor_total": 316168.5,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Bisturi Elétrico modelo: radiofrequência e ultrassônico, modo de operação monopolar: monopolar, potência máxima corte monopolar: de 301 a 400, tipo de coagulação: coagulação, spray e fulguração, tipo de corte: corte puro e no mínimo 3 mistos, modo de operação: bipolar, micro e macro, opcionais: função pulsar, outros componentes: alarme, memória, compatibilidade: compatível c/ coagulador argônio",
-    "quantidade": 15.0,
-    "unidade": "Unidade  ",
-    "valor_total": 316188.9,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Bisturi Elétrico modelo: radiofrequência e ultrassônico, modo de operação monopolar: monopolar, potência máxima corte monopolar: de 301 a 400, tipo de coagulação: coagulação, spray e fulguração, tipo de corte: corte puro e no mínimo 3 mistos, modo de operação: bipolar, micro e macro, opcionais: função pulsar, outros componentes: alarme, memória, compatibilidade: compatível c/ coagulador argônio",
-    "quantidade": 15.0,
-    "unidade": "Unidade  ",
-    "valor_total": 280525.8,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Clipador Uso Médico aplicação*: p/ videocirurgia, tamanho*: p/ clipes de polímero tamanho extra largo, haste: haste giratória, comprimento haste: comprimento cerca de 35, diâmetro haste: diâmetro cerca de 10, tipo uso*: reutilizável",
-    "quantidade": 50.0,
-    "unidade": "Unidade  ",
-    "valor_total": 25000.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Implante Cirúrgico material: estrutura fibrosa porosa, aplicação: copolímero àcido poliglicólico, formato: carbonato de trimetileno, características adicionais: sintético e bioabisorvível, uso: reforço sutura mecânica",
-    "quantidade": 70.0,
-    "unidade": "Unidade    ",
-    "valor_total": 294000.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Implante Cirúrgico material: estrutura fibrosa porosa, aplicação: copolímero àcido poliglicólico, formato: carbonato de trimetileno, características adicionais: sintético e bioabisorvível, uso: reforço sutura mecânica",
-    "quantidade": 70.0,
-    "unidade": "Unidade    ",
-    "valor_total": 294000.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Meia Compressiva - Uso Médico gradiente de pressão: média compressão, modelo: meia 7/8, ponteira: fechada, material: tecido sintético e algodão c/ elastano, tamanho: adulto médio, conforme medida, cor: c/ cor, característica adicional: c/ silicone p/ fixação, esterilidade: uso individual",
-    "quantidade": 200.0,
-    "unidade": "Unidade    ",
-    "valor_total": 105400.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Meia Compressiva - Uso Médico gradiente de pressão: baixa compressão, modelo: meia 7/8, ponteira: aberta, material: tecido sintético e algodão c/ elastano, tamanho: adulto grande, conforme medida, cor: c/ cor, característica adicional: c/ silicone p/ fixação, esterilidade: uso individual",
-    "quantidade": 200.0,
-    "unidade": "Unidade    ",
-    "valor_total": 105400.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Meia Compressiva - Uso Médico gradiente de pressão: alta compressão, modelo: meia 7/8, ponteira: fechada, material: tecido sintético e algodão c/ elastano, tamanho: adulto extra grande, xg, conforme medida, cor: c/ cor, característica adicional: c/ silicone p/ fixação, esterilidade: uso individual",
-    "quantidade": 200.0,
-    "unidade": "Unidade    ",
-    "valor_total": 52800.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Meia Compressiva - Uso Médico gradiente de pressão: alta compressão, modelo: meia 7/8, ponteira: fechada, material: tecido sintético e algodão c/ elastano, tamanho: adulto extra grande, xxg, conforme medida, cor: c/ cor, característica adicional: c/ silicone p/ fixação, esterilidade: uso individual",
-    "quantidade": 100.0,
-    "unidade": "Unidade    ",
-    "valor_total": 26400.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Porta-Agulha P/ Videocirurgia material: aço inoxidável, formato ponta: ponta reta, haste: haste s/ isolamento, dimensão: cerca de 5 mm x 35 cm, componente: manopla em metal c/ cremalheira, esterilidade: esterilizável",
-    "quantidade": 5.0,
-    "unidade": "Unidade    ",
-    "valor_total": 77512.5,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Porta-Agulha P/ Videocirurgia material: aço inoxidável, formato ponta: ponta reta, haste: haste s/ isolamento, dimensão: cerca de 5 mm x 35 cm, componente: manopla em metal c/ cremalheira, esterilidade: esterilizável",
-    "quantidade": 5.0,
-    "unidade": "Unidade    ",
-    "valor_total": 77512.5,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Porta-Agulha P/ Videocirurgia material: aço inoxidável, formato ponta: ponta reta, haste: haste s/ isolamento, dimensão: cerca de 5 mm x 35 cm, componente: manopla em metal c/ cremalheira, esterilidade: esterilizável",
-    "quantidade": 5.0,
-    "unidade": "Unidade    ",
-    "valor_total": 77512.5,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Eletrodo Bisturi Elétrico aplicação: p/ caneta, tipo uso: monopolar, tipo: ponta agulha fracionada c/ 64 eletrodos, material ponteira: aço inoxidável, dimensão ponta: diâmetro cerca de 0,2, adicional 1: base cerca de 4 cm, esterilidade: estéril, uso único",
-    "quantidade": 500.0,
-    "unidade": "Unidade    ",
-    "valor_total": 62500.0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Eletrodo Bisturi Elétrico aplicação: p/ caneta, tipo uso: monopolar, tipo: ponta agulha fracionada c/ 64 eletrodos, material ponteira: aço inoxidável, dimensão ponta: diâmetro cerca de 0,2, adicional 1: base cerca de 4 cm, esterilidade: estéril, uso único",
-    "quantidade": 100.0,
-    "unidade": "Unidade    ",
-    "valor_total": 54400.0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Eletrodo Bisturi Elétrico aplicação: p/ caneta, tipo uso: monopolar, tipo: ponta agulha fracionada c/ 64 eletrodos, material ponteira: aço inoxidável, dimensão ponta: diâmetro cerca de 0,2, adicional 1: base cerca de 4 cm, esterilidade: estéril, uso único",
-    "quantidade": 100.0,
-    "unidade": "Unidade    ",
-    "valor_total": 54400.0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Eletrodo Bisturi Elétrico aplicação: p/ caneta, tipo uso: monopolar, tipo: ponta bola, material ponteira: aço inoxidável, dimensão ponta: diâmetro cerca de 5, haste: haste baioneta, comprimento haste: cerca de 20, esterilidade: esterilizável",
-    "quantidade": 100.0,
-    "unidade": "Unidade    ",
-    "valor_total": 33235.0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Eletrodo Bisturi Elétrico aplicação: p/ caneta, tipo uso: monopolar, tipo: ponta bola, material ponteira: aço inoxidável, dimensão ponta: diâmetro cerca de 5, haste: haste baioneta, comprimento haste: cerca de 20, esterilidade: esterilizável",
-    "quantidade": 200.0,
-    "unidade": "Unidade    ",
-    "valor_total": 10536.0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Instrumento P/ Corte E Coagulação De Vaso / Tecido modelo: até 7 mm, aplicação: p/ videocirurgia, tipo ponta: ponta curva, dimensão: cerca de 5 mm x 35 cm, haste: haste reta, c/ manopla, compatibilidade: compatível c/ bisturi ultrassônico, esterilidade: estéril, uso único",
-    "quantidade": 150.0,
-    "unidade": "Unidade    ",
-    "valor_total": 468748.5,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Instrumento P/ Corte E Coagulação De Vaso / Tecido modelo: até 7 mm, aplicação: p/ videocirurgia, tipo ponta: ponta curva, dimensão: cerca de 5 mm x 35 cm, haste: haste reta, c/ manopla, compatibilidade: compatível c/ bisturi ultrassônico, esterilidade: estéril, uso único",
-    "quantidade": 150.0,
-    "unidade": "Unidade    ",
-    "valor_total": 603159.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Instrumento P/ Corte E Coagulação De Vaso / Tecido modelo: até 7 mm, aplicação: p/ videocirurgia, tipo ponta: ponta curva, dimensão: cerca de 5 mm x 35 cm, haste: haste reta, c/ manopla, compatibilidade: compatível c/ bisturi ultrassônico, esterilidade: estéril, uso único",
-    "quantidade": 50.0,
-    "unidade": "Unidade    ",
-    "valor_total": 142789.5,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Instrumento P/ Corte E Coagulação De Vaso / Tecido modelo: até 5 mm, aplicação: p/ videocirurgia, tipo ponta: ponta curva, dimensão: cerca de 5 mm x 35 cm, haste: haste reta, c/ manopla, compatibilidade: compatível c/ bisturi ultrassônico, esterilidade: estéril, uso único",
-    "quantidade": 150.0,
-    "unidade": "Unidade    ",
-    "valor_total": 389842.5,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Instrumento P/ Corte E Coagulação De Vaso / Tecido modelo: até 7 mm, aplicação: p/ videocirurgia, tipo ponta: ponta curva, dimensão: cerca de 5 mm x 35 cm, haste: haste reta, c/ manopla, compatibilidade: compatível c/ bisturi ultrassônico, esterilidade: estéril, uso único",
-    "quantidade": 50.0,
-    "unidade": "Unidade    ",
-    "valor_total": 174248.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Instrumento P/ Corte E Coagulação De Vaso / Tecido modelo: até 7 mm, aplicação: p/ videocirurgia, tipo ponta: ponta curva, dimensão: cerca de 5 mm x 35 cm, haste: haste reta, c/ manopla, compatibilidade: compatível c/ bisturi ultrassônico, esterilidade: estéril, uso único",
-    "quantidade": 25.0,
-    "unidade": "Unidade    ",
-    "valor_total": 91666.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Clipador Uso Médico aplicação*: p/ videocirurgia, modelo*: carregado - clip titânio, quantidade: c/ cerca de 15 clipes, tamanho*: tamanho médio largo, haste: haste giratória, comprimento haste: comprimento cerca de 35, diâmetro haste: diâmetro cerca de 5, tipo uso*: estéril, descartável",
-    "quantidade": 40.0,
-    "unidade": "Unidade    ",
-    "valor_total": 76083.2,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Bolsa P/ Acondicionamento Órgãos E Espécimes tipo: uso em videocirurgia, material*: plástico, abertura: c/ aro metálico, volume: cerca de 800, adicionais: c/ sistema introdutor, compatibilidade: p/ trocarter de 10 mm, esterilidade*: estéril, uso único",
-    "quantidade": 50.0,
-    "unidade": "Unidade    ",
-    "valor_total": 30000.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Bolsa P/ Acondicionamento Órgãos E Espécimes tipo: uso em videocirurgia, material*: plástico, abertura: c/ aro metálico, volume: cerca de 1.500, adicionais: c/ sistema introdutor, compatibilidade: p/ trocarter de 15 mm, esterilidade*: estéril, uso único",
-    "quantidade": 50.0,
-    "unidade": "Unidade    ",
-    "valor_total": 44600.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Especial P/ Videocirurgia tipo: protetor de incisão, modelo: circular, componente 1: c/ anéis flexíveis nas extremidades, aplicação: p/ corte cerca de 5 a 10 cm, material: polímero, esterilidade: estéril, uso único",
-    "quantidade": 3.0,
-    "unidade": "Unidade    ",
-    "valor_total": 62700.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Especial P/ Videocirurgia tipo: protetor de incisão, modelo: circular, componente 1: c/ anéis flexíveis nas extremidades, aplicação: p/ corte cerca de 5 a 10 cm, material: polímero, esterilidade: estéril, uso único",
-    "quantidade": 5.0,
-    "unidade": "Unidade    ",
-    "valor_total": 104500.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Especial P/ Videocirurgia tipo: protetor de incisão, modelo: circular, componente 1: c/ anéis rigídos nas extremidades, aplicação: p/ corte cerca de 2 a 6 cm, material: polímero, esterilidade: estéril, uso único",
-    "quantidade": 10.0,
-    "unidade": "Unidade    ",
-    "valor_total": 15986.7,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Especial P/ Videocirurgia tipo: protetor de incisão, modelo: circular, componente 1: c/ anéis rigídos nas extremidades, aplicação: p/ corte cerca de 2 a 6 cm, material: polímero, esterilidade: estéril, uso único",
-    "quantidade": 10.0,
-    "unidade": "Unidade    ",
-    "valor_total": 15986.7,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Material Especial P/ Videocirurgia tipo: protetor de incisão, modelo: circular, componente 1: c/ anéis rigídos nas extremidades, aplicação: p/ corte cerca de 5 a 10 cm, material: polímero, esterilidade: estéril, uso único",
-    "quantidade": 10.0,
-    "unidade": "Unidade    ",
-    "valor_total": 15986.7,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Aspirador Cirúrgico modelo: bomba peristáltica com função irrigação, pressão de vácuo: cerca de 150 mmhg, fluxo de aspiração: até 1 lpm, tipo frasco: 1 frasco de vidro, volume: cerca de 500 ml, adicionais: acionamento por pedal",
-    "quantidade": 50.0,
-    "unidade": "Unidade    ",
-    "valor_total": 127500.0,
-    "linhas": [
-     "aspirador"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Conjunto Para Cricotirotomia componentes: cânula em pvc radiopaca, 6 fr x 6 cm, componentes 1: kit c/ dilatador curvo, introdutor, componentes 2: agulha 19g, seringa e fio guia, esterilidade: estéril",
-    "quantidade": 15.0,
-    "unidade": "Unidade    ",
-    "valor_total": 52324.95,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Conjunto Para Cricotirotomia componentes: cânula, em pvc radiopaca, 4,0 mm x cerca de 4,5 cm, componentes 1: dilatador curvo, introdutor de agulha, componentes 2: agulha, seringa e fio guia, esterilidade: estéril",
-    "quantidade": 10.0,
-    "unidade": "Unidade    ",
-    "valor_total": 26100.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 5319517.25,
-  "itens_principais": 31,
-  "exclusiva_me": false
- },
- {
-  "id": "92455393000146-1-000053/2026",
-  "orgao": "MUNICIPIO DE NOVA ESPERANCA DO SUL",
-  "unidade": "MUNICIPIO DE NOVA ESPERANCA DO SUL/RS",
-  "cidade": "Nova Esperança do Sul",
-  "objeto": "REGISTRO DE PREÇOS VISANDO A FUTURA E EVENTUAL AQUISIÇÃO DE MATERIAIS E INSUMOS HOSPITALARES E ODONTOLÓGICOS PARA O MUNICÍPIO DE NOVA ESPERANÇA DO SUL, RS.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 411217.61,
-  "abertura": "2026-10-19T09:00:00",
-  "encerramento": "2026-11-04T08:29:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92455393000146/2026/53",
-  "link_sistema": "",
-  "total_itens": 225,
-  "itens_da_linha": [
-   {
-    "descricao": "ABOCATH OU CATETER PERIFÉRICO INTRAVENOSO Nº 14, CAIXA COM 50 UNIDADES. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 719.6,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ABOCATH OU CATETER PERIFÉRICO INTRAVENOSO Nº 20, CAIXA COM 50 UNIDADES. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 668.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ABOCATH OU CATETER PERIFÉRICO INTRAVENOSO Nº 22, CAIXA COM 50 UNIDADES. ",
-    "quantidade": 100.0,
-    "unidade": "CX",
-    "valor_total": 3351.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ABOCATH OU CATETER PERIFÉRICO INTRAVENOSO Nº 24, CAIXA COM 50 UNIDADES. ",
-    "quantidade": 100.0,
-    "unidade": "CX",
-    "valor_total": 3384.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "AGUA DESTILADA FRASCO 5000 ML - PARA AUTOCLAVEL. ",
-    "quantidade": 160.0,
-    "unidade": "FR",
-    "valor_total": 1704.0,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA CREPOM 06 CM X 1,8 M, CONFECCIONADA EM ALGODÃO.. ",
-    "quantidade": 2000.0,
-    "unidade": "UN",
-    "valor_total": 840.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA CREPOM 10 CM X 1,8 M, CONFECCIONADA EM ALGODÃO.. ",
-    "quantidade": 2000.0,
-    "unidade": "UN",
-    "valor_total": 1000.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA CREPOM 15 CM X 1,8 M, CONFECCIONADA EM ALGODÃO.. ",
-    "quantidade": 2000.0,
-    "unidade": "UN",
-    "valor_total": 1440.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA CREPOM 20 CM X 1,8 M, CONFECCIONADA EM ALGODÃO. ",
-    "quantidade": 2000.0,
-    "unidade": "UN",
-    "valor_total": 1520.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA ELÁSTICA 20 CM X 2,2 M, CONFECIONADA EM ALGODÃO, PACOTE COM 12 UNIDADE. ",
-    "quantidade": 200.0,
-    "unidade": "PAC",
-    "valor_total": 4528.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA PARA BANHO NÃO ESTÉRIL. <p>35CM X 45CM PACOTE COM 50 UNIDADES, 100% ALGOD&Atilde;O, 4 CAMADAS</p>\n",
-    "quantidade": 300.0,
-    "unidade": "PAC",
-    "valor_total": 19647.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO MACROGOTAS, COM FILTRO DE GOTEJAMENTO, TUBULAÇÃO EM PVC. <p>EQUIPO MACROGOTAS PARA ADMINISTRA&Ccedil;&Atilde;O DE SOLU&Ccedil;&Otilde;ES PARENTERAIS COM INJETOR LATERAL E ENTRADA DE AR COM FILTRO, CONECTOR LUER SLIP.&nbsp;</p>\n",
-    "quantidade": 4000.0,
-    "unidade": "PAC",
-    "valor_total": 2680.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO PARA NUTRIÇÃO ENTERAL. ",
-    "quantidade": 1500.0,
-    "unidade": "UN",
-    "valor_total": 1350.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ESPARADRAPO IMPERMEAVEL 10 CM X 4,5 M. ",
-    "quantidade": 500.0,
-    "unidade": "UN",
-    "valor_total": 3530.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO DE SUTURA Nº 0, MONO NYLON, CAIXA COM 24 UNIDADES. ",
-    "quantidade": 10.0,
-    "unidade": "CX",
-    "valor_total": 230.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO DE SUTURA Nº 2, MONO NYLON, CAIXA COM 24 UNIDADES. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 563.4,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO DE SUTURA Nº 3, MONO NYLON, CAIXA COM 24 UNIDADES. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 473.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO DE SUTURA Nº 4, MONO NYLON, CAIXA COM 24 UNIDADES. ",
-    "quantidade": 10.0,
-    "unidade": "CX",
-    "valor_total": 236.3,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO DE SUTURA Nº 5 MONO NYLON, CAIXA COM 24 UNIDADES. ",
-    "quantidade": 10.0,
-    "unidade": "CX",
-    "valor_total": 234.9,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "GAZE HIDROFILA 7,5/7,5, 13 FIOS, PACOTE COM 500 UNIDADES. <p><strong>PESO: 400-550 GRAMAS</strong></p>\n",
-    "quantidade": 2000.0,
-    "unidade": "PAC",
-    "valor_total": 36840.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "GAZE HIDROFILA, TIPO QUEIJO, 13 FIOS, NÃO ESTÉRIL, ROLO, 8 DOBRAS, 91 X 91 CM, 13 FIOS/CM². <p>500 G&nbsp;</p>\n",
-    "quantidade": 300.0,
-    "unidade": "RL",
-    "valor_total": 10803.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "KIT PARA NEBULIZADOR ADULTO ( MÁSCARA + CÂMARA DE NEBULIZAÇÃO + TUBO DE AR). ",
-    "quantidade": 15.0,
-    "unidade": "UN",
-    "valor_total": 119.25,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "KIT PARA NEBULIZADOR INFANTIL ( MÁSCARA + CÂMARA DE NEBULIZAÇÃO + TUBO DE AR). ",
-    "quantidade": 15.0,
-    "unidade": "UN",
-    "valor_total": 94.65,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LAMINA DE BISTURI Nº 11, CAIXA COM 100 UN. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 438.6,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LAMINA DE BISTURI Nº 12, CAIXA COM 100 UN. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 429.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LAMINA DE BISTURI Nº 15, CAIXA COM 100 UN. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 432.2,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LAMINA DE BISTURI Nº 21, CAIXA COM 100 UN. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 430.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LAMINA DE BISTURI Nº 23, CAIXA COM 100 UN. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 427.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LAMINA DE BISTURI Nº 24, CAIXA COM 100 UN. ",
-    "quantidade": 20.0,
-    "unidade": "CX",
-    "valor_total": 429.2,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LANCETAS Nº 28 G, CAIXA COM 100 UNIDADES. ",
-    "quantidade": 60.0,
-    "unidade": "CX",
-    "valor_total": 522.0,
-    "linhas": [
-     "glicosímetro e tiras"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LUVA CIRURGICA ESTERIL Nº 6,5. ",
-    "quantidade": 100.0,
-    "unidade": "PAR",
-    "valor_total": 107.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LUVA CIRÚRGICA ESTÉRIL Nº 7,0. ",
-    "quantidade": 200.0,
-    "unidade": "PAR",
-    "valor_total": 224.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LUVA CIRÚRGICA ESTÉRIL Nº 7,5. ",
-    "quantidade": 200.0,
-    "unidade": "PAR",
-    "valor_total": 220.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LUVA CIRÚRGICA ESTÉRIL Nº 8,0. ",
-    "quantidade": 100.0,
-    "unidade": "PAR",
-    "valor_total": 107.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SCALP OU BUTERFLY N° 23, CAIXA COM 50 UNIDADES. ",
-    "quantidade": 50.0,
-    "unidade": "CX",
-    "valor_total": 445.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SCALP OU BUTERFLY N° 25, CAIXA COM 50 UNIDADES. ",
-    "quantidade": 10.0,
-    "unidade": "CX",
-    "valor_total": 89.5,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SCALP OU BUTERFLY N° 27, CAIXA COM 50 UNIDADES. ",
-    "quantidade": 15.0,
-    "unidade": "CX",
-    "valor_total": 129.75,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 1ML, SEM AGULHA CAIXA COM 100 UNIDADES.. ",
-    "quantidade": 300.0,
-    "unidade": "CX",
-    "valor_total": 6252.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL SEM AGULHA DE 10ML. ",
-    "quantidade": 10000.0,
-    "unidade": "UN",
-    "valor_total": 3300.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL SEM AGULHA DE 20ML. ",
-    "quantidade": 2000.0,
-    "unidade": "UN",
-    "valor_total": 920.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL SEM AGULHA DE 5 ML. ",
-    "quantidade": 20000.0,
-    "unidade": "UN",
-    "valor_total": 4400.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SONDA URETRAL N° 12. <p>SILICONADA, UM ORIF&Iacute;CIO</p>\n",
-    "quantidade": 6000.0,
-    "unidade": "UN",
-    "valor_total": 2760.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 118021.55,
-  "itens_principais": 9,
-  "exclusiva_me": false
- },
- {
-  "id": "88577416000118-1-000204/2026",
-  "orgao": "MUNICIPIO DE CANOAS",
-  "unidade": "PREFEITURA MUNICIPAL DE CANOAS PREFEITURA MUNICIPAL DE CANOAS",
-  "cidade": "Canoas",
-  "objeto": "Aquisição de 02 (duas) macas tipo cesto universal, 06 (seis) torniquetes profissionais e 30 (trinta) coletes para operações em águas rápidas, destinados ao emprego operacional do Corpo de Bombeiros Militar de Canoas",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 62264.52,
-  "abertura": "2026-10-20T10:00:00",
-  "encerramento": "2026-11-04T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/88577416000118/2026/204",
-  "link_sistema": "https://pregaobanrisul.com.br/editais/0300_2026/358331",
-  "total_itens": 3,
-  "itens_da_linha": [
-   {
-    "descricao": "Maca tipo cesto universal",
-    "quantidade": 2.0,
-    "unidade": "un",
-    "valor_total": 9130.92,
-    "linhas": [
-     "maca"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 9130.92,
-  "itens_principais": 1,
-  "exclusiva_me": true
- },
- {
-  "id": "92787118000120-1-000992/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente pregão tem por objeto Órteses e Próteses e Materiais Especiais (FAIXA ELÁSTICA, TIPOIA E OUTROS), sob forma de consignação, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o HOSPITAL GERAL DE BONSUCESSO DO RIO DE JANEIRO, filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., descritas no Anexo I neste Edital, conforme condições estabelecidas na Portaria GM/MS 2.036, de 04.11.2002.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-19T16:00:00",
-  "encerramento": "2026-11-04T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/992",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102572",
-  "total_itens": 9,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 26946\nEspecificação: PROTESE BILIAR PLASTICA MONTADA C/07 FRENCH DE DIAMETRO E\nCOMPRIMENTO NO INTERVALO DE 14 A 16cm, MONTADA C/INTRODUTOR COMPATIVEL\nC/ENDOSCOPIO CANAL 4,2mm -\nUnidade: UNIDADE",
-    "quantidade": 36.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
-  "id": "87366159000102-1-000432/2026",
-  "orgao": "MUNICIPIO DE SAPIRANGA",
-  "unidade": "SECRETARIA MUNICIPAL DE SAÚDE",
-  "cidade": "Sapiranga",
-  "objeto": "Aquisição de equipamento médico, móveis e eletrônicos, visando atender a demanda das Unidades de Saúde da Atenção Primária em Saúde, conforme saldo transferências Fundo a Fundo de recurso do SUS provenientes do Governo Federal  Bloco Estruturação da Rede de Serviços Públicos de Saúde  Emenda Parlamentar (39840004/2026).",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 199857.0,
-  "abertura": "2026-10-14T13:00:00",
-  "encerramento": "2026-11-04T12:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87366159000102/2026/432",
-  "link_sistema": null,
-  "total_itens": 29,
-  "itens_da_linha": [
-   {
-    "descricao": "AUTOCLAVE HORIZONTAL P/ ESTERILIZACAO A VAPOR SOB PRESSAO 75 LITROS - UN",
-    "quantidade": 1.0,
-    "unidade": "UNIDADE",
-    "valor_total": 5614.0,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "BIOMBO DUPLO EM ACO INOX C/ RODIZIOS - UN",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE",
-    "valor_total": 4164.0,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CARRO DE CURATIVO S/ BALDE E S/ BACIA 450X750X800MM C/ RODIZIOS - UN",
-    "quantidade": 3.0,
-    "unidade": "UNIDADE",
-    "valor_total": 3609.0,
-    "linhas": [
-     "carro de emergência"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "DETECTOR FETAL PORTATIL - UN",
-    "quantidade": 3.0,
-    "unidade": "UNIDADE",
-    "valor_total": 5745.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "MESA AUXILIAR EM ACO INOX 40X40X80CM C/ PRATELEIRA E RODIZIOS - UN",
-    "quantidade": 11.0,
-    "unidade": "UNIDADE",
-    "valor_total": 8536.0,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "MESA DE EXAMES FIXA EM ACO INOX - UN",
-    "quantidade": 8.0,
-    "unidade": "UNIDADE",
-    "valor_total": 18600.0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 46268.0,
-  "itens_principais": 6,
-  "exclusiva_me": false
- },
- {
   "id": "04712762000171-1-000051/2026",
   "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL DA REGIAO DOS CAMPOS DE CIMA DA SERRA - CONDESUS",
   "unidade": "Consórcio Intermunicipal de Desenvolvimento Sustentável da Região dos Campos de Cima da Serra",
@@ -3319,6 +2055,257 @@
   "valor_itens_da_linha": 291888.6,
   "itens_principais": 0,
   "exclusiva_me": false
+ },
+ {
+  "id": "88821079000162-1-000373/2026",
+  "orgao": "MUNICIPIO DE RIO PARDO",
+  "unidade": "EXECUTIVO MUNICIPAL",
+  "cidade": "Rio Pardo",
+  "objeto": "Equipamentos para Secretaria de Saude",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 387421.02,
+  "abertura": "2026-09-04T13:00:00",
+  "encerramento": "2026-11-09T08:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88821079000162/2026/373",
+  "link_sistema": " ",
+  "total_itens": 45,
+  "itens_da_linha": [
+   {
+    "descricao": "Bracadeira para injecao  em aco inoxidavel  tipo pedestal com altura regulavel.",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE",
+    "valor_total": 1682.1,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Oximetro de dedo",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE",
+    "valor_total": 745.5,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Cadeira de rodas para obeso  adulto.",
+    "quantidade": 5.0,
+    "unidade": "UNIDADE",
+    "valor_total": 11312.0,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Cardioversor",
+    "quantidade": 2.0,
+    "unidade": "UNIDADE",
+    "valor_total": 32264.58,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Detector fetal portatil  tecnologia digital com tecnologia display. ",
+    "quantidade": 20.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5121.8,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Detector fetal de mesa profissional",
+    "quantidade": 20.0,
+    "unidade": "UNIDADE",
+    "valor_total": 10113.8,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Eletrocardiografo.",
+    "quantidade": 2.0,
+    "unidade": "UNIDADE",
+    "valor_total": 7082.16,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Eletrocauterio 150W ",
+    "quantidade": 2.0,
+    "unidade": "UNIDADE",
+    "valor_total": 10934.18,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Esfigmomanometro para obeso  em algodao bracadeira fecho com velcro. ",
+    "quantidade": 100.0,
+    "unidade": "UNIDADE",
+    "valor_total": 9384.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Estetoscopio adulto  com auscultador em aco inoxidavel  tipo simples.",
+    "quantidade": 50.0,
+    "unidade": "UNIDADE",
+    "valor_total": 675.5,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Estetoscopio infantil  com auscultador em aco inoxidavel  tipo simples.",
+    "quantidade": 50.0,
+    "unidade": "UNIDADE",
+    "valor_total": 780.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": " Laringoscopio Adulto",
+    "quantidade": 15.0,
+    "unidade": "UNIDADE",
+    "valor_total": 7143.75,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Laringoscopio infantil  com tres laminas em inox. ",
+    "quantidade": 15.0,
+    "unidade": "UNIDADE",
+    "valor_total": 7450.8,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Maca fixa",
+    "quantidade": 15.0,
+    "unidade": "UNIDADE",
+    "valor_total": 12959.55,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Mesa ginecologica  de madeira com gabinete  com duas portas e tres gavetas  suporte para lencol descartavel.",
+    "quantidade": 5.0,
+    "unidade": "UNIDADE",
+    "valor_total": 8460.0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Nebulizador",
+    "quantidade": 3.0,
+    "unidade": "UNIDADE",
+    "valor_total": 302.67,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Oftalmoscopio",
+    "quantidade": 5.0,
+    "unidade": "UNIDADE",
+    "valor_total": 3047.15,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Otoscopio simples com iluminacao direta halogena Xenon  composicao de 5 a 10 especulos reutilizaveis. ",
+    "quantidade": 30.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5817.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Oximetro de pulso portatil profissional",
+    "quantidade": 40.0,
+    "unidade": "UNIDADE",
+    "valor_total": 3941.6,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Suporte de soro",
+    "quantidade": 5.0,
+    "unidade": "UNIDADE",
+    "valor_total": 772.1,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Termometro digital",
+    "quantidade": 30.0,
+    "unidade": "UNIDADE",
+    "valor_total": 4443.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 144433.84,
+  "itens_principais": 21,
+  "exclusiva_me": true
  },
  {
   "id": "87612743000109-1-000297/2026",
@@ -8749,6 +7736,37 @@
   "exclusiva_me": false
  },
  {
+  "id": "00394452000103-1-023569/2026",
+  "orgao": "COMANDO DO EXERCITO",
+  "unidade": "HOSPITAL MILITAR DE ÁREA DE PORTO ALEGRE",
+  "cidade": "Porto Alegre",
+  "objeto": "Registro de preços para a eventual aquisição de material de consumo para suprir a demanda do Serviço de Radiologia do Hospital Militar de Área de Porto Alegre - HMAPA, incluindo comodato de equipamentos",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 243074.0,
+  "abertura": "2026-11-04T08:00:00",
+  "encerramento": "2026-11-16T08:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23569",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16039905002062026",
+  "total_itens": 3,
+  "itens_da_linha": [
+   {
+    "descricao": "Seringa Para Bomba aplicação: compatível c/ injetora contraste, até 1200 psi, apresentação: embalagem individual, capacidade: cerca 200, esterilidade: estéril, material: polipropileno",
+    "quantidade": 360.0,
+    "unidade": "Unidade",
+    "valor_total": 82908.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 82908.0,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
   "id": "93317980000131-1-000464/2026",
   "orgao": "MUNICIPIO DE MORRINHOS DO SUL",
   "unidade": "PREFEITURA MUNICIPAL DE MORRINHOS DO SUL",
@@ -9046,6 +8064,48 @@
   "exclusiva_me": false
  },
  {
+  "id": "88254875000160-1-000525/2026",
+  "orgao": "MUNICIPIO DE NOVO HAMBURGO",
+  "unidade": "Diretoria de Fomento ao Desenvolvimento Rural",
+  "cidade": "Novo Hamburgo",
+  "objeto": "PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS DE MATERIAIS E EQUIPAMENTOS PERMANENTES PARA USO VETERINÁRIO PARA O MUNICÍPIO DE NOVO HAMBURGO.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 42484.92,
+  "abertura": "2026-11-04T16:00:00",
+  "encerramento": "2026-11-17T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88254875000160/2026/525",
+  "link_sistema": null,
+  "total_itens": 20,
+  "itens_da_linha": [
+   {
+    "descricao": "Estetoscópio para a ausculta cárdio-respiratória não invasiva para uso adulto e pediátrico, com membrana em plástico rígido, anel rosqueado de cobre cromado (infantil, adulto), base rosqueada de cobre cromado que possibilita troca do sino ou diafragma (infantil, adulto), tubo duplo de pvc, câmara de som em liga de alumínio (oxidado ou anodizado), fone bi-auricular de cobre cromado, 2 pares de oliv",
+    "quantidade": 4.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 275.64,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Autoclave vertical Gabinete externo fabricado em chapa de aço carbono SAE 1020 com tratamento químico anticorrosivo e pintura epóxi eletrostática a pó para maior durabilidade, 22L, bivolt, pressão de trabalho: 15 PSI (Kgf/cm²) +/- 1PSI\r\nAutoclave vertical, capacidade 22 litros. Equipamento para esterilização por vapor sob pressão. Gabinete externo construído em chapa de aço carbono SAE 1020, com t",
+    "quantidade": 2.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 5400.6,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 5676.24,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
   "id": "13016717000173-1-000261/2026",
   "orgao": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
   "unidade": "Fundação de Saúde Pública São Camilo de Esteio",
@@ -9200,6 +8260,222 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88254875000160-1-000526/2026",
+  "orgao": "MUNICIPIO DE NOVO HAMBURGO",
+  "unidade": "Diretoria de Saúde - Fundo Municipal de Saúde",
+  "cidade": "Novo Hamburgo",
+  "objeto": "PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS DE EVENTUAL AQUISIÇÃO DE MATERIAIS E INSUMOS ODONTOLÓGICOS PARA O MUNICÍPIO DE NOVO HAMBURGO.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 865367.73,
+  "abertura": "2026-11-04T16:00:00",
+  "encerramento": "2026-11-18T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88254875000160/2026/526",
+  "link_sistema": null,
+  "total_itens": 176,
+  "itens_da_linha": [
+   {
+    "descricao": "FIO DE SUTURA MONONYLON 5-0 COM AGULHA 3/8 CT 1,65CM - CAIXA COM 24 UNIDADES.",
+    "quantidade": 2000.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 60080.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO DE SUTURA NYLON 5-0 COM AGULHA 1/2 CT 1,7CM. CAIXA COM 24 UNIDADES",
+    "quantidade": 1000.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 26640.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO DE SUTURA DE SEDA, 4-0, AGULHA 1,7 CM. 1/2 (  CÍRCULO TRIANGULAR). CAIXA COM 24 UNIDADES",
+    "quantidade": 100.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 3535.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Luva cirúrgica - estéril - 6,0",
+    "quantidade": 1500.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 2190.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LUVA CIRÚRGICA ESTÉRIL TAM. 6,5 (PAR) - LUVA PARA PROCEDIMENTO CIRÚRGICO, TEXTURIZADA, FORMATO ANATÔMICO, ESTÉRIL, COM PÓ BIOABSORVÍVEL, DE USO ÚNICO (DESCARTÁVEL). COMPOSIÇÃO: 100% LÁTEX DE BORRACHA NATURAL. DEVE POSSUIR CADASTRO NA ANVISA, CERTIFICADO DE APROVAÇÃO (CA) NO MINISTÉRIO DO TRABALHO E SELO DE MARCAÇÃO DO INMETRO. DEVE ATENDER A ABNT NBR ISO 10282:2014 E A RDC Nº55/2011 DA ANVISA. EMB",
+    "quantidade": 1500.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 2385.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LUVA CIRÚRGICA ESTÉRIL TAM. 7,0 (PAR) - LUVA PARA PROCEDIMENTO CIRÚRGICO, TEXTURIZADA, FORMATO ANATÔMICO, ESTÉRIL, COM PÓ BIOABSORVÍVEL, DE USO ÚNICO (DESCARTÁVEL). COMPOSIÇÃO: 100% LÁTEX DE BORRACHA NATURAL. DEVE POSSUIR CADASTRO NA ANVISA, CERTIFICADO DE APROVAÇÃO (CA) NO MINISTÉRIO DO TRABALHO E SELO DE MARCAÇÃO DO INMETRO. DEVE ATENDER A ABNT NBR ISO 10282:2014 E A RDC Nº55/2011 DA ANVISA. EMB",
+    "quantidade": 1500.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 2460.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LUVA CIRÚRGICA ESTÉRIL TAM. 7,5 (PAR) - LUVA PARA PROCEDIMENTO CIRÚRGICO, TEXTURIZADA, FORMATO ANATÔMICO, ESTÉRIL, COM PÓ BIOABSORVÍVEL, DE USO ÚNICO (DESCARTÁVEL). COMPOSIÇÃO: 100% LÁTEX DE BORRACHA NATURAL. DEVE POSSUIR CADASTRO NA ANVISA, CERTIFICADO DE APROVAÇÃO (CA) NO MINISTÉRIO DO TRABALHO E SELO DE MARCAÇÃO DO INMETRO. DEVE ATENDER A ABNT NBR ISO 10282:2014 E A RDC Nº55/2011 DA ANVISA. EMB",
+    "quantidade": 1500.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 1695.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LUVA CIRÚRGICA ESTÉRIL TAM. 8,0 (PAR) - LUVA PARA PROCEDIMENTO CIRÚRGICO, TEXTURIZADA, FORMATO ANATÔMICO, ESTÉRIL, COM PÓ BIOABSORVÍVEL, DE USO ÚNICO (DESCARTÁVEL). COMPOSIÇÃO: 100% LÁTEX DE BORRACHA NATURAL. DEVE POSSUIR CADASTRO NA ANVISA, CERTIFICADO DE APROVAÇÃO (CA) NO MINISTÉRIO DO TRABALHO E SELO DE MARCAÇÃO DO INMETRO. DEVE ATENDER A ABNT NBR ISO 10282:2014 E A RDC Nº55/2011 DA ANVISA. EMB",
+    "quantidade": 1500.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 1695.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LUVA CIRÚRGICA ESTÉRIL TAM. 8,5 (PAR) - LUVA PARA PROCEDIMENTO CIRÚRGICO, TEXTURIZADA, FORMATO ANATÔMICO, ESTÉRIL, COM PÓ BIOABSORVÍVEL, DE USO ÚNICO (DESCARTÁVEL). COMPOSIÇÃO: 100% LÁTEX DE BORRACHA NATURAL. DEVE POSSUIR CADASTRO NA ANVISA, CERTIFICADO DE APROVAÇÃO (CA) NO MINISTÉRIO DO TRABALHO E SELO DE MARCAÇÃO DO INMETRO. DEVE ATENDER A ABNT NBR ISO 10282:2014 E A RDC Nº55/2011 DA ANVISA. EMB",
+    "quantidade": 1500.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 1755.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "AGULHA HIPODÉRMICA DESCARTÁVEL-30X7: CAIXA COM 100 UNIDADES; DIMENSÕES: 30 X 7 MM; PRODUTO HIPODÉRMICO",
+    "quantidade": 20.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 512.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio de sutura vycril rapid, 5-0, agulha 1,6 cm. 1/2 circ, triang corte invertido. Caixa com 12 unid.",
+    "quantidade": 10.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 2749.9,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Ponta de Aspiração para endodontia Tips 0,014.-Embalagem com 20 unidades\r\nCaracterísticas: Encaixe universal, adaptável a todas as seringas (convencionais e de encaixe luer-lock), flexíveis: permitem ajuste de curvatura, abas laterais de fácil manuseio e de plástico: não oxidam com o uso e são atraumáticas. Embalagem com 20 unidades",
+    "quantidade": 10.0,
+    "unidade": "PACOTE (PAC)",
+    "valor_total": 559.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Ponta de Aspiração para endodontia Tips 0,06. Embalagem com 20 unidades\r\nCaracterísticas: Encaixe universal, adaptável a todas as seringas (convencionais e de encaixe luer-lock), flexíveis: permitem ajuste de curvatura, abas laterais de fácil manuseio e de plástico: não oxidam com o uso e são atraumáticas. Embalagem com 20 unidades",
+    "quantidade": 10.0,
+    "unidade": "PACOTE (PAC)",
+    "valor_total": 493.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 106750.8,
+  "itens_principais": 4,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88254875000160-1-000527/2026",
+  "orgao": "MUNICIPIO DE NOVO HAMBURGO",
+  "unidade": "Coordenadorias",
+  "cidade": "Novo Hamburgo",
+  "objeto": "PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS DE MATERIAIS DE CONSUMO VETERINÁRIO PARA O MUNICÍPIO DE NOVO HAMBURGO.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 3524.22,
+  "abertura": "2026-11-04T16:00:00",
+  "encerramento": "2026-11-18T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88254875000160/2026/527",
+  "link_sistema": null,
+  "total_itens": 13,
+  "itens_da_linha": [
+   {
+    "descricao": "Seringa de insulina estéril descartável 1 ml sem agulha\r\nSeringa descartável estéril, corpo em polipropileno, com graduação em unidades internacionais (UI) para insulina, bico Luer [Slip/Lock], com vedante em borracha que garanta vedação total e deslizamento suave. Embalagem individual estéril, com data de fabricação, prazo de validade e número de lote. Deve possuir registro vigente na ANVISA. Cai",
+    "quantidade": 4.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 84.92,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina de bisturi nº 24\r\nLâmina fabricada em aço inoxidável cirúrgico de alta resistência, com afiação de precisão e livre de rebarbas. Compatível com cabo de bisturi nº 4. Produto estéril, descartável, embalado individualmente em invólucro que mantenha a integridade do fio e a esterilidade. Apresentar dados de lote, validade e fabricante na embalagem primária. Caixa com 100 unidades",
+    "quantidade": 4.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 86.44,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio de sutura absorvível Catgut cromado nº 2 sem agulha 1,5 m. caixa com 24 unidades\r\nFio de sutura de origem animal, tratado com sais de cromo para absorção prolongada. Comprimento de 1,5 m. Produto estéril, descartável, de uso único. Apresentado em embalagem individual íntegra, com identificação clara de lote, validade, fabricante e registro vigente junto ao órgão regulador. O produto deve apres",
+    "quantidade": 5.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 1319.05,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 1490.41,
+  "itens_principais": 1,
   "exclusiva_me": false
  },
  {
@@ -9425,6 +8701,478 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88818299000137-1-000298/2026",
+  "orgao": "MUNICIPIO DE SAO MARCOS",
+  "unidade": "PREFEITURA MUNICIPAL DE SÃO MARCOS MUNICIPIO DE SÃO MARCOS",
+  "cidade": "São Marcos",
+  "objeto": "MATERIAL AMBULATORIAL",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 1094897.93,
+  "abertura": "2026-09-04T15:00:00",
+  "encerramento": "2026-11-19T08:31:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88818299000137/2026/298",
+  "link_sistema": "https://pregaobanrisul.com.br/editais/0049_2026/356448",
+  "total_itens": 166,
+  "itens_da_linha": [
+   {
+    "descricao": "CAIXA TÉRMICA AZUL CAIXAS TÉRMICAS COM TERMÔMETRO DIGITAL DE MÁXIMA/MÍNINA E ATUAL A PROVA DÁGUA. TAMANHO APROXIMADO: 15 LITROS. COR AZUL. MATERIAL: POLIPROPILENO, POLIESTIRENO, POLIETILENO E POLIURETANO; COM ISOLAMENTO TERMICO EM POLIURETANO; DIMENSÕES INTERNAS EM CM ( H X L X C ) 24,0 X 21,",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 6428.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CAIXA TÉRMICA VERMELHA CAIXAS TÉRMICAS COM TERMÔMETRO DIGITAL DE MÁXIMA/MÍNINA E ATUAL A PROVA DÁGUA. TAMANHO APROXIMADO: 15 LITROS. COR VERMELHA. MATERIAL: POLIPROPILENO, POLIESTIRENO, POLIETILENO E POLIURETANO; COM ISOLAMENTO TÉRMICO EM POLIURETANO; DIMENSÕES INTERNAS EM CM ( H X L X C ) 2",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 6428.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CINTA PELVICA PELVIC SLING PARA RESGATE TAM G /GG Fivela Autostop: Trava automaticamente ao atingir a força correta de compressão (15 kg).Slider Posterior: Cobertura plástica de baixa fricção que facilita a colocação sob a vítima.Material: Não metálico, leve, lavável e transparente a raio",
+    "quantidade": 5.0,
+    "unidade": "un",
+    "valor_total": 4474.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CINTA PELVICA PELVIC SLING PARA RESGATE TAM M Fivela Autostop: Trava automaticamente ao atingir a força correta de compressão (15 kg).Slider Posterior: Cobertura plástica de baixa fricção que facilita a colocação sob a vítima.Material: Não metálico, leve, lavável e transparente a raios-X.",
+    "quantidade": 5.0,
+    "unidade": "un",
+    "valor_total": 4474.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CINTA PELVICA PELVIC SLING PARA RESGATE TAM P Fivela Autostop: Trava automaticamente ao atingir a força correta de compressão (15 kg). Slider Posterior: Cobertura plástica de baixa fricção que facilita a colocação sob a vítima.Material: Não metálico, leve, lavável e transparente a raios-X",
+    "quantidade": 5.0,
+    "unidade": "un",
+    "valor_total": 4474.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "REANIMADOR MANUAL ADULTO REANIMADOR MANUAL DE SILICONE (AMBU ADULTO) COMPLETO E AUTOCLAVÁVEL. POSSUI MASCARA, REANIMADOR E RESERVATÓRIO. POSSUI VÁLVULA POP-OFF COM LIMITE DE PRESSÃO AJUSTADA E QUANDO NECESSÁRIO, PERMITE REGULAGEM OU BLOQUEIO. PODE SER DESMONTADO E MONTADO DE FORMA RÁPIDA E FÁ",
+    "quantidade": 10.0,
+    "unidade": "em",
+    "valor_total": 1464.8,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "REANIMADOR MANUAL NEONATAL (AMBU) COMPLETO. POSSUI VÁLVULA POP-OFF COM LIMITE DE PRESSÃO AJUSTADA E QUANDO NECESSÁRIO, PERMITE REGULAGEM OU BLOQUEIO. PODE SER DESMONTADO E MONTADO DE FORMA RÁPIDA E FÁCIL. TODAS AS CONEXÕES ESTÃO EM CONFORMIDADE COM AS ESPECIFICAÇÕES ISO 10651-4.  MÁSCARA D",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 1707.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "REANIMADOR MANUAL PEDIÁTRICO REANIMADOR MANUAL DE SILICONE (AMBU PEDIATRICO) COMPLETO E AUTOCLAVÁVEL. POSSUI MASCARA, REANIMADOR E RESERVATÓRIO. POSSUI VÁLVULA POP-OFF COM LIMITE DE PRESSÃO AJUSTADA E QUANDO NECESSÁRIO, PERMITE REGULAGEM OU BLOQUEIO. PODE SER DESMONTADO E MONTADO DE FORMA RÁP",
+    "quantidade": 10.0,
+    "unidade": "em",
+    "valor_total": 1491.1,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ASPIRADOR PARA SUCÇÃO PORTÁTIL ASPIRADOR INDICADO PARA SUCÇÃO DE SECREÇÕES, FLUÍDOS CORPORAIS, CORPOS ESTRANHOS NAS ÁREAS NASAIS, FARINGE E TRAQUÉIA. ASPIRADOR PORTÁTIL E VERSÁTIL DE ALTO VÁCUO.  SILENCIOSO E POTENTE, BAIXO RUÍDO DE OPERAÇÃO. FLUXO DE ASPIRAÇÃO DE 20 LITROS POR MIN",
+    "quantidade": 15.0,
+    "unidade": "un",
+    "valor_total": 43268.7,
+    "linhas": [
+     "aspirador"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "KIT NEBULIZADOR ADULTO KIT NEBULIZADOR ADULTO: CONTENDO: 01 MÁSCARA PARA NEBULIZAÇÃO, NA COR TRANSPARENTE, TAMANHO ADULTO, CONFECCIONADO EM MATERIAL ATÓXICO, ANATÔMICA, DE FÁCIL LIMPEZA. 01 MANGUEIRA DE 1,5 METROS DE EXTENSÃO, COM CONECTOR VERDE. 01 COPO RESERVATÓRIO COM CAPACIDADE PARA 10ML",
+    "quantidade": 20.0,
+    "unidade": "pa",
+    "valor_total": 212.4,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "KIT NEBULIZADOR INFANTIL KIT NEBULIZADOR INFANTIL: CONTENDO: 01 MÁSCARA PARA NEBULIZAÇÃO, NA COR TRANSPARENTE, TAMANHO INFANTIL, CONFECCIONADO EM MATERIAL ATÓXICO, ANATÔMICA, DE FÁCIL LIMPEZA. 01 MANGUEIRA DE 1,5 METROS DE EXTENSÃO, COM CONECTOR VERDE. 01 COPO RESERVATÓRIO COM CAPACIDADE PAR",
+    "quantidade": 20.0,
+    "unidade": "pa",
+    "valor_total": 186.8,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "NEBULIZADOR NEBULIZADOR PLUS COM MANUAL DE INSTRUÇÕES; MÁSCARA INFANTIL; MÁSCARA ADULTO, BOCAL PARA INALAÇÃO ORAL, COPINHO DE NEBULIZAÇÃO, EXTENSÃO (MANGUEIRA), FILTRO DE AR, VOLTAGEM: 110/220VCS - 60HZ,  SISTEMA A PISTÃO. ",
+    "quantidade": 6.0,
+    "unidade": "un",
+    "valor_total": 754.92,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BIOMBO HOSPITALAR TRIPLO DOBRÁVEL COM ESTRUTURA TUBULAR EM AÇO.  PINTURA ELETROSTÁTICA A PÓ EPOX NA COR BRANCA. CORTINAS REMOVÍVEIS EM MATERIAL IMPERMEÁVEL E LAVÁVEL, COR BRANCO. BASE COM RODÍZIOS GIRATÓRIO. DIMENSÕES: DIMENSÕES APROXIMADAS: 1,80 M DE ALTURA TOTAL (1,50 M DE ALTURA DO TEC",
+    "quantidade": 8.0,
+    "unidade": "un",
+    "valor_total": 5952.0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "MACA TRANSPORTE HOSPITALAR COM GRADE E RODAS Maca hospitalar para transporte de pacientes, com estrutura tubular em aço carbono, dotada de tratamento anticorrosivo e pintura eletrostática a pó de alta resistência. Leito estofado com espuma de densidade mínima D28, revestido em material sintéti",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 26044.6,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SUPORTE PARA SORO (INOX) SUPORTE PARA SORO (INOX) - BASE COM 4 PÉS TUBULARES EM AÇO INOX REDONDO PROVIDOS DE RODÍZIOS GIRATÓRIOS DE 2. ALTURA REGULÁVEL POR MEIO DE ROSCA CENTRAL, HASTE DE ALTURA EM AÇO INOX COM 4 GANCHOS PARA FIXAÇÃO DE SORO. DIMENSÕES: ALTURA MÁXIMA 2,50M X ALTURA MÍNIMA",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 2668.3,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ADAPTADOR UNIVERSAL PARA FRASCO OU BOLSA DE SOLUÇÃO. DISPOSITIVO PERFURANTE. SISTEMA FECHADO, COM BICO PERFURADOR QUE POSSIBILITE A INTRODUÇÃO E A FIXAÇÃO AO FRASCO DE SOLUÇÃO ESTÉRIL, SEM VAZAMENTOS; QUE PERMITA FRACIONAMENTO POR MEIO DA CONEXÃO LUER COM SERINGAS PARA REMOÇÃO DE VOLUMES",
+    "quantidade": 10000.0,
+    "unidade": "un",
+    "valor_total": 13500.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "EQUIPO MACROGOTAS PARA ADMINISTRAÇÃO DE SOLUÇÕES PARENTERAIS ESTÉRIL, DESCARTÁVEL, CONFECCIONADO EM PLÁSTICO ATÓXICO E APIROGÊNICO. PERFURADOR COM FILTRO DE AR (ABERTURA 0,22MICRA), ADAPTÁVEL A FRASCO E BOLSA DE SOLUÇÕES, COM PONTA PERFURANTE QUE AO CONECTAR O EQUIPO AO RECIPIENTE NÃO O",
+    "quantidade": 10000.0,
+    "unidade": "un",
+    "valor_total": 21300.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "EQUIPO MACROGOTAS PARA ALIMENTAÇÃO ENTERAL ESTÉRIL, DESCARTÁVEL, CONFECCIONADO EM PLÁSTICO ATÓXICO. DISPOSITIVO PARA INFUSÃO, CONTROLE DO FLUXO E DOSAGEM DE SOLUÇÕES ENTERAIS, COM LANCETA PERFURANTE PARA CONEXÃO AO RECIPIENTE DE SOLUÇÃO. CÂMARA PARA VISUALIZAÇÃO DO GOTEJAMENTO, FILTRO",
+    "quantidade": 10000.0,
+    "unidade": "un",
+    "valor_total": 17600.0,
+    "linhas": [
+     "glicosímetro e tiras",
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGAS ESTÉRIL DE 10 ML LUER LOCK SERINGA DESCARTÁVEL DE 10ML, SEM AGULHA - ESTÉRIL, CONFECCIONADA EM POLIPROPILENO OU PLÁSTICO SIMILAR, ATÓXICO, APIROGÊNICO, INTEGRO, COM TRANSPARÊNCIA PERMITINDO VISUALIZAÇÃO NÍTIDA DO FLUIDO ASPIRADO. CILINDRO COMPOSTO DE CORPO, BICO E FLANGE, SENDO CO",
+    "quantidade": 2000.0,
+    "unidade": "un",
+    "valor_total": 1520.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL DE ALÍVIO Nº 08 SONDA SILICONIZADA, ESTÉRIL, DESCARTÁVEL, ATÓXICA, HIPOALERGÊNICA, FLEXÍVEL, TRANSPARENTE, ATRAUMÁTICA, COM ORIFÍCIOS ELABORADOS PARA NÃO CAUSAR DESCONFORTO NO PACIENTE. TUBO DE PVC FLEXÍVEL COM UMA DAS EXTREMIDADES FECHADA, A QUAL SERVE PARA SER INTRODUZIDA ",
+    "quantidade": 4000.0,
+    "unidade": "un",
+    "valor_total": 2560.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL DE ALÍVIO Nº 10 SONDA SILICONIZADA, ESTÉRIL, DESCARTÁVEL, ATÓXICA, HIPOALERGÊNICA, FLEXÍVEL, TRANSPARENTE, ATRAUMÁTICA, COM ORIFÍCIOS ELABORADOS PARA NÃO CAUSAR DESCONFORTO NO PACIENTE. TUBO DE PVC FLEXÍVEL COM UMA DAS EXTREMIDADES FECHADA, A QUAL SERVE PARA SER INTRODUZIDA ",
+    "quantidade": 12000.0,
+    "unidade": "un",
+    "valor_total": 8280.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL DE ALÍVIO Nº 12 SONDA SILICONIZADA, ESTÉRIL, DESCARTÁVEL, ATÓXICA, HIPOALERGÊNICA, FLEXÍVEL, TRANSPARENTE, ATRAUMÁTICA, COM ORIFÍCIOS ELABORADOS PARA NÃO CAUSAR DESCONFORTO NO PACIENTE. TUBO DE PVC FLEXÍVEL COM UMA DAS EXTREMIDADES FECHADA, A QUAL SERVE PARA SER INTRODUZIDA ",
+    "quantidade": 15000.0,
+    "unidade": "un",
+    "valor_total": 11400.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL DE ALÍVIO Nº 14 SONDA SILICONIZADA, ESTÉRIL, DESCARTÁVEL, ATÓXICA, HIPOALERGÊNICA, FLEXÍVEL, TRANSPARENTE, ATRAUMÁTICA, COM ORIFÍCIOS ELABORADOS PARA NÃO CAUSAR DESCONFORTO NO PACIENTE. TUBO DE PVC FLEXÍVEL COM UMA DAS EXTREMIDADES FECHADA, A QUAL SERVE PARA SER INTRODUZIDA ",
+    "quantidade": 4000.0,
+    "unidade": "un",
+    "valor_total": 4040.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL DE ALÍVIO Nº 16 SONDA SILICONIZADA, ESTÉRIL, DESCARTÁVEL, ATÓXICA, HIPOALERGÊNICA, FLEXÍVEL, TRANSPARENTE, ATRAUMÁTICA, COM ORIFÍCIOS ELABORADOS PARA NÃO CAUSAR DESCONFORTO NO PACIENTE. TUBO DE PVC FLEXÍVEL COM UMA DAS EXTREMIDADES FECHADA, A QUAL SERVE PARA SER INTRODUZIDA ",
+    "quantidade": 4000.0,
+    "unidade": "un",
+    "valor_total": 5200.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL DE ALÍVIO Nº 18 SONDA SILICONIZADA, ESTÉRIL, DESCARTÁVEL, ATÓXICA, HIPOALERGÊNICA, FLEXÍVEL, TRANSPARENTE, ATRAUMÁTICA, COM ORIFÍCIOS ELABORADOS PARA NÃO CAUSAR DESCONFORTO NO PACIENTE. TUBO DE PVC FLEXÍVEL COM UMA DAS EXTREMIDADES FECHADA, A QUAL SERVE PARA SER INTRODUZIDA ",
+    "quantidade": 500.0,
+    "unidade": "un",
+    "valor_total": 655.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA VESICAL DE DEMORA TIPO FOLEY Nº 14 SONDA ESTÉRIL COM 2 VIAS PARA CATETERISMO VESICAL DE DEMORA. FABRICADA EM LÁTEX, SILICONIZADA, ATÓXICA, SUPERFÍCIE EXTREMAMENTE LISA SEM REBARBAS; PONTA ARREDONDADA E ATRAUMÁTICA; DESCARTÁVEL. CONECTOR UNIVERSAL, VÁLVULA DE FÁCIL MANIPULAÇÃO, BALÃ",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 438.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA VESICAL DE DEMORA TIPO FOLEY Nº 16 SONDA ESTÉRIL COM 2 VIAS PARA CATETERISMO VES4694ICAL DE DEMORA. FABRICADA EM LÁTEX, SILICONIZADA, ATÓXICA, SUPERFÍCIE EXTREMAMENTE LISA SEM REBARBAS; PONTA ARREDONDADA E ATRAUMÁTICA; DESCARTÁVEL. CONECTOR UNIVERSAL, VÁLVULA DE FÁCIL MANIPULAÇÃO, B",
+    "quantidade": 400.0,
+    "unidade": "un",
+    "valor_total": 872.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA VESICAL DE DEMORA TIPO FOLEY Nº 18 SONDA ESTÉRIL COM 2 VIAS PARA CATETERISMO VESICAL DE DEMORA. FABRICADA EM LÁTEX, SILICONIZADA, ATÓXICA, SUPERFÍCIE EXTREMAMENTE LISA SEM REBARBAS; PONTA ARREDONDADA E ATRAUMÁTICA; DESCARTÁVEL. CONECTOR UNIVERSAL, VÁLVULA DE FÁCIL MANIPULAÇÃO, BALÃ",
+    "quantidade": 400.0,
+    "unidade": "un",
+    "valor_total": 944.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA VESICAL DE DEMORA TIPO FOLEY Nº 20 SONDA ESTÉRIL COM 2 VIAS PARA CATETERISMO VESICAL DE DEMORA. FABRICADA EM LÁTEX, SILICONIZADA, ATÓXICA, SUPERFÍCIE EXTREMAMENTE LISA SEM REBARBAS; PONTA ARREDONDADA E ATRAUMÁTICA; DESCARTÁVEL. CONECTOR UNIVERSAL, VÁLVULA DE FÁCIL MANIPULAÇÃO, BALÃ",
+    "quantidade": 400.0,
+    "unidade": "un",
+    "valor_total": 972.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESTETOSCÓPIO ADULTO ESTETOSCÓPIO SIMPLES PARA ADULTO. DE BAIXO PESO. DIAFRAGMA DE ALTA SENSIBILIDADE. TUBO MOLDADO EM PVC DE PEÇA ÚNICA PARA MELHOR TRANSMISSÃO DO SOM. OLIVAS DE DIVERSOS TAMANHOS E DIFERENTES TEXTURAS (RÍGIDA, SEMI-RÍGIDA E MACIA).  DISPONÍVEL NA CONFIGURAÇÃO DE DUAS CABE?",
+    "quantidade": 60.0,
+    "unidade": "un",
+    "valor_total": 1480.2,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESTETOSCOPIO DUPLO PRINCIPAIS CARACTERÍSTICAS: - AUSCULTADOR DE DOIS LADOS, COM DIAFRAGMAS AJUSTÁVEIS EM AMBOS OS LADOS - PARA USO ADULTO E PEDIÁTRICO. - DIAFRAGMA DE PEÇA ÚNICA FÁCIL DE REMOVER, COLOCAR E LIMPAR, SUPERFÍCIE LISA E SEM FENDAS. - TUBO BIAURICULAR  - OLIVAS DE SELAMENTO SUAVE E",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 1351.4,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESTETOSCÓPIO INFANTIL ESTETOSCÓPIO SIMPLES PARA USO INFANTIL.DE BAIXO PESO. DIAFRAGMA DE ALTA SENSIBILIDADE. TUBO MOLDADO EM PVC DE PEÇA ÚNICA PARA MELHOR TRANSMISSÃO DO SOM. OLIVAS DE DIVERSOS TAMANHOS E DIFERENTES TEXTURAS (RÍGIDA, SEMI-RÍGIDA E MACIA).  DISPONÍVEL NA CONFIGURAÇÃO DE DUA",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 272.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LÂMINA  BISTURI LÂMINA DE BISTURI ESTERILIZADA Nº15, CAIXA COM 100 UNIDADES DE CADA. EM AÇO CARBONO ESTERILIZADO POR EXPOSIÇÃO A RAIOS GAMA. EMBALADAS INDIVIDUALMENTE EM MATERIAL ALUMINIZADO.COM REGISTRO NA ANVISA. ",
+    "quantidade": 20.0,
+    "unidade": "cx",
+    "valor_total": 1062.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LÂMINA BISTURI LÂMINA DE BISTURI ESTERILIZADA Nº11, CAIXA COM 100 UNIDADES DE CADA. EM AÇO CARBONO ESTERILIZADO POR EXPOSIÇÃO A RAIOS GAMA. EMBALADAS INDIVIDUALMENTE EM MATERIAL ALUMINIZADO.COM REGISTRO NA ANVISA ",
+    "quantidade": 20.0,
+    "unidade": "cx",
+    "valor_total": 1027.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "DETECTOR FETAL DIGITAL PORTÁTIL DOPPLER FETAL COM TELA DE LCD, CONTADOR NUMÉRICO DIGITAL.COMPACTO, LEVE E DE FACIL OPERAÇÃO. ALTO-FALANTE DE ALTA QUALIDADE E PERFORMANCE. BOTÃO LIGA-DESLIGA, COM DESLIGAMENTO AUTOMÁTICO. POSSUI BOTÃO DE AJUSTAR VOLUME. TELA DE LCD ILUMINADO FORNECENDO OS BATIM",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 4703.3,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OTOSCÓPIO CLINICO 4532 - OTOSCÓPIO - OTOSCÓPIO CLINICO COM ENGATE COM SISTEMA DE ROSCA. COMPOSTO POR: 1 CABO COM LÂMPADA E 5 ESPÉCULOS REUTILIZÁVEIS. ACONDICIONADO EM ESTOJO. CABO COM 2PILHAS MÉDIA, COM REGULAGEM DE INTENSIDADE DE LUZ. LUZ EM LED (COM 1 LÂMPADA RESERVA). REGISTRO NA ANVISA. ",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 7549.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OXÍMETRO (122) OXIMETRO INDICADOR DE PULSO PORTATIL DE DEDO, DETALHES DO PRODUTO: PROBE SPO2 INTEGRADO, MEDIÇÃO PRECISA DDE SPO2 (35% A 99%) CE FDA ANVISA, BATIMENTO CARDIACO (30 BPM A 250 BPM) UTILIZA 2 PILHAS AAA, PODE FUNCIONAR MAIS DE 30 HORAS CONTÍNUAS, COM REGISTRO NA ANVISA E AGÊNCIAS IN",
+    "quantidade": 45.0,
+    "unidade": "un",
+    "valor_total": 4013.55,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OXÍMETRO DE PULSO PARA PACIENTES ADULTOS, PEDIÁTRICOS E NEONATOS. COM CABOS E CONECTORES PARA CADA INDIVIDUO. O APARELHO DEVERÁ POSSUIR SENSOR ADULTO, INFANTIL E NEONATAL, SEPARADAMENTE. COM TELA DE FÁCIL LEITURA COM INDICADOR DE PULSO E SATURAÇÃO. PORTÁTIL, LEVE E DE FÁCIL USO. FAIXA DE MED",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 26739.1,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "PÁS ELETRODO DESCARTÁVEL ADULTO PÁS ELETRODO DESCARTÁVEL ADULTO PARA DESFIBRILADOR DEA LIFE 400 FUTURA DA CMOS DRAKE (MODELO NOVO CONECTOR PRETO). ",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 14261.8,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "PÁS ELETRODO DESCARTÁVEL INFANTIL PÁS ELETRODO DESCARTÁVEL INFANTIL O PARA DESFIBRILADOR DEA LIFE 400 FUTURA DA CMOS DRAKE (MODELO NOVO CONECTOR PRETO). ",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 13526.2,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CADEIRA DE RODAS 160 KG FABRICADA EM AÇO CARBONO. DOBRÁVEL EM DUPLO X. PINTURA ELETROSTÁTICA EM EPÓXI. COM ENCOSTO ALMOFADA E ASSENTO ALMOFADA EM NYLON ACOLCHOADO, ASSENTO REFORÇADO COM TIRAS TENSORAS ESPECIAIS. RODAS TRASEIRAS EM 24POLEGADAS EM ALUMÍNIO COM PNEUS ANTI-FUROS. RODAS DIANTEIRAS ",
+    "quantidade": 4.0,
+    "unidade": "un",
+    "valor_total": 11476.0,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 286775.42,
+  "itens_principais": 23,
   "exclusiva_me": false
  },
  {
