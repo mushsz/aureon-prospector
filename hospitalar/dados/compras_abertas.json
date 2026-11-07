@@ -7,7 +7,7 @@
   "objeto": "Registro de Preços para Aquisição de Materiais Padronizados (Repetição dos Itens Desertos/Fracassados do Pregão 90003/2026)",
   "modalidade": "Pregão - Eletrônico",
   "srp": true,
-  "valor_estimado": 1889590.95,
+  "valor_estimado": 1731640.95,
   "abertura": "2026-10-22T08:00:00",
   "encerramento": "2026-11-09T08:00:00",
   "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/22723",
@@ -4077,7 +4077,7 @@
   "objeto": "Registro de preços para aquisição de materiais e equipamentos médico-hospitalares - PAASSEx",
   "modalidade": "Pregão - Eletrônico",
   "srp": true,
-  "valor_estimado": 2783955.9,
+  "valor_estimado": 2365955.9,
   "abertura": "2026-10-29T09:00:00",
   "encerramento": "2026-11-12T09:00:00",
   "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23168",
@@ -6524,6 +6524,915 @@
   "valor_itens_da_linha": 0,
   "itens_principais": 2,
   "exclusiva_me": false
+ },
+ {
+  "id": "87612842000182-1-000124/2026",
+  "orgao": "MUNICIPIO DE CANDIDO GODOI",
+  "unidade": "MUNICÍPIO DE CÂNDIDO GODÓI",
+  "cidade": "Cândido Godói",
+  "objeto": "FORNECIMENTO PARCELADO DE MATERIAL AMBULATORIAL PARA A UNIDADE BÁSICA DE SAÚDE (UBS)",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 521725.47,
+  "abertura": "2026-11-06T08:00:00",
+  "encerramento": "2026-11-18T07:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87612842000182/2026/124",
+  "link_sistema": "https://pregaobanrisul.com.br/editais/0027_2026/359048",
+  "total_itens": 99,
+  "itens_da_linha": [
+   {
+    "descricao": "Agulha hipodérmica descartável, estéril 0,55 x 20mm, caixa com 100 unidades, embaladas individualmente. Marca: BD  ou compatível",
+    "quantidade": 30.0,
+    "unidade": "cx",
+    "valor_total": 310.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodérmica descartável, estéril 0,60 x 25mm, caixa com 100 unidades, embaladas individualmente. Marca : BD  ou compatível",
+    "quantidade": 30.0,
+    "unidade": "cx",
+    "valor_total": 575.49,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodérmica descartável, estéril, 13x4,5, caixa com 100 unidades, embaladas individualmente",
+    "quantidade": 250.0,
+    "unidade": "cx",
+    "valor_total": 2270.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodérmica descartável, estéril, 25x0,70 (22g), caixa com 100 unidades, embaladas individualmente. Qualidade BD ou compatível",
+    "quantidade": 150.0,
+    "unidade": "cx",
+    "valor_total": 1455.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodérmica descartável, estéril, 25x0,80, caixa com 100 unidades, embaladas individualmente.  Qualidade BD ou compatível",
+    "quantidade": 100.0,
+    "unidade": "cx",
+    "valor_total": 947.7,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodérmica descartável, estéril, 40x12, caixa com 100 unidades, embaladas individualmente. Marca : BD  ou compatível",
+    "quantidade": 10.0,
+    "unidade": "cx",
+    "valor_total": 271.17,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Aspirador de secreção bivolt 1,3L. O Aspirador de Secreção da possui uma bomba de vácuo com acionamento elétrico que permite uma pressão negativa, criando uma sucção. Possui uma mangueira que direciona a secreção aspirada e destinada a um recipiente. Possui proteção antibacteriana Microban, que ajud",
+    "quantidade": 8.0,
+    "unidade": "un",
+    "valor_total": 6861.66,
+    "linhas": [
+     "aspirador"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Atadura de crepe 10cm x 1,8m  com ISO 9001 Padrão NBR14056 21,8 gramas (Marca: Melhormed ou equivalente)",
+    "quantidade": 400.0,
+    "unidade": "un",
+    "valor_total": 204.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Atadura de crepe 15cm x 1,8M  com ISO 9001 Padrão NBR14056 (Marca: Melhormed ou equivalente)",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 474.9,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Atadura de crepe 6cm x 1,8m com ISO 9001 Padrão NBR14056 13,3 gramas (Marca: Melhormed ou equivalente)",
+    "quantidade": 400.0,
+    "unidade": "un",
+    "valor_total": 462.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Balança antropométrica com régua branca. Capacidade: 200kg. Display com 06 dígitos. Teclado membrana em policarbonato de alta resistência. Função tara até a capacidade máxima da balança. Fonte de alimentação externa de 90 a 240 VAC com chaveamento automático (Bivolt). Consumo 08 VA. Plataforma e col",
+    "quantidade": 4.0,
+    "unidade": "un",
+    "valor_total": 7695.09,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Cadeira de banho higiênica simples. Confeccionada em aço carbono, para uso sanitário e chuveiro. Indicada para deficientes físicos, idosos ou pessoas com dificuldade de mobilidade. Abertura traseira própria para encaixar nos vasos sanitários. Rodas traseiras de aro 06\" giratórias com pneus maciços e",
+    "quantidade": 15.0,
+    "unidade": "un",
+    "valor_total": 5505.9,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Cadeira de rodas de alumínio dobrável. Construída em liga de alumínio aeronáutico temperado; Pintura epóxi; Não acompanha faixa de panturrilha; Estrutura dobrável em duplo X; Estofamento em nylon acolchoado; Almofada de 5cm de espessura em espuma de alta densidade incorporada ao assento; Apoios de b",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 11336.67,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Compressa de gaze hidrófila 7,5x7,5 13 fios/cm² (embalagem com 500 unidades), com ISO 9001 padrão NBR14056. As Compressas de Gaze Hidrófila são confeccionadas em fios 100% algodão em tecido tipo tela, com oito camadas e cinco dobras, com dimensão de 7,5 x 7,5cm quando fechadas e 15 x 30cm quando abe",
+    "quantidade": 50.0,
+    "unidade": "em",
+    "valor_total": 1436.65,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Compressa de gaze hidrófila, 10x10cm, em tecido tipo tela, com oito camadas e cinco dobras, embalagem com 500 gazes, com ISO 9001, dentro das normas ABNT -  padrão da NBR14056. Melhormed, Cremer ou compatível.",
+    "quantidade": 500.0,
+    "unidade": "em",
+    "valor_total": 18972.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Compressa para banho 35x45cm, não estéril, pacote com 50 unidades",
+    "quantidade": 10.0,
+    "unidade": "pa",
+    "valor_total": 603.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Detector fetal portátil - Transdutor de alta sensibilidade; Compacto, leve e fácil operação;- Alto-falante de alta performance;- Entrada para fone de ouvido, gravador de som ou computador;- Design ergonômico e compartimento para transdutor;- Botão liga/desliga e controle de volume;- Sensibilidade a",
+    "quantidade": 6.0,
+    "unidade": "un",
+    "valor_total": 4234.42,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Equipo macrogotas, esteril, descartável, fabricado em PVC flexível e incolor, com selo INMETRO. Provido de pinça rolete, injetor lateral com membrana auto cicatrizante, câmara gotejadora com dispositivo para entrada de ar com filtro hidrófobo e bacteriológico e filtro de partículas de 15 m.",
+    "quantidade": 30.0,
+    "unidade": "un",
+    "valor_total": 27.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Equipo para Nutrição Enteral Escalonado",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 374.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Esfigmomanômetro tipo aneróide, componentes manguito, pera, válvula com rosca, capacidade medida de 0 a 300 mm/hg, características adicionais braçadeira nylon, fecho velcro, estojo, aplicação medição pressão arterial, tipo uso adulto.",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 834.67,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Estetoscópio Duplo Black Bic Estetoscópio duplo é um aparelho indicado para verificação de sinais vitais, auxilia na aferição de pressão arterial e serviços de triagem. É utilizado para realizar a ausculta de alta e baixa frequência, seu auscultador duplo permite ser usado em dupla função. Composiçã",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 1374.4,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Fita para glicosímetro, para mensuração de glicose no sangue (entre 20mg/dl a 600mg/dl) determinação por química enzimática. Caixa com frascos contendo 50 tiras; o frasco deve conter prazo de validade, procedência e registro na ANVISA, respeitando a legislação atual vigente. Prazo de validade mínima",
+    "quantidade": 2000.0,
+    "unidade": "cx",
+    "valor_total": 73994.0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Lençol descartável em TNT para maca com elástico 2,00mx0,90m, gramatura do TNT 20 g",
+    "quantidade": 1000.0,
+    "unidade": "un",
+    "valor_total": 853.0,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Luvas de procedimento não estéril tamanho G, (Caixa com 100 unidades/50 pares), Lubrificadas Com Pó Bioabsorvivel. Marca: Supermax.",
+    "quantidade": 50.0,
+    "unidade": "cx",
+    "valor_total": 1316.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Luvas de procedimento não estéril tamanho M, (Caixa com 100 unidades/50 pares), Lubrificadas Com Pó Bioabsorvivel. Marca: Supermax.",
+    "quantidade": 100.0,
+    "unidade": "cx",
+    "valor_total": 1899.3,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Luvas de procedimento não estéril tamanho P, (Caixa com 100 unidades/50 pares). Lubrificadas Com Pó Bioabsorvivel. Marca: Supermax.",
+    "quantidade": 200.0,
+    "unidade": "cx",
+    "valor_total": 4018.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Luvas de procedimento não estéril tamanho PP, (Caixa com 100 unidades/50 pares), Lubrificadas Com Pó Bioabsorvivel. Marca: Supermax.",
+    "quantidade": 150.0,
+    "unidade": "cx",
+    "valor_total": 3254.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Otoscópio Omni 3000 Xenon Halógena fibra óptica   MD ou qualidade semelhante ou compatível.",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 3040.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Oxímetro de pulso pediátrico de dedo, portátil, destinado à monitoração não invasiva da saturação de oxigênio (SpO2) e frequência cardíaca em pacientes pediátricos. O equipamento deverá possuir visor digital com tecnologia OLED ou similar, permitindo adequada visualização dos parâmetros em diferente",
+    "quantidade": 15.0,
+    "unidade": "un",
+    "valor_total": 1222.5,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Oxímetro de pulso portátil destinado à monitoração não invasiva da saturação de oxigênio (SpO2) e frequência cardíaca, adequado para utilização em ambientes hospitalares, ambulatoriais, atendimentos de emergência e transporte de pacientes. O equipamento deverá possuir visor digital colorido de fácil",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 10924.57,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 10ml sem agulha e sem rosca. Marca: Descarpack ou compatível",
+    "quantidade": 400.0,
+    "unidade": "un",
+    "valor_total": 126.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 1ml com agulha. Marca: Descarpack ou compatível",
+    "quantidade": 8000.0,
+    "unidade": "un",
+    "valor_total": 4584.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 3ml sem agulha. Marca: Descarpack ou compatível",
+    "quantidade": 1000.0,
+    "unidade": "un",
+    "valor_total": 213.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 5ml sem agulha. Marca: Descarpack ou compatível",
+    "quantidade": 1000.0,
+    "unidade": "un",
+    "valor_total": 237.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda de aspiração traqueal n° 08.",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 68.4,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda de aspiração traqueal n° 10.",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 94.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda de aspiração traqueal n° 12.",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 88.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda de aspiração traqueal n° 16.",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 179.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda Foley, duas vias tamanho 16, caixa com 10 unidades.",
+    "quantidade": 10.0,
+    "unidade": "cx",
+    "valor_total": 225.33,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda Foley, duas vias tamanho 18, caixa com 10 unidades.",
+    "quantidade": 10.0,
+    "unidade": "cx",
+    "valor_total": 166.63,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda Foley, duas vias tamanho 22, caixa com 10 unidades.",
+    "quantidade": 10.0,
+    "unidade": "cx",
+    "valor_total": 305.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Termômetro Clínico Digital com ponta flexível, com beep sonoro de aviso de medição, display LCD",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 214.46,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 173255.31,
+  "itens_principais": 13,
+  "exclusiva_me": true
+ },
+ {
+  "id": "87612842000182-1-000127/2026",
+  "orgao": "MUNICIPIO DE CANDIDO GODOI",
+  "unidade": "PREFEITURA MUNICIPAL",
+  "cidade": "Cândido Godói",
+  "objeto": "FORNECIMENTO PARCELADO DE MATERIAL AMBULATORIAL PARA A UNIDADE BASICA DE SAUDE UBS",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 521725.48,
+  "abertura": "2026-11-06T08:00:00",
+  "encerramento": "2026-11-18T07:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87612842000182/2026/127",
+  "link_sistema": " ",
+  "total_itens": 99,
+  "itens_da_linha": [
+   {
+    "descricao": "Agulha hipodermica descartavel  esteril 0 55 x 20mm  caixa com 100 unidades  embaladas individualmente. Marca  BD  ou compativel",
+    "quantidade": 30.0,
+    "unidade": "CAIXA",
+    "valor_total": 310.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica descartavel  esteril 0 60 x 25mm  caixa com 100 unidades  embaladas individualmente. Marca   BD  ou compativel",
+    "quantidade": 30.0,
+    "unidade": "CAIXA",
+    "valor_total": 575.49,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica descartavel  esteril  13x4 5  caixa com 100 unidades  embaladas individualmente. Qualidade BD ou compativel",
+    "quantidade": 250.0,
+    "unidade": "CAIXA",
+    "valor_total": 2270.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica descartavel  esteril  25x0 70  22g   caixa com 100 unidades  embaladas individualmente. Qualidade BD ou compativel",
+    "quantidade": 150.0,
+    "unidade": "CAIXA",
+    "valor_total": 1455.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica descartavel  esteril  25x0 80 caixa com 100 unidades  embaladas individualmente.  Qualidade BD ou compativel",
+    "quantidade": 100.0,
+    "unidade": "CAIXA",
+    "valor_total": 947.7,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica descartavel  esteril  40x12  caixa com 100 unidades  embaladas individualmente. Marca   BD  ou compativel",
+    "quantidade": 10.0,
+    "unidade": "CAIXA",
+    "valor_total": 271.17,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Atadura de crepe 10cm x 1 8m  com ISO 9001 Padrao NBR14056 21 8 gramas  Marca  Melhormed ou equivalente ",
+    "quantidade": 400.0,
+    "unidade": "UNIDADE",
+    "valor_total": 204.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Atadura de crepe 15cm x 1 8M  com ISO 9001 Padrao NBR14056  Marca  Melhormed ou equivalente ",
+    "quantidade": 300.0,
+    "unidade": "UNIDADE",
+    "valor_total": 474.9,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Atadura de crepe 6cm x 1 8m  com ISO 9001 Padrao NBR14056 13 3 gramas  Marca  Melhormed ou equivalente ",
+    "quantidade": 400.0,
+    "unidade": "UNIDADE",
+    "valor_total": 462.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Cadeira de banho higienica simples. Confeccionada em aco carbono  para uso sanitario e chuveiro. Indicada para deficientes fisicos  idosos ou pessoas com dificuldade de mobilidade. Abertura traseira propria para encaixar nos vasos sanitarios. Rodas traseiras de aro 06  giratorias com pneus macicos e as rodas dianteiras sao de aro 06  com pneus macicos posicionadas na parte interna da cadeira. A ca",
+    "quantidade": 15.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5505.9,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Cadeira de rodas de aluminio dobravel. Construida em liga de aluminio aeronautico temperado  Pintura epoxi  Nao acompanha faixa de panturrilha  Estrutura dobravel em duplo X  Estofamento em nylon acolchoado  Almofada de 5cm de espessura em espuma de alta densidade incorporada ao assento  Apoios de bracos escamoteaveis  Pedal removivel com sistema  swingaway   Rodas dianteiras de 6  macicas  com ga",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE",
+    "valor_total": 11336.67,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Compressa de gaze hidrofila 7 5x7 5 13 fios cm   embalagem com 500 unidades   com ISO 9001 padrao NBR14056. As Compressas de Gaze Hidrofila sao confeccionadas em fios 100  algodao em tecido tipo tela  com oito camadas e cinco dobras  com dimensao de 7 5 x 7 5cm quando fechadas e 15 x 30cm quando abertas. Sao alvejadas  purificadas e isentas de impurezas  substancias gordurosas  amido  corantes cor",
+    "quantidade": 50.0,
+    "unidade": "EMBALAGEM",
+    "valor_total": 1436.65,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Compressa de gaze hidrofila  10x10cm  em tecido tipo tela  com oito camadas e cinco dobras  embalagem com 500 gazes  com ISO 9001  dentro das normas ABNT    padrao da NBR14056. Melhormed  Cremer ou compativel. ",
+    "quantidade": 500.0,
+    "unidade": "EMBALAGEM",
+    "valor_total": 18972.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Compressa para banho 35x45cm  nao esteril  pacote com 50 unidades",
+    "quantidade": 10.0,
+    "unidade": "PACOTE",
+    "valor_total": 603.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Detector fetal portatil   Transdutor de alta sensibilidade  Compacto  leve e facil operacao   Alto falante de alta performance   Entrada para fone de ouvido  gravador de som ou computador   Design ergonomico e compartimento para transdutor   Botao liga desliga e controle de volume   Sensibilidade a partir de 10 12 semanas.  Sensibilidade  a partir de 10 12 semanas   Tamanho  135mm x 95mm x 35mm   ",
+    "quantidade": 6.0,
+    "unidade": "UNIDADE",
+    "valor_total": 4234.42,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Equipo macrogotas  esteril  descartavel  fabricado em PVC flexivel e incolor  com selo INMETRO. Provido de pinca rolete  injetor lateral com membrana auto cicatrizante  camara gotejadora com dispositivo para entrada de ar com filtro hidrofobo e bacteriologico e filtro de particulas de 15 m.",
+    "quantidade": 30.0,
+    "unidade": "UNIDADE",
+    "valor_total": 27.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Equipo para Nutricao Enteral Escalonado",
+    "quantidade": 150.0,
+    "unidade": "UNIDADE",
+    "valor_total": 374.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Esfigmomanometro  tipo aneroide  componentes manguito  pera  valvula com rosca  capacidade medida de 0 a 300 mm hg  caracteristicas adicionais bracadeira nylon  fecho velcro  estojo  aplicacao medicao pressao arterial  tipo uso adulto.",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE",
+    "valor_total": 834.67,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Fita para glicosimetro  para mensuracao de glicose no sangue  entre 20mg dl a 600mg dl  determinacao por quimica enzimatica. Caixa com frascos contendo 50 tiras  o frasco deve conter prazo de validade  procedencia e registro na ANVISA  respeitando a legislacao atual vigente. Prazo de validade minima de 12  doze  meses a partir da data de entrega. Compativel com aparelho de utilizacao ON CALL PLUS",
+    "quantidade": 2000.0,
+    "unidade": "CAIXA",
+    "valor_total": 73994.0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Lencol descartavel em TNT para maca com elastico 2 00mx0 90m  gramatura do TNT 20 g",
+    "quantidade": 1000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 853.0,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Luvas de procedimento nao esteril tamanho G   Caixa com 100 unidades 50 pares   Lubrificadas Com Po Bioabsorvivel. Marca  Supermax",
+    "quantidade": 50.0,
+    "unidade": "CAIXA",
+    "valor_total": 1316.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Luvas de procedimento nao esteril tamanho M   Caixa com 100 unidades 50 pares   Lubrificadas Com Po Bioabsorvivel. Marca  Supermax",
+    "quantidade": 100.0,
+    "unidade": "CAIXA",
+    "valor_total": 1899.3,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Luvas de procedimento nao esteril tamanho P   Caixa com 100 unidades 50 pares . Lubrificadas Com Po Bioabsorvivel. Marca  Supermax .",
+    "quantidade": 200.0,
+    "unidade": "CAIXA",
+    "valor_total": 4018.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Luvas de procedimento nao esteril tamanho PP   Caixa com 100 unidades 50 pares   Lubrificadas Com Po Bioabsorvivel. Marca  Supermax",
+    "quantidade": 150.0,
+    "unidade": "CAIXA",
+    "valor_total": 3254.55,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Otoscopio Omni 3000 Xenon Halogena fibra optica   MD ou qualidade semelhante ou compativel.",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE",
+    "valor_total": 3040.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 10ml sem agulha e sem rosca. Marca  Descarpack ou compativel",
+    "quantidade": 400.0,
+    "unidade": "UNIDADE",
+    "valor_total": 126.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 1ml com agulha. Marca  Descarpack ou compativel",
+    "quantidade": 8000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 4584.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 3ml sem agulha. Marca  Descarpack ou compativel",
+    "quantidade": 1000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 213.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 5ml sem agulha. Marca  Descarpack ou compativel",
+    "quantidade": 1000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 237.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda de aspiracao traqueal n 08",
+    "quantidade": 100.0,
+    "unidade": "UNIDADE",
+    "valor_total": 68.4,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda de aspiracao  traqueal n 10",
+    "quantidade": 100.0,
+    "unidade": "UNIDADE",
+    "valor_total": 94.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda de aspiracao  traqueal n 12",
+    "quantidade": 100.0,
+    "unidade": "UNIDADE",
+    "valor_total": 88.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda de aspiracao traqueal n  16",
+    "quantidade": 100.0,
+    "unidade": "UNIDADE",
+    "valor_total": 179.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda Foley  duas vias tamanho 16  caixa com 10 unidades.",
+    "quantidade": 10.0,
+    "unidade": "CAIXA",
+    "valor_total": 225.33,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda Foley  duas vias tamanho 18  caixa com 10 unidades.",
+    "quantidade": 10.0,
+    "unidade": "CAIXA",
+    "valor_total": 166.63,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Sonda Foley  duas vias tamanho 22  caixa com 10 unidades",
+    "quantidade": 10.0,
+    "unidade": "CAIXA",
+    "valor_total": 305.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Termometro Clinico Digital com ponta flexivel  com beep sonoro de aviso de medicao  display LCD",
+    "quantidade": 20.0,
+    "unidade": "UNIDADE",
+    "valor_total": 214.46,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 145177.09,
+  "itens_principais": 8,
+  "exclusiva_me": true
  },
  {
   "id": "00394452000103-1-023812/2026",
@@ -8978,6 +9887,506 @@
   "exclusiva_me": false
  },
  {
+  "id": "92787118000120-1-001046/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Material de Manutenção (BIOMÉDICA / ELÉTRICA), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais, conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-06T12:00:00",
+  "encerramento": "2026-11-19T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1046",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103572",
+  "total_itens": 22,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 34831\nEspecificação: CABO C/CONECTOR SERIAL P/ECG DE 10 VIAS COMPUTADORIZADO PARA USO NO EQUIPAMENTO WIN CARDIO DA MARCA MICROMED, COMPATIVEL COM PADRAO IEC DE CORES E ELETRODOS DESCARTAVEIS E POSSUIR BLINDAGEM DUPLA E PROTECAO CONTRA DESCARGA DE DESFIBRILADORES - \nUnidade: UNIDADE",
+    "quantidade": 60.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 34690\nEspecificação: CABO DE ECG 3 VIAS, TIPO GARRA, PADRAO IEC (EUROPEU), PARA USO COM CABO MULTIMED PLUS OR EM MONITOR MULTIPARAMETRICO MARCA DRAGER, MODELO INFINITY DELTA - \nUnidade: UNIDADE",
+    "quantidade": 12.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 34372\nEspecificação: CABO DE ECG 5 VIAS ATERRADO TIPO GARRA - COMPATIVEL COM CARDIOVERSORES INSTRAMED CARDIOMAX - \nUnidade: UNIDADE",
+    "quantidade": 36.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 31767\nEspecificação: CABO PARA PLACA DESCARTAVEL DE RETORNO, COM PLUG TIPO 2 PINOS FEMEA, PARA USO EM ELETROCAUTERIO (BISTURI ELETRONICO) MODELO ICC-300, DA MARCA ERBE E MODELO SS-601MCA, DA MARCA WEM - \nUnidade: UNIDADE",
+    "quantidade": 24.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 30085\nEspecificação: CABO PARA PLACA DESCARTAVEL DE USO EM ELETROCAUTERIO COM 2 PINOS MACHOS COMPATIVEL COM O MODELO SS-501/SS-601 DA WEM - \nUnidade: UNIDADE",
+    "quantidade": 24.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 2802\nEspecificação: LAMPADA P/LARINGOSCOPIO C/ALTA LUMINOSIDADE E ENCAIXE DE PADRAO UNIVERSAL - \nUnidade: UNIDADE",
+    "quantidade": 420.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 6,
+  "exclusiva_me": false
+ },
+ {
+  "id": "90836693000140-1-000868/2026",
+  "orgao": "MUNICIPIO DE CAPAO DA CANOA",
+  "unidade": "Secretaria de Gestão, Inovação e Planejamento",
+  "cidade": "Capão da Canoa",
+  "objeto": "Aquisição de equipamentos médico-hospitalares para o Hospital Santa Luzia (HSL), referente a Emenda de Bancada nº 37/2024, Emenda Individual nº 44/2024, Emenda Individual nº 59/2024.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 768252.7,
+  "abertura": "2026-11-06T14:00:00",
+  "encerramento": "2026-11-19T14:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/90836693000140/2026/868",
+  "link_sistema": "",
+  "total_itens": 4,
+  "itens_da_linha": [
+   {
+    "descricao": "Monitor Multiparâmetro, conforme especificado no Termo de Referência Complementar - Monitor Multiparâmetro, conforme especificado no Termo de Referência Complementar",
+    "quantidade": 1.0,
+    "unidade": "UNIDADES",
+    "valor_total": 61436.53,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Monitor Multiparâmetro de Transporte, conforme especificado no Termo de Referência Complementar - Monitor Multiparâmetro de Transporte, conforme especificado no Termo de Referência Complementar",
+    "quantidade": 1.0,
+    "unidade": "UNIDADES",
+    "valor_total": 39963.75,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 101400.28,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "94446804000162-1-000010/2026",
+  "orgao": "CONSORCIO INTERMUNICIPAL DA REGIAO CENTRO DO ESTADO DO RIO GRANDE DO SUL - CI/CENTRO",
+  "unidade": "CONSÓRCIO INTERM REGIÃO CENTRO-CI/CENTRO",
+  "cidade": "Santa Maria",
+  "objeto": "A presente licitacao tem como objeto O REGISTRO DE PRECOS PARA AQUISICAO DE MATERIAIS ODONTOLOGICOS para os municipios participantes de acordo com os quantitativos estimados durante o prazo de validade da Ata de Registro de Precos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 6167650.29,
+  "abertura": "2026-11-06T08:30:00",
+  "encerramento": "2026-11-19T23:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/94446804000162/2026/10",
+  "link_sistema": " ",
+  "total_itens": 284,
+  "itens_da_linha": [
+   {
+    "descricao": "ACIDO FOSFORICO ORTOFOSFORICO A 37 POR CENTO   GEL DE BASE AQUOSA CONTENDO ACIDO FOSFORICO A 37. GEL DE BAIXA VISCOSIDADE E COM PROPRIEDADE TIXOTROPICA. COM CORANTE AZUL QUE FACILITA SUA VISUALIZACAO E CONTROLE DURANTE A APLICACAO. POSSUIR BOA AFINIDADE COM AGUA  O QUE PERMITE FACIL REMOCAO APOS O CONDICIONAMENTO  E QUE NAO ESCORRA DO LOCAL APLICADO. KIT COM 03 SERINGAS DE 2 5 ML E 3 PONTEIRAS PAR",
+    "quantidade": 1790.0,
+    "unidade": "KIT",
+    "valor_total": 9164.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA CARBIDE FG 7204F CONICA LONGA MULTILAMINADA 12 LAMINAS   Broca carbide  formato Conica Longa  12 Laminas  F   esterilizavel em autoclave  n 7204F. Embalagem com 1 unidade.",
+    "quantidade": 432.0,
+    "unidade": "UNIDADE",
+    "valor_total": 6812.64,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1011   Ponta diamantada  formato  conica extremidade arredondada  esterilizavel em autoclave  n  1011. Embalagem contendo 01 unidade.",
+    "quantidade": 825.0,
+    "unidade": "UNIDADE",
+    "valor_total": 4339.5,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1012   Ponta diamantada  formato  conica extremidade arredondada  esterilizavel em autoclave  n  1012. Embalagem contendo 01 unidade.",
+    "quantidade": 1773.0,
+    "unidade": "UNIDADE",
+    "valor_total": 9698.31,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1013   Ponta diamantada  formato  conica extremidade arredondada  esterilizavel em autoclave  n  1013. Embalagem contendo 01 unidade.",
+    "quantidade": 1445.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5592.15,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1014   Ponta diamantada  formato  conica extremidade arredondada  esterilizavel em autoclave  n  1014. Embalagem contendo 01 unidade.",
+    "quantidade": 2027.0,
+    "unidade": "UNIDADE",
+    "valor_total": 7662.06,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1014HL   Ponta diamantada  formato  conica extremidade arredondada  esterilizavel em autoclave  n  1014HL. Embalagem contendo 01 unidade.",
+    "quantidade": 1351.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5390.49,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1016   Ponta diamantada  formato  conica extremidade arredondada  esterilizavel em autoclave  n  1016. Embalagem contendo 01 unidade.",
+    "quantidade": 1894.0,
+    "unidade": "UNIDADE",
+    "valor_total": 7026.74,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1016HL   Ponta diamantada  formato  conica extremidade arredondada  esterilizavel em autoclave  n  1016HL. Embalagem contendo 01 unidade.",
+    "quantidade": 1399.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5414.13,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1112F   Ponta diamantada  formato  Conica Topo Chama  esterilizavel em autoclave  n 1112F. Embalagem com 1 unidade.",
+    "quantidade": 851.0,
+    "unidade": "UNIDADE",
+    "valor_total": 2604.06,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1190F   Ponta diamantada  formato  Conica Topo Chama  esterilizavel em autoclave  n 1190F. Embalagem com 1 unidade.",
+    "quantidade": 801.0,
+    "unidade": "UNIDADE",
+    "valor_total": 2563.2,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  2068F   Ponta diamantada  formato  Conica Topo Plano  esterilizavel em autoclave  n 2068F. Embalagem com 1 unidade.",
+    "quantidade": 573.0,
+    "unidade": "UNIDADE",
+    "valor_total": 1942.47,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  2191F   Ponta diamantada  formato  Conica Topo Plano  esterilizavel em autoclave  n 2191F. Embalagem com 1 unidade.",
+    "quantidade": 673.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5585.9,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  4083   Ponta diamantada  formato conica longa com topo inativo  esterilizavel em autoclave  n  4083. Embalagem contendo 01 unidade.",
+    "quantidade": 435.0,
+    "unidade": "UNIDADE",
+    "valor_total": 1670.4,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  4138   Ponta diamantada  formato  tronco conica com topo arredondada  esterilizavel em autoclave  Embalagem contendo 01 unidade.",
+    "quantidade": 1128.0,
+    "unidade": "UNIDADE",
+    "valor_total": 3846.48,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  1092F   Ponta diamantada  formato  cilindrica extremidade plana  esterilizavel em autoclave  n  1092F. Embalagem com 1 unidade.",
+    "quantidade": 582.0,
+    "unidade": "UNIDADE",
+    "valor_total": 4609.44,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N 1111F   Ponta diamantada  formato chama  esterilizavel em autoclave  n 1111F. Embalagem com 1 unidade.",
+    "quantidade": 827.0,
+    "unidade": "UNIDADE",
+    "valor_total": 3200.49,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  3083   Ponta diamantada  formato  conica com topo inativo  esterilizavel em autoclave  n 3083. Embalagem com 1 unidade.",
+    "quantidade": 495.0,
+    "unidade": "UNIDADE",
+    "valor_total": 1777.05,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  3118F   Ponta diamantada  formato  chama  esterilizavel em autoclave  n  3118F. Embalagem com 1 unidade.",
+    "quantidade": 1491.0,
+    "unidade": "UNIDADE",
+    "valor_total": 4666.83,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  3118FF   Ponta diamantada  formato  chama  esterilizavel em autoclave  n  3118FF. Embalagem com 1 unidade.",
+    "quantidade": 1423.0,
+    "unidade": "UNIDADE",
+    "valor_total": 8523.77,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  3168   Ponta diamantada  formato  Chama  esterilizavel em autoclave  n  3168. Embalagem com 1 unidade.",
+    "quantidade": 691.0,
+    "unidade": "UNIDADE",
+    "valor_total": 2674.17,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  3168F   Ponta diamantada  formato  Chama  esterilizavel em autoclave  n  3168F. Embalagem com 1 unidade.",
+    "quantidade": 774.0,
+    "unidade": "UNIDADE",
+    "valor_total": 2995.38,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  3195F   Ponta diamantada  formato  Conica Topo Chama  esterilizavel em autoclave  n  3195F. Embalagem com 1 unidade.",
+    "quantidade": 1029.0,
+    "unidade": "UNIDADE",
+    "valor_total": 3210.48,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BROCA PARA ALTA ROTACAO N  3195FF   Ponta diamantada  formato  Conica Topo Chama  esterilizavel em autoclave  n  3195FF. Embalagem com 1 unidade.",
+    "quantidade": 1310.0,
+    "unidade": "UNIDADE",
+    "valor_total": 4047.9,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CIRURGICO DE SUTURA DE NYLON PRETO 3  0   Fio monofilamento nao absorvivel  45 centimetros de comprimento  com agulha triangular cortante 3 8 de circulo e 2 0cm  embalagem que permita abertura e transferencia asseptica  mantendo a integridade do produto e sua esterilizacao ate o momento do uso. Caixa com 24 envelopes.",
+    "quantidade": 1197.0,
+    "unidade": "CAIXA",
+    "valor_total": 43092.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CIRURGICO DE SUTURA DE NYLON PRETO 4  0  MONOFILAMENTO NAO ABSORVIVEL  45 CENTIMETROS DE COMPRIMENTO  COM AGULHA TRIANGULAR CORTANTE 3 8 DE CIRCULO E 2 0CM  EMBALAGEM QUE PERMITA ABERTURA E TRANSFERENCIA ASSEPTICA  MANTENDO A INTEGRIDADE DO PRODUTO E SUA ESTERILIZACAO ATE O MOMENTO DO USO. CAIXA COM 24 ENVELOPES.",
+    "quantidade": 1515.0,
+    "unidade": "CAIXA",
+    "valor_total": 51085.8,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "HIDROXIDO DE CALCIO A 35    Pasta branca  viscosa  biocompativel  contendo hidroxido de calcio a  35   com pH  12 5  acondicionado em seringa. embalagem com  1 seringa de 1 2ml e 2 unidades de pontas navitip 29g 17mm.",
+    "quantidade": 308.0,
+    "unidade": "UNIDADE",
+    "valor_total": 21325.92,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "RESTAURADOR PROVISORIO FOTOPOLIMERIZAVEL   Restaurador Temporario Fotopolimerizavel com liberacao de fluor. Embalagem com 2 seringas com 2g cada.   Kit.",
+    "quantidade": 436.0,
+    "unidade": "KIT",
+    "valor_total": 42370.48,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SELANTE RESINOSO   Selante resinoso fotopolimerizavel para fossulas e fissuras com liberacao de fluor. Embalagem com 1 seringa de 2g.",
+    "quantidade": 312.0,
+    "unidade": "UNIDADE",
+    "valor_total": 10629.84,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA CARPULE COM REFLUXO  Seringa carpule com refluxo fabricada em material aco inoxidavel  autoclavavel. Embalagem 1 unidade.",
+    "quantidade": 758.0,
+    "unidade": "UNIDADE",
+    "valor_total": 32594.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "TESOURA IRIS CURVA   Tesoura Iris curva com 12 cm utilizada em procedimentos cirurgicos em geral  proporcionando ao cirurgiao maior seguranca e facilidades na hora de cortar fios cirurgicos  tecidos moles  fios de sutura. Fabricada em aco inoxidavel  autoclavavel.   Embalagem 1 unidade.",
+    "quantidade": 594.0,
+    "unidade": "UNIDADE",
+    "valor_total": 13406.58,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "TESOURA IRIS RETA   Tesoura Iris Reta com 11 5 cm utilizada em procedimentos cirurgicos em geral  proporcionando ao cirurgiao maior seguranca e facilidades na hora de cortar fios cirurgicos  tecidos moles  fios de sutura. Fabricada em aco inoxidavel  autoclavavel.   Embalagem 1 unidade.",
+    "quantidade": 655.0,
+    "unidade": "UNIDADE",
+    "valor_total": 10709.25,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 340232.71,
+  "itens_principais": 27,
+  "exclusiva_me": false
+ },
+ {
   "id": "87615449000142-1-000367/2026",
   "orgao": "MUNICIPIO DE TAPEJARA",
   "unidade": "Município de Tapejara",
@@ -9436,6 +10845,48 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "00394452000103-1-023867/2026",
+  "orgao": "COMANDO DO EXERCITO",
+  "unidade": "HOSPITAL DE GUARNICAO DE SANTIAGO",
+  "cidade": "Santiago",
+  "objeto": "Aquisição de material odontológico, em proveito do Hospital de Guarnição de Santiago e demais UG Participantes do Grupo de Coordenação, Acompanhamento e Controle de Licitação e Contratos da 1ª Brigada de Cavalaria Mecanizada(GCALC 1ª Bda C Mec),",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 163149.45,
+  "abertura": "2026-11-10T08:00:00",
+  "encerramento": "2026-11-24T08:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23867",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16042305000332026",
+  "total_itens": 94,
+  "itens_da_linha": [
+   {
+    "descricao": "Fio De Sutura Agulhado material fio: nylon / poliamida preto, modelo fio: monofilamentar, diâmetro fio: 4-0, comprimento fio: cerca de 45, tipo agulha: agulha 1/2 círculo, modelo agulha: cortante reversa / invertida, comprimento agulha: cerca de 16, esterilidade: estéril, apresentação: embalagem individual",
+    "quantidade": 343.0,
+    "unidade": "Unidade",
+    "valor_total": 713.44,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Condicionador Dental tipo: ácido fosfórico, concentração: 37%, aspecto físico: gel Kit com 3 seringas 2,5ml",
+    "quantidade": 85.0,
+    "unidade": "Seringa ML",
+    "valor_total": 594.15,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 1307.59,
+  "itens_principais": 1,
   "exclusiva_me": false
  },
  {
