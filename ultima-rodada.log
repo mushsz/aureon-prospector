@@ -1,3 +1,121 @@
-Execução: https://github.com/mushsz/aureon-prospector/actions/runs/42938301354 (schedule)
-10/11 22:21:07  Não consegui contar a fila (TypeError: 'NoneType' object is not iterable). Sigo sem reposição.
-10/11 22:21:07  Vigia: não consegui ler as marcas (o site está fora do ar ou a função das marcas ainda não foi publicada).
+Execução: https://github.com/mushsz/aureon-prospector/actions/runs/43071267345 (schedule)
+11/11 14:56:24     [98/224] Porto Alegre: 3 de 86 itens · 'Aquisição de equipamentos diversos para modernização da infraestrutura'
+11/11 14:56:26     [99/224] Porto Alegre: 2 de 185 itens · ' Aquisição de materiais e reagentes laboratoriais, com fornecimento em'
+11/11 14:56:27     [100/224] Sobradinho: 6 de 18 itens · 'Aquisição de equipamentos, mobiliários, materiais médico-assistenciais'
+11/11 14:56:29     [101/224] Esteio: 51 de 95 itens · 'AQUISIÇÃO DE MATERIAL MÉDICO VARIADO PARA UM PERÍODO DE 12 MESES.'
+11/11 14:56:32     [104/224] Porto Alegre: 1 de 3 itens · 'Registro de preços para a eventual aquisição de material de consumo pa'
+11/11 14:56:36     [107/224] Novo Hamburgo: 2 de 20 itens · 'PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS DE MATERIAIS E EQUIPAMENTOS '
+11/11 14:56:38     [108/224] Novo Hamburgo: 13 de 176 itens · 'PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS DE EVENTUAL AQUISIÇÃO DE MAT'
+11/11 14:56:40     [110/224] Novo Hamburgo: 3 de 13 itens · 'PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS DE MATERIAIS DE CONSUMO  VET'
+11/11 14:56:47     [115/224] São Domingos do Sul: 35 de 274 itens · '[Portal de Compras Públicas] - LICITAÇÃO DE MEDICAMENTOS, INSUMOS, FRA'
+11/11 14:56:52     [119/224] Porto Alegre: 6 de 20 itens · 'O presente Pregão Eletrônico tem por objeto Material de Manutenção (BI'
+11/11 14:56:55     [121/224] Porto Alegre: 4 de 45 itens · 'O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar'
+11/11 14:56:56     [122/224] Porto Alegre: 1 de 29 itens · 'O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospit'
+11/11 14:56:57     [123/224] Porto Alegre: 1 de 4 itens · 'O presente Pregão Eletrônico tem por objeto Material Imobilizado (POLT'
+11/11 14:56:58     [124/224] Porto Alegre: 2 de 18 itens · 'O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospit'
+11/11 14:57:12     [134/224] Porto Alegre: 1 de 62 itens · 'O presente Pregão Eletrônico tem por objeto Medicamentos Padronizados,'
+11/11 14:57:14     [136/224] Porto Alegre: 1 de 2 itens · 'O presente Edital tem por objeto a contratação de fornecimento de pulv'
+11/11 14:57:17     [139/224] Pelotas: 2 de 9 itens · 'Registro de Preços para a Aquisição de Equipamentos Médico-Hospitalare'
+11/11 14:57:18     [140/224] Dois Irmãos: 1 de 2 itens · 'Licitação - Aquisição de equipamentos de refrigeração e conservação té'
+11/11 14:57:21     [143/224] Morro Reuter: 1 de 2 itens · 'Abertura de processo licitatorio para aquisicao de material ambulatori'
+11/11 14:57:31     [151/224] Porto Alegre: 12 de 34 itens · 'O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar'
+11/11 14:57:35     [154/224] Santa Maria: 3 de 41 itens · 'aquisição de materiais e insumos laboratoriais, com comodato de equipa'
+11/11 14:57:38     [156/224] Canoas: 29 de 77 itens · 'AQUISIÇÃO DE MATERIAL MÉDICO HOSPITALAR - USO GERAL'
+11/11 14:57:40     [157/224] Porto Alegre: 83 de 86 itens · 'Registro de preços para aquisição de fios cirúrgicos e selantes de fib'
+11/11 14:57:41     [158/224] Santiago: 2 de 94 itens · 'Aquisição de material odontológico,  em  proveito  do  Hospital  de  G'
+11/11 14:57:43     [159/224] Cândido Godói: 42 de 99 itens · 'FORNECIMENTO PARCELADO DE MATERIAL AMBULATORIAL PARA A UNIDADE BÁSICA '
+11/11 14:57:44     [160/224] Capão da Canoa: 2 de 4 itens · 'Aquisição de equipamentos médico-hospitalares para o Hospital Santa Lu'
+11/11 14:57:46     [161/224] Cândido Godói: 37 de 99 itens · 'FORNECIMENTO PARCELADO DE MATERIAL AMBULATORIAL PARA A UNIDADE BASICA '
+11/11 14:57:48     [162/224] Santa Maria: 32 de 284 itens · 'A presente licitacao tem como objeto O REGISTRO DE PRECOS PARA AQUISIC'
+11/11 14:57:51     [165/224] Porto Alegre: 6 de 22 itens · 'O presente Pregão Eletrônico tem por objeto Material de Manutenção (BI'
+11/11 14:57:58     [171/224] Cachoeira do Sul: 10 de 19 itens · '[Portal de Compras Públicas] - Registro de Preços de equipamentos médi'
+11/11 14:58:01     [173/224] Barra do Ribeiro: 2 de 17 itens · '[Portal de Compras Públicas] - Constitui objeto do presente edital, o '
+11/11 14:58:03     [174/224] Nonoai: 9 de 409 itens · '[Portal de Compras Públicas] - Registro de Preços para futura e eventu'
+11/11 14:58:05     [176/224] Chuí: 1 de 3 itens · 'Aquisição de equipamentos e materiais permanentes (veículo de passeio '
+11/11 14:58:06     [177/224] Porto Alegre: 14 de 17 itens · '[Portal de Compras Públicas] - REGISTRO DE PREÇOS PARA MATERIAL HOSPIT'
+11/11 14:58:07     [178/224] Ijuí: 8 de 18 itens · '[Portal de Compras Públicas] - Registro de Preços para futura e eventu'
+11/11 14:58:13     [181/224] Vacaria: 39 de 580 itens · 'Aquisição de materiais odontológicos, por parte dos municípios consorc'
+11/11 14:58:16     [183/224] Porto Alegre: 1 de 12 itens · 'O presente pregão tem por objeto Órteses e Próteses e Materiais Especi'
+11/11 14:58:17     [184/224] Porto Alegre: 3 de 13 itens · 'O presente Edital tem por objeto a contratação de fornecedor para firm'
+11/11 14:58:18     [185/224] Sapucaia do Sul: 6 de 25 itens · 'AQUISIÇÃO DE MATERIAL MÉDICO-HOSPITALAR PARA ATENDER A CENTRAL DE ABAS'
+11/11 14:58:19     [186/224] São Sepé: 2 de 24 itens · 'Pregão eletrônico para aquisição de materiais elétricos e outros mater'
+11/11 14:58:21     [187/224] São Sepé: 2 de 24 itens · 'Aquisição de materiais elétricos e outros materiais para uso na decora'
+11/11 14:58:26     [192/224] Rosário do Sul: 3 de 9 itens · 'Registro de precos para aquisicao de equipamentos hospitalares para o '
+11/11 14:58:29     [193/224] Lagoa Bonita do Sul: 72 de 248 itens · 'registro de preços para futuras e eventuais aquisições de materiais mé'
+11/11 14:58:30     [194/224] Vale Verde: 6 de 13 itens · 'Constitui objeto deste Edital, Registro de Preços para eventual e/ou f'
+11/11 14:58:31     [195/224] São Marcos: 19 de 54 itens · 'REGISTRO DE PREÇOS VISANDO A AQUISIÇÃO DE MATERIAL AMBULATORIAL – LOTE'
+11/11 14:58:35     [198/224] Porto Alegre: 1 de 10 itens · 'O presente Pregão Eletrônico tem por objeto Gêneros Alimentícios (NUTR'
+11/11 14:58:39     [201/224] Porto Alegre: 4 de 31 itens · 'O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar'
+11/11 14:58:40     [202/224] Porto Alegre: 12 de 12 itens · 'O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospit'
+11/11 14:58:41     [203/224] Porto Alegre: 1 de 43 itens · 'O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospit'
+11/11 14:58:42     [204/224] Sapucaia do Sul: 1 de 1 itens · 'AQUISIÇÃO DE 02 (DOIS) APARELHOS ELETROCARDIÓGRAFOS, PARA A UNIDADE DE'
+11/11 14:58:44     [205/224] Porto Alegre: 24 de 81 itens · 'Registro de Preços para eventual aquisição de materiais e insumos para'
+11/11 14:58:46     [206/224] Santo Ângelo: 8 de 37 itens · 'Aquisição de equipamentos e materiais médico hospitalares (PAASSEx 202'
+11/11 14:58:54     [213/224] São Luiz Gonzaga: 1 de 1 itens · 'Aquisição de material hospitalar (gaze)'
+11/11 14:58:55     [214/224] Porto Alegre: 5 de 10 itens · 'Aquisição de material médico-hospitalar para o Hospital da Brigada Mil'
+11/11 14:59:07     89 compras com itens da linha dele -> /home/runner/work/aureon-prospector/aureon-prospector/hospitalar/dados/compras_abertas.json
+11/11 14:59:07     ok em 12.8 min
+11/11 14:59:07  == Google Maps: clínicas para equipamentos
+11/11 14:59:07     15 pesquisas nesta rodada (42 ainda nunca feitas).
+11/11 14:59:32     [1/15] hospital veterinário · Scharlau, São Leopoldo: 0 resultados, 0 novos
+11/11 14:59:57     [2/15] clínica veterinária · Scharlau, São Leopoldo: 0 resultados, 0 novos
+11/11 15:00:08     [3/15] casa de repouso · Scharlau, São Leopoldo: 8 resultados, 1 novos
+11/11 15:00:30     [4/15] clínica de estética · Scharlau, São Leopoldo: 60 resultados, 28 novos
+11/11 15:00:40     [5/15] hospital veterinário · Centro, Gravataí: 6 resultados, 1 novos
+11/11 15:00:50     [6/15] clínica veterinária · Centro, Gravataí: 10 resultados, 2 novos
+11/11 15:01:07     [7/15] casa de repouso · Centro, Gravataí: 35 resultados, 9 novos
+11/11 15:01:31     [8/15] clínica de estética · Centro, Gravataí: 46 resultados, 35 novos
+11/11 15:01:42     [9/15] hospital veterinário · Parque dos Anjos, Gravataí: 4 resultados, 1 novos
+11/11 15:01:55     [10/15] clínica veterinária · Parque dos Anjos, Gravataí: 9 resultados, 2 novos
+11/11 15:02:04     [11/15] casa de repouso · Parque dos Anjos, Gravataí: 2 resultados, 0 novos
+11/11 15:02:04        nenhum lead novo. Descartados: {'sem telefone': 1, 'fechados': 0, 'já conhecidos': 1}. Cartão de exemplo: 'Residencial Lar de Maria Residencial Lar de Maria 5,0(6) Residência geriátrica · \ue934 · R. Aristóteles Afonso de Jesus, 144 Aberto · Fecha 18:00 · +55 51 98648-2612 \ue52e Rotas'
+11/11 15:02:30     [12/15] clínica de estética · Parque dos Anjos, Gravataí: 46 resultados, 19 novos
+11/11 15:02:46     [13/15] clínica de estética · Viamão: 29 resultados, 22 novos
+11/11 15:02:58     [14/15] hospital veterinário · Centro, Viamão: 13 resultados, 2 novos
+11/11 15:03:10     [15/15] clínica veterinária · Centro, Viamão: 20 resultados, 3 novos
+11/11 15:03:18     ok em 4.2 min
+11/11 15:03:18  == Google Maps: empresas para sites
+11/11 15:03:18     15 pesquisas nesta rodada (318 ainda nunca feitas).
+11/11 15:03:37     [1/15] escritório de advocacia · Teresópolis, Porto Alegre: 8 resultados, 2 com site no ar, 1 leads
+11/11 15:04:39     [2/15] escritório de contabilidade · Teresópolis, Porto Alegre: 40 resultados, 14 com site no ar, 1 leads
+11/11 15:04:49     [3/15] clínica de estética · Teresópolis, Porto Alegre: 4 resultados, 0 com site no ar, 0 leads
+11/11 15:04:49        nenhum lead novo. Descartados: {'sem telefone': 4, 'menos de 5 avaliações': 1, 'fechados': 0, 'já conhecidos': 0}. Cartão de exemplo: 'Teresópolis, POA - Huff Life Clínica de Estética e Emagrecimento Teresópolis, POA - Huff Life Clínica de Estética e Emagrecimento 4,9(204) Centro de saúde e beleza · HUB Saúde - R. Cel. Aparício Borges, 260 - Bourbon Ter'
+11/11 15:05:16     [4/15] fisioterapia · Teresópolis, Porto Alegre: 13 resultados, 4 com site no ar, 2 leads
+11/11 15:05:59     [5/15] psicólogo · Teresópolis, Porto Alegre: 39 resultados, 7 com site no ar, 2 leads
+11/11 15:06:37     [6/15] arquiteto · Teresópolis, Porto Alegre: 40 resultados, 16 com site no ar, 0 leads
+11/11 15:06:37        nenhum lead novo. Descartados: {'sem telefone': 0, 'menos de 5 avaliações': 18, 'fechados': 0, 'já conhecidos': 5}. Cartão de exemplo: 'LM GRANDI ARQUITETURA LM GRANDI ARQUITETURA LM GRANDI ARQUITETURA LM GRANDI ARQUITETURA 5,0(1) Arquiteto · Av. Arnaldo Bohrer, 175 Aberto agora · +55 51 3557-7055 \ue52e Rotas'
+11/11 15:06:51     [7/15] estética automotiva · Teresópolis, Porto Alegre: 4 resultados, 0 com site no ar, 1 leads
+11/11 15:08:36     [8/15] escritório de advocacia · Nonoai, Porto Alegre: 40 resultados, 20 com site no ar, 5 leads
+11/11 15:09:03     [9/15] escritório de contabilidade · Nonoai, Porto Alegre: 17 resultados, 1 com site no ar, 0 leads
+11/11 15:09:03        nenhum lead novo. Descartados: {'sem telefone': 0, 'menos de 5 avaliações': 10, 'fechados': 0, 'já conhecidos': 4}. Cartão de exemplo: 'Conecta M Contabilidade | Escritório de Contabilidade em Porto Alegre Conecta M Contabilidade | Escritório de Contabilidade em Porto Alegre 5,0(85) Assessoria contábil · R. Erechim, 1001 - sala 01 Aberto · Fecha 17:00 · '
+11/11 15:09:37     [10/15] clínica de estética · Nonoai, Porto Alegre: 8 resultados, 0 com site no ar, 5 leads
+11/11 15:10:41     [11/15] fisioterapia · Nonoai, Porto Alegre: 40 resultados, 8 com site no ar, 7 leads
+11/11 15:12:03     [12/15] psicólogo · Nonoai, Porto Alegre: 40 resultados, 7 com site no ar, 10 leads
+11/11 15:12:17     [13/15] arquiteto · Nonoai, Porto Alegre: 9 resultados, 2 com site no ar, 0 leads
+11/11 15:12:17        nenhum lead novo. Descartados: {'sem telefone': 0, 'menos de 5 avaliações': 6, 'fechados': 0, 'já conhecidos': 1}. Cartão de exemplo: 'Prado Arquitetura Prado Arquitetura 5,0(2) Arquiteto · Av. Nonoai, 149 Aberto agora · +55 51 3212-1996 \ue52e Rotas'
+11/11 15:12:28     [14/15] estética automotiva · Nonoai, Porto Alegre: 5 resultados, 1 com site no ar, 0 leads
+11/11 15:12:28        nenhum lead novo. Descartados: {'sem telefone': 0, 'menos de 5 avaliações': 3, 'fechados': 0, 'já conhecidos': 1}. Cartão de exemplo: 'Platinum 8 - Estética Automotiva Platinum 8 - Estética Automotiva 5,0(45) Serviço de aplicação de película automotiva · Av. Nonoai, 1238 Aberto · Fecha 17:30 · +55 51 98173-9266 \ue80b Website \ue52e Rotas'
+11/11 15:14:07     [15/15] escritório de advocacia · Cristal, Porto Alegre: 40 resultados, 18 com site no ar, 7 leads
+11/11 15:14:15     ok em 11.0 min
+11/11 15:14:15  == Página de equipamentos
+11/11 15:14:15     89 compras abertas · 1794 empresas (388 quentes, 1159 celulares) · 50 hospitais
+11/11 15:14:15     /home/runner/work/aureon-prospector/aureon-prospector/hospitalar/saida/leads-hospitalar-2026-11-11.html
+11/11 15:14:15     /home/runner/work/aureon-prospector/aureon-prospector/publicar/p/equipamentos.html
+11/11 15:14:15     ok em 0.0 min
+11/11 15:14:15  == Página de sites
+11/11 15:14:15     Traceback (most recent call last):
+11/11 15:14:15       File "/home/runner/work/aureon-prospector/aureon-prospector/sites/gerar.py", line 195, in <module>
+11/11 15:14:15         main()
+11/11 15:14:15       File "/home/runner/work/aureon-prospector/aureon-prospector/sites/gerar.py", line 179, in main
+11/11 15:14:15         lista = leads(registros)
+11/11 15:14:15                 ^^^^^^^^^^^^^^^^
+11/11 15:14:15       File "/home/runner/work/aureon-prospector/aureon-prospector/sites/gerar.py", line 163, in leads
+11/11 15:14:15         l["pontos"], l["a_favor"], l["atencao"] = pontuar(l)
+11/11 15:14:15                                                   ^^^^^^^^^^
+11/11 15:14:15       File "/home/runner/work/aureon-prospector/aureon-prospector/sites/gerar.py", line 112, in pontuar
+11/11 15:14:15         respostas = sum(1 for r in l.get("reviews", []) if r.get("resposta"))
+11/11 15:14:15                                    ^^^^^^^^^^^^^^^^^^^^
+11/11 15:14:15     TypeError: 'NoneType' object is not iterable
+11/11 15:14:15     terminou com erro em 0.0 min
+11/11 15:14:15  Sem publicar (--sem-publicar).
+11/11 15:14:15  Rodada diária terminou
