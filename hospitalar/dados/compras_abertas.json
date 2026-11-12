@@ -1,813 +1,5 @@
 [
  {
-  "id": "87612883000179-1-000081/2026",
-  "orgao": "MUNICIPIO DE VICENTE DUTRA",
-  "unidade": "Manutencao do Fundo Municipal de Saúde",
-  "cidade": "Vicente Dutra",
-  "objeto": "Contratação de empresa(s) para a aquisição de materiais, equipamentos e mobiliários destinados aos serviços de saúde materna, paterna e infantil, com recursos provenientes da Portaria nº 1.228/2025 - RBC e Portaria n° SES 1284/2025 para utilização nas Unidades Básicas de Saúde (UBS), nos postos de saúde e pelas equipes da Estratégia Saúde da Família (ESF) do Município de Vicente Dutra/RS",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 140450.0,
-  "abertura": "2026-10-29T12:00:00",
-  "encerramento": "2026-11-12T07:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87612883000179/2026/81",
-  "link_sistema": null,
-  "total_itens": 38,
-  "itens_da_linha": [
-   {
-    "descricao": "Esfigmomanômetro infantil destinado à aferição não invasiva da pressão arterial em pacientes pediátricos, composto por manômetro, manguitos/braçadeiras.",
-    "quantidade": 5.0,
-    "unidade": "UN (UN)",
-    "valor_total": 806.25,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Esfigmomanômetro adulto obeso destinado à aferição não invasiva da pressão arterial em pacientes obesos, composto por manômetro, manguitos/braçadeiras",
-    "quantidade": 5.0,
-    "unidade": "UN (UN)",
-    "valor_total": 1093.75,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Estetoscópio infantil destinado à ausculta dos sons cardíacos, pulmonares e demais sons corporais em pacientes pediátricos. Deverá possuir auscultador/cabeça dupla ou equivalente, com diafragma adequado para uso infantil, proporcionando boa sensibilidade acústica e transmissão sonora. O equipamento deverá apresentar boa qualidade acústica, baixa interferência de ruídos externos e ausência de vazam",
-    "quantidade": 5.0,
-    "unidade": "UN (UN)",
-    "valor_total": 353.75,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Esfigmomanômetro adulto destinado à aferição não invasiva da pressão arterial em pacientes adultos, composto por manômetro, manguitos/braçadeiras.",
-    "quantidade": 10.0,
-    "unidade": "UN (UN)",
-    "valor_total": 1500.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Mesa ginecológica elétrica destinada à realização de exames e procedimentos ginecológicos e obstétricos, adequada para utilização em consultórios, clínicas, unidades básicas de saúde, ambulatórios e demais estabelecimentos de assistência à saúde.ESPECIFICAÇÃO COMPLETA SE ENCONTRA NO EDITAL E TERMO REFERENCIA",
-    "quantidade": 1.0,
-    "unidade": "UN (UN)",
-    "valor_total": 18159.68,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 21913.43,
-  "itens_principais": 5,
-  "exclusiva_me": false
- },
- {
-  "id": "91573048000144-1-000322/2026",
-  "orgao": "MUNICIPIO DE ITACURUBI",
-  "unidade": "MUNICIPIO DE ITACURUBI/RS",
-  "cidade": "Itacurubi",
-  "objeto": "Aquisição de mobiliário e equipamentos para a Unidade Básica de Saúde (UBS) e para as Equipes de Estratégia Saúde da Família (ESF). Pregão Eletrônico N°36/2026, Processo N°325/2026.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 38711.52,
-  "abertura": "2026-10-26T13:00:00",
-  "encerramento": "2026-11-12T08:29:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/91573048000144/2026/322",
-  "link_sistema": "",
-  "total_itens": 11,
-  "itens_da_linha": [
-   {
-    "descricao": "CADEIRA DE RODAS OBESO - 130 KG. <p>&nbsp;CADEIRADE RODAS FABRICADA EM A&Ccedil;O CARBONO DE&nbsp; ALTA QUALIDADE, ESTOFAMENTO EM NYLON. ESTRUTURA DOBR&Aacute;VEL, FACILITANDO O MANUSEIO E TRANSPORTE DA CADEIRA. SISTEMA DE FREIOS BILATERAIS REGUL&Aacute;VEIS, RODAS DIANTEIRAS DE 6&quot;MACI&Ccedil;AS, RODAS TRASEIRAS DE 24&quot; EM ALUM&Iacute;NIO. DEVE POSSUIR APOIO PARA BRA&Ccedil;OS ESCAMOTE&Aa",
-    "quantidade": 2.0,
-    "unidade": "Un",
-    "valor_total": 2032.74,
-    "linhas": [
-     "cadeira de rodas/banho"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "OXIMETRO DE DEDO. <p>DE PRIMEIRA LINHA.</p>\n",
-    "quantidade": 20.0,
-    "unidade": "Un",
-    "valor_total": 1939.0,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 3971.74,
-  "itens_principais": 2,
-  "exclusiva_me": true
- },
- {
-  "id": "88254875000160-1-000517/2026",
-  "orgao": "MUNICIPIO DE NOVO HAMBURGO",
-  "unidade": "Diretoria de Saúde - Fundo Municipal de Saúde",
-  "cidade": "Novo Hamburgo",
-  "objeto": "PREGÃO ELETRÔNICO PARA AQUISIÇÃO DE MOBILIÁRIO, EQUIPAMENTOS E MATERIAIS PERMANENTES DIVERSOS PARA O MUNICÍPIO DE NOVO HAMBURGO.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 245842.06,
-  "abertura": "2026-10-28T16:00:00",
-  "encerramento": "2026-11-12T08:59:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/88254875000160/2026/517",
-  "link_sistema": null,
-  "total_itens": 28,
-  "itens_da_linha": [
-   {
-    "descricao": "POLTRONA HOSPITALAR ESTOFADA\r\nPOLTRONA HOSPITALAR ESTOFADA, UTILIZADA EM AMBIENTES DE ATENDIMENTO À SAÚDE, COM CAPACIDADE DE NO MÍNIMO 180KG. ARMAÇÃO EM AÇO/FERO PINTADO. ASSENTO/ENCOSTO/BRAÇOS E APOIO PARA OS PÉS EM ESPUMA DE ALTA DENSIDADE, SENDO ENTRE D30 E D33 PARA O ENCOSTRO E D50 (INJETADO) PARA ASSENTO. REVESTIMENTO DE COURINO. RECLINAÇÃO COM ACIONAMENTO MANUAL. DESCANSO PARA OS PÉS INTEGRA",
-    "quantidade": 6.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 5379.96,
-    "linhas": [
-     "poltrona"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 5379.96,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
-  "id": "95591764000105-1-000302/2026",
-  "orgao": "UNIVERSIDADE FEDERAL DE SANTA MARIA",
-  "unidade": "UNIVERSIDADE FEDERAL DE STA.MARIA/RS",
-  "cidade": "Santa Maria",
-  "objeto": "Registro de preços para aquisição de materiais (materiais para órtese ortopédica, tesoura em aço inox, monitor de glicemia, agulhas, sonda, gases, etc.) para as aulas práticas dos departamentos do Centro de Ciências da Saúde/CCS e Colégio Politécnico da Universidade Federal de Santa Maria/UFSM.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 69880.93,
-  "abertura": "2026-10-27T08:00:00",
-  "encerramento": "2026-11-12T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/95591764000105/2026/302",
-  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15316405001832026",
-  "total_itens": 78,
-  "itens_da_linha": [
-   {
-    "descricao": "Agulha Hipodérmica material: aço inoxidável siliconizado, dimensão: 16 g x 1 1/2\", tipo ponta: bisel curto trifacetado, tipo conexão: conector luer lock ou slip em plástico, tipo fixação: protetor plástico, tipo uso: estéril, descartável, embalagem individual Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos",
-    "quantidade": 10.0,
-    "unidade": "Caixa UN",
-    "valor_total": 80.9,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Agulha Hipodérmica material: aço inoxidável siliconizado, dimensão: 26 g x 1/2\", tipo ponta: bisel curto trifacetado, tipo conexão: conector luer lock ou slip em plástico, tipo fixação: protetor plástico, tipo uso: estéril, descartável, embalagem individual Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos p",
-    "quantidade": 10.0,
-    "unidade": "Caixa UN",
-    "valor_total": 74.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Agulha Hipodérmica material: aço inoxidável siliconizado, dimensão: 22 g x 1\", tipo ponta: bisel curto trifacetado, tipo conexão: conector luer lock em plástico, tipo fixação: protetor plástico, característica adicional: com sistema segurança segundo nr/32, tipo uso: estéril, descartável, embalagem individual Os descritivos e as unidades a serem considerados na elaboração da proposta são os que co",
-    "quantidade": 10.0,
-    "unidade": "Caixa UN",
-    "valor_total": 73.3,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Gaze Uso Em Saúde modelo: compressa c/ dobras e camadas, material: tecido 100% algodão, densidade: cerca de 13 fios / cm2, radiopacidade: com elemento radiopaco, dimensão fechada: cerca de 7,5 x 7,5 cm, esterilidade: não estéril, uso único Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos pela UFSM, sob pena",
-    "quantidade": 5000.0,
-    "unidade": "Embalagem UN",
-    "valor_total": 3700.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Atadura Crepom tipo: cerca de 13 fios / cm², material: faixa de tecido 100% algodão, largura: cerca de 15 cm, comprimento em repouso: rolo cerca de 1,8 m, esterilidade: estéril Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos pela UFSM, sob pena de desclassificação da proposta.",
-    "quantidade": 100.0,
-    "unidade": "Embalagem UN",
-    "valor_total": 85.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Atadura Crepom tipo: cerca de 13 fios / cm², material: faixa de tecido 100% algodão, largura: cerca de 12 cm, comprimento em repouso: rolo cerca de 1,8 m, esterilidade: estéril Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos pela UFSM, sob pena de desclassificação da proposta.",
-    "quantidade": 100.0,
-    "unidade": "Embalagem UN",
-    "valor_total": 81.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Fita Adesiva - Uso Cutâneo apresentação: rolo c/ capa protetora, cor: c/ cor, esterilidade: não estéril, largura da fita: cerca de 100 mm, material dorso: à base de algodão e fibra sintética, tipo: esparadrapo impermeável, tipo de adesivo: c/ látex natural Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos pe",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 813.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Lancetador Para Glicemia Capilar lanceta: lanceta trifacetada siliconizada, quantidade níveis profundidade: seleção de até 5 níveis de profundidade de punção, tipo: tipo caneta Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos pela UFSM, sob pena de desclassificação da proposta.",
-    "quantidade": 1.0,
-    "unidade": "Unidade",
-    "valor_total": 24.9,
-    "linhas": [
-     "glicosímetro e tiras"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Tira Reagente aplicação: qualitativo de peroxidase, material: papel Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos pela UFSM, sob pena de desclassificação da proposta.",
-    "quantidade": 5.0,
-    "unidade": "Unidade",
-    "valor_total": 569.5,
-    "linhas": [
-     "glicosímetro e tiras"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Atadura Crepom comprimento em repouso: rolo cerca de 1,8 m, esterilidade: estéril, largura: cerca de 15 cm, material: faixa de tecido 100% algodão, tipo: cerca de 13 fios / cm² Os descritivos e as unidades a serem considerados na elaboração da proposta são os que constam no Termo de Referência e seus anexos emitidos pela UFSM, sob pena de desclassificação da proposta.",
-    "quantidade": 40.0,
-    "unidade": "Embalagem UN",
-    "valor_total": 116.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 5618.4,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
-  "id": "00394452000103-1-023168/2026",
-  "orgao": "COMANDO DO EXERCITO",
-  "unidade": "HOSPITAL GERAL DE SANTA MARIA",
-  "cidade": "Santa Maria",
-  "objeto": "Registro de preços para aquisição de materiais e equipamentos médico-hospitalares - PAASSEx",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 2365955.9,
-  "abertura": "2026-10-29T09:00:00",
-  "encerramento": "2026-11-12T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23168",
-  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16041605000092026",
-  "total_itens": 65,
-  "itens_da_linha": [
-   {
-    "descricao": "Oxímetro Uso Médico tipo: mesa, faixa medição saturação 1: 0 a 100%, faixa medição pulso 1: cerca  de 20 a 250, autonomia sistema 1: cerca 16, alimentação: rede elétrica, acessórios: c/ sensor",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 8700.0,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Poltrona Reclinável material: tubos aço com pintura eletrostática, componentes: braços articuláveis ao encosto, características adicionais: pés ponteira borracha, acabamento: encosto, assento e braços espuma alta densidade, estrutura: costas e pés reclináveis simultâneos 3 posições, aplicação: hemodiálise",
-    "quantidade": 8.0,
-    "unidade": "Unidade",
-    "valor_total": 32544.0,
-    "linhas": [
-     "poltrona"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Conjunto Procedimento Médico aplicação: p/ sutura, composição básica: c/ no mínimo, componentes: 1 pinça, 1 tesoura, 1 porta agulha, outros componentes: 1 campo fenestrado, 1 fio de sutura, componentes adicionais: compressa de gaze, esterilidade: estéril, uso único",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 928.44,
-    "linhas": [
-     "fio de sutura",
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Poltrona Reclinável material: tubos aço com pintura epoxi, componentes: c/ encosto, assento, apoio pernas e braços, características adicionais: posição trendelemburg, acabamento: estofado de espuma revestido em courvin, modelo: manual, sistema pneumático",
-    "quantidade": 15.0,
-    "unidade": "Unidade",
-    "valor_total": 27000.0,
-    "linhas": [
-     "poltrona"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Esfigmomanômetro ajuste: digital, tipo*: de braço, faixa de operação: até 300, material braçadeira: braçadeira em nylon, tipo fecho: fecho em velcro, tamanho: adulto",
-    "quantidade": 15.0,
-    "unidade": "Unidade",
-    "valor_total": 12449.85,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Esfigmomanômetro ajuste: analógico, aneróide, uso: pedestal c/ rodízios, tipo*: de braço, faixa de operação: até 300, material braçadeira: braçadeira em nylon, tipo fecho: fecho em velcro, tamanho: adulto",
-    "quantidade": 5.0,
-    "unidade": "Unidade",
-    "valor_total": 2587.5,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Biombo Hospitalar material: aço inoxidável, tipo: sanfonado, móvel, altura: cerca de 1,80, comprimento: comprimento 1,80 aproximadamente, aberto, tipo de rodízio: rodízios c/ freios, características adicionais: divisórias em pvc",
-    "quantidade": 10.0,
-    "unidade": "Unidade",
-    "valor_total": 25990.0,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Peça Equipamento Médico tipo 1: chassi, compatível: p/ processador de imagem câmera videolaparoscopia",
-    "quantidade": 1.0,
-    "unidade": "Unidade",
-    "valor_total": 880138.38,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cânula Instrumental aplicação: p/ aspiração e irrigação, modelo: videocirurgia, diâmetro: cerca de 5,0, haste: reta, comprimento total: cerca de 36, material: aço inoxidável, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 7878.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Porta-Agulha P/ Videocirurgia material: aço inoxidável, formato ponta: ponta curva, adicional 1: c/ vídea, haste: haste s/ isolamento, dimensão: cerca de 5 mm x 35 cm, componente: manopla em metal c/ cremalheira, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 7457.64,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Porta-Agulha P/ Videocirurgia material: aço inoxidável, formato ponta: ponta curva, haste: haste s/ isolamento, dimensão: cerca de 5 mm x 35 cm, componente: manopla em metal c/ cremalheira, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 6994.35,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Endoscópio Rígido ângulo visão: 30°, revestimento: aço inoxidável, formato: reta, rígida, dimensão: cerca de 10 x 400, adicional 2: compatível com fibra óptica, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 67797.57,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Pinça P/ Videocirurgia aplicação: dissecção, modelo 1: maryland, haste: haste isolada, dimensão: cerca de 5 mm x 35 cm, componente: manopla s/ cremalheira, outros componentes: c/ conexão p/ bisturi monopolar, características adicionais: giratória, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 8970.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Pinça P/ Videocirurgia aplicação: dissecção, modelo 1: maryland, haste: haste isolada, dimensão: cerca de 5 mm x 30 cm, componente: manopla s/ cremalheira, outros componentes: c/ conexão p/ bisturi bipolar, características adicionais: giratória, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 8970.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão atraumática, modelo 1: fenestrada tipo endoclinch, haste: haste isolada, dimensão: cerca de 5 mm x 35 cm, componente: manopla c/ cremalheira, características adicionais: giratória, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 5295.54,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Tesoura P/ Videocirurgia aplicação: p/ videocirurgia, tipo*: monopolar, modelo: metzenbaum, ponta: ponta curva, material*: aço inoxidável, diâmetro: cerca de 5 mm x 35 cm, adicional: rotatória, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 8972.7,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão atraumática, modelo 1: fenestrada, formato ponta: curva, haste: haste isolada, dimensão: cerca de 5 mm x 45 cm, componente: manopla c/ cremalheira, características adicionais: giratória, esterilidade: esterilizável",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 8970.0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 1121643.97,
-  "itens_principais": 17,
-  "exclusiva_me": false
- },
- {
-  "id": "89175541000164-1-000434/2026",
-  "orgao": "BRIGADA MILITAR DO ESTADO DO RIO GRANDE DO SUL",
-  "unidade": "BRIGADA MILITAR - DEPARTAMENTO DE SAÚDE",
-  "cidade": "Porto Alegre",
-  "objeto": "Aquisição de material médico-hospitalar para o Hospital da Brigada Militar de Porto Alegre.",
-  "modalidade": "Dispensa",
-  "srp": false,
-  "valor_estimado": 106537.28,
-  "abertura": "2026-11-09T09:00:00",
-  "encerramento": "2026-11-12T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/89175541000164/2026/434",
-  "link_sistema": "https://www.compras.rs.gov.br/editais/1118_2026/359170",
-  "total_itens": 10,
-  "itens_da_linha": [
-   {
-    "descricao": "FIO CIRÚRGICO - POLIAMIDA (NYLON) 2.0 AGULHA 3,0 CM 3/8 CÍRCULO 45CM",
-    "quantidade": 96.0,
-    "unidade": "un",
-    "valor_total": 192.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO CIRÚRGICO - POLIAMIDA (NYLON) 3.0 COM AGULHA 2,0 CM 3/8 CIRCULO - PRETO",
-    "quantidade": 96.0,
-    "unidade": "un",
-    "valor_total": 209.28,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO CIRÚRGICO - POLIPROPILENO 5.0 BIAGULHADO 1,5 CM 1/2 CÍRCULO",
-    "quantidade": 48.0,
-    "unidade": "un",
-    "valor_total": 475.2,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO CIRÚRGICO - POLIGLACTINA C/ MICROANCORAS 3.0 AG 1,7 CM 1/2 CÍRCULO",
-    "quantidade": 360.0,
-    "unidade": "un",
-    "valor_total": 82440.0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FIO CIRÚRGICO - POLIPROPILENO 3.0 BIAGULHADO 2,5 CM 1/2 CIRCULO",
-    "quantidade": 144.0,
-    "unidade": "un",
-    "valor_total": 967.68,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 84284.16,
-  "itens_principais": 5,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-001014/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente pregão tem por objeto Órteses e Próteses e Materiais Especiais (agulha, cateter, fio guia, introdutor e outros), com comodato de equipamentos nos lotes: 6, 7 e 8, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., descritas no Anexo I neste Edital, conforme condições estabelecidas na Portaria GM/MS 2.036, de 04.11.2002.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-23T12:00:00",
-  "encerramento": "2026-11-12T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1014",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102949",
-  "total_itens": 30,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 32369\nEspecificação: CATETER DE TERMODILUICAO RADIOPACO 7Fr, 110cm, MARCADO DE 10 EM 10cm, C/04 VIAS DE CORES ESPECIFICAS E SERINGA DE 3ml - \nUnidade: UNIDADE",
-    "quantidade": 36.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 37324\nEspecificação: MICRO CATETER PERIFERICO DE POLIURETANO E POLIETILENO, REVESTIMENTO INTERNO DE PTFE, COBERTURA HIDROFILICA, PONTA ARREDONDADA, DIAMETRO DE 2,4FR, 2,7FR E 2,8FR E COMPRIMENTOS DE 130 A 150CM COM SISTEMA COAXIAL. - \nUnidade: UNIDADE",
-    "quantidade": 156.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
-  "id": "11055682000156-1-000549/2026",
-  "orgao": "FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH",
-  "unidade": "Diretoria de Gestão Hospitalar",
-  "cidade": "Novo Hamburgo",
-  "objeto": "Aquisição de Material Hospitalar - AGULHAS E SERINGAS.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-27T10:00:00",
-  "encerramento": "2026-11-12T10:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/11055682000156/2026/549",
-  "link_sistema": null,
-  "total_itens": 30,
-  "itens_da_linha": [
-   {
-    "descricao": "AGULHA 13 MM X 0,45 MM, COM 100 UNIDADES. AGULHA HIPODÉRMICA ESTÉRIL DE USO ÚNICO (DESCARTÁVEL). TAMANHO: 13 MM (1/2\") X 0,45 MM (26 G). ATÓXICA E APIROGÊNICA. CANHÃO EM POLIPROPILENO COLORIDO, RESPEITANDO PADRÃO UNIVERSAL DE CORES, COMPATÍVEL COM CONEXÃO LUER LOCK (ROSCA). CÂNULA DE AÇO INOXIDÁVEL, SILICONIZADA, COM PAREDE FINA E BISEL TRIFACETADO. EMBALADA INDIVIDUALMENTE EM PAPEL GRAU CIRÚRGICO",
-    "quantidade": 200000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "AGULHA PARA ANESTESIA RAQUIDIANA ESPINHAL, TAMANHO 25 G X 25 MM, PARA USO EM RECÉM NASCIDOS E PREMATUROS. COM PONTA LANCETA (QUINCKE) EM AÇO INOXIDÁVEL, DESCARTÁVEL, ESTÉRIL, USO ÚNICO. REGISTRO DEVIDAMENTE IDENTIFICADO, CONFORME LEGISLAÇÃO VIGENTE.",
-    "quantidade": 200.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "glicosímetro e tiras"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "AGULHA PARA BIÓPSIA DE PRÓSTATA 18 G X 25 CM, EM AÇO INOXIDÁVEL, CENTIMETRADA, PONTA ECOGÊNICA PARA DISPARO AUTOMÁTICO, CONECTOR \"LUER LOCK\" (SISTEMA DE ENCAIXE PARA SERINGA), MANDRIL COM GAVETA PARA ARMAZENAMENTO DO FRAGMENTO (GUILHOTINA), ESTÉRIL DESCARTÁVEL. OBS: IDENTIFICADA POR CORES, DE ACORDO COM O CALIBRE. EMBALADA EM MATERIAL QUE PROMOVA BARREIRA MICROBIANA E ABERTURA ANTISSÉPTICA. VALIDA",
-    "quantidade": 100.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL DE 1 ML COM AGULHA 13 X 4,5. INSULINA LS",
-    "quantidade": 3000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 1 ML, ESTÉRIL, COM BICO LUER SLIP  CENTRAL, ATÓXICA, APIROGÊNICA, TRANSPARENTE COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA COM ALTO GRAU DE PRECISÃO, COM INTERVALO DE 0,1 EM 0,1 ML E SUBDIVISÕES CLARAS E LEGÍVEIS A CADA 0,01 ML. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS, PONTEIRA LOCK, COMPATÍVEL COM TODAS AS MARCAS",
-    "quantidade": 400000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 3 ML, ESTÉRIL, COM BICO LUER LOCK CENTRAL, ATÓXICA, APIROGÊNICA, TRANSPARENTE COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA COM ALTO GRAU DE PRECISÃO, COM INTERVALO DE 0,1 EM 0,1 ML E SUBDIVISÕES CLARAS E LEGÍVEIS A CASA 0,01 ML. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS, PONTEIRA LOCK, COMPATÍVEL COM TODAS AS MARCAS ",
-    "quantidade": 400000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 3 ML, ESTÉRIL, COM BICO LUER SLIP CENTRAL, ATÓXICA, APIROGÊNICA, TRANSPARENTE, COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA, COM ALTO GRAU DE PRECISÃO, COM INTERVALO DE 0,1 EM 0,1 ML, COM SUBDIVISÕES CLARAS E LEGÍVEIS A CADA 0,01 ML. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA A ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS. PONTEIRA LOCK, COMPATÍVEL COM TODAS AS ",
-    "quantidade": 10000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 5 ML, ESTÉRIL, COM BICO LUER SLIP CENTRAL, ATÓXICA, APIROGÊNICA, TRANSPARENTE COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA COM ALTO GRAU DE PRECISÃO, COM INTERVALO DE 1,0 EM 1,0 ML E SUBDIVISÕES A CADA 0,2 ML. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS, PONTEIRA LOCK, COMPATÍVEL COM TODAS AS MARCAS DE AGULHAS, EMBALAG",
-    "quantidade": 5000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 10 ML, ESTÉRIL, COM BICO LUER SLIP CENTRAL, ATÓXICA, APIROGÊNICA, TRANSPARENTE COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA, COM ALTO GRAU DE PRECISÃO, COM INTERVALO DE 1,0 ML M 1,0 ML E SUBDIVISÕES A CADA 0,2 ML. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS, PONTEIRA LOCK, COMPATÍVEL COM TODAS AS MARCAS DE AGULHAS, EMB",
-    "quantidade": 10000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 20 ML, ESTÉRIL, COM BICO LUER LOCK CENTRAL, ATÓXICA, APIROGÊNICA, TRANSPARENTE COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA, COM ALTO GRAU DE PRECISÃO, COM INTERVALO DE 5,0 EM 5,0 ML E SUBDIVISÕES A CADA 1,0 ML. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS, PONTEIRA LOCK, COMPATÍVEL COM TODAS AS MARCAS DE AGULHAS, EMBAL",
-    "quantidade": 400000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 60 ML, ESTÉRIL, BICO TIPO CATETER, POLIPROPILENO TRANSPARENTE, ATÓXICA, APIROGÊNICA, ÊMBOLO COM PONTEIRA DE BORRACHA SILICONIZADA, GRADUAÇÃO PERFEITAMENTE LEGÍVEL, COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS, EMBALAGEM INDIVIDUAL EM PAPEL GRAU CIRÚRGICO E FILME TERMOPLÁSTIC",
-    "quantidade": 7000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 60 ML, ESTÉRIL, COM BICO LUER LOCK, ATÓXICA, APIROGÊNICA, POLIPROPILENO TRANSPARENTE, ÊMBOLO COM PONTEIRA DE BORRACHA SILICONIZADA, GRADUAÇÃO PERFEITAMENTE LEGÍVEL, COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS, PONTEIRA SLIP, COMPATÍVEL COM TODAS AS MARCAS DE AGULHAS, EMBALA",
-    "quantidade": 5000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTÁVEL 60 ML, ESTÉRIL, COM BICO LUER SLIP, ATÓXICA, APIROGÊNICA, POLIPROPILENO TRANSPARENTE, ÊMBOLO COM PONTEIRA DE BORRACHA SILICONIZADA, GRADUAÇÃO PERFEITAMENTE LEGÍVEL, COM ESCALA DE GRADUAÇÃO INDELÉVEL E MILIMETRADA. SILICONIZADA, DESLIZE SUAVE DO ÊMBOLO, QUE FAVOREÇA ACUIDADE NO PREPARO DA SOLUÇÃO, SEM DESPERDÍCIOS, PONTEIRA SLIP, COMPATÍVEL COM TODAS AS MARCAS DE AGULHAS, EMBALA",
-    "quantidade": 700.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA HIPODÉRMICA DE 50/60 ML, PARA BOMBA DE INFUSÃO: SERINGA PLÁSTICA, DESCARTÁVEL, CAPACIDADE NOMINAL DE 50 A 60 ML, SEM AGULHA. CONFECCIONADA EM POLIPROPRILENO TRANSPARENTE, ATÓXICO, APIROGÊNICO, ISENTO DE LÁTEX (LATEX FREE) E DE USO ÚNICO. CILINDRO COM ACABAMENTO SILICONIZADO, CONTENDO ESCALA EXTERNA, GRAVADA DE ALTO CONTRASTE, NÍTIDA, PERMANENTE E SUBDIVIDIDA EM, NO MÁXIMO, 1 ML. DOTADA DE ",
-    "quantidade": 2000.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
-  "id": "74704008000175-1-000048/2026",
-  "orgao": "FUNDACAO DE APOIO DA UNIVERSIDADE FEDERAL DO RGS",
-  "unidade": "FUNDACAO DE APOIO DA UFRGS",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Edital tem por objeto a contratação de fornecimento de pulverizador costal agrícola e purificador de água, visando atender demanda dos projetos de pesquisa, extensão acadêmica e desenvolvimento institucional da Universidade Federal do Rio Grande do Sul (UFRGS). Esta Seleção Pública será regida pelas normas do Decreto Federal 8.241/2014 e, subsidiariamente, pela Lei 14.133/2021.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 2705.9,
-  "abertura": "2026-11-04T15:00:00",
-  "encerramento": "2026-11-12T14:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/74704008000175/2026/48",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103616",
-  "total_itens": 2,
-  "itens_da_linha": [
-   {
-    "descricao": "Pulverizador costal agrícola, fabricado em Polietileno (PE), reservatório com capacidade de 20 litros, com compressão prévia, reversão na alavanca, trava no gatilho, alça para transporte com ajuste, jogo de acessórios para montagem e manutenção, e quatro tipos de bico diferentes (leque, cone, cone duplo e ducha).",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE",
-    "valor_total": 1016.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 1016.0,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
   "id": "00394452000103-1-023454/2026",
   "orgao": "COMANDO DO EXERCITO",
   "unidade": "HOSPITAL MILITAR DE ÁREA DE PORTO ALEGRE",
@@ -1287,6 +479,81 @@
   "valor_itens_da_linha": 55334.4,
   "itens_principais": 3,
   "exclusiva_me": true
+ },
+ {
+  "id": "89175541000164-1-000434/2026",
+  "orgao": "BRIGADA MILITAR DO ESTADO DO RIO GRANDE DO SUL",
+  "unidade": "BRIGADA MILITAR - DEPARTAMENTO DE SAÚDE",
+  "cidade": "Porto Alegre",
+  "objeto": "Aquisição de material médico-hospitalar para o Hospital da Brigada Militar de Porto Alegre.",
+  "modalidade": "Dispensa",
+  "srp": false,
+  "valor_estimado": 106537.28,
+  "abertura": "2026-11-09T09:00:00",
+  "encerramento": "2026-11-13T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/89175541000164/2026/434",
+  "link_sistema": "https://www.compras.rs.gov.br/editais/1118_2026/359170",
+  "total_itens": 10,
+  "itens_da_linha": [
+   {
+    "descricao": "FIO CIRÚRGICO - POLIAMIDA (NYLON) 2.0 AGULHA 3,0 CM 3/8 CÍRCULO 45CM",
+    "quantidade": 96.0,
+    "unidade": "un",
+    "valor_total": 192.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CIRÚRGICO - POLIAMIDA (NYLON) 3.0 COM AGULHA 2,0 CM 3/8 CIRCULO - PRETO",
+    "quantidade": 96.0,
+    "unidade": "un",
+    "valor_total": 209.28,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CIRÚRGICO - POLIPROPILENO 5.0 BIAGULHADO 1,5 CM 1/2 CÍRCULO",
+    "quantidade": 48.0,
+    "unidade": "un",
+    "valor_total": 475.2,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CIRÚRGICO - POLIGLACTINA C/ MICROANCORAS 3.0 AG 1,7 CM 1/2 CÍRCULO",
+    "quantidade": 360.0,
+    "unidade": "un",
+    "valor_total": 82440.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CIRÚRGICO - POLIPROPILENO 3.0 BIAGULHADO 2,5 CM 1/2 CIRCULO",
+    "quantidade": 144.0,
+    "unidade": "un",
+    "valor_total": 967.68,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 84284.16,
+  "itens_principais": 5,
+  "exclusiva_me": false
  },
  {
   "id": "00394429000100-1-002774/2026",
@@ -6706,6 +5973,37 @@
   "exclusiva_me": false
  },
  {
+  "id": "74704008000175-1-000055/2026",
+  "orgao": "FUNDACAO DE APOIO DA UNIVERSIDADE FEDERAL DO RGS",
+  "unidade": "FUNDACAO DE APOIO DA UFRGS",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Edital tem por objeto a contratação de fornecedor para firmar TERMO DE COMPROMISSO por período de 12 meses para fornecimento em caráter eventual de seringa de hemogasometria, visando atender demanda dos projetos de pesquisa, extensão acadêmica e desenvolvimento institucional da Universidade Federal do Rio Grande do Sul (UFRGS). Esta Seleção Pública será regida pelas normas do Decreto Federal 8.241/2014 e, subsidiariamente, pela Lei 14.133/2021.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 26520.0,
+  "abertura": "2026-11-11T12:00:00",
+  "encerramento": "2026-11-19T14:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/74704008000175/2026/55",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103973",
+  "total_itens": 1,
+  "itens_da_linha": [
+   {
+    "descricao": "Seringa de Hemogasometria: Seringa estéril descartável de uso exclusivo para coleta de sangue arterial para gasometria. Contém heparina de lítio com cálcio balanceado em proporção de 50 UI de anticoagulante por mL de sangue, aplicada por aspersão na parede da seringa. Acompanha tampa de borracha, sem agulha para vedação. Capacidade para 1,0 mL com heparina para 0,6 mL de amostra. Seringas embalada",
+    "quantidade": 4000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 26520.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 26520.0,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
   "id": "94446804000162-1-000010/2026",
   "orgao": "CONSORCIO INTERMUNICIPAL DA REGIAO CENTRO DO ESTADO DO RIO GRANDE DO SUL - CI/CENTRO",
   "unidade": "CONSÓRCIO INTERM REGIÃO CENTRO-CI/CENTRO",
@@ -10226,6 +9524,37 @@
   "exclusiva_me": true
  },
  {
+  "id": "94444247000140-1-000347/2026",
+  "orgao": "MUNICIPIO DE SAO JOAO DO POLESINE",
+  "unidade": "Secretaria da Agricultura Ind.comércio",
+  "cidade": "São João do Polêsine",
+  "objeto": "Processo licitatório, na modalidade de Registro de Preços, para futura e eventual aquisição de gazebos destinados ao uso pelas Secretarias Municipais em eventos, campanhas, ações institucionais e demais atividades promovidas pelo Município.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 15233.4,
+  "abertura": "2026-11-13T08:00:00",
+  "encerramento": "2026-11-25T08:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/94444247000140/2026/347",
+  "link_sistema": null,
+  "total_itens": 1,
+  "itens_da_linha": [
+   {
+    "descricao": "GAZEBO TIPO PIRAMIDAL, COM DIMENSÕES MÍNIMAS DE 3M X 3M, ESTRUTURA METÁLICA   QUADRADA, DIMENSÃO MÍNIMA DE 40MM X 40 MM,  COM DIMENSÃO MÍNIMA DE 4 CM DE DIÂMETRO.FECHAMENTO LATERAL: 1 (UM) FECHAMENTO LATERAL COM LONA EXTRUTEX 500 BRANCA COM ANTICHAMA, PROTEÇÃO U.V.A., ANTIMOFO, ANTIFUNGO E ANTIOXIDANTE  E COM ILHÓS.COBERTURA: ESTRUTURA METÁLICA CINZA, DIMENSÃO MÍNIMA DE 20MM X 20MM, CAPA DE LONA E",
+    "quantidade": 20.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 15233.4,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 15233.4,
+  "itens_principais": 0,
+  "exclusiva_me": true
+ },
+ {
   "id": "92457860000177-1-000055/2026",
   "orgao": "FUNDACAO CULTURAL AFIF JORGE SIMOES FILHO",
   "unidade": "Fundação Cultural Afif Jorge S Filho",
@@ -10306,6 +9635,165 @@
    }
   ],
   "valor_itens_da_linha": 312.0,
+  "itens_principais": 0,
+  "exclusiva_me": true
+ },
+ {
+  "id": "87482535000124-1-002061/2026",
+  "orgao": "MUNICIPIO DE DOM PEDRITO",
+  "unidade": "Prefeitura Municipal de Dom Pedrito",
+  "cidade": "Dom Pedrito",
+  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE MATERIAL AMBULATORIAL PARA SECRETARIA DE SAÚDE- REGISTRO DE PREÇOS",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-11T15:00:00",
+  "encerramento": "2026-11-25T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87482535000124/2026/2061",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Dom-Pedrito-1520/RPE-151-2026-2026-524530",
+  "total_itens": 10,
+  "itens_da_linha": [
+   {
+    "descricao": "Seringa 10 ml c/agulha, descartavel caixa c/100 unidades",
+    "quantidade": 3000.0,
+    "unidade": "Caixa",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica 40mm x 12mm, caixa com 100 unidades",
+    "quantidade": 3000.0,
+    "unidade": "Caixa",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica 30x8 caixa c/100 unidades",
+    "quantidade": 3000.0,
+    "unidade": "Caixa",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica descartavel n0,70 x 25 caixa com 100 unidades",
+    "quantidade": 3000.0,
+    "unidade": "Caixa",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Agulha hipodermica 25 x 8 caixa c/100 unidades",
+    "quantidade": 3000.0,
+    "unidade": "Caixa",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 3 ml c/agulha, descartavel caixa c/100 unidades",
+    "quantidade": 3000.0,
+    "unidade": "Caixa",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Seringa 5 ml c/agulha, descartavel, caixa c/100 unidades",
+    "quantidade": 3000.0,
+    "unidade": "Caixa",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 0,
+  "exclusiva_me": true
+ },
+ {
+  "id": "07662324000134-1-000052/2026",
+  "orgao": "CONSORCIO INTERMUNICIPAL DO VALE DO RIO CAI (CIS-CAI)",
+  "unidade": "Consórcio Intermunicipal do Vale do Caí",
+  "cidade": "Montenegro",
+  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE MEDICAMENTOS DE USO HUMANO",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 76665755.23,
+  "abertura": "2026-11-12T09:00:00",
+  "encerramento": "2026-11-25T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/07662324000134/2026/52",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Consorcio-Intermunicipal-do-Vale-do-Cai-3679/RPE-14-2026-2026-524727",
+  "total_itens": 754,
+  "itens_da_linha": [
+   {
+    "descricao": "DENOSUMABE 60MG/ML SERINGA 1ML",
+    "quantidade": 212.0,
+    "unidade": "Unidade",
+    "valor_total": 164509.88,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 164509.88,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
+  "id": "87530978000143-1-000462/2026",
+  "orgao": "MUNICIPIO DE CACHOEIRA DO SUL",
+  "unidade": "Prefeitura de Cachoeira do Sul",
+  "cidade": "Cachoeira do Sul",
+  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE TENDAS , GAZEBOS E LIXEIRAS",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 10612.5,
+  "abertura": "2026-11-12T09:00:00",
+  "encerramento": "2026-11-25T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87530978000143/2026/462",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Cachoeira-do-Sul-27/PE-158-2026-2026-524380",
+  "total_itens": 4,
+  "itens_da_linha": [
+   {
+    "descricao": "TENDA ARTICULADA GAZEBO conforme edital",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 1935.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 1935.0,
   "itens_principais": 0,
   "exclusiva_me": true
  },
@@ -10402,6 +9890,103 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92963560000160-1-001465/2026",
+  "orgao": "MUNICIPIO DE PORTO ALEGRE",
+  "unidade": "DLC - Diretoria de Licitações e Contratos",
+  "cidade": "Porto Alegre",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de mobiliário e equipamentos hospitalares, incluindo cadeiras de rodas, poltronas para coleta de sangue, carros de procedimentos, focos clínicos, mesas ginecológicas e suportes para soro e injeção, para atendimento das necessidades da Administração Pública Municipal.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 137841.8,
+  "abertura": "2026-11-11T18:00:00",
+  "encerramento": "2026-11-25T09:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92963560000160/2026/1465",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Porto-Alegre-206/PE-263-2026-2026-524716",
+  "total_itens": 12,
+  "itens_da_linha": [
+   {
+    "descricao": "Cadeira de rodas, dobravel, c/ suporte soro e oxigenio, min. 120kg, cfe.esp.anexa",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 7678.95,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cadeira de rodas dobravel, adulto, com trava nas rodas, capac. max. entre 85 e 100kg",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 3782.34,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Mesa ginecologica e de exame clinico, com gabinete",
+    "quantidade": 42.0,
+    "unidade": "Unidade",
+    "valor_total": 72183.72,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cadeira de rodas dobravel p/ obesos, cap. max. 160kg",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 1960.0,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Suporte de soro de teto em aco inoxidavel, c/ gancho p/ 4 apoios",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 518.5,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cadeira de rodas infantil, nao dobravel",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 864.8,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cadeira de rodas tipo resgate, dobravel, para uso em ambulancia",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 9833.4,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 96821.71,
+  "itens_principais": 7,
   "exclusiva_me": false
  },
  {
@@ -10819,6 +10404,37 @@
   "exclusiva_me": false
  },
  {
+  "id": "01615515000169-1-000103/2026",
+  "orgao": "MUNICIPIO DE TABAI",
+  "unidade": "Prefeitura Municipal de Tabaí",
+  "cidade": "Tabaí",
+  "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE 01 (UM) VEÍCULO TIPO MINIVAN, ZERO QUILÔMETRO, COM CAPACIDADE PARA 07 (SETE) OCUPANTES, ADAPTADO PARA O TRANSPORTE DE 01 (UMA) PESSOA EM CADEIRA DE RODAS, PARA USO DA SECRETARIA MUNICIPAL DAS SAÚDE, MEIO AMBIENTE E ASSISTÊNCIA SOCIAL NAS AÇÕES DO SISTEMA ÚNICO DE SAÚDE (SUS). COM RECURSOS PROVENIENTES EM PARTE DE EMENDA PARLAMENTAR - PROPOSTA Nº 11984.627000/1260-05 DO SENADOR LUÍS CARLOS HEINZ POR INTERMÉDIO DO MINISTÉRIO DA SAÚDE (PORTARIA Nº 11342/2026) E PARTE PROVENIENTE DE RECURSO PRÓPRIO DO MUNICÍPIO",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 200209.38,
+  "abertura": "2026-11-13T08:00:00",
+  "encerramento": "2026-11-26T08:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/01615515000169/2026/103",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Tabai-182/PE-17-2026-2026-524593",
+  "total_itens": 1,
+  "itens_da_linha": [
+   {
+    "descricao": "VEiCULO NOVO, ZERO KM, 7 PASSAGEIROS TIPO MINIVAN, ADAPTADO PARA O TRANSPORTE DE 01 (UMA) PESSOA EM CADEIRA DE RODAS, possuir sistema de acesso por rampa eletro-hidraulica, com superficie antiderrapante e capacidade de carga compativel com o peso da pessoa usuaria e da cadeira de rodas; fornecer 02 (dois) conjuntos adicionais de cintos traseiros de catraca manual para reserva... DEMAIS ESPECIFICAC",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 200209.38,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 200209.38,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
   "id": "88818299000137-1-000392/2026",
   "orgao": "MUNICIPIO DE SAO MARCOS",
   "unidade": "PREFEITURA MUNICIPAL DE SÃO MARCOS MUNICIPIO DE SÃO MARCOS",
@@ -11048,6 +10664,180 @@
   "exclusiva_me": false
  },
  {
+  "id": "00394429000100-1-003022/2026",
+  "orgao": "COMANDO DA AERONAUTICA",
+  "unidade": "GRUPAMENTO DE APOIO DE CANOAS",
+  "cidade": "Canoas",
+  "objeto": "Aquisição de Equipamentos Hospitalares, incluindo instalação e montagem, caso necessário.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 2318478.59,
+  "abertura": "2026-11-12T09:00:00",
+  "encerramento": "2026-11-26T09:10:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/00394429000100/2026/3022",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=12062905002272026",
+  "total_itens": 40,
+  "itens_da_linha": [
+   {
+    "descricao": "Endoscópio Rígido Endoscópio Rígido, Ângulo Visão:30°, Revestimento:Aço Inoxidável, Formato:Reta, Rígida, Dimensão:Cerca De 5 X 250 MM, Adicional 2:Compatível Com Fibra Óptica, Esterilidade:Esterilizável Sem informação",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 248630.2,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Endoscópio Rígido Endoscópio Rígido, Ângulo Visão:30°, Revestimento:Aço Inoxidável, Formato:Reta, Rígida, Dimensão:Cerca De 4 X 200 MM, Adicional 2:Compatível Com Fibra Óptica, Esterilidade:Esterilizável Sem informação",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 20084.96,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Endoscópio Rígido Endoscópio Rígido, Ângulo Visão:30°, Revestimento:Aço Inoxidável, Formato:Reta, Rígida, Dimensão:Cerca De 4 X 200 MM, Adicional 2:Compatível Com Fibra Óptica, Esterilidade:Esterilizável Sem informação",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 19859.04,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Oftalmoscópio Oftalmoscópio, Tipo:Direto, Tipo Luz:Luz Led, Tensão Alimentação:2 Pilhas Médias, Características Adicionais:5 Aberturas De Diafragma, Cor Filtros:Filtro Verde Livre De Vermelho, Aplicação:Campo Correção -20d Até +20d, Componentes:Cabo Metal Cromado E Plástico, Componentes Outros:19 Lentes Sem informação",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 13194.42,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fonte De Luz Fria Fonte De Luz Fria, Uso:Procedimentos Endoscópicos, Características Adicionais:C/ Controle De Intensidade De Luz, Acessórios:C/ No Mínimo 1 Porta De Conexão Sem informação",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 13935.28,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Endoscópio Rígido Endoscópio Rígido, Ângulo Visão:30°, Revestimento:Aço Inoxidável, Formato:Reta, Rígida, Dimensão:Cerca De 4 X 200 MM, Adicional 2:Compatível Com Fibra Óptica, Esterilidade:Esterilizável Sem informação",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 15599.3,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Monitor Multiparâmetro Monitor Multiparâmetro, Tipo:Monitor De Pressão Arterial Contínua Não Invasivo, Parâmetros:Dc, Ic, Vsi, Rvs, Rvsi, Tipo De Tela:Tela Lcd/Led Cerca De 10\", Acessórios:Completo Com Cabos, Uso:De Infantil A Adulto Sem informação",
+    "quantidade": 8.0,
+    "unidade": "Unidade",
+    "valor_total": 24459.92,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro Esfigmomanômetro, Ajuste:Digital, Tipo*:De Braço, Faixa De Operação:Até 300 MMHG, Material Braçadeira:Braçadeira Em Nylon, Tipo Fecho:Fecho Em Velcro, Tamanho:Adulto Sem informação",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 2104.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro Esfigmomanômetro, Ajuste:Analógico, Aneróide, Uso:Pedestal C/ Rodízios, Tipo*:De Braço, Faixa De Operação:Até 300 MMHG, Material Braçadeira:Braçadeira Em Nylon, Tipo Fecho:Fecho Em Velcro, Tamanho:Infantil Sem informação",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 1438.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro Esfigmomanômetro, Ajuste:Analógico, Aneróide, Uso:Pedestal C/ Rodízios, Tipo*:De Braço, Faixa De Operação:Até 300 MMHG, Material Braçadeira:Braçadeira Em Nylon, Tipo Fecho:Fecho Em Velcro, Tamanho:Adulto Obeso Sem informação",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 1521.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro Esfigmomanômetro, Ajuste:Analógico, Aneróide, Uso:Pedestal C/ Rodízios, Tipo*:De Braço, Faixa De Operação:Até 300 MMHG, Material Braçadeira:Braçadeira Em Nylon, Tipo Fecho:Fecho Em Velcro, Tamanho:Infantil Sem informação",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 934.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro Esfigmomanômetro, Ajuste:Analógico, Aneróide, Tipo*:De Braço, Faixa De Operação:Até 300 MMHG, Material Braçadeira:Braçadeira Em Nylon, Tipo Fecho:Fecho Em Metal, Tamanho:Infantil Sem informação",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 3653.8,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Esfigmomanômetro Esfigmomanômetro, Ajuste:Analógico, Aneróide, Tipo*:De Braço, Faixa De Operação:Até 300 MMHG, Material Braçadeira:Braçadeira Em Nylon, Tipo Fecho:Fecho Em Metal, Tamanho:Infantil Sem informação",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 6683.1,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Estetoscópio Estetoscópio, Tipo:Industrial, Uso:Detectar Ruidos Em Equipamentos, Características Adicionais:Mecânico Portátil Com Uma Haste, Modelo Referencia:Es/I-1000 Sem informação",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 1206.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 373303.62,
+  "itens_principais": 14,
+  "exclusiva_me": false
+ },
+ {
   "id": "92787118000120-1-001050/2026",
   "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
   "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
@@ -11108,6 +10898,158 @@
   "valor_itens_da_linha": 0,
   "itens_principais": 1,
   "exclusiva_me": false
+ },
+ {
+  "id": "87455531000157-1-000378/2026",
+  "orgao": "MUNICIPIO DE PELOTAS",
+  "unidade": "Departamento de Compras Governamentais",
+  "cidade": "Pelotas",
+  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES, MOBILIÁRIO ASSISTENCIAL E EQUIPAMENTOS DE APOIO I - SMS",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 155528.86,
+  "abertura": "2026-11-16T08:00:00",
+  "encerramento": "2026-11-27T08:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87455531000157/2026/378",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Pelotas-54/PE-153-2026-2026-524965",
+  "total_itens": 14,
+  "itens_da_linha": [
+   {
+    "descricao": "AUTOCLAVE HORIZONTAL DE BANCADA - conforme descrição do item 1 Anexo I Termo de Referência.",
+    "quantidade": 25.0,
+    "unidade": "Unidade",
+    "valor_total": 79733.0,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "BIOMBO TRIPLO - conforme descrição do item 2 Anexo I Termo de Referência.",
+    "quantidade": 8.0,
+    "unidade": "Unidade",
+    "valor_total": 3679.6,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "CARDIOVERSOR BIFÁSICO - conforme descrição do item 4 Anexo I Termo de Referência.",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 23641.66,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "DETECTOR FETAL PORTÁTIL - conforme descrição do item 6 Anexo I Termo de Referência.",
+    "quantidade": 4.0,
+    "unidade": "Unidade",
+    "valor_total": 2019.84,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "ESCADA DE 2 DEGRAUS - conforme descrição do item 7 Anexo I Termo de Referência.",
+    "quantidade": 11.0,
+    "unidade": "Unidade",
+    "valor_total": 1358.28,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "LARINGOSCÓPIO ADULTO - conforme descrição do item 8 Anexo I Termo de Referência.",
+    "quantidade": 1.0,
+    "unidade": "Kit",
+    "valor_total": 471.33,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "MONITOR MULTIPARÂMETROS COM ECG - conforme descrição do item 9 Anexo I Termo de Referência.",
+    "quantidade": 5.0,
+    "unidade": "Unidade",
+    "valor_total": 23693.35,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "NEBULIZADOR - conforme descrição do item 10 Anexo I Termo de Referência.",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 96.56,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "POLTRONA HOSPITALAR RECLINÁVEL - conforme descrição do item 11 Anexo I Termo de Referência.",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 2073.32,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "POLTRONA HOSPITALAR PARA MEDICAÇÃO - conforme descrição do item 12 Anexo I Termo de Referência.",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 3449.73,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "SUPORTE PARA SORO - conforme descrição do item 13 Anexo I Termo de Referência.",
+    "quantidade": 8.0,
+    "unidade": "Unidade",
+    "valor_total": 1200.16,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "TERMÔMETRO CLÍNICO - conforme descrição do item 14 Anexo I Termo de Referência.",
+    "quantidade": 140.0,
+    "unidade": "Unidade",
+    "valor_total": 1428.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 142844.83,
+  "itens_principais": 12,
+  "exclusiva_me": true
  },
  {
   "id": "92787118000120-1-001043/2026",
@@ -11414,6 +11356,218 @@
   "exclusiva_me": false
  },
  {
+  "id": "92787118000120-1-001058/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Material Imobilizado (VIDEOECOENDOSCÓPIO), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-11T13:00:00",
+  "encerramento": "2026-11-27T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1058",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103809",
+  "total_itens": 1,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 9001\nEspecificação: Videoecoendoscopio [PI] [Bio 6026.01]\nUnidade: UNIDADE",
+    "quantidade": 1.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "11074898000169-1-000051/2026",
+  "orgao": "CONSORCIO PUBLICO INTERMUNICIPAL DA REGIAO DO ALTO URUGUAI - CIRAU",
+  "unidade": "Consórcio Intermunicipal da Região do Alto Uruguai - CIRAU",
+  "cidade": "Erechim",
+  "objeto": "[Portal de Compras Públicas] - PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS PARA FUTURAS AQUISIÇÕES DE MICRO-ÔNIBUS NOVO",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-12T07:59:00",
+  "encerramento": "2026-11-30T07:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/11074898000169/2026/51",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Consorcio-Intermunicipal-da-Regiao-do-Alto-Uruguai-CIRAU-1055/RPE-038-2026-2026-524525",
+  "total_itens": 2,
+  "itens_da_linha": [
+   {
+    "descricao": "VEÍCULO AUTOMOTOR TIPO MICRO-ÔNIBUS, COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS: NOVO, ZERO QUILÔMETRO, ANO/MODELO 2026/2027 OU SUPERIOR; CAPACIDADE MÍNIMA PARA 27 OCUPANTES, INCLUINDO O MOTORISTA; COR BRANCA; MOTOR DIESEL, POTÊNCIA MÍNIMA DE 160 CV, EM CONFORMIDADE COM A NORMA PROCONVE P-8/EURO VI; DIREÇÃO HIDRÁULICA OU COM ASSISTÊNCIA EQUIVALENTE; TRANSMISSÃO MANUAL COM NO MÍNIMO 06 MARCHAS À FRENT",
+    "quantidade": 40.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "VEÍCULO AUTOMOTOR TIPO MICRO-ÔNIBUS, COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS: NOVO, ZERO QUILÔMETRO, ANO/MODELO 2026/2027 OU SUPERIOR; CAPACIDADE MÍNIMA PARA 33 OCUPANTES, INCLUINDO O MOTORISTA; COR BRANCA; MOTOR DIESEL, POTÊNCIA MÍNIMA DE 160 CV, EM CONFORMIDADE COM A NORMA PROCONVE P-8/EURO VI; DIREÇÃO HIDRÁULICA OU COM ASSISTÊNCIA EQUIVALENTE; TRANSMISSÃO MANUAL COM NO MÍNIMO 06 MARCHAS À FRENT",
+    "quantidade": 38.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001056/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospitalar (INSTRUMENTAIS, MÁSCARAS E FISIO), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-11T13:00:00",
+  "encerramento": "2026-11-30T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1056",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103723",
+  "total_itens": 28,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 30997\nEspecificação: ELETRODO TIPO ALCA DE RESSECCAO CORTANTE, BIPOLAR, AUTOCLAVAVEL, COMPATIVEL C/ELEMENTO DE TRABALHO REF.27040EB P/ELETROCAUTERIO AUTOCON II 400 KARL STORZ - \nUnidade: UNIDADE",
+    "quantidade": 132.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 30996\nEspecificação: ELETRODO TIPO BOLA, BIPOLAR, AUTOCLAVAVEL, COMPATIVEL COM ELEMENTO DE TRABALHO REF.27040EB P/ELETROCAUTERIO AUTOCON II 400 KARL STORZ - \nUnidade: UNIDADE",
+    "quantidade": 216.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 3933\nEspecificação: ESTETOSCOPIO P/NEONATOLOGIA  - \nUnidade: UNIDADE",
+    "quantidade": 36.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 10804\nEspecificação: LAMINA P/LARINGOSCOPIO CURVA N.0 - MEDIDAS EXTERNAS 6 A 7cm,EM ACO INOX C/ACABAMENTO FOSCO E EXTREMIDADES EM FORMATO ARREDONDADO,ENCAIXE DE PADRAO INTERNACIONAL - \nUnidade: UNIDADE",
+    "quantidade": 72.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 3828\nEspecificação: LAMINA P/LARINGOSCOPIO CURVA N.1 - MEDIDAS EXTERNAS 7 A 8cm,EM ACO INOX C/ACABAMENTO FOSCO E EXTREMIDADES EM FORMATO ARREDONDADO,ENCAIXE DE PADRAO INTERNACIONAL - \nUnidade: UNIDADE",
+    "quantidade": 72.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 38551\nEspecificação: MACRONEBULIZADOR C/ SAIDA P/ OXIGENIO E CAPACIDADE DE 500ML, C/ COPO EM POLICARBONATO DE ALTA RESISTÊNCIA TRANSLUCIDO E GRADUADO, TAMPA EM POLIAMIDA, TUBO INTERNO EM SILICONE - \nUnidade: UNIDADE",
+    "quantidade": 72.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 27747\nEspecificação: TAPETE DE SILICONE VAZADO C/SUPERFICIE CILIADA, P/ACONDICIONAMENTO DE INSTRUMENTAIS EM BANDEJAS, MED.APROX.45x30cm, ESTERILIZAVEL EM AUTOCLAVE A VAPOR, REUTILIZAVEL - \nUnidade: UNIDADE",
+    "quantidade": 48.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 7,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92963560000160-1-001466/2026",
+  "orgao": "MUNICIPIO DE PORTO ALEGRE",
+  "unidade": "DLC - Diretoria de Licitações e Contratos",
+  "cidade": "Porto Alegre",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de equipamentos hospitalares - bomba elétrica de extração de leite humano, incubadora neonatal e monitores multiparamétricos e de pressão, para a Administração Pública Municipal.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 171237.11,
+  "abertura": "2026-11-12T18:00:00",
+  "encerramento": "2026-11-30T09:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92963560000160/2026/1466",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Porto-Alegre-206/PE-415-2026-2026-524721",
+  "total_itens": 5,
+  "itens_da_linha": [
+   {
+    "descricao": "Monitor de pressao nao invasiva e oximetria, cfe.esp.anexa",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 55907.31,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Monitor multiparametrico com capnografia, cfe.esp.anexa",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 20404.23,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 76311.54,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
   "id": "88138292000174-1-000201/2026",
   "orgao": "MUNICIPIO DE ROSARIO DO SUL",
   "unidade": "PREFEITURA MUNICIPAL DE ROSARIO DO SUL",
@@ -11465,6 +11619,48 @@
   "valor_itens_da_linha": 25090.46,
   "itens_principais": 3,
   "exclusiva_me": true
+ },
+ {
+  "id": "92787118000120-1-001057/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospitalar (MASCARAS, PORTA AGULHAS E VELAS DE HEGAR), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-11T13:00:00",
+  "encerramento": "2026-12-01T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1057",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103796",
+  "total_itens": 48,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 32118\nEspecificação: ESPECULO P/OTOSCOPIO N.5, COMPATIVEL C/OTOSCOPIO CIRURGICO DA MARCA WELCH ALLYN - AUTOCLAVAVEL - \nUnidade: UNIDADE",
+    "quantidade": 48.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 10902\nEspecificação: PORTA AGULHA FORTE (P/FIO CIRURGICO DE ACO), DE 18 A 20 cm DE COMPRIMENTO, EM ACO INOX POLIDO, AUTOCLAVAVEL A 134ºC - \nUnidade: UNIDADE",
+    "quantidade": 24.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 2,
+  "exclusiva_me": false
  },
  {
   "id": "13016717000173-1-000269/2026",
@@ -12132,6 +12328,343 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "87344016000108-1-000726/2026",
+  "orgao": "MUNICIPIO DE PORTAO",
+  "unidade": "Departamento de Compras",
+  "cidade": "Portão",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de eletrodomésticos, equipamentos hospitalares e de informática",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 137666.95,
+  "abertura": "2026-11-13T08:00:00",
+  "encerramento": "2026-12-03T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87344016000108/2026/726",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Portao-204/PE-74-2026-2026-524993",
+  "total_itens": 23,
+  "itens_da_linha": [
+   {
+    "descricao": "Maca hospitalar, fixa, com balcão em MDF amadeirado com 3 portas e 3 gavetas, estrutura reforçada, fácil higienização, revestimento em corino, ergonomia com 5 níveis de elevação do tronco, medidas aproximadas de 180cm x 60cm x 80cm (C x L x A), estofado 5cm, apoio para cabeça 55cm x 60cm, colchão 125cm x 60cm, capacidade 350kg, corrediças telescópicas, dobradiças 35mm, super alta, puxador de alumí",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 6574.0,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Balança antropométrica digital com régua, capacidade mínima de 200kg, estrutura em chapa de aço carbono, divisões de 50g, plataforma aproximada de 400 x 500mm, régua antropométrica com escala entre 1 e 2m, tapete de borracha antiderrapante, pés reguláveis, 220V.",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 1819.1,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Balança antropométrica, infantil, digital, capacidade até 30kg. Possui concha anatômica em polipropileno injetada para melhor acomodar o bebê, medindo 540 x 290mm, cobertura em ABS, pés reguláveis. Graduação: de 10g em 10g. Display led com 6 dígitos de 14,2mm de altura e 8,1mm de largura. Chave seletora de tensão de 110/220V. Aferição pelo INMETRO e 01 ano de garantia",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 2249.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Mesa ginecológica simples, leito estofado em courino, dividido em 3 partes, sendo encosto e apoio de pés com altura regulável e assento fixo. Estrutura tubular em aço redondo 1.1/4”. Apoio de pernas com altura reguláveis, em aço, com revestimento em courino. Pés com ponteiras plásticas.",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3678.0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Suporte para soro, com rodízios, aço inoxidável e pintura epóxi, base de ferro fundido em forma de X, pés com rodízios 2” tipo bola, coluna receptora de haste, regulagem de altura, haste em tubo, ganchos em forma de cruz.",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 507.0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Biombo triplo, em epóxi, com tecido em algodão na cor branco, construído em tubos inox de 3/4” x 1,0mm, faces com movimentos 360º, pés com rodízios de 1.1/2”. Dimensões: Altura 175cm, Largura 225cm e Profundidade 2cm.",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 1808.32,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Balança antropométrica para obesos, capacidade 300kg, divisão de 100g. Dimensões da plataforma: 40x50cm (L x C), cor predominante branco, régua antropométrica até 2 metros. Aferida pelo INMETRO. Garantia de 12meses.",
+    "quantidade": 1.0,
+    "unidade": "Unidade",
+    "valor_total": 2200.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Desfibrilador externo automático (DEA), portátil, compacto, leve, microprocessado, com alça para transporte incorporada ao gabinete, adaptável a pacientes adultos e pediátricos, de tamanho reduzido, tecnologia de onda bifásica exponencial truncada em conformidade com a Guideline 2015, possibilidades de atualização futura de protocolo no próprio local onde o equipamento estiver instalado. Com regis",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 19400.0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Cadeira de rodas, adulto, capacidade 120kg, estrutura em aço, assento e encosto em nylon, largura do assento 40cm, do encosto 49cm, rodas de alumínio com pneus de borracha sólida, com apoio de pés ajustável.",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 2079.0,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 40314.42,
+  "itens_principais": 9,
+  "exclusiva_me": true
+ },
+ {
+  "id": "15126437000305-1-004682/2026",
+  "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+  "unidade": "HOSPITAL UNIVERSITÁRIO DE SANTA MARIA",
+  "cidade": "Santa Maria",
+  "objeto": "AQUISIÇÃO EVENTUAL E PARCELADA DE ESPÉCULO NASAL INFANTIL, NÃO ESTÉRIL, DESCARTÁVEL,ESPAÇADOR VALVULADO PARA TERAPIA INALATÓRIA MÁSCARA, ADULTO,ABAIXADOR DE LÍNGUA DE MADEIRA,ANUSCÓPIO DESCARTÁVEL PARA REALIZAÇÃO DE EXAMES PROCTOLÓGICOS,AGULHA DESCARTÁVEL, ESTÉRIL 40 X 16 COM BISEL TRIFACETADO,ESPÉCULO VAGINAL, TIPO COLLIN, DENTRE OUTROS MATERIAIS USADOS NA ROTINA DO HOSPITAL UNIVERSITÁRIO DE SANTA MARIA(UFSM/HUSM) DA REDE HUBRASIL.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-12T08:00:00",
+  "encerramento": "2026-12-14T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/15126437000305/2026/4682",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15512505000892026",
+  "total_itens": 39,
+  "itens_da_linha": [
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Curva, Tipo Lâmpada:Halógena, Tamanho:Nº 0 G1 - LÂMINA PARA LARINGOSCÓPIO, CURVA Nº 0, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE POSSUIR REGISTRO NA ANVISA. (CÓDIGO...",
+    "quantidade": 3.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Curva, Tipo Lâmpada:Halógena, Tamanho:Nº 1 G1 - LÂMINA PARA LARINGOSCÓPIO, CURVA Nº 1, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 9.0 (+/- 1.0) CM. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE PO...",
+    "quantidade": 12.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Curva, Tipo Lâmpada:Halógena, Tamanho:Nº 2 G1 - LÂMINA PARA LARINGOSCÓPIO, CURVA Nº 2, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 12 (+/- 1.0) CM. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE POS...",
+    "quantidade": 9.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Curva, Tipo Lâmpada:Halógena, Tamanho:Nº 3 G1 - LÂMINA PARA LARINGOSCÓPIO, CURVA Nº 3, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 14 (+/- 1.0) CM; ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE POS...",
+    "quantidade": 34.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Curva, Tipo Lâmpada:Halógena, Tamanho:Nº 4 G1 - LÂMINA PARA LARINGOSCÓPIO, CURVA Nº 4, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 16 (+/- 1.0) CM. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE POS...",
+    "quantidade": 77.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Curva, Tipo Lâmpada:Halógena, Tamanho:Nº 5 G1 - LÂMINA PARA LARINGOSCÓPIO, CURVA Nº 5, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE POSSUIR REGISTRO NA ANVISA. (CÓDIGO...",
+    "quantidade": 32.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Reta, Tipo Lâmpada:Halógena, Tamanho:Nº 0 G1 - LÂMINA PARA LARINGOSCÓPIO, RETA Nº 0, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE POSSUIR REGISTRO NA ANVISA. (CÓDIGO...",
+    "quantidade": 11.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Reta, Tipo Lâmpada:Halógena, Tamanho:Nº 00 G1 - LÂMINA PARA LARINGOSCÓPIO, RETA Nº 00, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 7.5 (+/- 0.5) CM. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE PO...",
+    "quantidade": 7.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Reta, Tipo Lâmpada:Halógena, Tamanho:Nº 1 G1 - LÂMINA PARA LARINGOSCÓPIO, RETA Nº 1, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 9.0 (+/- 0.5) CM. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE POS...",
+    "quantidade": 9.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Reta, Tipo Lâmpada:Halógena, Tamanho:Nº 2 G1 - LÂMINA PARA LARINGOSCÓPIO, RETA Nº 2, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 11.0 (+/- 0.5) CM. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE PO...",
+    "quantidade": 9.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Reta, Tipo Lâmpada:Halógena, Tamanho:Nº 3 G1 - LÂMINA PARA LARINGOSCÓPIO, RETA Nº 3, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 14.0 (+/- 1.0) CM. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE PO...",
+    "quantidade": 5.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina Laringoscópio Lâmina Laringoscópio, Material:Aço Inoxidável, Tipo:Reta, Tipo Lâmpada:Halógena, Tamanho:Nº 4 G1 - LÂMINA PARA LARINGOSCÓPIO, RETA Nº 4, EM AÇO INOXIDÁVEL À PROVA DE FERRUGEM E COM ACABAMENTO ACETINADO PARA REDUÇÃO DO BRILHO E REFLEXÃO, COM BORDAS ARREDONDADAS, COM LÂMPADA. COMPRIMENTO DE 16.5 (+/- 1.0) CM. ESTERILIZÁVEL E AUTOCLAVÁVEL. DEVE PO...",
+    "quantidade": 9.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmpada - Laringoscópio Lâmpada - Laringoscópio, Tipo:Universal, Tensão:2,5 V, Potência Nominal:2 W G1 - LÂMPADA 2,5 V PARA LÂMINAS DE LARINGOSCÓPIO CONVENCIONAL. DEVE SER COMPATÍVEL COM AS LÂMINAS DESSE GRUPO. NO MOMENTO DO PEDIDO SERÁ INFORMADO O TIPO DA ROSCA (FINA OU GROSSA). APRESENTAR CATÁLOGO.",
+    "quantidade": 179.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmpada - Laringoscópio Lâmpada - Laringoscópio, Tipo:Led Branco, Tensão Nominal:2,5 V, Aplicação:Laringoscópio Adulto G1 - LÂMPADA TIPO LED PARA LÂMINAS DE LARINGOSCÓPIO CONVENCIONAL. DEVE SER COMPATÍVEL COM AS LÂMINAS DESSE GRUPO. NO MOMENTO DO PEDIDO SERÁ INFORMADO O TIPO DA ROSCA (FINA OU GROSSA). ENVIAR AMOSTRA.",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Agulha Hipodérmica Agulha Hipodérmica, Material:Aço Inoxidável Siliconizado, Dimensão:16 G X 1 1/2\", Tipo Ponta:Bisel Curto Trifacetado, Tipo Conexão:Conector Luer Lock Ou Slip Em Plástico, Tipo Fixação:Protetor Plástico, Tipo Uso:Estéril, Descartável, Embalagem Individual AGULHA DESCARTÁVEL, ESTÉRIL 40 X 16 COM BISEL TRIFACETADO. APRESENTAR REGISTRO NA ANVISA E AFE (AUTORIZAÇÃO DE FUNCIONAMENTO D",
+    "quantidade": 29000.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Estetoscópio Uso Em Saúde Estetoscópio Uso Em Saúde, Tipo:Biauricular, Acessórios:Olivas Anatômicas Pvc, Haste:Haste Aço Inox, Tubo:Tubo \"Y\" Pvc, Auscultador:Auscultador Aço Inox C/ Anel De Borracha, Tamanho:Adulto ESTETOSCÓPIO TIPO AUSCULTADOR DUPLO, ADULTO/INFANTIL, BIAURICULAR, AUSCULTADOR EM AÇO INOX, ARTICULAÇÃO Y SEM SOLDAS, EM PVC, BORRACHA EXTRA MACIA, OLIVAS EM SILICONE ANATÔMICAS, AJUSTE",
+    "quantidade": 143.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Oliva Uso Médico Oliva Uso Médico, Material:Pvc, Aplicação:Compatível C/ Estetoscópio OLIVAS EM PVC MACIO SEM ROSCA PARA REPOSIÇÃO EM ESTETOSCÓPIO. APRESENTAÇÃO EM PAR. APRESENTAR CATÁLOGO.",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Seringa Seringa, Material:Polipropileno, Capacidade:60 ML, Tipo Bico:Bico Tipo Cateter, Tipo Vedação:Êmbolo De Borracha, Adicional:Graduada, Numerada, Esterilidade:Estéril, Descartável, Apresentação:Embalagem Individual SERINGA DESCARTÁVEL 50 A 60 ML, COM BICO CATETER, CILINDRO EM POLIPROPILENO TRANSPARENTE COM ESCALA DE GRADUAÇÃO COM TINTA PERMANENTE PRECISA, TRAÇOS LONGOS E SECUNDÁRIOS E NUMERAÇ",
+    "quantidade": 3602.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 16,
   "exclusiva_me": false
  }
 ]
