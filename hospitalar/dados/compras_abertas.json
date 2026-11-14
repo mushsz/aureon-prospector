@@ -5913,7 +5913,7 @@
   "abertura": "2026-11-10T08:00:00",
   "encerramento": "2026-11-23T09:00:00",
   "link_pncp": "https://pncp.gov.br/app/editais/13183513000127/2026/209",
-  "link_sistema": "https://pregaobanrisul.com.br/editais/327492_2026/359183",
+  "link_sistema": "https://pregaobanrisul.com.br/editais/0144_2026/359183",
   "total_itens": 25,
   "itens_da_linha": [
    {
@@ -5985,6 +5985,599 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 3,
+  "exclusiva_me": false
+ },
+ {
+  "id": "87612743000109-1-000311/2026",
+  "orgao": "MUNICIPIO DE ESPUMOSO",
+  "unidade": "PREFEITURA MUNICIPAL DE ESPUMOSO - RS",
+  "cidade": "Espumoso",
+  "objeto": "AQUISIÇÕES DE MATERIAIS MÉDICO-HOSPITALARES, AMBULATORIAIS E INSTRUMENTAIS ÀS UNIDADES DE SAÚDE DO MUNICIPIO DE ESPUMOSO, ÀS EQUIPES DO SAMU BÁSICO E AVANÇADO E AOS PROCEDIMENTOS VETERINÁRIOS REALIZADOS PELO CASTRAMÓVEL, COM FORNECIMENTO PARCELADO CONFORME A NECESSIDADE DA ADMINISTRAÇÃO.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 586487.79,
+  "abertura": "2026-11-23T08:30:00",
+  "encerramento": "2026-11-23T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87612743000109/2026/311",
+  "link_sistema": null,
+  "total_itens": 163,
+  "itens_da_linha": [
+   {
+    "descricao": "Agulha hipodérmica descartável 25x8: canhão de cor verde, estéril, atóxica, apirogênica de uso único, pode ser conectada a qualquer seringa de bico luerLocK ou luerslip, composta de cânula com bisel, trifacetado, capa protetora em formato cilíndrico, cânula em aço inox, capa e canhão de polímeros atóxicos, esterilizadas e embaladas individualmente em blister de plástico com papel grau cirúrgico, c",
+    "quantidade": 150.0,
+    "unidade": "Un",
+    "valor_total": 1213.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Agulha hipodérmica descartável 40x12: canhão rosa, com dispositivo de segurança Conf. NR 32, estéril, atóxica, apirogênica de uso único, pode ser conectada a qualquer seringa de bico luerLocK ou luerslip, composta de cânula com bisel, trifacetado e siliconizado, capa protetora em formato cilíndrico, cânula em aço inox, capa e canhão de polímeros atóxicos, esterilizadas e embaladas individualmente ",
+    "quantidade": 150.0,
+    "unidade": "Un",
+    "valor_total": 1428.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Atadura de Crepe (Elástica) – 10 cm x 1,80 m (repouso): confeccionadas com tecido sintético misto com fios de alta torção. Confere alta resistência, com densidade de 13 fioscm². Em algodão, não estéril, isenta de lanugens, impurezas, não abrasiva, bordas delimitadas sem fios soltos e sem desfilamentos, com Certificações Registro ANVISA, NBR nº14056 - portaria 106/2003 - INMETRO, pacote contendo 12",
+    "quantidade": 300.0,
+    "unidade": "Un",
+    "valor_total": 2364.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Atadura de Crepe (Elástica) -06 cm x 1,80 m (repouso): confeccionadas com tecido sintético misto com fios de alta torção. Confere alta resistência, com densidade de no minimo 13 fioscm². Em algodão, não estéril, isenta de lanugens, impurezas, não abrasiva, bordas delimitadas sem fios soltos e sem desfilamentos, com Certificações Registro ANVISA, NBR nº14056 - portaria 106/2003 - INMETRO, pacote co",
+    "quantidade": 250.0,
+    "unidade": "Un",
+    "valor_total": 1175.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Atadura de Crepe (Elástica) –12 cm x 1,80 m (repouso): confeccionadas com tecido sintético misto com fios de alta torção. Confere alta resistência, com densidade de 13 fioscm². Em algodão, não estéril, isenta de lanugens, impurezas, não abrasiva, bordas delimitadas sem fios soltos e sem desfilamentos, com Certificações Registro ANVISA, NBR nº14056 - portaria 106/2003 - INMETRO, pacote contendo 12 ",
+    "quantidade": 300.0,
+    "unidade": "Un",
+    "valor_total": 2391.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Atadura de Crepe (Elástica) –-15 cm x 1,80 m (repouso): confeccionadas com tecido sintético misto com fios de alta torção. Confere alta resistência, com densidade de 13 fioscm². Em algodão, não estéril, isenta de lanugens, impurezas, não abrasiva, bordas delimitadas sem fios soltos e sem desfilamentos, com Certificações Registro ANVISA, NBR nº14056 - portaria 106/2003 - INMETRO, pacote contendo 12",
+    "quantidade": 220.0,
+    "unidade": "Un",
+    "valor_total": 1971.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Atadura de Crepe (Elástica) 20 cm x 1,80 m (repouso): confeccionadas com tecido sintético misto com fios de alta torção. Confere alta resistência, com densidade de 13 fioscm². Em algodão, não estéril, isenta de lanugens, impurezas, não abrasiva, bordas delimitadas sem fios soltos e sem desfilamentos, com Certificações Registro ANVISA, NBR nº14056 - portaria 106/2003 - INMETRO, pacote contendo 12 R",
+    "quantidade": 170.0,
+    "unidade": "Un",
+    "valor_total": 2550.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cateter intravenoso nº. 18G (1,3 x 45 mm – verde) agulha com interior de parede fina e ponta obliqua assegura uma fácil punção, cor do canhão verde, comprimento do cateter 1-1/4”(45 mm), agulha 0,78 mm.”. Embalados individualmente em blister de plástico estéril, papel grau cirúrgico, contendo data de fabricação, validade (prolongada), nº. lote, registro Anvisa.",
+    "quantidade": 500.0,
+    "unidade": "Un",
+    "valor_total": 340.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cateter intravenoso nº. 20G –, agulha com interior de parede fina e ponta obliqua assegura uma fácil punção, cor do canhão rosa, comprimento do cateter 1-1/4”(32 mm), agulha 0,70mm.”. Caixa com 50 unidades, embalados individualmente em blister de plástico estéril, papel grau cirúrgico, contendo data de fabricação, validade (prolongada), nº. lote, Registro Anvisa.",
+    "quantidade": 15.0,
+    "unidade": "Un",
+    "valor_total": 448.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cateter intravenoso nº. 22G , agulha com interior de parede fina e ponta obliqua assegura uma fácil punção, cor do canhão azul, comprimento do cateter 1-1(25 mm), agulha 0,55mm.”. Caixa com 50 unidades, embalados individualmente em blister de plástico estéril, papel grau cirúrgico, contendo data de fabricação, validade (prolongada), nº. lote, Registro Anvisa.",
+    "quantidade": 40.0,
+    "unidade": "Un",
+    "valor_total": 1255.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cateter intravenoso nº. 24G –, agulha com interior de parede fina e ponta obliqua assegura uma fácil punção, cor do canhão amarela, comprimento do cateter 3/4”(20 mm), agulha 0,45mm.”. Caixa com 50 unidades, embalados individualmente em blister de plástico estéril, papel grau cirúrgico, contendo data de fabricação, validade (prolongada), nº. lote, Registro Anvisa.",
+    "quantidade": 40.0,
+    "unidade": "Un",
+    "valor_total": 1451.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Compressa de gaze tipo queijo (rolo): produzidas com 100% algodão, isentas de alvejantes ópticos ou corretivos, isenta de amido, produzida com 8 dobras e 8 camadas. Sua aplicação é destinada ao uso externo, principalmente para absorção de liquidos em cirurgias, curativos ou procedimentos operatórios, inclusive no tratamento de queimaduras e assepsia e uso em geral em hospital. Embalagem com 1 unid",
+    "quantidade": 350.0,
+    "unidade": "Un",
+    "valor_total": 31500.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Compressas cirúrgica campo operatório 23 x 25 (aberta): elaboradas com tecido quádruplo (quatro camadas), 100% algodão, altamente absorvente, isento de substâncias gordurosas, amido e alvejantes ópticos. Pacote com 50 unidades, constando externamente os dados de identificação, data de fabricação, validade (prolongada), nº. lote, Registro Anvisa.",
+    "quantidade": 600.0,
+    "unidade": "Un",
+    "valor_total": 18108.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Compressas de gaze hidrófilas 13 fios c/ 500 un 7,5 x 7,5 cm 100% puro algodão: macio e extra-absorvente,com 8 camadas e 8 dobras 13 fios por cm², tecido tipo tela, com dimensão de 7,5 x 7,5cm quando fechadas e 15 x 30cm quando abertas. São alvejadas, purificadas e isentas de impurezas, substâncias gordurosas, amido, corantes corretivos, alvejantes ópticos. São dobradas para dentro em toda a sua e",
+    "quantidade": 2300.0,
+    "unidade": "Un",
+    "valor_total": 63848.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Curativo adesivo tipo band-aid: curativo adesivo para proteção de pequenos cortes, ferimentos e escoriações, com compressa absorvente central, adesivo de boa fixação e material flexível, tamanho aproximado de 19 mm x 72 mm, embalado individualmente, de uso único.",
+    "quantidade": 200.0,
+    "unidade": "Un",
+    "valor_total": 1714.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Equipo Macrogotas indicado para infusão de soluções parenterais estéreis: embalado individualmente em papel grau cirúrgico com filme termoplástico e selado termicamente. Dispositivo para infusão, controle de fluxo e dosagem de soluções parenterais, conecta o recipiente de soluções (frasco ou bolsa) ao dispositivo de acesso venoso (scalp, cateter intravenoso, ou agulha), viabiliza o controle de flu",
+    "quantidade": 1800.0,
+    "unidade": "Un",
+    "valor_total": 1764.0,
+    "linhas": [
+     "glicosímetro e tiras",
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio de sutura 0-0: composto por agulha de aço inoxidável e fio de nylon monofilamento, possuindo 45 cm cada unidade, o pigmento utilizado para tingir a sutura de preto é a hemateína. Fio não absorvível e esterilizado por radiação gama. Produto de uso único. Caixa com 24 unidades. Embalagem contendo data de fabricação, nº. lote e validade (valid. Prolongada) e Registro Anvisa.",
+    "quantidade": 110.0,
+    "unidade": "Un",
+    "valor_total": 3303.3,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio de sutura 2-0: composto por agulha de aço inoxidável e fio de nylon monofilamento, possuindo 45 cm cada unidade, o pigmento utilizado para tingir a sutura de preto é a hemateína. Fio não absorvível e esterilizado por radiação gama. Produto de uso único. Caixa com 24 unidades. Embalagem contendo data de fabricação, nº. lote e validade (valid. Prolongada) e Registro Anvisa.",
+    "quantidade": 400.0,
+    "unidade": "Un",
+    "valor_total": 10412.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio de sutura 3-0: composto por agulha de aço inoxidável efio de nylon monofilamento, possuindo 45 cm cada unidade, o pigmento utilizado para tingir a sutura de preto é a hemateína. Fio não absorvível e esterilizado por radiação gama. Produto de uso único. Caixa com 24 unidades. Embalagem contendo data de fabricação, nº. lote e Validade (valid. Prolongada) e Registro Anvisa.",
+    "quantidade": 200.0,
+    "unidade": "Un",
+    "valor_total": 5222.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio de sutura 4-0: composto por agulha de aço inoxidável e fio de nylon monofilamento, possuindo 45 cm cada unidade, o pigmento utilizado para tingir a sutura de preto é a hemateína. Fio não absorvível e esterilizado por radiação gama. Produto de uso único. Caixa com 24 unidades. Embalagem contendo data de fabricação, nº. lote e validade (valid. Prolongada) e Registro Anvisa.",
+    "quantidade": 50.0,
+    "unidade": "Un",
+    "valor_total": 1274.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fio de sutura 5-0: composto por agulha de aço inoxidável e fio de nylon monofilamento, possuindo 45 cm cada unidade, o pigmento utilizado para tingir a sutura de preto é a hemateína. Fio não absorvível e esterilizado por radiação gama. Produto de uso único. Caixa com 24 unidades. Embalagem contendo data de fabricação, nº. lote e validade (valid. Prolongada) e Registro Anvisa.",
+    "quantidade": 50.0,
+    "unidade": "Un",
+    "valor_total": 1268.5,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fita micropore com capa – rolo com 10 cm x 10 m: composição: Rayon de viscose não-tecido com adesivo acrílico hipoalergênico. Apresentação: rolo com capa medindo: 10 cm x 10 m. Embalagem contendo data de fabricação, nº. lote e validade e Registro Anvisa.",
+    "quantidade": 350.0,
+    "unidade": "Un",
+    "valor_total": 2607.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fita micropore com capa – rolo com 2,5 cm x 10 m: composição: Rayon de viscose não-tecido com adesivo acrílico hipoalergênico. Apresentação: rolo com capa medindo: 2,5 cm x 10 m. Embalagem contendo data de fabricação, nº. lote e validade e Registro Anvisa.",
+    "quantidade": 700.0,
+    "unidade": "Un",
+    "valor_total": 1715.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Fita micropore com capa – rolo com 5 cm x 10 m: composição: Rayon de viscose não-tecido com adesivo acrílico hipoalergênico. Apresentação: rolo com capa medindo: 5 cm x 10 m. Embalagem contendo data de fabricação, nº. lote e validade e Registro Anvisa.",
+    "quantidade": 700.0,
+    "unidade": "Un",
+    "valor_total": 3493.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Gaze de rayon: Indicada para curativos decorrentes de queimaduras ou onde necessite baixa aderência. - Tamanho 7,5 cm x 5 m. Rolo. Embalado individualmente.",
+    "quantidade": 200.0,
+    "unidade": "Un",
+    "valor_total": 1254.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Hipoclorito de Sódio 1,0% (10.000 ppm cloro ativo): desinfetante Hospitalar para superfície Fixas não metálicas em hospitais e estabelecimentos de saúde, para desinfecção de artigos de plásticos e borracha como mascaras de inalação, nebulizadores e outros. Embalagem com 1 litro contendo data de fabricação, nº do lote, validade e registro MS.",
+    "quantidade": 60.0,
+    "unidade": "Un",
+    "valor_total": 310.8,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina de bisturi - nº. 11: estéril em aço inoxidável ou açocarbono, isenta de rebarbas e sinais de oxidação, perfeita adaptação ao cabo, esterilizado por exposição a raios gama, envelope em alumínio que permita abertura, com acabamento asséptico hermeticamente fechado, com forro interno de proteção para o fio da lâmina, caixa com 100 unidades, contendo dados de identificação, lote e validade.",
+    "quantidade": 30.0,
+    "unidade": "Un",
+    "valor_total": 751.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina de bisturi - nº. 12: estéril em aço inoxidável ou aço carbono, isenta de rebarbas e sinais de oxidação, perfeita adaptação ao cabo, esterilizado por exposição a raios gama, envelope em alumínio que permita abertura, com acabamento asséptico hermeticamente fechado, com forro interno de proteção para o fio da lâmina, caixa com 100 unidades, contendo dados de identificação, lote e validade.",
+    "quantidade": 20.0,
+    "unidade": "Un",
+    "valor_total": 479.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Lâmina de bisturi - nº. 15: estéril em aço inoxidável ou aço carbono, isenta de rebarbas e sinais de oxidação, perfeita adaptação ao cabo, esterilizado por exposição a raios gama, envelope em alumínio que permita abertura, com acabamento asséptico hermeticamente fechado, com forro interno de proteção para o fio da lâmina, caixa com 100 unidades, contendo dados de identificação, lote e validade.",
+    "quantidade": 20.0,
+    "unidade": "Un",
+    "valor_total": 482.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Luva cirúrgica nº. 6,5 – estéril. Tamanho: 6,5- Espessura: 0,17 mm - Comprimento: 280 mm - Matéria Prima: puro látex natural – Embalagem em papel grau cirúrgico contendo um par, Lubrificados com finíssimo pó bio-absorvível - Punho reforçado. Embalagem contendo data de fabricação, nº. lote e validade (prolongada), Registro Anvisa, estando em conformidade com a portaria N° 233 de 30/06/2008. Embalad",
+    "quantidade": 100.0,
+    "unidade": "Un",
+    "valor_total": 151.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Luva cirúrgica nº. 7,0 – estéril. Tamanho: 7,0 - Espessura: 0,17 mm - Comprimento: 280 mm - Matéria Prima: puro látex natural – Embalagem em papel grau cirúrgico contendo um par, Lubrificados com finíssimo pó bio-absorvível - Punho reforçado. Embalagem contendo data de fabricação, nº. lote e validade (prolongada), Registro Anvisa, estando em conformidade com a portaria N° 233 de 30/06/2008. Embala",
+    "quantidade": 300.0,
+    "unidade": "Un",
+    "valor_total": 375.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Luva cirúrgica nº. 7,5 – estéril. Tamanho: 7,5 - Espessura: 0,17 mm - Comprimento: 280 mm - Matéria Prima: puro látex natural – Embalagem em papel grau cirúrgico contendo um par, Lubrificados com finíssimo pó bio-absorvível - Punho reforçado. Embalagem contendo data de fabricação, nº. lote e validade (prolongada), Registro Anvisa, estando em conformidade com a portaria N° 233 de 30/06/2008. Embala",
+    "quantidade": 700.0,
+    "unidade": "Un",
+    "valor_total": 938.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Luva cirúrgica nº. 8.0 – estéril. Tamanho: 8,0 - Espessura: 0,17 mm - Comprimento: 280 mm - Matéria Prima: puro látex natural – Embalagem em papel grau cirúrgico contendo um par, Lubrificados com finíssimo pó bio-absorvível - Punho reforçado. Embalagem contendo data de fabricação, nº. lote e validade (prolongada), Registro Anvisa, estando em conformidade com a portaria N° 233 de 30/06/2008. Embala",
+    "quantidade": 500.0,
+    "unidade": "Un",
+    "valor_total": 645.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Luva cirúrgica nº. 8.5 – estéril. Tamanho: 8,5 - Espessura: 0,17 mm - Comprimento: 280 mm - Matéria Prima: puro látex natural – Embalagem em papel grau cirúrgico contendo um par, Lubrificados com finíssimo pó bio-absorvível - Punho reforçado. Embalagem contendo data de fabricação, nº. lote e validade (prolongada), Registro Anvisa, estando em conformidade com a portaria N° 233 de 30/06/2008. Embala",
+    "quantidade": 250.0,
+    "unidade": "Un",
+    "valor_total": 307.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Papel térmico para registro de exames de eletrocardiograma (ECG), compatível com o eletrocardiógrafo CONTEC ECG 1200G, proporcionando impressão nítida e adequada dos traçados eletrocardiográficos. Confeccionado em papel térmico de qualidade, com boa sensibilidade à impressão, uniformidade e resistência, garantindo legibilidade dos registros. Apresentação em bobina, com dimensões compatíveis com o ",
+    "quantidade": 30.0,
+    "unidade": "Un",
+    "valor_total": 723.0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Papel térmico para impressão de eletrocardiogramas (ECG), compatível com o eletrocardiógrafo Bionet Cardiocare 2000, destinado ao registro e impressão dos traçados eletrocardiográficos. Deve proporcionar impressão nítida, uniforme e de fácil leitura, com boa sensibilidade térmica e qualidade adequada para armazenamento dos registros. Apresentação em rolo/bobina, com dimensões compatíveis com o equ",
+    "quantidade": 100.0,
+    "unidade": "Un",
+    "valor_total": 2231.0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Scalp estéril nº. 21 (verde): para infusão venosa, com dispositivo de segurança, conforme NR 32 - caixa com 100 unid. Scalp nº. 21, cateter para infusão venosa com agulha aguçada de bisel, curto trifacetadoprovido de protetor plástico, com asas de plásticocodificada por cores, que diferenciam o calibre, tubo vinílico leve, flexível, transparente, atóxico e apirogênico com conector rígido, leve e p",
+    "quantidade": 15.0,
+    "unidade": "Un",
+    "valor_total": 316.65,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Scalpe estéril nº. 23 (azul): para infusão venosa, com dispositivo de segurança, conforme NR 32 - caixa com 100 unid. Scalp nº. 23, cateter para infusão venosa com agulha aguçada de bisel, curto trifacetadoprovido de protetor plástico, com asas de plásticocodificada por cores, que diferenciam o calibre, tubo vinílico leve, flexível, transparente, atóxico e apirogênico com conector rígido, leve e p",
+    "quantidade": 25.0,
+    "unidade": "Un",
+    "valor_total": 485.75,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Scalpe estéril nº. 25 (laranja): para infusão venosa, com dispositivo de segurança, conforme NR 32 - caixa com 100 unid. Scalp nº. 25, cateter para infusão venosa com agulha aguçada de bisel, curto trifacetadoprovido de protetor plástico, com asas de plásticocodificada por cores, que diferenciam o calibre, tubo vinílico leve, flexível, transparente, atóxico e apirogênico com conector rígido, leve ",
+    "quantidade": 10.0,
+    "unidade": "Un",
+    "valor_total": 201.4,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Seringa descartável 01ml Insulina com Agulha: dimensões 13mm x 0,45 mm (26G) –Características: estéril, atóxica, apirogênica, livres de látex, com agulha fixa, siliconizada em toda sua extensão com silicone grau médico que permite melhor penetração do bisel e deslize suave da cânula em todo percurso, fácil leitura da graduação, linhas e numeração da escala impressos de forma legível, graduação 100",
+    "quantidade": 100.0,
+    "unidade": "Un",
+    "valor_total": 2607.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Seringa descartável 01ml Insulina sem Agulha: dimensões 13mm x 0,45 mm (26G) –Características: estéril, atóxica, apirogênica, livres de látex, siliconizada em toda sua extensão com silicone grau médico que permite melhor penetração do bisel e deslize suave da cânula em todo percurso, fácil leitura da graduação, linhas e numeração da escala impressos de forma legível, graduação 100 UI: escala com i",
+    "quantidade": 10000.0,
+    "unidade": "Un",
+    "valor_total": 1800.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda de Aspiração Traqueal nº 08: Tubo em PVC atóxico, flexível transparente com a superfície rigorosamente lisa com uma ponta arredondada aberta no lado proximal do tubo e 02 orifícios alternados em lados opostos. N° 08. Diâmetro Externo 2,7mm Comprimento 40cm.",
+    "quantidade": 3000.0,
+    "unidade": "Un",
+    "valor_total": 1950.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda de Aspiração Traqueal nº 10: Tubo em PVC atóxico, flexível transparente com a superfície rigorosamente lisa com uma ponta arredondada aberta no lado proximal do tubo e 02 orifícios alternados em lados opostos. N° 10. Diâmetro Externo 3,3mm Comprimento 50cm.",
+    "quantidade": 3000.0,
+    "unidade": "Un",
+    "valor_total": 2190.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda de Aspiração Traqueal nº 12: Tubo em PVC atóxico, flexível transparente com a superfície rigorosamente lisa com uma ponta arredondada aberta no lado proximal do tubo e 02 orifícios alternados em lados opostos. N° 12. Diâmetro Externo 4,0mm.Comprimento 50cm.",
+    "quantidade": 1000.0,
+    "unidade": "Un",
+    "valor_total": 730.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Foley 2 vias numero 12, utilizada para cateterismo vesical de demora, que consiste no procedimento de drenagem do canal da uretra, permitindo o esvaziamento da urina que está na bexiga. Estéril, com 2 vias, que conectam o tubo flexivel a qualquer tipo de bolsa coletora. Feito de latex de borracha 100% natural, com ponta distal atraumátiva. Embalagem individual, tipo blister, de fácil abertur",
+    "quantidade": 30.0,
+    "unidade": "Un",
+    "valor_total": 72.9,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Foley 2 vias numero 14, utilizada para cateterismo vesical de demora, que consiste no procedimento de drenagem do canal da uretra, permitindo o esvaziamento da urina que está na bexiga. Estéril, com 2 vias, que conectam o tubo flexivel a qualquer tipo de bolsa coletora. Feito de latex de borracha 100% natural, com ponta distal atraumátiva. Embalagem individual, tipo blister, de fácil abertur",
+    "quantidade": 30.0,
+    "unidade": "Un",
+    "valor_total": 83.7,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Foley 2 vias numero 16, utilizada para cateterismo vesical de demora, que consiste no procedimento de drenagem do canal da uretra, permitindo o esvaziamento da urina que está na bexiga. Estéril, com 2 vias, que conectam o tubo flexivel a qualquer tipo de bolsa coletora. Feito de latex de borracha 100% natural, com ponta distal atraumátiva. Embalagem individual, tipo blister, de fácil abertur",
+    "quantidade": 40.0,
+    "unidade": "Un",
+    "valor_total": 105.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Foley 2 vias numero 18, utilizada para cateterismo vesical de demora, que consiste no procedimento de drenagem do canal da uretra, permitindo o esvaziamento da urina que está na bexiga. Estéril, com 2 vias, que conectam o tubo flexivel a qualquer tipo de bolsa coletora. Feito de latex de borracha 100% natural, com ponta distal atraumátiva. Embalagem individual, tipo blister, de fácil abertur",
+    "quantidade": 60.0,
+    "unidade": "Un",
+    "valor_total": 154.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Foley 2 vias numero 20, utilizada para cateterismo vesical de demora, que consiste no procedimento de drenagem do canal da uretra, permitindo o esvaziamento da urina que está na bexiga. Estéril, com 2 vias, que conectam o tubo flexivel a qualquer tipo de bolsa coletora. Feito de latex de borracha 100% natural, com ponta distal atraumátiva. Embalagem individual, tipo blister, de fácil abertur",
+    "quantidade": 40.0,
+    "unidade": "Un",
+    "valor_total": 86.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral de Alivio número 12. É indicada para o esvaziamento imediato da bexiga sem a permanência da sonda, sendo retirada após o alivio da bexiga. Deve ser de PVC estéril, transparente, flexível, atóxico, apirogênico, cristal, transparente de paredes finas e maleáveis, com ponta arredondada e fechada, com 1 furo lateral, com conector padrão com tampa. Embalada individualmente em papel grau c",
+    "quantidade": 1000.0,
+    "unidade": "Un",
+    "valor_total": 5020.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Tampão ocular para adulto, confeccionado em material macio, leve e adequado ao contato com a região periocular, produzido com fita micropore, proporcionando boa fixação e conforto durante o uso. Indicado para oclusão ocular e proteção da região dos olhos, permitindo adequada adaptação ao contorno facial e remoção sem causar trauma ou irritação excessiva à pele. Uso descartável, acondicionado em em",
+    "quantidade": 200.0,
+    "unidade": "Un",
+    "valor_total": 148.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Tampão ocular infantil confeccionado em material macio, leve e adequado ao contato com a região periocular, produzido com fita micropore, proporcionando boa fixação e conforto durante o uso. Indicado para oclusão ocular e proteção da região dos olhos, permitindo adequada adaptação ao contorno facial e remoção sem causar trauma ou irritação excessiva à pele. Uso descartável, acondicionado em embala",
+    "quantidade": 200.0,
+    "unidade": "Un",
+    "valor_total": 108.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 187524.5,
+  "itens_principais": 9,
   "exclusiva_me": false
  },
  {
@@ -6120,6 +6713,70 @@
   ],
   "valor_itens_da_linha": 7188.0,
   "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88771001000180-1-000372/2026",
+  "orgao": "MUNICIPIO DE TRAMANDAI",
+  "unidade": "Secretaria Municipal de Saúde",
+  "cidade": "Tramandaí",
+  "objeto": "para aquisiÃ§Ã£o de material ambulatorial e hospitalar destinado ao atendimento das Unidades de SaÃºde do MunicÃ­pio.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 1149284.5,
+  "abertura": "2026-11-10T00:00:00",
+  "encerramento": "2026-11-23T14:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88771001000180/2026/372",
+  "link_sistema": null,
+  "total_itens": 50,
+  "itens_da_linha": [
+   {
+    "descricao": "INDICADOR QUÃMICO - Indicador quÃ­mico (tipo 05 ou 06), para monitorar ciclos de autoclave a vapor. Indicador quÃ­mico de uso interno para realizar avaliaÃ§Ã£o de parÃ¢metros crÃ­ticos do ciclo de esterilizaÃ§Ã£o: qualidade de vapor, tempo e temperatura de exposiÃ§Ã£o. Confeccionado em tira de papel laminada frente e verso e impressa com fÃ³rmula quÃ­mica termo crÃ´mica reagente ao vapor saturado",
+    "quantidade": 500.0,
+    "unidade": "UNIDADE",
+    "valor_total": 445.0,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LANCETA - Lanceta para coleta de sangue por punÃ§Ã£o digital retrÃ¡til.",
+    "quantidade": 50000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 9000.0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LANCETA - Para acupuntura, Para Sangria, descartÃ¡vel.",
+    "quantidade": 1500.0,
+    "unidade": "UNIDADE",
+    "valor_total": 630.0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LANCETA - Para exame de glicemia capilar com ponta ultrafina de 28g. Adapta-se a grande maioria dos lancetadores do mercado.",
+    "quantidade": 150000.0,
+    "unidade": "UNIDADE",
+    "valor_total": 19500.0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 29575.0,
+  "itens_principais": 4,
   "exclusiva_me": false
  },
  {
@@ -9999,6 +10656,50 @@
   "exclusiva_me": false
  },
  {
+  "id": "93317980000131-1-000486/2026",
+  "orgao": "MUNICIPIO DE MORRINHOS DO SUL",
+  "unidade": "PREFEITURA MUNICIPAL DE MORRINHOS DO SUL",
+  "cidade": "Morrinhos do Sul",
+  "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO DE POLTRONA HOSPITALAR, CARRINHO DE EMERGÊNCIA E CARRINHO DE LIMPEZA HOSPITALAR, DESTINADOS AO ATENDIMENTO DAS NECESSIDADES DAS UNIDADES DE SAÚDE VINCULADAS À SECRETARIA MUNICIPAL DE SAÚDE.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 11798.22,
+  "abertura": "2026-11-13T16:00:00",
+  "encerramento": "2026-11-30T08:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/93317980000131/2026/486",
+  "link_sistema": "",
+  "total_itens": 3,
+  "itens_da_linha": [
+   {
+    "descricao": "Carrinho de emergência hospitalar com 6 gavetas e rodízios, altura 90 cm, comprimento e largura (mínimo) 53 cm x 79 cm, em aço com pintura eletrostática, cor cinza, suporte de no mínimo 90kg de carga, possuir uma tábua para massagem cardíaca, suporte para cilindro de oxigênio de até 10lts, suporte para desfibrilador, suporte de soro em inox, suporte para monitor, cadeado e chave, velcro do suporte",
+    "quantidade": 1.0,
+    "unidade": "UNIDADE",
+    "valor_total": 5786.0,
+    "linhas": [
+     "monitor/DEA",
+     "carro de emergência",
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Poltrona hospitalar reclinável; 4 posições; tratamento antiferruginoso, pintura eletrostática à pó; movimentos simultâneos\ndo encosto e descansa pés, acionado por alavanca lateral\nprática; encosto, assento e descansa pés estofados em espuma\nD23R com 70mm de espessura; assento, encosto, braços e\ndescanso para os pés estofados em espuma, revestidos em\nCorano; capacidade até 150kg; estrutura reforçad",
+    "quantidade": 2.0,
+    "unidade": "UNIDADE",
+    "valor_total": 3199.56,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 8985.56,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
   "id": "92787118000120-1-001056/2026",
   "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
   "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
@@ -10093,6 +10794,70 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 7,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001060/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Material Imobilizado (Oxímetros portáteis de mão e de mesa adulto/pediátrico/neonatal, Mesa para instrumental), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e suas Filiais, conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-13T12:00:00",
+  "encerramento": "2026-11-30T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1060",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103833",
+  "total_itens": 5,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 9001\nEspecificação: OXÍMETRO PORTÁTIL DE MÃO USO ADULTO [PI] [Bio 1123.06]\nUnidade: UNIDADE",
+    "quantidade": 15.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 9002\nEspecificação: OXÍMETRO DE MESA USO ADULTO/PEDIÁTRICO e NEONATAL [PI] [Bio 1103.06]\nUnidade: UNIDADE",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 9003\nEspecificação: OXÍMETRO PORTÁTIL DE MÃO USO ADULTO/PEDIÁTRICO e NEONATAL\n[PI] [Bio 1102.07]\nUnidade: UNIDADE",
+    "quantidade": 15.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 9004\nEspecificação: OXÍMETRO PORTÁTIL DE MÃO USO PED e NEO [PI] [Bio 1121.06]\nUnidade: UNIDADE",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 4,
   "exclusiva_me": false
  },
  {
@@ -10223,6 +10988,48 @@
     "valor_total": 0,
     "linhas": [
      "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001063/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Material de Manutenção (VÁLVULAS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o HOSPITAL GERAL DE BONSUCESSO, FILIAL DO GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-13T12:00:00",
+  "encerramento": "2026-12-01T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1063",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103883",
+  "total_itens": 6,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 13049\nEspecificação: VALVULA P/REDE DE OXIGENIO (COR VERDE) TIPO TOMADA DUPLA COM CORPO EM METAL CONTENDO FLUXOMETRO C/ADAPTADOR P/NEBULIZACAO, ASPIRADOR, UMIDIFICADOR E FRASCO DE VIDRO ESTERILIZAVEL EM AUTOCLAVE A VAPOR - \nUnidade: KIT",
+    "quantidade": 312.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 13055\nEspecificação: VALVULA REDUTORA PARA CILINDRO DE OXIGENIO (COR VERDE), COM DUAS SAIDAS, CONTENDO FLUXOMETRO, ASPIRADOR, UMIDIFICADOR E FRASCOS DE VIDRO ESTERILIZAVEIS EM AUTOCLAVE A VAPOR - \nUnidade: UNIDADE",
+    "quantidade": 780.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "autoclave"
     ],
     "situacao": "Em andamento",
     "exclusiva_me": false
@@ -10810,6 +11617,90 @@
    }
   ],
   "valor_itens_da_linha": 80797.0,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001059/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente pregão tem por objeto Órteses e Próteses e Materiais Especiais (cateter, prótese biliar e outros), sob forma de consignação, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais, descritas no Anexo I neste Edital, conforme condições estabelecidas na Portaria GM/MS 2.036, de 04.11.2002.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-13T12:00:00",
+  "encerramento": "2026-12-02T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1059",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103822",
+  "total_itens": 9,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 26946\nEspecificação: PROTESE BILIAR PLASTICA MONTADA C/07 FRENCH DE DIAMETRO E\nCOMPRIMENTO NO INTERVALO DE 14 A 16cm, MONTADA C/INTRODUTOR COMPATIVEL\nC/ENDOSCOPIO CANAL 4,2mm -\nUnidade: UNIDADE",
+    "quantidade": 24.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 26947\nEspecificação: PROTESE BILIAR PLASTICA MONTADA C/10 FRENCH DE DIAMETRO E\nCOMPRIMENTO NO INTERVALO DE 14 A 16cm, MONTADA C/INTRODUTOR COMPATIVEL\nC/ENDOSCOPIO CANAL 4,2mm -\nUnidade: UNIDADE",
+    "quantidade": 60.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 26957\nEspecificação: PROTESE BILIAR/PANCREATICA PLASTICA E MONTADA C/07 FRENCH DE\nDIAMETRO E DE COMPRIMENTO 4 A 6cm, MONTADA C/INTRODUTOR COMPATIVEL\nC/ENDOSCOPIO CANAL 4,2mm -\nUnidade: UNIDADE",
+    "quantidade": 24.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 3,
+  "exclusiva_me": false
+ },
+ {
+  "id": "90836693000140-1-000883/2026",
+  "orgao": "MUNICIPIO DE CAPAO DA CANOA",
+  "unidade": "Secretaria de Gestão, Inovação e Planejamento",
+  "cidade": "Capão da Canoa",
+  "objeto": "Aquisição de Autoclave Hospitalar para o Hospital Santa Luzia (HSL) de Capão da Canoa/RS - Emendas Impositivas n.º 58/2024 e n.º 82/2024",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 760866.66,
+  "abertura": "2026-11-13T14:00:00",
+  "encerramento": "2026-12-02T14:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/90836693000140/2026/883",
+  "link_sistema": "",
+  "total_itens": 1,
+  "itens_da_linha": [
+   {
+    "descricao": "Autoclave Hospitalar, conforme especificada no Termo de Referência Complementar. - Autoclave Hospitalar, conforme especificada no Termo de Referência Complementar.",
+    "quantidade": 1.0,
+    "unidade": "UNIDADES",
+    "valor_total": 760866.66,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 760866.66,
   "itens_principais": 1,
   "exclusiva_me": false
  },
