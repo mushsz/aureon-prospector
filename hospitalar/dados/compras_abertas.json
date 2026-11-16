@@ -1,399 +1,5 @@
 [
  {
-  "id": "92411974000186-1-000119/2026",
-  "orgao": "MUNICIPIO DE NICOLAU VERGUEIRO",
-  "unidade": "MRS-PREFEITURA MUNICIPAL DE NICOLAU VERGUEIRO",
-  "cidade": "Nicolau Vergueiro",
-  "objeto": "AQUISIÇÃO DE EQUIPAMENTOS MÉDICOS, HOSPITALARES E MOBILIÁRIOS PERMANENTES DESTINADOS À ESTRUTURAÇÃO, MODERNIZAÇÃO E AO FORTALECIMENTO DA REDE DE ATENDIMENTO DA UNIDADE BÁSICA DE SAÚDE DE NICOLAU VERGUEIRO, ATRAVÉS DE RECURSOS PROVENIENTES DO FUNDO NACIONAL DE SAÚDE, REPASSADO AO FUNDO MUNICIPAL DE SAÚDE DE NICOLAU VERGUEIRO NO EXERCÍCIO DE 2026, NO VALOR TOTAL DE R$ 299.994,00, ORIUNDOS DO PROPOSTA INVESTSUS Nº 11920079000126004/2026, DECORRENTE DA EMENDA PARLAMENTAR Nº 20230002/2026 DO SENADOR PAULO PAIM, COM O OBJETIVO DE INVESTIR NA ESTRUTURAÇÃO DA REDE DE SERVIÇOS DE ATENÇÃO PRIMÁRIA À SAÚDE.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 199915.4,
-  "abertura": "2026-10-29T08:00:00",
-  "encerramento": "2026-11-16T08:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92411974000186/2026/119",
-  "link_sistema": null,
-  "total_itens": 48,
-  "itens_da_linha": [
-   {
-    "descricao": "ASPIRADOR CIRURGICO ELETRICO PORTATIL 220 V COM USO ADULTO  PEDIATRICO E NEONATAL - Aspirador cirúrgico elétrico portátil, novo, de primeiro uso, não recondicionado e não remanufaturado, compacto e transportável por um único operador, com alça ou empunhadura, alimentação em 220 V, 60 Hz ou bivolt, vazão mínima de 25 L/min, vácuo máximo regulável de no mínimo 550 mmHg, regulagem gradual do vácuo, v",
-    "quantidade": 1.0,
-    "unidade": "UNID",
-    "valor_total": 4314.39,
-    "linhas": [
-     "aspirador"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CADEIRA (POLTRONA) RECLINAVEL PARA OBSERVACAO DO PACIENTE - Poltrona hospitalar reclinável, nova, de primeiro uso, não recondicionada e não remanufaturada, com encosto anatômico, apoio de cabeça regulável por catraca com no mínimo 7 posições, assento, encosto e braços estofados, estrutura reclinável com acionamento mecânico por peso corporal ou sistema equivalente, movimentação segura entre as pos",
-    "quantidade": 2.0,
-    "unidade": "UNID",
-    "valor_total": 2461.42,
-    "linhas": [
-     "poltrona"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CARRO DE EMERGENCIA - Carro de emergência hospitalar compacto, novo, de primeiro uso, não recondicionado e não remanufaturado, com estrutura reforçada em aço carbono, tratamento anticorrosivo e pintura eletrostática a pó, tampo superior em aço inoxidável com proteção perimetral, quatro gavetas metálicas sobre trilhos telescópicos, primeira gaveta com divisórias removíveis ou ajustáveis, sistema de",
-    "quantidade": 1.0,
-    "unidade": "UNID",
-    "valor_total": 6428.37,
-    "linhas": [
-     "monitor/DEA",
-     "carro de emergência",
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "REANIMADOR PULMONAR MANUAL ADULTO (AMBU) - Reanimador pulmonar manual adulto, tipo AMBU, novo, de primeiro uso, não usado, não reformado, não recondicionado e não remanufaturado, com balão autoinflável em silicone grau médico, volume aproximado de 1.600 mL, bolsa reservatório de oxigênio com volume aproximado de 2.750 mL, máscara facial adulta anatômica em silicone ou material equivalente, válvula",
-    "quantidade": 2.0,
-    "unidade": "UNID",
-    "valor_total": 708.66,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "REANIMADOR PULMONAR MANUAL PEDIATRICO (AMBU) - Reanimador pulmonar manual pediátrico, tipo AMBU, novo, de primeiro uso, não usado, não reformado, não recondicionado e não remanufaturado, com balão autoinflável em silicone grau médico, volume aproximado de 500 mL, bolsa reservatório de oxigênio com volume aproximado de 1.000 mL, máscara facial pediátrica anatômica em silicone ou material equivalent",
-    "quantidade": 2.0,
-    "unidade": "UNID",
-    "valor_total": 591.34,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 14504.18,
-  "itens_principais": 5,
-  "exclusiva_me": false
- },
- {
-  "id": "00394452000103-1-023569/2026",
-  "orgao": "COMANDO DO EXERCITO",
-  "unidade": "HOSPITAL MILITAR DE ÁREA DE PORTO ALEGRE",
-  "cidade": "Porto Alegre",
-  "objeto": "Registro de preços para a eventual aquisição de material de consumo para suprir a demanda do Serviço de Radiologia do Hospital Militar de Área de Porto Alegre - HMAPA, incluindo comodato de equipamentos",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 243074.0,
-  "abertura": "2026-11-04T08:00:00",
-  "encerramento": "2026-11-16T08:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23569",
-  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16039905002062026",
-  "total_itens": 3,
-  "itens_da_linha": [
-   {
-    "descricao": "Seringa Para Bomba aplicação: compatível c/ injetora contraste, até 1200 psi, apresentação: embalagem individual, capacidade: cerca 200, esterilidade: estéril, material: polipropileno",
-    "quantidade": 360.0,
-    "unidade": "Unidade",
-    "valor_total": 82908.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 82908.0,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
-  "id": "93317980000131-1-000464/2026",
-  "orgao": "MUNICIPIO DE MORRINHOS DO SUL",
-  "unidade": "PREFEITURA MUNICIPAL DE MORRINHOS DO SUL",
-  "cidade": "Morrinhos do Sul",
-  "objeto": "AQUISIÇÃO DE BENS DESTINADOS À PREMIAÇÃO DO PROGRAMA MUNICIPAL “NOTA PREMIADA” – EXERCÍCIO DE 2026, COMPREENDENDO ELETRODOMÉSTICOS, EQUIPAMENTOS ELETRÔNICOS, BICICLETA, GAZEBO E DEMAIS BENS PREVISTOS NO DECRETO MUNICIPAL Nº 4.511/2026.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 26906.23,
-  "abertura": "2026-10-28T11:30:00",
-  "encerramento": "2026-11-16T08:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/93317980000131/2026/464",
-  "link_sistema": "",
-  "total_itens": 18,
-  "itens_da_linha": [
-   {
-    "descricao": "GAZEBO ARTICULADO: Gazebo articulado, novo e sem uso anterior, com dimensões mínimas de 3,00 m x 3,00 m, sistema sanfonado/articulado de abertura e fechamento, pés em alumínio, cobertura em poliéster ou material equivalente, impermeável e com proteção contra raios UV, acompanhado de bolsa para transporte e dos acessórios necessários à montagem e utilização. Garantia mínima de 3 (três) meses, conta",
-    "quantidade": 1.0,
-    "unidade": "UNIDADE",
-    "valor_total": 577.11,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 577.11,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
-  "id": "88696810000175-1-000238/2026",
-  "orgao": "MUNICIPIO DE CAMAQUA",
-  "unidade": "Secretaria Munic da Saude -sms -asps",
-  "cidade": "Camaquã",
-  "objeto": "AQUISIÇÃO DE MATERIAIS PERMANENTES, DE CONSUMO E DE ENFERMAGEM DESTINADOS AO AMBULATÓRIO DE GINECOLOGIA DO PROGRAMA MUNICIPAL DE PLANEJAMENTO FAMILIAR, DESTINADO AO ATENDIMENTO DAS NECESSIDADES DA PREFEITURA MUNICIPAL DE CAMAQUÃ - RS",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 30931.27,
-  "abertura": "2026-10-27T09:00:00",
-  "encerramento": "2026-11-16T08:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/88696810000175/2026/238",
-  "link_sistema": null,
-  "total_itens": 23,
-  "itens_da_linha": [
-   {
-    "descricao": "SERINGA CARPULE COM REFLUXO",
-    "quantidade": 10.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 568.9,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 568.9,
-  "itens_principais": 0,
-  "exclusiva_me": false
- },
- {
-  "id": "04218960000183-1-000121/2026",
-  "orgao": "MUNICIPIO DE ARROIO DO PADRE",
-  "unidade": "Secretaria de Administração, Planejamento, Finanças, Gestão e Tributos",
-  "cidade": "Arroio do Padre",
-  "objeto": "[Portal de Compras Públicas] - Aquisição de tiras reagentes para medição de glicose sanguínea, destinadas ao monitoramento e controle dos níveis glicêmicos dos pacientes atendidos pela Unidade Básica de Saúde (UBS) e pela Farmácia Municipal de Arroio do Padre/RS, visando garantir a continuidade do acompanhamento de pacientes diabéticos e demais usuários que necessitem de controle glicêmico, conforme as demandas dos serviços municipais de saúde",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 10800.0,
-  "abertura": "2026-10-29T09:00:00",
-  "encerramento": "2026-11-16T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/04218960000183/2026/121",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Arroio-do-Padre-1201/RPE-RPPE64-2026-2026-521814",
-  "total_itens": 1,
-  "itens_da_linha": [
-   {
-    "descricao": "Tiras para medicao de Glicose COMPATiVEL COM APARELHO On Call Plus ou aparelho Medisign ou não sendo COMPATiVEL com estes aparelhos que seja fornecido juntamente 50 aparelhos Glicosimetro COMPATiVEL com a marca a ser fornecida",
-    "quantidade": 20000.0,
-    "unidade": "Unidade",
-    "valor_total": 10800.0,
-    "linhas": [
-     "glicosímetro e tiras"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 10800.0,
-  "itens_principais": 1,
-  "exclusiva_me": true
- },
- {
-  "id": "87893111000152-1-000472/2026",
-  "orgao": "MUNICIPIO DE SAO LOURENCO DO SUL",
-  "unidade": "Municipio de São Lourenço do Sul",
-  "cidade": "São Lourenço do Sul",
-  "objeto": "[Portal de Compras Públicas] - Aquisição de equipamentos de saúde e outros materiais permanentes APS",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 344927.56,
-  "abertura": "2026-11-04T09:30:00",
-  "encerramento": "2026-11-16T09:29:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87893111000152/2026/472",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Sao-Lourenco-do-Sul-1026/PE-116-2026-2026-522032",
-  "total_itens": 35,
-  "itens_da_linha": [
-   {
-    "descricao": "Autoclave horizontal de mesa - 75 litros Autoclave horizontal de mesa Capacidade de 75 litros Camara interna confeccionada em aco inoxidavel (AISI 304), com acabamento polido Estrutura externa em aco tratado, com pintura eletrostatica Painel de controle digital com display multifuncao, possibilitando programacao e visualizacao de parametros como tempo, temperatura e pressao, alem de indicar o anda",
-    "quantidade": 8.0,
-    "unidade": "Unidade",
-    "valor_total": 63733.36,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Eletrocardiografo 12 canais Tela de LCD colorida touchscreen. Visualizacao simultanea dos 12 tracados de ECG em tempo real Aquisicao simultanea dos 12 canais de derivacoes Impressora termica interna de alta resolucao Alimentacao bivolt automatico (110-220V). Filtros digitais completos contra interferencias de rede eletrica. Ajuste automatico da linha base. Teclado de membrana com simples operacao ",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 13192.17,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Escada 2 degraus em aco inox Fabricada em aco inox 430 com espessura de 1mm Pes tubulares   em aco inox 430 com ponteiras Degraus revestidos em material sintetico antiderrapante Capacidade 150 kg Dimensoes externas aproximadas: 38 x 37 x 41cm (CxLxA) Garantia minima de 12 meses",
-    "quantidade": 7.0,
-    "unidade": "Unidade",
-    "valor_total": 948.36,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Maca hospitalar adulto fixa com leito estofado Estrutura em tubos de aco quadrado de 1 e 1/4 polegadas de diametro. Parede de 1,4 mm. Com protecao lateral Leito em madeira estofada, espuma de 15cm de altura (D28) revestida por courvin impermeavel preto Cabeceira movel 5 estagios, com rodizio e travamento Pes com ponteiras de PVC Pintura eletrostatica a po-epoxi Modelo fixa Suporta 200 Kg Dimensoes",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 2043.6,
-    "linhas": [
-     "maca"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Maca pediatrica balcao Maca pediatrica em MDF cor branco, com estofado e espaco para balanca Com portas de correr na parte inferior Colchao em espuma densidade D33 e espessura 7cm revestido com corino verde agua Com espaco para balanca Dimensoes aproximadas do colchao 60x135cm Dimensoes aproximadas totais 1,80 cm x 60 cm x 80 Garantia minima de 12 (doze) mese",
-    "quantidade": 2.0,
-    "unidade": "Unidade",
-    "valor_total": 3337.34,
-    "linhas": [
-     "maca"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Mesa de exames com armario Armario em MDF/MDP 3 portas e 3 gavetas 5 niveis de elevacao Estrutura da mesa: MDF 15mm antibacteriano. Medidas maximas aberta: 1,80 cm x 60 cm x 80 Altura do estofado 5 cm Colchao 125x60 - D28 Revestimento courino capacidade de carga estatica 350 kg Puxador de aluminio Garantia minima de 12 (doze) meses",
-    "quantidade": 1.0,
-    "unidade": "Unidade",
-    "valor_total": 2083.33,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Poltrona hospitalar reclinavel Poltrona reclinavel em ate 04 posicoes simultaneas do encosto e descansa pes Estrutura em tubo de aco redondo de 1  x 1.20mm e 1    x 1.20mm Encosto, assento e descansa pes estofados em espuma D23R com 70mm de espessura garantindo maior conforto Com suporte de soro Revestido em courvin/courino Movimentos simultaneos do encosto e descansa pes comandados por meio de al",
-    "quantidade": 1.0,
-    "unidade": "Unidade",
-    "valor_total": 933.33,
-    "linhas": [
-     "poltrona",
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Seladora Seladora desenvolvida para selagem de embalagens (papel/plastico) proprias para esterilizacao em autoclaves a vapor Design moderno Bivolt automatico Sistema integrado de corte em ambas as direcoes Acionamento por meio de alavanca com trava Sistema microcontrolador para maior precisao no tempo de selagem Sistema de avisos com led`s indicativos e bips sonoros, no teclado de membrana Resiste",
-    "quantidade": 11.0,
-    "unidade": "Unidade",
-    "valor_total": 7525.1,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 93796.59,
-  "itens_principais": 8,
-  "exclusiva_me": true
- },
- {
-  "id": "92787118000120-1-000999/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospitalar (ADAPTADOR, ALÇA P/ RESSECÇÃO E OUTROS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais, conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-21T12:00:00",
-  "encerramento": "2026-11-16T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/999",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102704",
-  "total_itens": 28,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 3901\nEspecificação: CABO P/LARINGOSCOPIO ADULTO, RECARTILHADO C/TAMPA DE ROSCA E MOLA EM ACO INOX, P/USO C/2 PILHAS MEDIAS ©, ENCAIXE P/LAMINA PADRAO INTERNACIONAL - dimensões do cabo 13 a 14cm altura X 3cm diâmetro\nUnidade: UNIDADE",
-    "quantidade": 96.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 3902\nEspecificação: CABO P/LARINGOSCOPIO INFANTIL, RECARTILHADO C/TAMPA DE ROSCA E MOLA EM ACO INOX, P/USO C/2 PILHAS PEQUENAS (AA), ENCAIXE P/LAMINA PADRAO INTERNACIONAL - dimensões do cabo 12 a 13,5cm altura X 2cm diâmetro\nUnidade: UNIDADE",
-    "quantidade": 60.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 32050\nEspecificação: RESSECTOSCOPIO REF.26040 EBH PARA USO C/ELETROCAUTERIO C/SISTEMA DE RESSECCAO BIPOLAR-AUTOCON MARCA KARL STORZ - \nUnidade: UNIDADE",
-    "quantidade": 24.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 3,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-001031/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Material Imobilizado (POLTRONA RECLINÁVEL PARA DOADOR DE SANGUE, LONGARINA ESTOFADA 3 LUGARES, LAVADORA ULTRASSÔNICA, CAPACIDADE 21 A 26 LITROS, RETOSSIGMOIDOSCÓPIO COM ILUMINAÇÃO EM LED), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o HOSPITAL GERAL DE BONSUCESSO DO RIO DE JANEIRO, filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-11-05T14:00:00",
-  "encerramento": "2026-11-16T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1031",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103373",
-  "total_itens": 4,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 9001\nEspecificação: Poltrona Reclinável para Doador de Sangue\n\nS.M.I  6044494/26 [PI] [HotMob 2584.03]\nUnidade: UNIDADE",
-    "quantidade": 20.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "poltrona"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
   "id": "87612883000179-1-000080/2026",
   "orgao": "MUNICIPIO DE VICENTE DUTRA",
   "unidade": "Manutencao do Fundo Municipal de Saúde",
@@ -2732,6 +2338,37 @@
   ],
   "valor_itens_da_linha": 1490.41,
   "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88814181000130-1-000540/2026",
+  "orgao": "MUNICIPIO DE OSORIO",
+  "unidade": "FUNDO MUNICIPAL DA SAÚDE",
+  "cidade": "Osório",
+  "objeto": "Fornecimento de materiais ambulatoriais emergencial.",
+  "modalidade": "Dispensa",
+  "srp": false,
+  "valor_estimado": 154595.35,
+  "abertura": "2026-11-13T08:00:00",
+  "encerramento": "2026-11-18T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88814181000130/2026/540",
+  "link_sistema": null,
+  "total_itens": 5,
+  "itens_da_linha": [
+   {
+    "descricao": "ATADURA DE CREPE 10 CM DE LARGURA X 1,80 M (REPOUSO), COM DENSIDADE DE 13\nFIOS/CM², COM PESO DE 13,3G POR UNIDADE, CONFECCIONADA EM TECIDO COM NO MÍNIMO 80% DE ALGODÃO, FIOS DE ALTA TORÇÃO, POSSUINDO BASTANTE ELASTICIDADE NO\nSENTIDO LONGITUDINAL, ENROLADAS SOBRE SI MESMAS, APARÊNCIA UNIFORME, BORDAS\nDEVIDAMENTE ACABADAS,ISENTA DE RASGOS, IMPUREZAS, FIAPOS E  QUAISQUER OUTROS TIPOS DE DEFEITOS QUE ",
+    "quantidade": 3000.0,
+    "unidade": "PACOTE (PCTE)",
+    "valor_total": 65250.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 65250.0,
+  "itens_principais": 0,
   "exclusiva_me": false
  },
  {
@@ -11037,6 +10674,125 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88847082000155-1-000323/2026",
+  "orgao": "MUNICIPIO DE GRAMADO",
+  "unidade": "SECRETARIA DA SAÚDE",
+  "cidade": "Gramado",
+  "objeto": "Aquisição de equipamentos médico-hospitalares, odontológicos e de apoio diagnóstico destinados à estruturação, reaparelhamento e modernização das Unidades Básicas de Saúde (UBS) do Município de Gramado, com recursos oriundos de emendas e programas federais e estaduais.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 455969.42,
+  "abertura": "2026-11-16T09:00:00",
+  "encerramento": "2026-12-02T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88847082000155/2026/323",
+  "link_sistema": null,
+  "total_itens": 22,
+  "itens_da_linha": [
+   {
+    "descricao": "AUTOCLAVE HOSPITALAR DE MESA 21 LITROS (CLASSE S)",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 35869.9,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "MONITOR MULTIPARÂMETROS MÉDICO-HOSPITALAR PORTÁTIL",
+    "quantidade": 8.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 45639.04,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OTOSCÓPIO CLÍNICO PORTÁTIL",
+    "quantidade": 30.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 11199.9,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESTETOSCÓPIO INFANTIL\r\nESTETOSCÓPIO, TIPO BIAURICULAR, PEDIÁTRICO, AUSCULTADOR DE AÇO INOXIDÁVEL ARTICULAÇÃO ?Y? DE AÇO INOXIDÁVEL, CONDUTO LÁTEX, OLIVAS ACRÍLICO, HASTE AÇO INOXIDÁVEL, 1 PAR DE OLIVAS SOBRESSALENTE.",
+    "quantidade": 1.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 316.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BALANÇA ANTROPOMÉTRICA DIGITAL PARA PESAGEM DE ADULTOS",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 16339.3,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BALANÇA ANTROPOMÉTRICA DIGITAL PEDIATRA/INFANTIL",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 7885.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BIOMBO HOSPITALAR DOBRÁVEL",
+    "quantidade": 20.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 16250.0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CADEIRA DE RODAS DOBRÁVEL, REFORÇADA PARA ATENDIMENTO A USUÁRIOS DE PORTE\nGRANDE/SOBREPESO, COM CAPACIDADE DE CARGA PARA NO MÍNIMO 130 KG A 150 KG",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 14258.7,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SUPORTE PARA SORO PORTÁTIL",
+    "quantidade": 10.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 3202.4,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 150960.24,
+  "itens_principais": 9,
   "exclusiva_me": false
  },
  {
