@@ -1,288 +1,5 @@
 [
  {
-  "id": "87612883000179-1-000080/2026",
-  "orgao": "MUNICIPIO DE VICENTE DUTRA",
-  "unidade": "Manutencao do Fundo Municipal de Saúde",
-  "cidade": "Vicente Dutra",
-  "objeto": "A presente contratação tem por finalidade a aquisição de equipamentos e materiais destinados à área da saúde, visando atender às necessidades dos serviços prestados à população, especialmente no que se refere à aferição da pressão arterial, ao monitoramento de sinais vitais e ao acondicionamento e transporte de materiais termossensíveis. A aquisição contempla itens que se mostraram necessários à estruturação e ao adequado funcionamento dos serviços de saúde, buscando assegurar melhores condições de atendimento, segurança e qualidade na assistência prestada, bem como a continuidade dos serviços públicos de saúde no Município de Vicente Dutra/RS.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 21707.57,
-  "abertura": "2026-10-27T17:00:00",
-  "encerramento": "2026-11-17T07:50:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87612883000179/2026/80",
-  "link_sistema": null,
-  "total_itens": 6,
-  "itens_da_linha": [
-   {
-    "descricao": "Aparelho de Pressão Adulto Com Estetoscópio Fecho em Velcro: O aparelho de pressão é um esfigmomanômetro que utiliza um manguito inflável com fecho de velcro, conectado a um medidor de pressão. Ele é acompanhado por um estetoscópio para auscultar os sons do pulso durante a medição da pressão arterial; Este dispositivo é comum em ambientes clínicos e domésticos para monitorar a pressão arterial de ",
-    "quantidade": 10.0,
-    "unidade": "UN (UN)",
-    "valor_total": 2380.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Esfigmomanômetro adulto obeso destiando á aferição não invasive da pressão arterial em pacientes obesos, composto por monômetro, manguitos/braçadeiras.",
-    "quantidade": 1.0,
-    "unidade": "UN (UN)",
-    "valor_total": 207.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 2587.0,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
-  "id": "88254875000160-1-000525/2026",
-  "orgao": "MUNICIPIO DE NOVO HAMBURGO",
-  "unidade": "Diretoria de Fomento ao Desenvolvimento Rural",
-  "cidade": "Novo Hamburgo",
-  "objeto": "PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS DE MATERIAIS E EQUIPAMENTOS PERMANENTES PARA USO VETERINÁRIO PARA O MUNICÍPIO DE NOVO HAMBURGO.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 42484.92,
-  "abertura": "2026-11-04T16:00:00",
-  "encerramento": "2026-11-17T08:59:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/88254875000160/2026/525",
-  "link_sistema": null,
-  "total_itens": 20,
-  "itens_da_linha": [
-   {
-    "descricao": "Estetoscópio para a ausculta cárdio-respiratória não invasiva para uso adulto e pediátrico, com membrana em plástico rígido, anel rosqueado de cobre cromado (infantil, adulto), base rosqueada de cobre cromado que possibilita troca do sino ou diafragma (infantil, adulto), tubo duplo de pvc, câmara de som em liga de alumínio (oxidado ou anodizado), fone bi-auricular de cobre cromado, 2 pares de oliv",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 275.64,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Autoclave vertical Gabinete externo fabricado em chapa de aço carbono SAE 1020 com tratamento químico anticorrosivo e pintura epóxi eletrostática a pó para maior durabilidade, 22L, bivolt, pressão de trabalho: 15 PSI (Kgf/cm²) +/- 1PSI\r\nAutoclave vertical, capacidade 22 litros. Equipamento para esterilização por vapor sob pressão. Gabinete externo construído em chapa de aço carbono SAE 1020, com t",
-    "quantidade": 2.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 5400.6,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 5676.24,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
-  "id": "13016717000173-1-000261/2026",
-  "orgao": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
-  "unidade": "Fundação de Saúde Pública São Camilo de Esteio",
-  "cidade": "Esteio",
-  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE EQUIPAMENTO E MATERIAL PERMANENTE PARA APOIO A INTERNAÇÃO/INTERNAÇÃO GERAL",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 339553.0,
-  "abertura": "2026-10-28T14:00:00",
-  "encerramento": "2026-11-17T09:20:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/13016717000173/2026/261",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Fundacao-de-Saude-Publica-Sao-Camilo-de-Esteio-1126/RPE-92-2026-2026-517695",
-  "total_itens": 3,
-  "itens_da_linha": [
-   {
-    "descricao": "Esfigmomanômetro Obeso-Características: Braçadeira: Confeccionada em tecido nylon de alta resistência com tecnologia sem costura. Manguito: Bolsa com tubos interligados entre manômetro, válvula e pêra, em PVC antialérgico. Pêra: Confeccionada em PVC antia",
-    "quantidade": 1.0,
-    "unidade": "Unidade",
-    "valor_total": 209.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cama Hospitalar Tipo Fawler Elétrica-Todas as informações descritas detalhadamente conforme termo de referência.",
-    "quantidade": 14.0,
-    "unidade": "Unidade",
-    "valor_total": 334572.0,
-    "linhas": [
-     "cama hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 334781.0,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
-  "id": "13016717000173-1-000251/2026",
-  "orgao": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
-  "unidade": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
-  "cidade": "Esteio",
-  "objeto": "Compra de camas, cadeira de rodas e esfigmomanômetro para a FSPSCE via Emenda Parlamentar (Composição nº 71220002) da proposta nº 12140369000126003",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 339553.0,
-  "abertura": "2026-10-07T09:20:00",
-  "encerramento": "2026-11-17T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/13016717000173/2026/251",
-  "link_sistema": null,
-  "total_itens": 3,
-  "itens_da_linha": [
-   {
-    "descricao": "Esfigmomanômetro Obeso-Características: Braçadeira: Confeccionada em tecido nylon de alta resistência com tecnologia sem costura. Manguito: Bolsa com tubos interligados entre manômetro, válvula e pêra, em PVC antialérgico. Pêra: Confeccionada em PVC antialérgico de alta resistência. Válvula: Fabricada em latão cromado para controle de entrada e saída de ar. Manômetro: Escala de 0 a 300 mmHg com an",
-    "quantidade": 1.0,
-    "unidade": "un",
-    "valor_total": 209.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Cama Hospitalar Tipo Fawler Elétrica-Todas as informações descritas detalhadamente conforme termo de referência.",
-    "quantidade": 14.0,
-    "unidade": "un",
-    "valor_total": 334572.0,
-    "linhas": [
-     "cama hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 334781.0,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
-  "id": "11055682000156-1-000553/2026",
-  "orgao": "FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH",
-  "unidade": "Diretoria de Gestão Hospitalar",
-  "cidade": "Novo Hamburgo",
-  "objeto": "AQUISIÇÃO DE APARELHOS DE ANESTESIA E DE MONITORES MULTIPARÂMETROS PARA A FUNDAÇÃO DE SAÚDE PÚBLICA DE NOVO HAMBURGO",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-28T10:00:00",
-  "encerramento": "2026-11-17T10:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/11055682000156/2026/553",
-  "link_sistema": null,
-  "total_itens": 2,
-  "itens_da_linha": [
-   {
-    "descricao": "MONITOR MULTIPARÂMETRO",
-    "quantidade": 5.0,
-    "unidade": "UNIDADE (UN)",
-    "valor_total": 0,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
-  "id": "11055682000156-1-000562/2026",
-  "orgao": "FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH",
-  "unidade": "Diretoria de Gestão Hospitalar",
-  "cidade": "Novo Hamburgo",
-  "objeto": "AQUISIÇÃO DE TUBO DE REATIVOS TCA, GRAMPEADOR LINEAR, CARGA DE GRAMPEADOR LINEAR, GRAMPEADOR CIRCULAR E CLIPE CIRÚRGICO PARA HEMOSTASIA.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-10-29T11:10:11",
-  "encerramento": "2026-11-17T10:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/11055682000156/2026/562",
-  "link_sistema": null,
-  "total_itens": 8,
-  "itens_da_linha": [
-   {
-    "descricao": "CLIPE USO CIRÚRGICO. CLIPE CIRURGICO PARA HEMOSTASIA, TITANIO, PEQUENO, ESTERIL,  DESCARTAVEL, USO EM VIDEOCIRURGIA LAPAROSCOPICA PARA LIGADURA MECANICA. APRESENTAÇÃO- OBSERVACAO: COMODATO: 2 PINÇAS CLIPADORAS PARA CIRURGIA ABERTA",
-    "quantidade": 300.0,
-    "unidade": "CARTUCHO (CTC)",
-    "valor_total": 0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CLIPE USO CIRÚRGICO. CLIPE CIRURGICO PARA HEMOSTASIA, TITANIO, GRANDE, ESTERIL,  DESCARTAVEL, USO EM VIDEOCIRURGIA LAPAROSCOPICA PARA LIGADURA MECANICA. APRESENTAÇÃO: \nOBSERVACAO: COMODATO: 02(DUAS) PINÇAS CLIPADORAS P/ CIRURGIA POR VÍDEO E 1(UMA) PINÇA CLIPADORA PARA CIRURGIA ABERTA.",
-    "quantidade": 60.0,
-    "unidade": "CARTUCHO (CTC)",
-    "valor_total": 0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
-  "id": "15126437000305-1-004560/2026",
-  "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
-  "unidade": "HOSPITAL ESCOLA DA UNIV. FEDERAL DE PELOTAS",
-  "cidade": "Pelotas",
-  "objeto": "Registro de Preços para a Aquisição de Equipamentos Médico-Hospitalares (EMH) - XX (ERGOESPIRÔMETRO,SISTEMA DE PLETISMOGRAFIA,BILIRRUBINÔMETRO,OXÍMETRO DE PULSO PORTÁTIL,MONITOR MULTIPARAMÉTRICO,BOMBA DE SERINGA,VIDEOLARINGOSCÓPIO,ASPIRADOR CIRÚRGICO)",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-11-05T08:00:00",
-  "encerramento": "2026-11-17T10:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/15126437000305/2026/4560",
-  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15590105001272026",
-  "total_itens": 9,
-  "itens_da_linha": [
-   {
-    "descricao": "Monitor Multiparâmetro tipo: pré configurado/modular, parâmetros: ecg, pni, pi, spo2, temp, resp, dc, registros: mínimo 8 curvas simultâneas, tipo de tela: tela lcd cerca 15\", alta resolução, características adicionais: conectividade de rede, componentes: alarmes, acessórios: completo com cabos e sensores, uso: de neonatal a adulto MONITOR MULTIPARAMÉTRICO PARA CENTRO CIRÚRGICO COM GARANTIA TOTAL ",
-    "quantidade": 30.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Aspirador Cirúrgico modelo: elétrico móvel, pressão de vácuo: cerca de 750 mmhg, fluxo de aspiração: de 31 a 49 lpm, tipo frasco: 2 frascos em plástico, volume: cerca de 4 l x 4 l, componentes: sistema antitransbordamento, filtro bacteriológico, adicionais: acionamento por pedal ASPIRADOR CIRÚRGICO PARA LIPOASPIRAÇÃO COM 12 MESES DE GARANTIA TOTAL",
-    "quantidade": 10.0,
-    "unidade": "Unidade",
-    "valor_total": 0,
-    "linhas": [
-     "aspirador"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 2,
-  "exclusiva_me": false
- },
- {
   "id": "87612842000182-1-000124/2026",
   "orgao": "MUNICIPIO DE CANDIDO GODOI",
   "unidade": "MUNICÍPIO DE CÂNDIDO GODÓI",
@@ -10337,6 +10054,59 @@
   "exclusiva_me": false
  },
  {
+  "id": "87890992000158-1-001135/2026",
+  "orgao": "MUNICIPIO DE GRAVATAI",
+  "unidade": "Departamento de Licitações e Contratos",
+  "cidade": "Gravataí",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de material hospitalar - SRP",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 33473.6,
+  "abertura": "2026-11-16T16:00:00",
+  "encerramento": "2026-11-30T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87890992000158/2026/1135",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Gravatai-44/RPE-217-2026-2026-525767",
+  "total_itens": 19,
+  "itens_da_linha": [
+   {
+    "descricao": "Reanimador manual, tamanho neonatal. (conforme termo de referencia)",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 3373.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Reanimador manual, tamanho infantil. (conforme termo de referencia).",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 3352.1,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Reanimador manual, tamanho adulto. (conforme termo de referencia).",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 3413.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 10138.7,
+  "itens_principais": 3,
+  "exclusiva_me": false
+ },
+ {
   "id": "92787118000120-1-001056/2026",
   "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
   "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
@@ -10538,6 +10308,298 @@
   "valor_itens_da_linha": 76311.54,
   "itens_principais": 2,
   "exclusiva_me": false
+ },
+ {
+  "id": "15126437000305-1-004740/2026",
+  "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+  "unidade": "HOSPITAL ESCOLA DA UNIV. FEDERAL DE PELOTAS",
+  "cidade": "Pelotas",
+  "objeto": "Registro de Preços para a Aquisição de Enxoval Hospitalar",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-17T08:00:00",
+  "encerramento": "2026-11-30T10:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/15126437000305/2026/4740",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15590105001342026",
+  "total_itens": 72,
+  "itens_da_linha": [
+   {
+    "descricao": "Capa Capa, Tipo:Solteiro, Material:Napa, Comprimento:1,88 CM, Largura:0,78 CM, Altura:18 CM, Características Adicionais:Impermeável, Com Zíper Lateral, Cor:Azul, Aplicação:Colchão Capa protetora impermeável com zíper para colchão de maca hospitalar; Material: bagum, courvin, corino ou napa; Cor: azul escuro; Dimensões: comprimento 1,88m, altura base 7cm, largura 50cm",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "87599122000124-1-000227/2026",
+  "orgao": "MUNICIPIO DE MARAU",
+  "unidade": "PREFEITURA MUNICIPAL DE MARAU",
+  "cidade": "Marau",
+  "objeto": "Aquisição de Equipamentos e Materiais Permanentes Médico-Hospitalares e Odontológicos para manutenção das atividades da Secretaria Municipal de Saúde.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-17T07:30:00",
+  "encerramento": "2026-12-01T07:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87599122000124/2026/227",
+  "link_sistema": "",
+  "total_itens": 37,
+  "itens_da_linha": [
+   {
+    "descricao": "APARELHO DE ESFIGMOMANOMETRO ADULTO,  COMPOSTO DE MANOMETROMECANICO TIPO RELÓGIO, COM MOST",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "APARELHO DE ESFIGMOMANÔMETRO INFANTIL – CIRCUNFERÊNCIA DE BRAÇO 10 - 18 CM, COMPOSTO DE MANOMETROMECANICO TIPO RELÓGIO,",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "APARELHO DE ESFIGMOMANÔMETRO NEONATAL – CIRCUNFERÊNCIA DE BRAÇO 07 – 13 CM, COMPOSTO DE MANOMETROMECANICO TIPO RELÓGIO,",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "APARELHO DE ESFIGMOMANOMETRO OBESO,  COMPOSTO DE MANOMETROMECANICO TIPO RELÓGIO, COM MOSTR",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "AUTOCLAVE MODELO ANALÓGICA, CÂMARA DE ESTERILIZAÇÃO EM AÇO INOXIDÁVEL, CAPACIDADE/TAMANHO: 40 LITROS.",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BALANÇA ANTROPOMÉTRICA INFANTIL ELETRÔNICA DIGITAL, CAPACIDADE PARA 15 KG, DIVISÕES DE 5 GRAMAS, PÉ",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CADEIRA DE RODAS RECLINÁVEL, ESTOFADA, COM APOIO PARA OS PÉS - DOBRÁVEL",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "DETECTOR FETAL PORTÁTIL CLASSE DE ENQUADRAMENTO (ANVISA) - CLASSE II MÉDIO RISCO. FAIXA DE MEDIDA D",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESTETOSCÓPIO ADULTO  DUPLO, COM DUAS VIAS SONORAS NO SEU INTERIOR, INDICADO PARA VERIFICAÇÃO DE SINAIS VITAIS",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "MACA FIXA RECLINÁVEL FABRICADA EM AÇO TUBULAR, COM PINTURA EPÓXI BRANCA; LEITO ESTOFADO E REVESTIDO EM COURVIN;",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "MACA GINECOLÓGICA COM GABINETE, FABRICADA EM MDF COM REVESTIMENTO BP (MELAMÍNICO DE BAIXA PRESSÃO), LEITO ACOLCHOADO EM",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "maca"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "MESA AUXILIAR HOSPITALAR COM TAMPO E PRATELEIRA EM AÇO INOX; EXTREMIDADES DAS PRATELEIRAS COM ACABAMENTO SEM ARESTAS",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Mesa ginecológica, posição do leito móvel confeccionado em mdf 18mm, com espuma, revestido em corrv",
+    "quantidade": 15.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OXÍMETRO DE DEDO PEDIÁTRICO E NEONATAL PORTÁTIL: DESTINADO PARA CRIANÇAS O OXÍMETRO DE DEDO PORTÁTIL -",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OXÍMETRO DE DEDO, TELA DE FÁCIL LEITURA COM INDICADOR DE PULSO, RETRO-ILUMINAÇÃO AJUSTÁVEL E DESENHO NO VISOR EM LCD",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "POLTRONA DE COLETA COM SUPORTE PARA SORO EM AÇO INOX 5/8\"; COM REVESTIMENTO EM TECIDO TIPO COURVIN OU CORANO, RECLINÁVEL",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "poltrona",
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Suporte de braço para verificação de PA. Bracadeira para injecao  fabricada em base de tripe de fer",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SUPORTE PARA SORO FIXO NA PAREDE, HASTE ARTICULÁVEL - MOVIMENTO DO BRAÇO DE 180°",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SUPORTE PARA SORO TIPO PEDESTAL NA COR BRANCA, CONFECCIONADO EM AÇO INOXIDÁVEL DE 7/8” COM HASTE COM ALTURA REGULÁVEL DE",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 19,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88488366000100-1-000476/2026",
+  "orgao": "MUNICIPIO DE SANTA MARIA",
+  "unidade": "PREFEITURA MUNICIPAL DE SANTA MARIA/RS",
+  "cidade": "Santa Maria",
+  "objeto": "Aquisição de autoclave horizontal de bancada, eletrocardiografo portátil e ventilador pulmonar, conforme especificações contidas nos Termos de Referência.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 119606.29,
+  "abertura": "2026-11-17T09:00:00",
+  "encerramento": "2026-12-01T08:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88488366000100/2026/476",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98884105001632026",
+  "total_itens": 3,
+  "itens_da_linha": [
+   {
+    "descricao": "Autoclave Para Esterilização tipo: horizontal de bancada, funcionamento: gravitacional, agente: vapor saturado sob pressão, capacidade: de 46 a 100, abastecimento de água: manual, ciclos mínimos: teste e básicos, painel controle: c/ visor e ajuste digital, número de portas: 1 porta, componente: c/ dispositivos de segurança, registro do ciclo: c/ memória de dados Conforme Termo de Referência",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 26300.0,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 26300.0,
+  "itens_principais": 1,
+  "exclusiva_me": true
  },
  {
   "id": "88138292000174-1-000201/2026",
@@ -10793,6 +10855,859 @@
   ],
   "valor_itens_da_linha": 150960.24,
   "itens_principais": 9,
+  "exclusiva_me": false
+ },
+ {
+  "id": "09341233000122-1-000167/2026",
+  "orgao": "FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA",
+  "unidade": "FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA",
+  "cidade": "Bagé",
+  "objeto": "Pregão eletrônico para aquisição de Material Hospitalar, destinado à UNIPAMPA, Campus Uruguaiana, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 110767.23,
+  "abertura": "2026-11-17T08:00:00",
+  "encerramento": "2026-12-02T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/09341233000122/2026/167",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15435905003702026",
+  "total_itens": 22,
+  "itens_da_linha": [
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: dissecção, características adicionais: giratória, componente: manopla s/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, haste: haste isolada, modelo 1: maryland, outros componentes: c/ conexão p/ bisturi monopolar VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3916.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: dissecção, características adicionais: giratória, componente: manopla s/ cremalheira, dimensão: cerca de 5 mm x 30 cm, esterilidade: esterilizável, haste: haste isolada, modelo 1: maryland, outros componentes: c/ conexão p/ bisturi bipolar VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 4567.32,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão traumática, características adicionais: giratória, componente: manopla c/ cremalheira, dimensão: cerca de 10 mm x 40 cm, esterilidade: esterilizável, haste: haste isolada, modelo 2: jacaré VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 5340.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão atraumática, componente: manopla c/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, formato ponta: curva, haste: haste s/ isolamento, modelo 2: oval fenestrada VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 5313.01,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: dissecção, características adicionais: giratória, componente: manopla s/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, haste: haste isolada, modelo 1: mixter, outros componentes: c/ conexão p/ bisturi monopolar VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3377.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão atraumática, características adicionais: giratória, componente: manopla s/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, haste: haste isolada, modelo 1: babcoock, outros componentes: c/ conexão p/ bisturi monopolar VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3300.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão atraumática, características adicionais: giratória, componente: manopla s/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, haste: haste isolada, modelo 1: (reddik olsen), outros componentes: c/ conexão p/ bisturi monopolar VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3308.7,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Cânula Instrumental aplicação: p/ aspiração e irrigação, comprimento total: cerca de 36, diâmetro: cerca de 5,0, esterilidade: esterilizável, haste: reta, material: aço inoxidável, modelo: videocirurgia VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 4416.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Peça / Acessório - Instrumental Cirúrgico aplicação 2: p/ cânula instrumental, videocirúrgia, esterilidade: esterilizável, material 1: aço inoxidável, modelo: aspiração e irrigação, tipo 2: válvula tipo trompete VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 4000.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Porta-Agulha P/ Videocirurgia adicional 1: c/ vídea, componente: manopla em metal c/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, formato ponta: ponta curva, haste: haste s/ isolamento, material: aço inoxidável VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 4817.33,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Porta-Agulha P/ Videocirurgia adicional 1: c/ vídea, componente: manopla em metal c/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, formato ponta: ponta curva, haste: haste s/ isolamento, material: aço inoxidável, modelo: contra porta-agulha VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3160.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Tesoura P/ Videocirurgia adicional: rotatória, aplicação: p/ videocirurgia, diâmetro: cerca de 5 mm x 35 cm, esterilidade: esterilizável, material*: aço inoxidável, modelo: metzenbaum, ponta: ponta curva, tipo*: monopolar VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 4800.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Eletrodo Bisturi Elétrico aplicação: p/ videocirurgia, comprimento haste: cerca de 35, dimensão ponta: diâmetro cerca de 5, esterilidade: esterilizável, haste: haste reta, material ponteira: aço inoxidável, tipo: hook tipo gancho, tipo uso: monopolar VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3000.0,
+    "linhas": [
+     "torre de vídeo",
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Endoscópio Rígido adicional 2: compatível com fibra óptica, dimensão: cerca de 10 x 350, esterilidade: esterilizável, formato: reta, rígida, revestimento: aço inoxidável, ângulo visão: 30° VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 28850.7,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão atraumática, características adicionais: giratória, componente: manopla c/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, haste: haste isolada, modelo 1: fenestrada tipo endoclinch VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 4349.23,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Pinça P/ Videocirurgia aplicação: apreensão traumática, características adicionais: giratória, componente: manopla c/ cremalheira, dimensão: cerca de 5 mm x 35 cm, esterilidade: esterilizável, haste: haste isolada, modelo 2: 2 x 4 dentes VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3960.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Clipador Uso Médico aplicação*: p/ videocirurgia, comprimento haste: comprimento cerca de 35, diâmetro haste: diâmetro cerca de 10, tamanho*: p/ clipes de titânio tamanho médio largo, tipo uso*: reutilizável VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3691.94,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "Tesoura P/ Videocirurgia adicional: rotatória, aplicação: p/ videocirurgia, diâmetro: cerca de 5 mm x 35 cm, esterilidade: esterilizável, material*: aço inoxidável, modelo: metzenbaum, ponta: ponta reta, tipo*: monopolar VER TR",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 3560.0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 97727.23,
+  "itens_principais": 18,
+  "exclusiva_me": true
+ },
+ {
+  "id": "87958658000199-1-001186/2026",
+  "orgao": "SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES",
+  "unidade": "CELIC - SUBSECRETARIA DA ADMINISTRAÇÃO CENTRAL DE LICITAÇÕES",
+  "cidade": "Porto Alegre",
+  "objeto": "AQUISIÇÃO DE BENS DA(S) FAMÍLIA(S): 0870-EQUIPAMENTOS/MATERIAIS MEDICO-HOSPITALARES/ENFERMAGEM;",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 1564660.14,
+  "abertura": "2026-11-17T09:00:00",
+  "encerramento": "2026-12-02T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87958658000199/2026/1186",
+  "link_sistema": "https://www.compras.rs.gov.br/editais/0610_2026/359580",
+  "total_itens": 12,
+  "itens_da_linha": [
+   {
+    "descricao": "COMPRESSA CIRÚRGICA RADIOPACA C/ CADARÇO, NÃO ESTÉRIL 45X50 CM",
+    "quantidade": 13180.0,
+    "unidade": "un",
+    "valor_total": 37694.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "COMPRESSA HOSPITALAR PARA BANHO DE LEITO, 100% ALGODÃO, NÃO ESTÉRIL, 35X45CM",
+    "quantidade": 276005.0,
+    "unidade": "un",
+    "valor_total": 449888.15,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA ORTOPÉDICA 15 CM",
+    "quantidade": 1972.0,
+    "unidade": "rl",
+    "valor_total": 2839.68,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 490422.63,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
+  "id": "13016717000173-1-000282/2026",
+  "orgao": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO - FSPSCE",
+  "unidade": "Fundação de Saúde Pública São Camilo de Esteio",
+  "cidade": "Esteio",
+  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE MATERIAL MÉDICO DIVERSOS, PARA UM PERÍODO DE 12 MESES",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 856050.2,
+  "abertura": "2026-11-16T15:00:00",
+  "encerramento": "2026-12-02T09:20:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/13016717000173/2026/282",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Fundacao-de-Saude-Publica-Sao-Camilo-de-Esteio-1126/PE-95-2026-2026-525691",
+  "total_itens": 95,
+  "itens_da_linha": [
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 10,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436000",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 263.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 12,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436001",
+    "quantidade": 60.0,
+    "unidade": "Unidade",
+    "valor_total": 270.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 14  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435995",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 972.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 16,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435999",
+    "quantidade": 2000.0,
+    "unidade": "Unidade",
+    "valor_total": 9900.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 18,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435997",
+    "quantidade": 1000.0,
+    "unidade": "Unidade",
+    "valor_total": 4250.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 20  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436078",
+    "quantidade": 180.0,
+    "unidade": "Unidade",
+    "valor_total": 892.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 22,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436077",
+    "quantidade": 120.0,
+    "unidade": "Unidade",
+    "valor_total": 580.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 24,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436836",
+    "quantidade": 30.0,
+    "unidade": "Unidade",
+    "valor_total": 154.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 16,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436838",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 698.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 18  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 436837",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 695.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 20  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 438578",
+    "quantidade": 60.0,
+    "unidade": "Unidade",
+    "valor_total": 417.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 22  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 438575",
+    "quantidade": 40.0,
+    "unidade": "Unidade",
+    "valor_total": 266.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 3 vias,  em látex  siliconizada , descartável, estéril nº 24  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 438576",
+    "quantidade": 40.0,
+    "unidade": "Unidade",
+    "valor_total": 252.4,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº 6. , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435903",
+    "quantidade": 600.0,
+    "unidade": "Unidade",
+    "valor_total": 708.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº 4 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435905",
+    "quantidade": 400.0,
+    "unidade": "Unidade",
+    "valor_total": 424.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº8 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435904",
+    "quantidade": 500.0,
+    "unidade": "Unidade",
+    "valor_total": 550.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa  estéril, nº10. , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT438983",
+    "quantidade": 500.0,
+    "unidade": "Unidade",
+    "valor_total": 750.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº14 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438985",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 552.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº18 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT438987",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 702.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº20 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435911",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 780.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 6,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435996",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 1254.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 8,  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 435998",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 605.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda vesical de demora Folley 2 vias,  em látex  siliconizada , descartável, estéril nº 26  embalada individualmente , validade mínima de 24 meses. com registro na ANVISA. CATMAT 438574",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 151.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda uretral, siliconizada para sondagem de alívio, número 10. Validade mínima de  36 meses. Estéril. com registro na ANVISA. CATMAT 438412",
+    "quantidade": 600.0,
+    "unidade": "Unidade",
+    "valor_total": 750.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 12. Validade mínima de 36  meses. Estéril. CATMAT 437443",
+    "quantidade": 2000.0,
+    "unidade": "Unidade",
+    "valor_total": 2220.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 14. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 438410",
+    "quantidade": 360.0,
+    "unidade": "Unidade",
+    "valor_total": 406.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 16. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 438411",
+    "quantidade": 120.0,
+    "unidade": "Unidade",
+    "valor_total": 211.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 18. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 437438",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 155.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº 12. , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438397",
+    "quantidade": 500.0,
+    "unidade": "Unidade",
+    "valor_total": 600.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº12 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT438984",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 510.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº16 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT438986",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 690.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº22  , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT435912",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 894.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 04. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 439069",
+    "quantidade": 500.0,
+    "unidade": "Unidade",
+    "valor_total": 495.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 06. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 437437",
+    "quantidade": 600.0,
+    "unidade": "Unidade",
+    "valor_total": 672.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 08. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 437440",
+    "quantidade": 600.0,
+    "unidade": "Unidade",
+    "valor_total": 654.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda Uretral, siliconizada para sondagem de alívio, número 20. Validade mínima de 36 meses. Estéril. Embaladas individualmete, com registro da ANVISA. CATMAT 437444",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 158.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta  estéril, n°10 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 435906",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 262.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta  estéril, nº14 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438398",
+    "quantidade": 1000.0,
+    "unidade": "Unidade",
+    "valor_total": 1630.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta estéril, nº16 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438399",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 306.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta  estéril, nº18 , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438400",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 420.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica curta  estéril, nº20  , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438951",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 410.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa  estéril, nº 4  , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT 438401",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 304.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Sonda nasogástrica longa estéril, nº6  , descartável, em PVC, conector padrão com  tampa, ponta distal com orifícios laterais, embalagem individual  Validade mínima de 36 meses. com registro na ANVISA. CATMAT437216",
+    "quantidade": 200.0,
+    "unidade": "Unidade",
+    "valor_total": 322.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Caneta Eletrocirúrgica, MONOPOLAR, descartável, com desenho ergonômico, teclas de comando manual para corte e coagulação, cabo de encaixe com conector perfeitamente compatível ao equipamento de eletrocoagulação do tipo bisturi elétrico, 3 PINOS, esteriliz",
+    "quantidade": 1000.0,
+    "unidade": "Unidade",
+    "valor_total": 16410.0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Atadura algodão ortopédico 10cm x 1,80 m. 100% algodão . Não estéril,  enroladas em papel apropriado. Com registro na ANVISA. Embaladas em pacotes com 12 unidades. CATMAT 448246.",
+    "quantidade": 1800.0,
+    "unidade": "Rolo",
+    "valor_total": 2142.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Atadura algodão ortopédico 20cm x 1,80 m. 100% algodão . Não estéril,  enroladas em papel apropriado. Com registro na ANVISA. Embaladas em pacotes com 12 unidades. CATMAT(448248)",
+    "quantidade": 4000.0,
+    "unidade": "Rolo",
+    "valor_total": 7240.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 6FR - Sonda de aspiração traqueal calibre nº 6, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiração",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 4827.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 8FR - Sonda de aspiração traqueal calibre nº 8, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiração",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 4123.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 10FR - Sonda de aspiração traqueal calibre nº 10, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiraç",
+    "quantidade": 50.0,
+    "unidade": "Unidade",
+    "valor_total": 1637.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 14FR - Sonda de aspiração traqueal calibre nº 14, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiraç",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 3146.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SISTEMA FECHADO COM SONDA ATRAUMÁTICA DE PONTA ARREDONDADA ENVOLTA EM LUVA DE PVC SILICONIZADO 16FR - Sonda de aspiração traqueal calibre nº 16, em PVC , flexível, transparente, ponta atraumática, com escala graduada, orifícios na extremidade para aspiraç",
+    "quantidade": 100.0,
+    "unidade": "Unidade",
+    "valor_total": 3096.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 80780.9,
+  "itens_principais": 1,
   "exclusiva_me": false
  },
  {
@@ -11665,6 +12580,216 @@
   "valor_itens_da_linha": 40314.42,
   "itens_principais": 9,
   "exclusiva_me": true
+ },
+ {
+  "id": "87958658000199-1-001188/2026",
+  "orgao": "SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES",
+  "unidade": "CELIC - SUBSECRETARIA DA ADMINISTRAÇÃO CENTRAL DE LICITAÇÕES",
+  "cidade": "Porto Alegre",
+  "objeto": "AQUISIÇÃO DE BENS DA(S) FAMÍLIA(S): 0870-EQUIPAMENTOS/MATERIAIS MEDICO-HOSPITALARES/ENFERMAGEM;",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 503706.9,
+  "abertura": "2026-11-17T09:00:00",
+  "encerramento": "2026-12-04T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87958658000199/2026/1188",
+  "link_sistema": "https://www.compras.rs.gov.br/editais/0612_2026/359582",
+  "total_itens": 8,
+  "itens_da_linha": [
+   {
+    "descricao": "EQUIPO PARA TRANSFUSÃO DE SANGUE",
+    "quantidade": 1880.0,
+    "unidade": "un",
+    "valor_total": 12107.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "EQUIPO MACROGOTAS SIMPLES",
+    "quantidade": 60000.0,
+    "unidade": "un",
+    "valor_total": 70200.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "TUBO EXTENSOR PARA ASPIRAÇÃO E CONDUÇÃO DE GAZES 2 METROS",
+    "quantidade": 6800.0,
+    "unidade": "tb",
+    "valor_total": 19176.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 101483.2,
+  "itens_principais": 0,
+  "exclusiva_me": true
+ },
+ {
+  "id": "92787118000120-1-001072/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospitalar (CANULAS, ALÇAS, PINÇAS E OUTROS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-16T12:00:00",
+  "encerramento": "2026-12-04T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1072",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1104026",
+  "total_itens": 27,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 15225\nEspecificação: ALCA P/RESSECCAO P/VIDEOCIRURGIA (GINECO) 27050G 24CH - compatível c/equipamento de histeroscopia marca Storz\nUnidade: UNIDADE",
+    "quantidade": 36.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 18960\nEspecificação: CANULA DE DISSECCAO C/GANCHO EM \u001cJ\u001d, ISOLADA, C/VALVULA PISTAO EM CONECTOR P/ELETROCAUTERIO, LONGITUDINAL - \nUnidade: UNIDADE",
+    "quantidade": 24.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 20682\nEspecificação: ELETRODO DE ELETROCAUTERIO P/CORTE E COAGULACAO TIPO FACA RETA 120mm - \nUnidade: UNIDADE",
+    "quantidade": 96.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 3,
+  "exclusiva_me": false
+ },
+ {
+  "id": "87958658000199-1-001189/2026",
+  "orgao": "SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES",
+  "unidade": "CELIC - SUBSECRETARIA DA ADMINISTRAÇÃO CENTRAL DE LICITAÇÕES",
+  "cidade": "Porto Alegre",
+  "objeto": "AQUISIÇÃO DE BENS DA(S) FAMÍLIA(S): 0857-DIAGNOSTICA (IPB/LACEN/FEPPS);0870-EQUIPAMENTOS/MATERIAIS MEDICO-HOSPITALARES/ENFERMAGEM;0855-DIAGNOSTICA;",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 289275.28,
+  "abertura": "2026-11-17T09:00:00",
+  "encerramento": "2026-12-07T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87958658000199/2026/1189",
+  "link_sistema": "https://www.compras.rs.gov.br/editais/0613_2026/359584",
+  "total_itens": 8,
+  "itens_da_linha": [
+   {
+    "descricao": "ESFIGMOMANÔMETRO - CLINICO ADULTO",
+    "quantidade": 238.0,
+    "unidade": "un",
+    "valor_total": 26418.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 26418.0,
+  "itens_principais": 1,
+  "exclusiva_me": true
+ },
+ {
+  "id": "92787118000120-1-001069/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospitalar (AFASTADOR, AGULHA E OUTROS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais, conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-16T12:00:00",
+  "encerramento": "2026-12-07T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1069",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103954",
+  "total_itens": 24,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 41883\nEspecificação: PORTA AGULHA P/ VIDEOCIRURGIA DE 5MM CURVO PARA ESQUERDA C/ APROX. 33CM DE COMPRIMENTO, C/ CREMALHEIRA E EMPUNHADURA ANGULADA / ANATOMICA, EM ACO INOX AUTOCLAVAVEL A 134ºC. - \nUnidade: UNIDADE",
+    "quantidade": 36.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "torre de vídeo"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 14357\nEspecificação: TESOURA DE METZENBAUM, GIRATORIA, CURVA, ISOLADA, DUPLA ACAO MANDIBULAR 5mm - c/conexão p/eletrocautério\nUnidade: UNIDADE",
+    "quantidade": 168.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001068/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospitalar (MÁSCARAS E MATERIAL DE ODONTO), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o HOSPITAL GERAL DE BONSUCESSO DO RIO DE JANEIRO, filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-16T12:00:00",
+  "encerramento": "2026-12-08T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1068",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103941",
+  "total_itens": 17,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 14803\nEspecificação: RESERVATORIO DE O2 P/ RESSUSCITADOR C/ CAPACIDADE DE 2300 a 2600ml, EM POLIPROPILENO, C/ VALVULA COMPATIVEL P/ ENCAIXE NO RESSUSCITADOR MANUAL DA MARCA AMBU, REPROCESSAVEL - \nUnidade: UNIDADE",
+    "quantidade": 312.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": false
  },
  {
   "id": "88830609000139-1-000677/2026",
