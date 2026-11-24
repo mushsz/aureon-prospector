@@ -1,763 +1,5 @@
 [
  {
-  "id": "00394452000103-1-023867/2026",
-  "orgao": "COMANDO DO EXERCITO",
-  "unidade": "HOSPITAL DE GUARNICAO DE SANTIAGO",
-  "cidade": "Santiago",
-  "objeto": "Aquisição de material odontológico, em proveito do Hospital de Guarnição de Santiago e demais UG Participantes do Grupo de Coordenação, Acompanhamento e Controle de Licitação e Contratos da 1ª Brigada de Cavalaria Mecanizada(GCALC 1ª Bda C Mec),",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 163149.45,
-  "abertura": "2026-11-10T08:00:00",
-  "encerramento": "2026-11-24T08:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/00394452000103/2026/23867",
-  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16042305000332026",
-  "total_itens": 94,
-  "itens_da_linha": [
-   {
-    "descricao": "Fio De Sutura Agulhado material fio: nylon / poliamida preto, modelo fio: monofilamentar, diâmetro fio: 4-0, comprimento fio: cerca de 45, tipo agulha: agulha 1/2 círculo, modelo agulha: cortante reversa / invertida, comprimento agulha: cerca de 16, esterilidade: estéril, apresentação: embalagem individual",
-    "quantidade": 343.0,
-    "unidade": "Unidade",
-    "valor_total": 713.44,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Condicionador Dental tipo: ácido fosfórico, concentração: 37%, aspecto físico: gel Kit com 3 seringas 2,5ml",
-    "quantidade": 85.0,
-    "unidade": "Seringa ML",
-    "valor_total": 594.15,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 1307.59,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
-  "id": "87592861000194-1-000471/2026",
-  "orgao": "MUNICIPIO DE SOBRADINHO",
-  "unidade": "FUNDO MUNICIPAL DE SAÚDE - RECURSOS VINCULADOS",
-  "cidade": "Sobradinho",
-  "objeto": "Aquisição de equipamentos, mobiliários, materiais médico-assistenciais, materiais lúdico-pedagógicos e equipamentos de informática destinados à estruturação e qualificação das ações da Rede Bem Cuidar - Puericultura, para atendimento das Unidades de Saúde da Secretaria Municipal da Saúde de Sobradinho/RS, com recursos do Programa Equipamentos Rede Bem Cuidar - Puericultura (SES nº 1228/2025)",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 33464.15,
-  "abertura": "2026-11-03T00:00:00",
-  "encerramento": "2026-11-24T08:50:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87592861000194/2026/471",
-  "link_sistema": null,
-  "total_itens": 18,
-  "itens_da_linha": [
-   {
-    "descricao": "BALANÇA ANTROPOMÉTRICA INFANTIL MESA ATÉ 30KG",
-    "quantidade": 3.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 1928.01,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "DETECTOR FETAL PORTÁTIL DIGITAL",
-    "quantidade": 4.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 1256.92,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "MESA GINECOLÓGICA ELÉTRICA",
-    "quantidade": 1.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 14077.33,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "BIOMBO TRIPLO HOSPITALAR",
-    "quantidade": 1.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 439.15,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "ESTETOSCÓPIO INFANTIL LÚDICO",
-    "quantidade": 2.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 675.5,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "OFTALMOSCÓPIO",
-    "quantidade": 1.0,
-    "unidade": "UNIDADE (UNIDADE)",
-    "valor_total": 650.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 19026.91,
-  "itens_principais": 6,
-  "exclusiva_me": true
- },
- {
-  "id": "92406453000130-1-000065/2026",
-  "orgao": "MUNICIPIO DE SAO DOMINGOS DO SUL",
-  "unidade": "Prefeitura Municipal de São Domingos do Sul",
-  "cidade": "São Domingos do Sul",
-  "objeto": "[Portal de Compras Públicas] - LICITAÇÃO DE MEDICAMENTOS, INSUMOS, FRALDAS E MATERIAIS MÉDICO-HOSPITALARES",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 802664.16,
-  "abertura": "2026-11-04T16:00:00",
-  "encerramento": "2026-11-24T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92406453000130/2026/65",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Sao-Domingos-do-Sul-4229/RPE-11-2026-2026-522977",
-  "total_itens": 274,
-  "itens_da_linha": [
-   {
-    "descricao": "INDICADOR BIOLOGICO AUTO CLAVE - para autoclave a vapor, 24 horas para finalizacao do resultado",
-    "quantidade": 120.0,
-    "unidade": "Unidade",
-    "valor_total": 550.8,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA CREPE 06CM - pacote c/12un",
-    "quantidade": 140.0,
-    "unidade": "Unidade",
-    "valor_total": 1449.84,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA DE CREPE 08CM",
-    "quantidade": 432.0,
-    "unidade": "Unidade",
-    "valor_total": 496.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA DE CREPE 10 CM",
-    "quantidade": 300.0,
-    "unidade": "Unidade",
-    "valor_total": 369.9,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA DE CREPE 12 CM",
-    "quantidade": 108.0,
-    "unidade": "Unidade",
-    "valor_total": 159.3,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA DE CREPE 15 CM",
-    "quantidade": 420.0,
-    "unidade": "Unidade",
-    "valor_total": 622.44,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA DE CREPE 20CM 12UN",
-    "quantidade": 10.0,
-    "unidade": "Pacote",
-    "valor_total": 214.45,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA  DE RAYON 7,5 CM X 5 M",
-    "quantidade": 30.0,
-    "unidade": "ROLO",
-    "valor_total": 313.2,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA ELASTICA 15 CM X 2M C/12",
-    "quantidade": 70.0,
-    "unidade": "PACOTE",
-    "valor_total": 2547.72,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ATADURA ELASTICA 20 CM X 2M C/12",
-    "quantidade": 40.0,
-    "unidade": "PCT",
-    "valor_total": 1933.92,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "COMPRESSA CIRURGICA 45X50- 50UNID - CAMPO OPERATORIO - 100% algodao, 25g ou mais, nao esteril",
-    "quantidade": 12.0,
-    "unidade": "PACOTE",
-    "valor_total": 1176.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CATETER INTRAVENOSO N 20",
-    "quantidade": 800.0,
-    "unidade": "Unidade",
-    "valor_total": 1156.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CATETER INTRAVENOSO N 22",
-    "quantidade": 300.0,
-    "unidade": "Unidade",
-    "valor_total": 433.5,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "CATETER INTRAVENOSO N24",
-    "quantidade": 4000.0,
-    "unidade": "Unidade",
-    "valor_total": 6720.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "EQUIPO PARA NUTRICAO ENTERAL - com ponta perfurocortante, com filtro de ar, escalonado, gravitacional",
-    "quantidade": 325.0,
-    "unidade": "Unidade",
-    "valor_total": 555.75,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "ESPARADRAPO IMPERMEAVEL 10 X 4,5",
-    "quantidade": 6.0,
-    "unidade": "Unidade",
-    "valor_total": 98.07,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "FITA ADESIVA AUTOCLAVE 19X30",
-    "quantidade": 25.0,
-    "unidade": "Rolo",
-    "valor_total": 223.0,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "GAZE 7,5CM X 7,5CM ESTERIL C/10UN 13 FIOS - 100% algodaoesteril",
-    "quantidade": 10000.0,
-    "unidade": "PACOTE",
-    "valor_total": 22100.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "GAZE 13 FIOS 7,5 X 7,5 CM PACOTE COM 500 UN - 100% algodao",
-    "quantidade": 100.0,
-    "unidade": "PACOTE",
-    "valor_total": 3427.5,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LANCETA RETRATIL DESCARTAVEL - 23g ou 25gsistema de seguranca/fechado",
-    "quantidade": 700.0,
-    "unidade": "Unidade",
-    "valor_total": 143.5,
-    "linhas": [
-     "glicosímetro e tiras"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LUVAS CIRURGICA ESTERIL 7.0",
-    "quantidade": 100.0,
-    "unidade": "Par",
-    "valor_total": 204.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "LUVAS CIRURGICA ESTERIL 7.5",
-    "quantidade": 200.0,
-    "unidade": "Par",
-    "valor_total": 428.4,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "MICROPORE 2,5 X 10 M",
-    "quantidade": 385.0,
-    "unidade": "Unidade",
-    "valor_total": 1903.825,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "MICROPORE 5CM X 10M",
-    "quantidade": 412.0,
-    "unidade": "Unidade",
-    "valor_total": 3592.64,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SCALPE 23",
-    "quantidade": 600.0,
-    "unidade": "Unidade",
-    "valor_total": 209.4,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTAVEL INSULINA - 1ML SEM AGULHA",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 52.2,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DE INSULINA 50UI AGULHA 6MM",
-    "quantidade": 1000.0,
-    "unidade": "Unidade",
-    "valor_total": 3800.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA 3ML LUER SLIP",
-    "quantidade": 1600.0,
-    "unidade": "Unidade",
-    "valor_total": 444.8,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTAVEL 3ML LUER LOCK",
-    "quantidade": 2500.0,
-    "unidade": "Unidade",
-    "valor_total": 887.5,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA 5ML LUER SLIP",
-    "quantidade": 1600.0,
-    "unidade": "Unidade",
-    "valor_total": 547.2,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTAVEL 5ML LUER LOCK",
-    "quantidade": 2200.0,
-    "unidade": "Unidade",
-    "valor_total": 968.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTAVEL 10ML LUER SLIP",
-    "quantidade": 6000.0,
-    "unidade": "Unidade",
-    "valor_total": 3120.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA 10ML LUER LOCK (C/ ROSCA)",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 53.0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA 20ML LUER SLIP",
-    "quantidade": 550.0,
-    "unidade": "Unidade",
-    "valor_total": 471.35,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "SERINGA DESCARTAVEL 20ML LUER LOCK",
-    "quantidade": 50.0,
-    "unidade": "Unidade",
-    "valor_total": 74.35,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 61448.36,
-  "itens_principais": 3,
-  "exclusiva_me": false
- },
- {
-  "id": "87530978000143-1-000454/2026",
-  "orgao": "MUNICIPIO DE CACHOEIRA DO SUL",
-  "unidade": "Prefeitura de Cachoeira do Sul",
-  "cidade": "Cachoeira do Sul",
-  "objeto": "[Portal de Compras Públicas] - Registro de Preços de equipamentos médico-hospitalares conforme Termo de Referência e anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 457252.14,
-  "abertura": "2026-11-09T09:15:00",
-  "encerramento": "2026-11-24T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87530978000143/2026/454",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Cachoeira-do-Sul-27/RPE-153-2026-2026-523783",
-  "total_itens": 19,
-  "itens_da_linha": [
-   {
-    "descricao": "Bracadeira para injecao endovenosa, coluna inferior em tubo redondo pintado na cor branca, haste superior em tubo cromado, concha em aco inoxidavel com acabamento boleado (anticortante), movimento regulavel, base em ferro fundido, altura regulavel minima de 0,85 e maxima de 1,25 m.",
-    "quantidade": 60.0,
-    "unidade": "Unidade",
-    "valor_total": 9060.0,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "CAMA HOSPITALAR",
-    "quantidade": 2.0,
-    "unidade": "Unidade",
-    "valor_total": 10452.3,
-    "linhas": [
-     "cama hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Carro de curativo com armacao em tubos cromados, tampo e prateleira em aco inoxidavel, grade cromado em toda volta, rodas com 3  de diametro, provido de balde e bacia de aco inoxidavel com respectivos suportes. Medidas aproximadas: 85 x 75 x 45 cm (A x L x P).",
-    "quantidade": 36.0,
-    "unidade": "Unidade",
-    "valor_total": 26999.64,
-    "linhas": [
-     "carro de emergência"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Mesa auxiliar em aco inox para balanca infantil com estrutura em tubos redondos, dois tampos e com ponteiras de borracha (sem rodizios). Medidas aproximadas: 80x60x40 cm (A x L x P).",
-    "quantidade": 36.0,
-    "unidade": "Unidade",
-    "valor_total": 16115.76,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "SUPORTE DE SORO EM ACO INOX C/ ALTURA REGULAVEL E RODiZIOS.",
-    "quantidade": 36.0,
-    "unidade": "Unidade",
-    "valor_total": 5842.08,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Autoclave horizontal de mesa (com capacidade de ate 75 litros), funcionamento automatico, construida em aco inoxidavel com acabamento anticorrosivo, painel de comando equipado com termometro manometro digital, chave seletora, chave geral liga e desliga, lampadas indicativas, valvula de retencao, valvula solenoide, valvula de seguranca para alivio de pressao excedente, termostato para controle de t",
-    "quantidade": 24.0,
-    "unidade": "Unidade",
-    "valor_total": 82751.76,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "BALANCA ANTROPOMETRICA PARA OBESOS.",
-    "quantidade": 24.0,
-    "unidade": "Unidade",
-    "valor_total": 34927.92,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Nebulizador eletrico composto de 04 (quatro) unidades com possibilidade de uso individual ou simultaneo. Motor compacto, monofasico de 1/5 Hp ventilado, compressor de pistao oscilante isento de lubrificacao, vazao de ar livre de 34 litros/min, particulas de 0,5 a 8 microns, terminais de saida com valvulas especiais que permitam a conclusao individual sem afetar o funcionamento de outros aparelhos.",
-    "quantidade": 23.0,
-    "unidade": "Unidade",
-    "valor_total": 3259.1,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Oftalmoscopio a pilha, em aco inoxidavel, com lente convexa/concava, lampada de iluminacao prima, reflexao para distancia de 50 cm, ajuste minimo de 0 a 20 D(+), acompanha jogo de especulos plasticos (minimo de 05) para uso adulto/infantil e estojo para acondicionamento do aparelho.",
-    "quantidade": 100.0,
-    "unidade": "Unidade",
-    "valor_total": 79583.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "Oximetro de pulso portatil",
-    "quantidade": 36.0,
-    "unidade": "Unidade",
-    "valor_total": 29039.76,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 298031.32,
-  "itens_principais": 10,
-  "exclusiva_me": true
- },
- {
-  "id": "13183513000127-1-000210/2026",
-  "orgao": "FUNDACAO DE SAUDE SAPUCAIA DO SUL",
-  "unidade": "FUNDAÇÃO DE SAÚDE SAPUCAIA DO SUL",
-  "cidade": "Sapucaia do Sul",
-  "objeto": "AQUISIÇÃO DE 02 (DOIS) APARELHOS ELETROCARDIÓGRAFOS, PARA A UNIDADE DE CLÍNICA MÉDICA E SETOR DE MEDICAÇÃO, DO HOSPITAL MUNICIPAL GETÚLIO VARGAS (HMGV), EM SAPUCAIA DO SUL/RS",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 0.0,
-  "abertura": "2026-11-11T08:00:00",
-  "encerramento": "2026-11-24T09:00:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/13183513000127/2026/210",
-  "link_sistema": "https://pregaobanrisul.com.br/editais/0159_2026/359291",
-  "total_itens": 1,
-  "itens_da_linha": [
-   {
-    "descricao": "9664\tELETROCARDIÓGRAFO",
-    "quantidade": 2.0,
-    "unidade": "un",
-    "valor_total": 0,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-001029/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar (CÂNULAS, EMBALAGENS E OUTROS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais, conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-11-05T14:00:00",
-  "encerramento": "2026-11-24T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1029",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103226",
-  "total_itens": 45,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 8710\nEspecificação: CATETER P/CROMOTERAPIA E CROMOSCOPIA COMPRIMENTO DE 210cm A 230cm, PONTA C/ORIFICIOS LATERAIS, COMPATIVEL C/ENDOSCOPIO CANAL 2,8mm - \nUnidade: UNIDADE",
-    "quantidade": 120.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 29450\nEspecificação: INDICADOR QUIMICO, CLASSE II, TIPO BOWIE DICK, PACOTE P/TESTE DE AUTOCLAVE A VAPOR, ISO 11140, PADRAO AMERICANO, PRONTO USO - \nUnidade: UNIDADE",
-    "quantidade": 7080.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 4955\nEspecificação: LIXA P/ELETROCAUTERIO - \nUnidade: UNIDADE",
-    "quantidade": 1020.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 5223\nEspecificação: PLACA P/ELETROCAUTERIO, ADESIVA, DESCARTAVEL, INTEIRA(NAO REM) TAMANHO ADULTO - \nUnidade: UNIDADE",
-    "quantidade": 4800.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "foco e mesa cirúrgica"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 4,
-  "exclusiva_me": false
- },
- {
   "id": "04215918000109-1-000234/2026",
   "orgao": "MUNICIPIO DE LAGOA BONITA DO SUL",
   "unidade": "MRS-PREFETURA MUNICIP. DE LAGOA BONITA DO SUL",
@@ -3602,6 +2844,70 @@
   ],
   "valor_itens_da_linha": 142844.83,
   "itens_principais": 12,
+  "exclusiva_me": true
+ },
+ {
+  "id": "87455531000157-1-000396/2026",
+  "orgao": "MUNICIPIO DE PELOTAS",
+  "unidade": "Departamento de Compras Governamentais",
+  "cidade": "Pelotas",
+  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE EQUIPAMENTOS VETERINÁRIOS PARA CLÍNICA VETERINÁRIA MUNICIPAL - SQA",
+  "modalidade": "Dispensa",
+  "srp": false,
+  "valor_estimado": 19851.06,
+  "abertura": "2026-11-24T08:00:00",
+  "encerramento": "2026-11-27T08:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87455531000157/2026/396",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Pelotas-54/DE-037-2026-2026-526962",
+  "total_itens": 19,
+  "itens_da_linha": [
+   {
+    "descricao": "SUPORTE PARA SORO TIPO PEDESTAL - descritivo conforme item 05, anexo I do edital.",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 332.0,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "ESTETOSCÓPIO - descritivo conforme item 09, anexo I do edital.",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 174.88,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "OTOSCÓPIO - descritivo conforme item 10, anexo I do edital.",
+    "quantidade": 2.0,
+    "unidade": "Unidade",
+    "valor_total": 359.34,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "TERMÔMETRO CLÍNICO - descritivo conforme item 16, anexo I do edital.",
+    "quantidade": 4.0,
+    "unidade": "Unidade",
+    "valor_total": 81.76,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 947.98,
+  "itens_principais": 4,
   "exclusiva_me": true
  },
  {
@@ -9070,6 +8376,125 @@
   "exclusiva_me": false
  },
  {
+  "id": "26646188000133-1-000021/2026",
+  "orgao": "CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DO VALE DO RIO DE SINOS - CP SINOS",
+  "unidade": "Licitações",
+  "cidade": "Novo Hamburgo",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de medicamentos e materiais ambulatoriais para manutenção dos serviços dos municípios consorciados, em regime de Registro de Preços, conforme as condições, quantidades e exigências estabelecidas neste Edital e em seu Anexo I – Termo de Referência.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 68070363.06,
+  "abertura": "2026-11-23T17:30:00",
+  "encerramento": "2026-12-03T09:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/26646188000133/2026/21",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Consorcio-Publico-da-Associacao-dos-Municipios-do-Vale-do-Rio-dos-Sinos-1036/RPE-14-2026-2026-527139",
+  "total_itens": 274,
+  "itens_da_linha": [
+   {
+    "descricao": "Agulha 20Mm X 0,55Mm C/ 100 Un - Agulha Hipodérmica Estéril De Uso Único (Descartável). Tamanho: 20Mm (3/4\") X 0,55Mm (24G). Atóxica E Apirogênica. Canhão Em Polipropileno Colorido, Respeitando Padrão Universal De Cores, Compatível Com Conexão Luer Lock (Rosca). Cânula De Aço Inoxidável, Siliconizada, Com Parede Fina E Bisel Trifacetado. Embalada Individualmente Em Papel Grau Cirúrgico Com Abertur",
+    "quantidade": 4190.0,
+    "unidade": "Caixa",
+    "valor_total": 53171.1,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Agulha 25Mm X 0,6Mm C/ 100 Un - Agulha Hipodérmica Estéril De Uso Único (Descartável). Tamanho: 25Mm (1\") X 0,6Mm (23G). Atóxica E Apirogênica. Canhão Em Polipropileno Colorido, Respeitando Padrão Universal De Cores, Compatível Com Conexão Luer Lock (Rosca). Cânula De Aço Inoxidável, Siliconizada, Com Parede Fina E Bisel Trifacetado. Embalada Individualmente Em Papel Grau Cirúrgico Com Abertura Ti",
+    "quantidade": 3710.0,
+    "unidade": "Caixa",
+    "valor_total": 43444.1,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Agulha 25Mm X 0,7Mm C/ 100 Un - Agulha Hipodérmica Estéril De Uso Único (Descartável). Tamanho: 25Mm (1\") X 0,7Mm (22G). Atóxica E Apirogênica. Canhão Em Polipropileno Colorido, Respeitando Padrão Universal De Cores, Compatível Com Conexão Luer Lock (Rosca). Cânula De Aço Inoxidável, Siliconizada, Com Parede Fina E Bisel Trifacetado. Embalada Individualmente Em Papel Grau Cirúrgico Com Abertura Ti",
+    "quantidade": 6720.0,
+    "unidade": "Caixa",
+    "valor_total": 79363.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Agulha 25Mm X 0,8Mm C/ 100 Un - Agulha Hipodérmica Estéril De Uso Único (Descartável). Tamanho: 25Mm (1\") X 0,8Mm (21G). Atóxica E Apirogênica. Canhão Em Polipropileno Colorido, Respeitando Padrão Universal De Cores, Compatível Com Conexão Luer Lock (Rosca). Cânula De Aço Inoxidável, Siliconizada, Com Parede Fina E Bisel Trifacetado. Embalada Individualmente Em Papel Grau Cirúrgico Com Abertura Ti",
+    "quantidade": 7775.0,
+    "unidade": "Caixa",
+    "valor_total": 92367.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Agulha 30Mm X 0,8Mm C/ 100 Un - Agulha Hipodérmica Estéril De Uso Único (Descartável). Tamanho: 30Mm (1\") X 0,8Mm (21G). Atóxica E Apirogênica. Canhão Em Polipropileno Colorido, Respeitando Padrão Universal De Cores, Compatível Com Conexão Luer Lock (Rosca). Cânula De Aço Inoxidável, Siliconizada, Com Parede Fina E Bisel Trifacetado. Embalada Individualmente Em Papel Grau Cirúrgico Com Abertura Ti",
+    "quantidade": 2070.0,
+    "unidade": "Caixa",
+    "valor_total": 25109.1,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Cateter Nasal Para Oxigênio Tipo Óculos Pediátrico Em Silicone E Translúcido. Diâmetro (Fr) 09.",
+    "quantidade": 6720.0,
+    "unidade": "Unidade",
+    "valor_total": 15859.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Pás Adesivas Para Desfibrilador Dea Isis/Cardiomax, Tamanho Adulto,Conector Azul E Branco. Fabricante Instramed. A Utilização De Acessórios E Partes Não Fornecidas Pela Fabricante É Expressamente Proibida No Manual Do Aparelho. O Funcionamento Inadequado Implica Em Risco De Vida, Portanto Apenas Será Aceito Item Produzido Pela Própria Fabricante Do Aparelho (Instramed). Validade Minima 18 Meses",
+    "quantidade": 405.0,
+    "unidade": "Unidade",
+    "valor_total": 444499.65,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Seringa 10 Ml Sem Agulha - Bico Luer Lock (Rosca). Características: Confeccionada Em Prolipropileno, Estéril, Transparante, Atóxica, Apirogênica, De Uso Único (Descartável). Com Cilindro Siliconado (Lubrificado). Com Escala Externa Gravada: Escala Numerada Em Traços Longos A Cada 1 Ml E A Secundária A Cada 0,2Ml, No Mínimo. Embalagem Individual Com Abertura Tipo Pétala. Com Selo Do Inmetro E Regis",
+    "quantidade": 324100.0,
+    "unidade": "Unidade",
+    "valor_total": 149086.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Seringa Heparinizada 3Ml - Para Coleta De Gasometria. Com Bico Luer Lock (Rosca). Para 1,6Ml De Amostra, Com 50Ui De Heparina Por Ml De Amostra (Sangue). Com Heparina De Lítio Balanceada Com Cálcio. Estéril, Embalagem Individual.",
+    "quantidade": 300.0,
+    "unidade": "Unidade",
+    "valor_total": 4056.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 906955.35,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
   "id": "03483912000150-1-000032/2026",
   "orgao": "FUNDACAO DE APOIO A UNIVERSIDADE DO RIO GRANDE",
   "unidade": "FUNDACAO DE APOIO A UNIVERSIDADE DO RIO GRANDE",
@@ -10048,6 +9473,59 @@
   "exclusiva_me": false
  },
  {
+  "id": "01273946000194-1-000164/2026",
+  "orgao": "FUNDACAO MUNICIPAL DE SAUDE DE SANTA ROSA",
+  "unidade": "Fundação Municipal de Saúde de Santa Rosa",
+  "cidade": "Santa Rosa",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de Material Odontológico",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 105137.72,
+  "abertura": "2026-11-23T15:00:00",
+  "encerramento": "2026-12-09T07:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/01273946000194/2026/164",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Fundacao-Municipal-de-Saude-de-Santa-Rosa-2843/RPE-25-2026-2026-527129",
+  "total_itens": 74,
+  "itens_da_linha": [
+   {
+    "descricao": "FMS - CIMENTO OXIDO DE ZINCO E EUGENOL TIPO II (PO E LiQUIDO) INDICADO PARA RESTAURACOES DE LONGA DURACAO COM COMPOSICAO REFORCADA A BASE DE OXIDO DE ZINCO E EUGENOL. REFORCADO POR POLiMEROS, ALTO VEDAMENTO MARGINAL, PRESA RAPIOH ALTA RESISTENCIA A COMPRESSAO E PROPRIEDADES SEDATIVAS. - KIT",
+    "quantidade": 28.0,
+    "unidade": "Kit",
+    "valor_total": 470.12,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FMS - SELANTE DE  FOSSULAS E FISSURAS FOTOPOLIMERIZAVEL MATIZADO COM APLICADOR EM SERINGA COM LIBERACAO DE FLuOR E COM 50% EM PESO DE CARGAS INORGANICAS - UNIDADE",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 332.6,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FMS - TAMBOR DE INOX PARA GAZE E ALGODAO COM TAMPA, TAMANHO 10X10CM / CAPACIDADE 780ML",
+    "quantidade": 20.0,
+    "unidade": "Unidade",
+    "valor_total": 1101.2,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 1903.92,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
   "id": "92787118000120-1-001081/2026",
   "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
   "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
@@ -10680,6 +10158,1082 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 16,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88201298000149-1-000935/2026",
+  "orgao": "MUNICIPIO DE LAVRAS DO SUL",
+  "unidade": "PREFEITURA MUNICIPAL DE LAVRAS DO SUL",
+  "cidade": "Lavras do Sul",
+  "objeto": "SISTEMA DE REGISTRO DE PREÇOS (SRP) PARA POSSÍVEL E EVENTUAL AQUISIÇÃO DE MATERIAL AMBULATORIAL",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 4609642.41,
+  "abertura": "2026-07-30T08:00:00",
+  "encerramento": "2026-12-16T08:31:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88201298000149/2026/935",
+  "link_sistema": "https://pregaobanrisul.com.br/editais/0022_2026/354437",
+  "total_itens": 319,
+  "itens_da_linha": [
+   {
+    "descricao": "ATADURA ORTOPÉDICA 10 CM 13 FIOS",
+    "quantidade": 500.0,
+    "unidade": "pa",
+    "valor_total": 3325.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA ORTOPÉDICA 12 CM 13 FIOS",
+    "quantidade": 500.0,
+    "unidade": "pa",
+    "valor_total": 3625.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA ALGODÃO ORTOPÉDICA 15 CM",
+    "quantidade": 400.0,
+    "unidade": "pa",
+    "valor_total": 5172.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA DE CREPOM 12 cm x 1,8 m 13 fios",
+    "quantidade": 7400.0,
+    "unidade": "pa",
+    "valor_total": 56314.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA DE CREPOM 8 cm x 1,8 m 13 fios",
+    "quantidade": 6800.0,
+    "unidade": "pa",
+    "valor_total": 33796.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA ELÁSTICA 15 cm x 2,20 m 13% poliéster, 13 fios",
+    "quantidade": 2600.0,
+    "unidade": "pa",
+    "valor_total": 42588.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA GESSADA 20 cm x 4 m",
+    "quantidade": 350.0,
+    "unidade": "pa",
+    "valor_total": 16691.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA GESSADA 15 cm x 3m",
+    "quantidade": 500.0,
+    "unidade": "pa",
+    "valor_total": 1580.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA GESSADA BRANCA 10 cm x 3m, 100% algodão",
+    "quantidade": 500.0,
+    "unidade": "pa",
+    "valor_total": 1860.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ATADURA ALGODÃO ORTOPÉDICO 10 x 180cm",
+    "quantidade": 1000.0,
+    "unidade": "pa",
+    "valor_total": 2110.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ABOCATH CATÉTER INTRAVENOSO PERIFÉRICO TEFLON nº 18",
+    "quantidade": 3050.0,
+    "unidade": "un",
+    "valor_total": 2684.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ABOCATH CATÉTER INTRAVENOSO PERIFÉRICO TEFLON nº 16",
+    "quantidade": 1000.0,
+    "unidade": "un",
+    "valor_total": 1550.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ABOCATH CATÉTER INTRAVENOSO PERIFÉRICO TEFLON nº 14",
+    "quantidade": 1000.0,
+    "unidade": "un",
+    "valor_total": 1010.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ABOCATH CATÉTER INTRAVENOSO PERIFÉRICO TEFLON nº 24",
+    "quantidade": 5100.0,
+    "unidade": "un",
+    "valor_total": 7905.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ABOCATH CATÉTER INTRAVENOSO PERIFÉRICO TEFLON nº 20",
+    "quantidade": 4000.0,
+    "unidade": "un",
+    "valor_total": 6360.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CABO SENSOR DE OXIMETRIA, PARA LINHA DE MOTOR MULTIPARÂMETROS MODELO LEVI MARCA CMOS DRAKE TAMANHO ADULTO",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 1759.4,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CABO SENSOR DE OXIMETRIA PARA LINHA DE MONITOR MULTIPARÂMETROS, MODELO LEVI, MARCA CMOS DRAKE, TAMANHO PEDIÁTRICO",
+    "quantidade": 6.0,
+    "unidade": "un",
+    "valor_total": 1252.08,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CABO SENSOR DE OXIMETRIA PARA LINHA DE MONITOR MULTIPARÂMETROS, MODELO LEVI, MARCA CMOS DRAKE, TAMANHO NEONATAL",
+    "quantidade": 6.0,
+    "unidade": "un",
+    "valor_total": 2346.3,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CATETER INTRAVENOSO nº 18",
+    "quantidade": 2000.0,
+    "unidade": "un",
+    "valor_total": 2360.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CATETER INTRAVENOSO nº 20",
+    "quantidade": 2000.0,
+    "unidade": "un",
+    "valor_total": 3140.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CATETER INTRAVENOSO nº 22",
+    "quantidade": 2000.0,
+    "unidade": "un",
+    "valor_total": 3780.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CATETER INTRAVENOSO nº 24",
+    "quantidade": 2000.0,
+    "unidade": "un",
+    "valor_total": 1400.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CATETER INTRAVENOSO nº 16 COM DISPOSITIVO DE SEGURANÇA",
+    "quantidade": 2000.0,
+    "unidade": "un",
+    "valor_total": 3200.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "BANDAGEM ELÁSTICA 5 cm x 4,5 m, COR BEGE, ATADURA ELÁSTICA HIPOALERGÊNICA, AUTOADERENTE",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 2734.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CABO PARA LARINGOSCÓPIO, FIBRA ÓPTICA INFANTIL, POSSUI ACABAMENTO ESTRIADO, LÂMPADA BRANCA DE LED, ENCAIXE UNIVERSAL",
+    "quantidade": 15.0,
+    "unidade": "un",
+    "valor_total": 2488.5,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CABO PARA LARINGOSCÓPIO, FIBRA ÓPTICA ADULTO, POSSUIR ACABAMENTO ESTRIADO, LÂMPADA BRANCA DE LED, ENCAIXE UNIVERSAL",
+    "quantidade": 15.0,
+    "unidade": "un",
+    "valor_total": 2571.3,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CAMPPO OPERATÓRIO 45 cm x 50 cm, 35G S/FIO RADIOPACO (COMPRESSAS) CAMPO OPERATÓRIO PCT COM 50 UNIDADES",
+    "quantidade": 300.0,
+    "unidade": "pa",
+    "valor_total": 21144.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "COMPRESSA DE GAZE EM BOBINA, EM ROLO 91cm x 91cm, 13 FIOS, 8 CAMADAS E 3 DOBRAS",
+    "quantidade": 10200.0,
+    "unidade": "pa",
+    "valor_total": 388722.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "COMPRESSA CIRÚRGICA, BRANCO, SEM RADIOPACO, MEDINDO 45X50 cm, COM QUATRO CAMADAS DE GAZE SOBREPOSTAS",
+    "quantidade": 30000.0,
+    "unidade": "pa",
+    "valor_total": 1774200.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CATGUT CROMADO 0 AGULHA 4,0",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 6218.5,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "COMPRESSA DE GAZE 7,5 x 7,5 cm: HIDRÓDILA NÃO ESTÉRIL, 8 CAMADAS E 5 DOBRAS, PACOTE COM 500 UNIDADES",
+    "quantidade": 12000.0,
+    "unidade": "pa",
+    "valor_total": 233040.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "CURATIVO/ COMPRESSA ANTIMICROBIANA, COMPOSTO POR TECIDO DE ACETATO IMPREGNADO COM CLORETO DE DIALQUILCARBAMOIL",
+    "quantidade": 220.0,
+    "unidade": "pa",
+    "valor_total": 16376.8,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ELETRODO TIPO PÁ INFANTIL PARA DEA DESFRIBILADOR CARDIOVERSOR ORIGINAL INSTRAMED",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 11772.6,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ELETRODO TIPO PÁ ADULTO PARA DEA DESFRIBILADOR CARDIOVERSOR ORIGINAL INSTRAMED",
+    "quantidade": 30.0,
+    "unidade": "un",
+    "valor_total": 11345.1,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "EQUIPO MACROGOTAS COM CÂMARA GOTEJADORA MACROGOTAS COM RESPIRO DE AR COM FILTRO HIDROFOBO E BACTERIOLÓGICO TUBO PVC ATÓXICO",
+    "quantidade": 5000.0,
+    "unidade": "un",
+    "valor_total": 4000.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "EQUIPO MICROGOTAS COM BURETA FLEXIVEL COM ROLETE SIMPLES PONTA PERFURANTE QUE SE ADAPTA COM FACILIDADE A QUALQUER FRASCO",
+    "quantidade": 600.0,
+    "unidade": "un",
+    "valor_total": 2346.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "EQUIPO PARA ALIMENTAÇÃO ENTERAL COM CÂMARA DE GOTEJAMENTO FLEXÍVEL, PONTA PERFURANTE COM TTAMPA PROTETORA, PINÇA ROLETE CORTO FLUXO, FABRICADO EM PVC ATÓXICO",
+    "quantidade": 11000.0,
+    "unidade": "un",
+    "valor_total": 9460.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESPARADRAPO 10CM X 4,5M FITA ADESIVA HIPOALERGÊNICA, ESTÉRIL OU NÃO ESTÉRIL, INDICADA PARA FIXAÇÃO DE CURATIVOS",
+    "quantidade": 11000.0,
+    "unidade": "un",
+    "valor_total": 110440.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESTETOSCÓPIO DUPLO ADULTO POSSUINDO AUSCULTADOR DE AÇO INOX DE DUPLA FUNÇÃO",
+    "quantidade": 80.0,
+    "unidade": "un",
+    "valor_total": 1301.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESFIGNOMANÔMETRO ARTERIAL ADULTO COM ESTETOSCÓPIO, BRAÇADEIRA DE NYLON COM FECHO EM VELCRO, PARA BRAÇO DE DIÂMETRO DE 22CM A 28CM",
+    "quantidade": 180.0,
+    "unidade": "un",
+    "valor_total": 14610.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "ESFIGNOMANÔMETRO ARTERIAL PEDIÁTRICO COM ESTETOSCÓPIO, BRAÇADEIRA DE NYLON COM FECHO EM VELCRO, PARA BRAÇO DE DIAMETRO DE 10CM A 18CM",
+    "quantidade": 80.0,
+    "unidade": "un",
+    "valor_total": 7315.2,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CIRÚRGICO PARA SUTURA 2-0, COM AGULHA 3/8 30MM, EM NYLON 45CM, CAIXA COM 24 UNIDADES",
+    "quantidade": 50.0,
+    "unidade": "cx",
+    "valor_total": 1335.5,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO NYLON 4-0 PARA AGULHA 2, EMBALAGEM COM 24 UNIDADES",
+    "quantidade": 50.0,
+    "unidade": "cx",
+    "valor_total": 1305.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO NYLON 3-0 PARA AGULHA 3, EMBALAGEM COM 24 UNIDADES",
+    "quantidade": 55.0,
+    "unidade": "cx",
+    "valor_total": 1937.65,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CIRÚRGICO MONO NYLON N° 5,0, EMBALAGEM COM 24 UNIDADES",
+    "quantidade": 50.0,
+    "unidade": "cx",
+    "valor_total": 1162.5,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CATGUT CROMADO 0 C/ AGULHA, CAIXA COM 24 UNIDADES",
+    "quantidade": 100.0,
+    "unidade": "cx",
+    "valor_total": 9249.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO CATGUT CROMADO 1 C/ AGULHA, CAIXA COM 24 UNIDADES",
+    "quantidade": 100.0,
+    "unidade": "cx",
+    "valor_total": 9373.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FITA DE AUTOCLAVE 19MM X 30M",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 516.0,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FITA MICROPORE 3M HIPOALERGÊNICA BRANCA 50MM X 10M",
+    "quantidade": 1200.0,
+    "unidade": "un",
+    "valor_total": 4260.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO NYLON 4-0 PARA SUTURA 45 CM COM AGULHA 3/8 30 MM FIO CIRÚRGICO MONOFILAMENTAR 4-0, 45 CM DE FIO, PRETO, ESTERILIZADO CAIXA COM 24",
+    "quantidade": 100.0,
+    "unidade": "cx",
+    "valor_total": 2700.0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "FIO NYLON 2-0 COM AGULHA TRIANGULAR DE 3 CM, CAIXA COM 24 UNIDADES",
+    "quantidade": 30.0,
+    "unidade": "cx",
+    "valor_total": 813.6,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "GLICOSIMETRO (ON CALL PLUS) COMPATÍVEL COM TIRAS",
+    "quantidade": 120.0,
+    "unidade": "un",
+    "valor_total": 4563.6,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "KIT LARINGOSCÓPIO ADULTO - LARINGOSCÓPIO LED COM 6 LÂMINAS CURVAS E 6 LAMINAS RETAS",
+    "quantidade": 4.0,
+    "unidade": "cj",
+    "valor_total": 7670.48,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "KIT LARINGOSCÓPIO PEDIÁTRICO 03 LAMINAS RETAS, LÂMINAS EM AÇO INOXIDÁVEL CIRÚRGICO A PROVA DE FERRUGEM, ILUMINAÇÃO EM LED",
+    "quantidade": 4.0,
+    "unidade": "cj",
+    "valor_total": 1475.44,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "LANCETA DE SEGURANÇA AUTO RETRÁTIL 23g, CAIXA COM 100 LANCETAS",
+    "quantidade": 10100.0,
+    "unidade": "cx",
+    "valor_total": 130492.0,
+    "linhas": [
+     "glicosímetro e tiras"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "MINI INCUBADORA PARA TESTES DE AUTOCLAVE BIVOLT, CAPACIDADE PARA 6 INDICADORES, COM TEMPERATURA 60º c, TENSÃO 127/220V BIVOLT",
+    "quantidade": 16.0,
+    "unidade": "un",
+    "valor_total": 3093.76,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "MICROPOREANTIALERGICO 50mm X 10m",
+    "quantidade": 100.0,
+    "unidade": "rl",
+    "valor_total": 368.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OXÍMETRO DEDO ADULTO PORTÁTIL",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 2680.5,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "OTOSCÓPIO, ILUMINAÇÃO HALÓGENA 2,5 V DE LONGA DURAÇÃO, ILUMINAÇÃO 30% MAIS BRILHANTE, MOSTRANDO A COR VERDADEIRA DO TECIDO. FIBRA ÓPTICA PARA TRANSMISSÃO DE LUZ FRIA, GARANTE CAMPO DE TRABALHO LIVRE DE SOMBRA E AQUECIMENTO. LENTE DE VISÃO AMPLA PARA VISUALIZAÇÃO COM MAGNIFICAÇÃO",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 6168.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "REANIMADOR NEONATAL EM SILICONE/AMBU REANIMADOR MANUAL EM SILICONE, COM RESERVATÓRIO AUTOCLAVÁVEL",
+    "quantidade": 10.0,
+    "unidade": "un",
+    "valor_total": 1436.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "REANIMADOR PEDIÁTRICO EM SILICONE/AMBU REANIMADOR MANUAL EM SILICONE, COM RESERVATÓRIO AUTOCLAVÁVEL",
+    "quantidade": 15.0,
+    "unidade": "un",
+    "valor_total": 2042.1,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "REANIMADOR ADULTO EM SILICONE/AMBU REANIMADOR MANUAL EM SILICONE, COM RESERVATÓRIO AUTOCLAVÁVEL",
+    "quantidade": 20.0,
+    "unidade": "un",
+    "valor_total": 3129.6,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA NASOGÁSTRICA LONGA DESCARTÁVEL TAMANHO 14",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 68.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA NASOGÁSTRICA LONGA DESCARTÁVEL TAMANHO 12",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 50.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA NASOGÁSTRICA LONGA DESCARTÁVEL TAMANHO 08",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 41.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA NASOGÁSTRICA LONGA DESCARTÁVEL TAMANHO 16",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 54.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA NASOGÁSTRICA LONGA DESCARTÁVEL TAMANHO 18",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 77.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL Nº 20",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 142.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL Nº 18",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 106.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL Nº 16",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 112.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL Nº 06",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 66.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL Nº 12",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 66.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL Nº 10",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 66.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL Nº 14",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 78.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA URETRAL Nº 08",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 64.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA FOLEY 3 VIAS Nº 16",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 408.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA FOLEY 3 VIAS Nº 18",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 144.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA FOLEY 3 VIAS Nº 20",
+    "quantidade": 50.0,
+    "unidade": "un",
+    "valor_total": 150.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA FOLEY 2 VIAS Nº 18",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 310.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA FOLEY 2 VIAS Nº 20",
+    "quantidade": 100.0,
+    "unidade": "un",
+    "valor_total": 224.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA FOLEY 2 VIAS Nº 16",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 668.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA FOLEY 2 VIAS Nº 12",
+    "quantidade": 150.0,
+    "unidade": "un",
+    "valor_total": 346.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SONDA FOLEY 2 VIAS Nº 14",
+    "quantidade": 200.0,
+    "unidade": "un",
+    "valor_total": 372.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SCALP 23 g PERIFÉRICO INTRAVENOSO",
+    "quantidade": 500.0,
+    "unidade": "un",
+    "valor_total": 80.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SCALP 21 g CATETER PERIFÉRICO INTRAVENOSO",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 54.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SCALP 25 g CATETER PERIFÉRICO INTRAVENOSO",
+    "quantidade": 500.0,
+    "unidade": "un",
+    "valor_total": 95.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SCALP 19 g CATETER PERIFÉRICO INTRAVENOSO",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 60.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SCALP 27 g CATETER PERIFÉRICO INTRAVENOSO",
+    "quantidade": 300.0,
+    "unidade": "un",
+    "valor_total": 54.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA INSULINA (100ui) 1 ml DESCARTÁVEL COM AGULHA REMOVÍVEL, CX COM 100 UNIDADES",
+    "quantidade": 1050.0,
+    "unidade": "cx",
+    "valor_total": 18847.5,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA DESCARTÁVEL 3ML SEM AGULHA CAIXA COM 100 UNIDADES",
+    "quantidade": 300.0,
+    "unidade": "cx",
+    "valor_total": 4464.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA DESCARTÁVEL 10ML SEM AGULHA CAIXA COM 100 UNIDADES",
+    "quantidade": 300.0,
+    "unidade": "cx",
+    "valor_total": 11397.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA DESCARTÁVEL 5ML SEM AGULHA CAIXA COM 100 UNIDADES",
+    "quantidade": 300.0,
+    "unidade": "cx",
+    "valor_total": 5313.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "SERINGA DESCARTÁVEL 20ML SEM AGULHA CAIXA COM 100 UNIDADES",
+    "quantidade": 300.0,
+    "unidade": "cx",
+    "valor_total": 10341.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "TESTE BOWIE DICK PARA AUTOCLAVE, PACOTE PRONTO",
+    "quantidade": 550.0,
+    "unidade": "un",
+    "valor_total": 4053.5,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "TERMÔMETRO DIGITAL",
+    "quantidade": 250.0,
+    "unidade": "un",
+    "valor_total": 3450.0,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "TERMÔMETRO INFRAVERMELHO DIGITAL, MEDE A TEMPERATURA A DISTÂNCIA CAPTANDO A RADIAÇÃO TÉRMICA",
+    "quantidade": 30.0,
+    "unidade": "un",
+    "valor_total": 3310.8,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 3086803.71,
+  "itens_principais": 33,
   "exclusiva_me": false
  }
 ]
