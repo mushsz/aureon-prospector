@@ -1,556 +1,5 @@
 [
  {
-  "id": "87455531000157-1-000378/2026",
-  "orgao": "MUNICIPIO DE PELOTAS",
-  "unidade": "Departamento de Compras Governamentais",
-  "cidade": "Pelotas",
-  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES, MOBILIÁRIO ASSISTENCIAL E EQUIPAMENTOS DE APOIO I - SMS",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": false,
-  "valor_estimado": 155528.86,
-  "abertura": "2026-11-16T08:00:00",
-  "encerramento": "2026-11-27T08:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87455531000157/2026/378",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Pelotas-54/PE-153-2026-2026-524965",
-  "total_itens": 14,
-  "itens_da_linha": [
-   {
-    "descricao": "AUTOCLAVE HORIZONTAL DE BANCADA - conforme descrição do item 1 Anexo I Termo de Referência.",
-    "quantidade": 25.0,
-    "unidade": "Unidade",
-    "valor_total": 79733.0,
-    "linhas": [
-     "autoclave"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "BIOMBO TRIPLO - conforme descrição do item 2 Anexo I Termo de Referência.",
-    "quantidade": 8.0,
-    "unidade": "Unidade",
-    "valor_total": 3679.6,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "CARDIOVERSOR BIFÁSICO - conforme descrição do item 4 Anexo I Termo de Referência.",
-    "quantidade": 1.0,
-    "unidade": "Unidade",
-    "valor_total": 23641.66,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "DETECTOR FETAL PORTÁTIL - conforme descrição do item 6 Anexo I Termo de Referência.",
-    "quantidade": 4.0,
-    "unidade": "Unidade",
-    "valor_total": 2019.84,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "ESCADA DE 2 DEGRAUS - conforme descrição do item 7 Anexo I Termo de Referência.",
-    "quantidade": 11.0,
-    "unidade": "Unidade",
-    "valor_total": 1358.28,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "LARINGOSCÓPIO ADULTO - conforme descrição do item 8 Anexo I Termo de Referência.",
-    "quantidade": 1.0,
-    "unidade": "Kit",
-    "valor_total": 471.33,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "MONITOR MULTIPARÂMETROS COM ECG - conforme descrição do item 9 Anexo I Termo de Referência.",
-    "quantidade": 5.0,
-    "unidade": "Unidade",
-    "valor_total": 23693.35,
-    "linhas": [
-     "monitor/DEA"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "NEBULIZADOR - conforme descrição do item 10 Anexo I Termo de Referência.",
-    "quantidade": 1.0,
-    "unidade": "Unidade",
-    "valor_total": 96.56,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "POLTRONA HOSPITALAR RECLINÁVEL - conforme descrição do item 11 Anexo I Termo de Referência.",
-    "quantidade": 2.0,
-    "unidade": "Unidade",
-    "valor_total": 2073.32,
-    "linhas": [
-     "poltrona"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "POLTRONA HOSPITALAR PARA MEDICAÇÃO - conforme descrição do item 12 Anexo I Termo de Referência.",
-    "quantidade": 3.0,
-    "unidade": "Unidade",
-    "valor_total": 3449.73,
-    "linhas": [
-     "poltrona"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "SUPORTE PARA SORO - conforme descrição do item 13 Anexo I Termo de Referência.",
-    "quantidade": 8.0,
-    "unidade": "Unidade",
-    "valor_total": 1200.16,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "TERMÔMETRO CLÍNICO - conforme descrição do item 14 Anexo I Termo de Referência.",
-    "quantidade": 140.0,
-    "unidade": "Unidade",
-    "valor_total": 1428.0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 142844.83,
-  "itens_principais": 12,
-  "exclusiva_me": true
- },
- {
-  "id": "87455531000157-1-000396/2026",
-  "orgao": "MUNICIPIO DE PELOTAS",
-  "unidade": "Departamento de Compras Governamentais",
-  "cidade": "Pelotas",
-  "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE EQUIPAMENTOS VETERINÁRIOS PARA CLÍNICA VETERINÁRIA MUNICIPAL - SQA",
-  "modalidade": "Dispensa",
-  "srp": false,
-  "valor_estimado": 19851.06,
-  "abertura": "2026-11-24T08:00:00",
-  "encerramento": "2026-11-27T08:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/87455531000157/2026/396",
-  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Pelotas-54/DE-037-2026-2026-526962",
-  "total_itens": 19,
-  "itens_da_linha": [
-   {
-    "descricao": "SUPORTE PARA SORO TIPO PEDESTAL - descritivo conforme item 05, anexo I do edital.",
-    "quantidade": 2.0,
-    "unidade": "Unidade",
-    "valor_total": 332.0,
-    "linhas": [
-     "mobiliário hospitalar"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "ESTETOSCÓPIO - descritivo conforme item 09, anexo I do edital.",
-    "quantidade": 2.0,
-    "unidade": "Unidade",
-    "valor_total": 174.88,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "OTOSCÓPIO - descritivo conforme item 10, anexo I do edital.",
-    "quantidade": 2.0,
-    "unidade": "Unidade",
-    "valor_total": 359.34,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   },
-   {
-    "descricao": "TERMÔMETRO CLÍNICO - descritivo conforme item 16, anexo I do edital.",
-    "quantidade": 4.0,
-    "unidade": "Unidade",
-    "valor_total": 81.76,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": true
-   }
-  ],
-  "valor_itens_da_linha": 947.98,
-  "itens_principais": 4,
-  "exclusiva_me": true
- },
- {
-  "id": "92787118000120-1-001043/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar (DIVERSOS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-11-05T12:00:00",
-  "encerramento": "2026-11-27T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1043",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103494",
-  "total_itens": 34,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 33941\nEspecificação: BANDAGEM DE ALTA COMPRESSAO, COMPOSTA DE ALGODAO, VISCOSE,\nNYLON E LYCRA, COM UMA LINHA CENTRAL E DOIS INDICADORES DE EXTENSAO\nRETANGULARES PARA ORIENTAR COMPRESSAO ADEQUADA, TAMANHO APROX. DE 10cm X\n3m, REUTILIZAVEL, LAVAVEL -\nUnidade: UNIDADE",
-    "quantidade": 480.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 36771\nEspecificação: CATETER VENOSO CENTRAL TRIPLO LUMEN DE 4,5FR E 6CM DE COMPRIMENTO,\nC/ KIT DE INTRODUCAO COMPLETO, ESTERIL, DESCARTAVEL - kit devera conter no mínimo\ncateter, agulha introdutora, seringa, guia e dilatador\nUnidade: KIT",
-    "quantidade": 240.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 35177\nEspecificação: FIO MONOFILAMENTAR (POLIDIOXANONA), 1 C/AGULHA CILINDRICA DE 7cm, ½\nCIRCULO, C/244cm DE COMPRIMENTO -\nUnidade: UNIDADE",
-    "quantidade": 2520.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 33799\nEspecificação: KIT SUTURA TRANCADO, SINTETICO, ESTERIL, NAO-ABSORVIVEL DE\nPOLIETILENOTEREFTALATO (PET) C/ALMOFADA DE TEFLON -\nUnidade: KIT",
-    "quantidade": 120.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "fio de sutura"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 36523\nEspecificação: LAMINA PARA LARINGOSCOPIO, TAMANHO S, PARA USO EM PACIENTES ENTRE\n8 E 23 KG, COMPATIVEL COM VIDEO-LARINGOSCOPIO PORTATIL, MARCA INSIGHTERS,\nMODELO IS3-L. -\nUnidade: UNIDADE",
-    "quantidade": 36.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 36522\nEspecificação: LAMINA PARA LARINGOSCOPIO, TAMANHO SS, PARA USO EM PACIENTES ENTRE\n2,5 E 8 KG, COMPATIVEL COM VIDEO-LARINGOSCOPIO PORTATIL, MARCA INSIGHTERS,\nMODELO IS3-L. -\nUnidade: UNIDADE",
-    "quantidade": 12.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 31702\nEspecificação: LUVA CIRURGICA HIPOALERGENICA EM BORRACHA ISENTA DE LATEX, SEM\nTALCO (S/PO), C/ALTA SENSIBILIDADE TATIL,C/BAINHA, FORMATO ANATOMICO, ESTERIL,\nDESCARTAVEL, TAM. N.8,5 - C/C.A. -\nUnidade: PAR",
-    "quantidade": 6000.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 25820\nEspecificação: PROTETOR P/FECHAMENTO DE SONDA VESICAL DE DIVERSOS CALIBRES,\nESTERIL, USO UNICO, EMBALADO INDIVIDUALMENTE -\nUnidade: UNIDADE",
-    "quantidade": 1440.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 768\nEspecificação: SONDA FOLEY 2 VIAS DE 22FR EM LATEX SILICONADO, BALAO C/ CAPACIDADE\nDE ATE 30ML, PONTA DISTAL ATRAUMATICA E FECHADA, C/ FUROS LATERIAIS P/ DRENAGEM,\nESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL -\nUnidade: UNIDADE",
-    "quantidade": 1320.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 39406\nEspecificação: SONDA NASOGASTRICA CURTA N.04, COMPRIMENTO ENTRE 40-50 CM, TUBO\nMALEAVEL EM PVC TRANSPARENTE E ATOXICO, C/ PONTA ARREDONDADA FECHADA E\nATRAUMATICA, ORIFICIOS LATERAIS DESENCONTRADOS, CONECTOR C/ TAMPA, ESTERIL,\nDESCARTAVEL -\nUnidade: UNIDADE",
-    "quantidade": 2400.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 877\nEspecificação: SONDA URETRAL N.08 E C/ 40CM DE COMP. APROX., EM PVC TRANSPARENTE E\nFLEXIVEL, C/ PONTA ARREDONDADA E FURO LATERAL, CONECTOR PADRAO C/ TAMPA,\nATOXICA E APIROGENICA, ESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL -\nUnidade: UNIDADE",
-    "quantidade": 360.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 39885\nEspecificação: SONDA URETRAL N.16 E C/ 40CM DE COMP. APROX., EM PVC TRANSPARENTE E\nFLEXIVEL, C/ PONTA ARREDONDADA E FURO LATERAL, CONECTOR PADRAO C/ TAMPA,\nATOXICA E APIROGENICA, ESTERIL, DESCARTAVEL, EMBALAGEM INDIVIDUAL -\nUnidade: UNIDADE",
-    "quantidade": 1200.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "descartáveis"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 4,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-001054/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Instrumental Médico Hospitalar (Cabos e Lâminas), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais incluindo Hospital Regional de Pronto Socorro - Pelotas, conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-11-10T12:00:00",
-  "encerramento": "2026-11-27T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1054",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103655",
-  "total_itens": 12,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 36389\nEspecificação: CABO P/ LARINGOSCOPIO ADULTO C/ ILUMINACAO DE FIBRA OTICA LED OU XENON HALOGENA, EM ACO INOX, C/ PADRAO DE ENCAIXE UNIVERSAL P/ AS LAMINAS E SUPERFICIE RECARTILHADA, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO A VAPOR - Abertura da base do cabo p/ duas pilhas AA e codificação verde seguindo o padrão de encaixe universal em acordo com a ISO 7376\nUnidade: UNIDADE",
-    "quantidade": 180.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 36379\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MACINTOSH TAMANHO 5, C/ TAM. APROX. DE 175MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 120.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 36385\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MACINTOSH TAMANHO 4, C/ TAM. APROX. DE 155MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 156.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 34843\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MACINTOSH TAMANHO 2, C/ TAM. APROX. DE 100MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 108.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 36386\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MACINTOSH TAMANHO 3, C/ TAM. APROX. DE 130MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 132.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 34845\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MILLER TAMANHO 0, C/ TAM. APROX. DE 75MM, EM ACO INOX E C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 48.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 34842\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MACINTOSH TAMANHO 1, C/ TAM. APROX. DE 92MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 72.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 34841\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MACINTOSH TAMANHO 0, C/ TAM. APROX. DE 80MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL NO CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 48.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 34846\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MILLER TAMANHO 1, C/ TAM. APROX. DE 102MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 48.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 34847\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MILLER TAMANHO 2, C/ TAM. APROX. DE 155MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 60.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 36387\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MILLER TAMANHO 3, C/ TAM. APROX. DE 195MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 60.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   },
-   {
-    "descricao": "Código GHC: 36388\nEspecificação: LAMINA P/ LARINGOSCOPIO DE FIBRA OTICA MILLER TAMANHO 4, C/ TAM. APROX. DE 205MM, EM ACO INOX C/ ACABAMENTO ACETINADO E PADRAO DE ENCAIXE UNIVERSAL C/ O CABO, PASSIVEL DE TERMODESINFECCAO/ESTERILIZACAO POR VAPOR - codificação verde p/ encaixe universal em acordo com a ISO 7375\nUnidade: UNIDADE",
-    "quantidade": 60.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "aparelhos de exame"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 12,
-  "exclusiva_me": false
- },
- {
-  "id": "92787118000120-1-001058/2026",
-  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
-  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
-  "cidade": "Porto Alegre",
-  "objeto": "O presente Pregão Eletrônico tem por objeto Material Imobilizado (VIDEOECOENDOSCÓPIO), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
-  "modalidade": "Pregão - Eletrônico",
-  "srp": true,
-  "valor_estimado": 0.0,
-  "abertura": "2026-11-11T13:00:00",
-  "encerramento": "2026-11-27T09:30:00",
-  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1058",
-  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103809",
-  "total_itens": 1,
-  "itens_da_linha": [
-   {
-    "descricao": "Código GHC: 9001\nEspecificação: Videoecoendoscopio [PI] [Bio 6026.01]\nUnidade: UNIDADE",
-    "quantidade": 1.0,
-    "unidade": "UNIDADE",
-    "valor_total": 0,
-    "linhas": [
-     "torre de vídeo"
-    ],
-    "situacao": "Em andamento",
-    "exclusiva_me": false
-   }
-  ],
-  "valor_itens_da_linha": 0,
-  "itens_principais": 1,
-  "exclusiva_me": false
- },
- {
   "id": "11074898000169-1-000051/2026",
   "orgao": "CONSORCIO PUBLICO INTERMUNICIPAL DA REGIAO DO ALTO URUGUAI - CIRAU",
   "unidade": "Consórcio Intermunicipal da Região do Alto Uruguai - CIRAU",
@@ -7532,6 +6981,37 @@
   "exclusiva_me": false
  },
  {
+  "id": "92787118000120-1-001115/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente pregão tem por objeto Órteses e Próteses e Materiais Especiais (CATETER, COLAR CERVICAL, ENXERTO E OUTROS), sob forma de consignação, pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais, descritas no Anexo I neste Edital, conforme condições estabelecidas na Portaria GM/MS 2.036, de 04.11.2002.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-25T12:30:00",
+  "encerramento": "2026-12-08T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1115",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1104468",
+  "total_itens": 17,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 93392460\nEspecificação: HASTE INTRAMEDULAR,UMERAL EM ACO INOXIDAVEL,CROMO\nCOBALTO,VARIOS TAM.,CIMENTADA OU DE FIXACAO BIOLOGICA,C/COLO VALGO OU VARO,\nC/02 ALETAS LATERAIS E 01 MEDIAL,C/FUROS P/FIXACAO E SUTURA DE PARTES MOLES - Com\n08 tamanhos e com testes\nUnidade: UNIDADE",
+    "quantidade": 36.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "fio de sutura"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
   "id": "92963560000160-1-001550/2026",
   "orgao": "MUNICIPIO DE PORTO ALEGRE",
   "unidade": "DLC - Diretoria de Licitações e Contratos",
@@ -7867,6 +7347,134 @@
   "exclusiva_me": false
  },
  {
+  "id": "89421259000110-1-000088/2026",
+  "orgao": "FUNDACAO HOSPITALAR SANTA TEREZINHA DE ERECHIM",
+  "unidade": "Fundação Hospitalar Santa Terezinha de Erechim",
+  "cidade": "Erechim",
+  "objeto": "[Portal de Compras Públicas] - A aquisição, pela Fundação Hospitalar Santa Terezinha de Erechim, de mobiliários, equipamentos e materiais permanentes para a Fundação Hospitalar Santa Terezinha de Erechim, conforme reaproveitamento de saldo do Convênio nº 754523/2010, firmado com o Ministério da Saúde, Contrato de Repasse 0349.083-73/2010, e conforme memorial descritivo e demais anexos deste edital, contemplando entrega, montagem e garantia.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 459624.44,
+  "abertura": "2026-11-27T08:33:00",
+  "encerramento": "2026-12-09T08:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/89421259000110/2026/88",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Fundacao-Hospitalar-Santa-Terezinha-de-Erechim-539/PE-49-2026-2026-528345",
+  "total_itens": 12,
+  "itens_da_linha": [
+   {
+    "descricao": "Biombo Hospitalar",
+    "quantidade": 6.0,
+    "unidade": "Unidade",
+    "valor_total": 11686.8,
+    "linhas": [
+     "mobiliário hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Maca/mesa de exames clinicos",
+    "quantidade": 13.0,
+    "unidade": "Unidade",
+    "valor_total": 31744.05,
+    "linhas": [
+     "foco e mesa cirúrgica"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Balança antropométrica",
+    "quantidade": 6.0,
+    "unidade": "Unidade",
+    "valor_total": 10904.4,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 54335.25,
+  "itens_principais": 3,
+  "exclusiva_me": false
+ },
+ {
+  "id": "88254891000153-1-000306/2026",
+  "orgao": "MUNICIPIO DE DOIS IRMAOS",
+  "unidade": "Manutenção da Saúde - A.SP.S. Município Dois Irmãos/RS",
+  "cidade": "Dois Irmãos",
+  "objeto": "Realização de registro de preços para insumos Odontológicos 01/26",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-27T09:00:00",
+  "encerramento": "2026-12-09T08:55:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/88254891000153/2026/306",
+  "link_sistema": null,
+  "total_itens": 83,
+  "itens_da_linha": [
+   {
+    "descricao": "CONDICIONADOR ÁCIDO FOSFÓRICO 37% - GEL.VISCOSIDADE ADEQUADA PARA FLUIR NA QUANTIDADE DESEJÁVEL. SOLÚVEL EM ÁGUA DEVIDO SUA FÓRMULA ESPECIAL. INDICADO PARA OS PROCEDIMENTOS CLÍNICOS QUE VISAM A ADERÊNCIA DE MATERIAIS RESINOSOS SEJAM ESTE AUTO OU FOTOPOLIMERIZÁVEIS E SUPERFÍCIE DA DENTINA OU DO ESMALTE. GEL DE BASE AQUOSA CONTENDO ÁCIDO FOSFÓRICO A 37% E 2% DE CLOREXIDINA. CONDICIONADOR DENTAL ÁCID",
+    "quantidade": 100.0,
+    "unidade": "CARTELA (CRT)",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "PAPACÁRIE - GEL. ELIMINA A DENTINA CARIADA PRESERVANDO O TECIDO SADIO SEM A UTILIZAÇÃO DE ANESTESIA LOCAL E O USO DE INSTRUMENTOS CORTANTES ROTATÓRIOS, NA MAIORIA DOS CASOS. VALIDADE 2 ANOS A PARTIR DA DATA DE FABRICAÇÃO. REGISTRO NA ANVISA. VALIDADE 2 ANOS A PARTIR DA DATA DE FABRICAÇÃO. EMBALAGEM COM 1 SERINGA COM 1ML.",
+    "quantidade": 45.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "DESSENSIBILIZANTE 2% - GEL DESSENSIBILIZANTE DE BAIXA VISCOSIDADE À BASE DE NITRATO DE POTÁSSIO E FLUORETO DE SÓDIO QUE LHE CONFEREM DUPLA AÇÃO DESSENSIBILIZANTE.DUPLA AÇÃO DESSENSIBILIZANTE: AÇÃO NEURAL DO NITRATO DE POTÁSSIO E A OCLUSÃO DOS TÚBULOS DENTINÁRIOS DO FLUORETO DE SÓDIO. O NITRATO DE POTÁSSIO VEM SENDO CONSIDERADO UM AGENTE MUITO EFETIVO NO TRATAMENTO DA DENTINA HIPERESTÉSICA.SUA AÇÃO",
+    "quantidade": 30.0,
+    "unidade": "UNIDADE (UN)",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "RESTAURADOR TEMPORÁRIO FOTOPOLIMERIZÁVEL. NÃO HÁ A NECESSIDADE DE CONDICIONAMENTO ÁCIDO ANTES DA APLICAÇÃO NA CAVIDADE. É DE FÁCIL REMOÇÃO, MANTÉM SUA CONSISTÊNCIA VISCOSA E ELÁSTICA, PERMITINDO SUA RETIRADA FACILMENTE COM CURETAS PARA DENTINA, NÃO HAVENDO NECESSIDADE DO USO DE BROCAS. COMPATÍVEL COM RESTAURAÇÕES ADESIVAS: NÃO CONTÉM EUGENOL. É UM MATERIAL RESINOSO, COMPOSTO POR GRUPOS DIMETACRILA",
+    "quantidade": 20.0,
+    "unidade": "CAIXA (CX)",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "HIDRÓXIDO DE CÁLCIO - SERINGA. INDICADO PARA FORRAMENTO PROTETOR SOB MATERIAIS RESTAURADORES, CIMENTOS E OUTROS MATERIAIS DE BASE COMO OPACIFICADOR PARA METAIS E DENTINA REACIONAL. MATERIAL PRONTO PARA USO. FOTOPOLIMERIZÁVEL: ECONOMIA DE TEMPO PARA O DENTISTA E MENOR DESPERDÍCIO DO MATERIAL. POSSUI ALTA RESISTÊNCIA AO ÁCIDO FOSFÓRICO.  MATERIAL DE FÁCIL MANUSEIO.  RADIOPACO; NÃO CONTÉM EUGENOL. AD",
+    "quantidade": 25.0,
+    "unidade": "FRASCO (FRC)",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
   "id": "92787118000120-1-001081/2026",
   "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
   "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
@@ -7992,6 +7600,68 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
+  "id": "87613048000153-1-000299/2026",
+  "orgao": "MUNICIPIO DE GIRUA",
+  "unidade": "MUNICIPIO DE GIRUA/RS",
+  "cidade": "Giruá",
+  "objeto": "SOLICITAMOS REGISTRO DE PREÇO PARA AQUISIÇÃO DE OTOSCÓPIOS VISANDO ATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE SAÚDE.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 3013.33,
+  "abertura": "2026-11-27T17:00:00",
+  "encerramento": "2026-12-10T08:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87613048000153/2026/299",
+  "link_sistema": "SITE PREFEITURA",
+  "total_itens": 1,
+  "itens_da_linha": [
+   {
+    "descricao": "OTOSCÓPIO. ",
+    "quantidade": 10.0,
+    "unidade": "UN",
+    "valor_total": 3013.3333,
+    "linhas": [
+     "aparelhos de exame"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 3013.33,
+  "itens_principais": 1,
+  "exclusiva_me": false
+ },
+ {
+  "id": "13183513000127-1-000220/2026",
+  "orgao": "FUNDACAO DE SAUDE SAPUCAIA DO SUL",
+  "unidade": "FUNDAÇÃO DE SAÚDE SAPUCAIA DO SUL",
+  "cidade": "Sapucaia do Sul",
+  "objeto": "AQUISIÇÃO DE CAMAS HOSPITALARES MANUAIS PARA A FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-27T08:00:00",
+  "encerramento": "2026-12-10T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/13183513000127/2026/220",
+  "link_sistema": "https://pregaobanrisul.com.br/editais/00145_2026/360025",
+  "total_itens": 1,
+  "itens_da_linha": [
+   {
+    "descricao": "7625\tCAMA HOSPITALAR MANUAL COM ELEVAÇÃO DE LEITO, FLEXÃO DE PERNAS, DORSO E VASCULAR / CAMA HOSPITALAR MANUAL - MOVIMENTOS: FLEXÃO DE PERNAS, DORSO, VASCULAR E ELEVAÇÃO DE LEITO - DIMENSÕES TOTAIS DO LEITO: 0,90X1,90 CM - ALTURA MÍNIMA DO LEITO: 45 CM - ALTURA MÁXIMA DO LEITO: 70 CM - GRADES LATERA",
+    "quantidade": 15.0,
+    "unidade": "un",
+    "valor_total": 0,
+    "linhas": [
+     "cama hospitalar"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
   "exclusiva_me": false
  },
  {
@@ -8198,6 +7868,48 @@
   "exclusiva_me": false
  },
  {
+  "id": "92963560000160-1-001556/2026",
+  "orgao": "MUNICIPIO DE PORTO ALEGRE",
+  "unidade": "DLC - Diretoria de Licitações e Contratos",
+  "cidade": "Porto Alegre",
+  "objeto": "[Portal de Compras Públicas] - Aquisição de equipamentos hospitalares - autoclave, câmara de conservação de vacinas e imunológicos, detector fetal, monitor de sinais vitais, oxímetro de pulso, termoseladora e estufa de secagem e esterilização, para a Administração Pública Municipal.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": false,
+  "valor_estimado": 409847.93,
+  "abertura": "2026-11-26T18:00:00",
+  "encerramento": "2026-12-10T09:59:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92963560000160/2026/1556",
+  "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Porto-Alegre-206/PE-398-2026-2026-526884",
+  "total_itens": 9,
+  "itens_da_linha": [
+   {
+    "descricao": "Oximetro de pulso, kit c/ sensores adulto e neo/ped",
+    "quantidade": 18.0,
+    "unidade": "kit",
+    "valor_total": 48833.82,
+    "linhas": [
+     "monitor/DEA"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Autoclave horizontal, capacidade entre 50 e 65l, cfe.esp.anexa",
+    "quantidade": 4.0,
+    "unidade": "unidade",
+    "valor_total": 90790.24,
+    "linhas": [
+     "autoclave"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 139624.06,
+  "itens_principais": 2,
+  "exclusiva_me": false
+ },
+ {
   "id": "88830609000139-1-000677/2026",
   "orgao": "MUNICIPIO DE CAXIAS DO SUL",
   "unidade": "MRS-PREFEITURA MUNICIPAL DE CAXIAS DO SUL",
@@ -8238,6 +7950,37 @@
   "valor_itens_da_linha": 195749.0,
   "itens_principais": 0,
   "exclusiva_me": false
+ },
+ {
+  "id": "09341233000122-1-000178/2026",
+  "orgao": "FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA",
+  "unidade": "FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA",
+  "cidade": "Bagé",
+  "objeto": "Pregão eletrônico aquisição de Móveis e Eletrodomésticos, destinados à UNIPAMPA, Setor de Materiais (SM), conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 1551812.24,
+  "abertura": "2026-11-27T08:00:00",
+  "encerramento": "2026-12-11T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/09341233000122/2026/178",
+  "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15435905002172026",
+  "total_itens": 35,
+  "itens_da_linha": [
+   {
+    "descricao": "Poltrona Reclinável acabamento: estofado de espuma revestido em courvin, altura: 100, aplicação: aleitamento materno, características adicionais: espuma revestido em courvin, componentes: assento,encosto,apoio braços e puff, cor: bege, estrutura: madeira, largura: 74, profundidade: 74 VER TR",
+    "quantidade": 10.0,
+    "unidade": "Unidade",
+    "valor_total": 8999.1,
+    "linhas": [
+     "poltrona"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   }
+  ],
+  "valor_itens_da_linha": 8999.1,
+  "itens_principais": 1,
+  "exclusiva_me": true
  },
  {
   "id": "92787118000120-1-001076/2026",
@@ -8431,6 +8174,37 @@
   ],
   "valor_itens_da_linha": 0,
   "itens_principais": 4,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001119/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Material Imobilizado (Cadeira de rodas dobrável, Fotopolimerizador e Aparelho de raio x odonto portátil), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o Hospital Geral de Bonsucesso, Filial do GRUPO HOSPITALAR CONCEIÇÃO S.A., conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-25T12:00:00",
+  "encerramento": "2026-12-11T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1119",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1104491",
+  "total_itens": 3,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 9001\nEspecificação: CADEIRA DE RODAS DOBRÁVEL COM DUPLO X [PI] [Util 1280.02]\nUnidade: UNIDADE",
+    "quantidade": 100.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "cadeira de rodas/banho"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 1,
   "exclusiva_me": false
  },
  {
@@ -8807,6 +8581,59 @@
    }
   ],
   "valor_itens_da_linha": 0,
+  "itens_principais": 0,
+  "exclusiva_me": false
+ },
+ {
+  "id": "87958658000199-1-001231/2026",
+  "orgao": "SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES",
+  "unidade": "CELIC - SUBSECRETARIA DA ADMINISTRAÇÃO CENTRAL DE LICITAÇÕES",
+  "cidade": "Porto Alegre",
+  "objeto": "AQUISIÇÃO DE BENS DA(S) FAMÍLIA(S): 0870-EQUIPAMENTOS/MATERIAIS MEDICO-HOSPITALARES/ENFERMAGEM;",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 333035.36,
+  "abertura": "2026-11-27T09:00:00",
+  "encerramento": "2026-12-15T09:00:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/87958658000199/2026/1231",
+  "link_sistema": "https://www.compras.rs.gov.br/editais/0623_2026/360057",
+  "total_itens": 7,
+  "itens_da_linha": [
+   {
+    "descricao": "SERINGA HIPOD. 03 ML DESC. - SEM AGULHA",
+    "quantidade": 106350.0,
+    "unidade": "un",
+    "valor_total": 29778.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "SERINGA HIPOD. 05 ML DESC.",
+    "quantidade": 95150.0,
+    "unidade": "un",
+    "valor_total": 28545.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": true
+   },
+   {
+    "descricao": "SERINGA HIPODERMICA 01 ML DESC. C/AGULHA 13 X 3,8",
+    "quantidade": 311600.0,
+    "unidade": "un",
+    "valor_total": 158916.0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 217239.0,
   "itens_principais": 0,
   "exclusiva_me": false
  },
@@ -9926,6 +9753,48 @@
   ],
   "valor_itens_da_linha": 3086803.71,
   "itens_principais": 33,
+  "exclusiva_me": false
+ },
+ {
+  "id": "92787118000120-1-001120/2026",
+  "orgao": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+  "unidade": "HOSPITAL NOSSA SENHORA DA CONCEICAO S A",
+  "cidade": "Porto Alegre",
+  "objeto": "O presente Pregão Eletrônico tem por objeto Material Médico Hospitalar (CATETERES, FIOS, SONDAS, TUBOS E OUTROS), pelo Sistema de Registro de Preços, pelo período de 12 (doze) meses, podendo a ata de registro de preços ser prorrogada, no todo ou em parte, até o limite estabelecido do Regulamento Interno de licitações do Grupo Hospitalar Conceição, mediante acordo entre as partes, para o GRUPO HOSPITALAR CONCEIÇÃO S.A. e Filiais, conforme especificações e condições constantes deste edital e seus anexos.",
+  "modalidade": "Pregão - Eletrônico",
+  "srp": true,
+  "valor_estimado": 0.0,
+  "abertura": "2026-11-25T12:00:00",
+  "encerramento": "2026-12-16T09:30:00",
+  "link_pncp": "https://pncp.gov.br/app/editais/92787118000120/2026/1120",
+  "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1104530",
+  "total_itens": 55,
+  "itens_da_linha": [
+   {
+    "descricao": "Código GHC: 27368\nEspecificação: CATETER INTRAVENOSO RADIOPACO PERIFERICO N.18, PRONTO USO DESCARTAVEL, C/SISTEMA DE SEGURANCA QUE ATENDA A NR.32 - \nUnidade: UNIDADE",
+    "quantidade": 56760.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   },
+   {
+    "descricao": "Código GHC: 31698\nEspecificação: LUVA CIRURGICA HIPOALERGENICA EM BORRACHA SINTETICA ISENTA DE LATEX, SEM TALCO (SEM PO), C/ALTA SENSIBILIDADE TATIL, C/BAINHA, FORMATO ANATOMICO, ESTERIL, DESCARTAVEL, PAR, TAM. N.6,5 - C/C.A. - \nUnidade: PAR",
+    "quantidade": 13800.0,
+    "unidade": "UNIDADE",
+    "valor_total": 0,
+    "linhas": [
+     "descartáveis"
+    ],
+    "situacao": "Em andamento",
+    "exclusiva_me": false
+   }
+  ],
+  "valor_itens_da_linha": 0,
+  "itens_principais": 0,
   "exclusiva_me": false
  },
  {
